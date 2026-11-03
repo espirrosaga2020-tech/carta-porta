@@ -1,7 +1,7 @@
 {
  "projeto": "CARTA",
  "site": "https://espirrosaga2020-tech.github.io/carta-porta/",
- "gerado_em": "03/11/2026 18:26 (horário de Brasília)",
+ "gerado_em": "03/11/2026 19:36 (horário de Brasília)",
  "somente_leitura": true,
  "enciclopedia": {
   "engrenagens_com_texto": [
@@ -763,12 +763,28 @@
     "classe": "posterior",
     "modalidade": "engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2",
     "origem": "Aditivo"
+   },
+   {
+    "id": "RB01",
+    "nome": "RB01 — Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)",
+    "estante": "Robótica do Bruno",
+    "classe": "posterior",
+    "modalidade": "engrenagem de robótica física (CARTA 2.0)",
+    "origem": "Aditivo"
+   },
+   {
+    "id": "RB02",
+    "nome": "RB02 — Engrenagem das Engrenagens: a Enciclopédia fatiada",
+    "estante": "Robótica do Bruno",
+    "classe": "posterior",
+    "modalidade": "engrenagem de método (índice de índices, CARTA 2.0)",
+    "origem": "Aditivo"
    }
   ]
  },
  "documentos": [
   {
-   "titulo": "Manual de Tudo da CARTA (v7, 03/11/2026)",
+   "titulo": "Manual de Tudo da CARTA (v8, 03/11/2026)",
    "url": "https://espirrosaga2020-tech.github.io/carta-porta/manual.html"
   },
   {

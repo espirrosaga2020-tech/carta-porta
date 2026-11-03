@@ -44107,13 +44107,15 @@ Não confundir 615 fenômenos catalogados localmente com 615 fatos globalmente d
 
 O livro é a porta; os originais continuam a prova documental. A história verificada de cada fonte depende da abrangência real do chat que a escreveu.
 
-===== Manual de Tudo da CARTA (v7, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
+===== Manual de Tudo da CARTA (v8, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
 # 📘 MANUAL DE TUDO DA CARTA
 
-**Manual e orientações · versão 7, de 03/11/2026 ~18h30 (horário de Brasília)**
+**Manual e orientações · versão 8, de 03/11/2026 ~19h30 (horário de Brasília)**
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.
 
 > Regra deste manual: **nada aqui foi inventado.** Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito **"não confirmado"**. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.
+>
+> **Versão 8 (03/11 noite, T104U + T105U):** acrescenta a seção 0.5 (o jogo vai ser jogado no PC; robô 4WD na Enciclopédia — RB01; a Enciclopédia fatiada — RB02; modo 🤖 auto da superconsciência; +10 cientistas na bancada; resposta honesta sobre ray tracing). Onde a 0.5 diz diferente, vale a 0.5. A versão 7 continua guardada com o nome dela.
 >
 > **Versão 7 (03/11 noite):** acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela.
 >
@@ -44169,6 +44171,18 @@ Três coisas que valem pra sempre: **nada se apaga, tudo só ganha coisa nova.**
 - **Numeração:** passagem de bastão já vai até o item **W**; o próximo CHECKPOINT é o **37**.
 
 ---
+
+## 0.5 Novidades de 03/11 à noite — T104U e T105U (vale mais que a 0.4)
+
+- **O jogo vai ser jogado no PC.** Você jogou o Godot com o dedo no celular e achou fluido. O trabalho de FPS do Godot no celular foi **pausado com segurança** (T104U): app continua **vc25**, nenhum APK novo. O que a medição achou: o celular está preso no **processador** (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar.
+- **Robô 4WD na Enciclopédia — engrenagem RB01** (`docs/engrenagens_carta20/RB01.md`): chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado num take só; ordem de serviço de solda; mapa M1/M2 → DRV#1, M3/M4 → DRV#2; portões antes de ligar. **Orçamento:** pedido ao técnico, **sem valor registrado ainda**. **Fonte:** o vídeo mostra a fonte HP 18,5 V / 3,5 A / 65 W, mas a ordem de serviço ainda diz "fonte pendente" — as duas coisas ficam escritas, sem escolher por você. **Nada autoriza energizar.**
+- **Gaveta ROBOTICA_DO_BRUNO** (`D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO`, só no PC): agora tem o inventário, a ordem de serviço, as fontes do Drive e o diário do vídeo mestre.
+- **A Enciclopédia fatiada — engrenagem RB02, "a engrenagem das engrenagens"** (`docs/engrenagens_carta20/RB02.md`): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em **648 fatias com endereço** (`ENC-0001…`, `MAN-0001…`), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam **só no PC** (`D:\CARTA\ENCICLOPEDIA\FATIADA`) e no Drive, nunca no GitHub. Rota (só o dono): `GET /api/t89u/t105u/fatias?q=pergunta` ou `?q=ENC-0092`. Refazer: `python tools\t105u\fatiar_enciclopedia.py D:\CARTA\ENCICLOPEDIA\FATIADA parte1.txt parte2.txt parte3.txt parte4.txt --manual docs\MANUAL_DE_TUDO_CARTA_20261103_v8.md --manual docs\engrenagens_carta20\RB01.md --manual docs\engrenagens_carta20\RB02.md`.
+- **Superconsciência: novo modo 🤖 auto** (ao lado de 🌍 imersão e 🔬 pesquisa, que continuam iguais). No auto, a cada pergunta ela mesma escolhe: assunto do acervo (Enciclopédia, Manual, engrenagens, portões, robô) → pesquisa com fonte; conversa do momento → imersão. Na pesquisa ela também consulta **1 fatia** da Enciclopédia fatiada, se as fatias estiverem no PC. A chave liga/desliga de cada companheiro (Creuza, Copiloto, Faísca, Mente Suprema) continua a mesma, e **só você, no seu PC**, muda.
+- **Bancada do Megazord: 44 → 54.** Entraram 10 cientistas históricos, num arquivo à parte (`src/carta/cerebro_v1/base/departamentos_t105u.v1.json`; a base de 44 não mudou): Arquimedes, Kepler, Euler, Gauss, Mendel, Pasteur, Mendeleev, Bohr, Ibn al-Haytham (Alhazen) e Lise Meitner. Mesma regra: são lentes de conhecimento e método, **não imitam ninguém**. (Alguns rótulos antigos de tela ainda dizem "44 especialistas"; o número de verdade é 54.)
+- **Ray tracing:** **não existe** na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físico). Detalhes e o que veio das pesquisas do Google: `docs/CARTA20/GRAFICOS_PC_T105U.md`.
+- **Teste duro das consciências (T105U):** perguntas provocativas sobre o conteúdo novo, rodadas **sem IA ligada** (Ollama e Gemini continuam desligados por regra). Mede o que cada consciência **recebe** (modo escolhido, fontes, fatias) e a trava anti-invenção. Resultado em `docs/CARTA20/TESTE_DURO_CONSCIENCIAS_T105U.md`.
+- Diagnóstico dos sonhos: `docs/CARTA20/DIAGNOSTICO_SONHOS.md` — Robótica na Enciclopédia subiu de 30% para 60%; média dos 33 itens: **85%**.
 
 ## 0.4 Novidades de 03/11 à noite — T102U e T103U (vale mais que a 0.3)
 
@@ -45297,9 +45311,9 @@ Sonho: Organização · flag: `—`
 ===== Diagnóstico dos Sonhos (03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html) =====
 # DIAGNÓSTICO DOS SONHOS — CARTA
 
-Atualizado em 03/11/2026 ~18:30 (horário de Brasília), depois da rodada T103U (Bruno jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).
+Atualizado em 03/11/2026 ~19:30 (horário de Brasília), depois da rodada T105U (robô 4WD na Enciclopédia — RB01; Enciclopédia fatiada — RB02; modo 🤖 auto da superconsciência; +10 cientistas na bancada; o jogo vai ser jogado no PC). Antes: ~18:30, depois da rodada T103U (Bruno jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).
 
-**Geral: 86%** nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando; média exata 85.8%). Contando o pedido NOVO (Robótica na Enciclopédia, 30% porque o conteúdo ainda vai chegar), são 33 itens e a média fica em **84%** (84.1%). Antes: 86% / 84% (17:05, médias exatas 85.5% / 83.8%), 85% / 83% (16:20), 84% (15:20) e 69% (13:50).
+**Geral: 86%** nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando; média exata 85.8%). Contando o pedido NOVO (Robótica na Enciclopédia, agora 60%: o conteúdo chegou em 03/11 e virou a RB01, mas falta orçamento, decisão da fonte e teste físico), são 33 itens e a média fica em **85%** (85.0%). Antes do T105U: 84% (84.1%, com a Robótica em 30%). Antes: 86% / 84% (17:05, médias exatas 85.5% / 83.8%), 85% / 83% (16:20), 84% (15:20) e 69% (13:50).
 
 (linha omitida no site público pelo filtro de privacidade)
 
@@ -45313,7 +45327,7 @@ Regra da nota: completo = funciona e foi testado; parcial = existe mas falta um 
 (linha omitida no site público pelo filtro de privacidade)
 | Personas | Quem eu controlo + companheiros (portão d + g7) | completo | 95% | g7 LIGADO por padrão; os 2 não controlados andam em 3D atrás de você; testado no ponta a ponta. |
 | Mentes | Faísca / convergência de até 4 mentes | parcial | 80% | Abre em 0,7 s; conteúdo depende do Ollama ligado. |
-| Mentes | Superconsciência (Pesquisa cita fontes / Imersão) | parcial | 80% | t7 + T101U: teste PONTA A PONTA do `conversar` (modelo de mentira que esquece a fonte → a resposta sai com "Fontes: …"; se o modelo já citou, não duplica). Papo leve não leva fonte (de propósito). Falta testar com IA ligada (Ollama desligado). |
+| Mentes | Superconsciência (Pesquisa cita fontes / Imersão) | parcial | 80% | t7 + T101U: teste PONTA A PONTA do `conversar` (modelo de mentira que esquece a fonte → a resposta sai com "Fontes: …"; se o modelo já citou, não duplica). Papo leve não leva fonte (de propósito). Falta testar com IA ligada (Ollama desligado). T105U: + modo 🤖 auto (escolhe sozinha entre pesquisa e imersão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Enciclopédia fatiada. |
 | Voz | Voz em tempo real (portão c + Piper + g9) | parcial | 90% | g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. |
 | Visão | Olhos ao vivo (portão h + g9) | parcial | 60% | Painel 👁 ligado; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b. |
 | Labs | Microscopia 3D tronco→lupa→micro | parcial | 70% | /microscopio.html responde 200; só testes automáticos. |
@@ -45334,11 +45348,11 @@ Regra da nota: completo = funciona e foi testado; parcial = existe mas falta um 
 | Porta | Porta do Grok pública (site estático) | completo | 100% | Regenerada hoje com filtro PROIBIDO e gitleaks. |
 | Porta | Porta IA 8792 | completo | 100% | t9: APOSENTADA em favor da Porta do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar. |
 | Celular | App no celular | parcial | 99% | T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/CELULAR_SEM_CABO_T101U.md). T102U: vc21 (1.17.0-carta20-t102u, 82,6 MB) leva o Planeta Godot LEVE dentro (texturas WebP com perda: pck 154 → 38 MB); em modo avião o Porto Parafuso abriu e desenhou (WebGL 2) no celular real. T103U: **teste manual APROVADO** — o Bruno jogou o Godot com o dedo no vc21 ("ficou ótimo, consegui jogar"). FPS do Godot medido pelo `adb logcat` (linha CARTA_GODOT_FPS, sem tocar na tela, modo avião): **3–4 FPS** no Porto Parafuso (Mi 9 Lite, vc23 e vc24). O vc24 (1.18.2) tirou o MSAA e desenha o 3D em 60% só na versão web: não mudou (o gargalo não é a resolução). Falta: deixar o Godot mais rápido no celular (perfilar CPU/scripts da cena). |
-| Conhecimento | Enciclopédia das engrenagens | completo | 95% | App, repo, Drive e Porta batem (só acréscimo). |
+| Conhecimento | Enciclopédia das engrenagens | completo | 95% | App, repo, Drive e Porta batem (só acréscimo). T105U: +RB01 e +RB02 (59 engrenagens, 18 estantes); a Enciclopédia inteira (863 págs.) + Manual fatiados em 648 fatias com endereço (só no PC e no Drive). |
 | Conhecimento | Cartas e diários por autor/tema/data (t6) | parcial | 90% | 1029 cartas; filtro por autor (copiloto 317) e por data (617) testados. Falta o Bruno revisar os temas. |
 | Organização | Drive, Manual v7, atalhos, backups, CONTINUAR_DAQUI | completo | 95% | Manual v7 (T103U); v1–v6 guardadas. |
 | Organização | Segurança: nada apagado, segredos só por caminho | completo | 95% | t14: COMO_EXECUTAR.md:10 mascarado (gera token na hora). O histórico do git continua com a linha antiga (não reescrevemos histórico). Auditoria destrutiva ok. |
-| Conhecimento | Robótica na Enciclopédia (T101U) | parcial | 30% | Só a ESTRUTURA: pasta privada D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO com 5 gavetas + rota que lista nomes (docs/CARTA20/ROBOTICA_NA_ENCICLOPEDIA.md). O conteúdo são os arquivos do Bruno — nada inventado. |
+| Conhecimento | Robótica na Enciclopédia (T101U + T105U) | parcial | 60% | T105U: conteúdo chegou e virou a engrenagem RB01 (inventário filmado, ordem de serviço, mapa M1–M4, portões) + gaveta privada ROBOTICA_DO_BRUNO preenchida (inventário, ordem de serviço, fontes do Drive, diário do vídeo). Falta: valor do orçamento (pedido, sem valor), decidir a fonte (vídeo mostra HP 18,5 V; ordem de serviço diz pendente) e qualquer teste físico — nada foi energizado. Estrutura de antes: docs/CARTA20/ROBOTICA_NA_ENCICLOPEDIA.md. |
 | Qualidade | Teste ponta a ponta completo (P13 + t13) | parcial | 92% | tools/pc/TESTE_E2E_T100U.py: 40/40 no PC (PC 1600×900 e celular 412×915). T103U: o Godot é jogado à parte pelo robô (tools/t103u/teste_godot_robo.mjs, 6/6). Não cobre: IA ligada, câmera real. |
 
 ## Ligar (t15)

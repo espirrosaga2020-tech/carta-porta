@@ -39,7 +39,7 @@
 - [EG027 — SPA — Ping-pong Cognitivo](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG027.html)
 
 ## Documentos
-- [Manual de Tudo da CARTA (v7, 03/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/manual.html)
+- [Manual de Tudo da CARTA (v8, 03/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/manual.html)
 - [Portões booleanos t89u (critérios e estado)](https://espirrosaga2020-tech.github.io/carta-porta/portoes.html)
 - [Estado atual — varredura geral (02/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/estado.html)
 - [Portões anteriores (21/10/2026)](https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html)
