@@ -44385,8 +44385,8 @@ Todas abrem em `http://127.0.0.1:8790` + o endereço. Os nomes e as descrições
 |---|---|---|
 | 🧠 Mente Suprema | `/mente-suprema` | O grafo vivo de 454 neurônios. Dá pra conversar com a Mente Suprema, com a do Bruno, com a da Creuza e com a do Copiloto. |
 | 🌀 Consciência | `/consciencia.html` | A esfera 35: neurônios disparando ao vivo. Conversa, ensina e filosofa. |
-| 🐜⚛️🧠 Cérebro Megazord da Creuza | `/cerebro.html` | A esfera 36: 44 departamentos de um só cérebro, um time de cientistas e especialistas. |
-| ✦ Cérebro Supremo | `/cerebro-supremo.html` | A mente do Bruno: Consciência, Megazord, 44 especialistas e neurônios. |
+| 🐜⚛️🧠 Cérebro Megazord da Creuza | `/cerebro.html` | A esfera 36: 54 departamentos de um só cérebro, um time de cientistas e especialistas. |
+| ✦ Cérebro Supremo | `/cerebro-supremo.html` | A mente do Bruno: Consciência, Megazord, 54 especialistas e neurônios. |
 | 🧠🔒 Meu Cérebro | `/meu-cerebro.html` | A esfera gigante que junta Consciência, Megazord, esferas e projetos. Pra você, é uma das partes mais magníficas. |
 | 🔗 Convergência | `/convergencia.html` | Mente autoral + Consciência + Megazord + Cinema Vivo numa conversa só. |
 | ⚡ Faísca | `/pokemon-vivo.html` | Conversa rápida, por voz. Faz a **convergência das mentes** e dá pra juntar até 4 mentes (exemplo: `?mente=bruno+suprema@8`). |
