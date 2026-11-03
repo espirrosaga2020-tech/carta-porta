@@ -1,0 +1,25 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Celular sem cabo (app vc20, 03/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Celular sem cabo (app vc20, 03/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Celular sem cabo (app vc20, 03/11/2026)</h1><h1>Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026</h1>
+<p><strong>O que mudou:</strong> o celular abre os mundos principais <strong>sozinho</strong>, sem cabo, sem Wi-Fi e com o PC desligado.</p>
+<h2>Como foi testado (de verdade)</h2>
+<ol>
+<li>PC: <code>LIGAR CARTA</code> (8790/8791) → fotografia com <code>tools/t101u/offline_planeta_snapshot.py</code> <strong>direto na pasta do build</strong> (<code>D:\CARTA\BUILD_APK_1.16.0\app\src\main\assets\offline_api</code>, nunca no repo) → 423 rotas, 3,7 MB.</li>
+<li>Build <code>gradle --offline :app:assembleDebug -PcartaWebDist=&lt;repo&gt;\src\carta\webdist</code> → <code>adb install -r</code> → versionCode 20.</li>
+<li><code>DESLIGAR CARTA</code> (8790/8791/8795/11434 desligadas), celular em <strong>modo avião</strong>, <code>adb reverse</code> vazio.</li>
+<li>Abertos no app: Planeta (58 FPS, chão perto do sítio), Meu Robô no Planeta, Mini Terra (fotografia + Pesquisador, 51 FPS), DeLorean, Início. Fotos: <code>D:\CARTA\ANOTACOES\CARTA20\visual\t101u\vc20_aviao_*.png</code>.
+   (O cabo USB só foi usado para abrir as páginas e tirar as fotos; o conteúdo veio todo do próprio celular.)</li>
+</ol>
+<h2>O que funciona sem PC</h2>
+<ul>
+<li>Planeta: chão guardado em volta do sítio: pedaços finos de 64 m num quadrado de ~640 m e pedaços de 128 m num quadrado de ~2,2 km, clima, céu, regiões.</li>
+<li>Mini Terra: a <strong>fotografia</strong> do momento em que foi tirada (não evolui sozinha no celular). Velocidade/pausa ficam guardadas no celular (<code>localStorage carta.off.*</code>).</li>
+<li>Outros pedidos de escrita ficam numa fila no celular (<code>carta.off.fila</code>, só rota e hora, sem conteúdo).</li>
+</ul>
+<h2>O que continua precisando do PC (honesto)</h2>
+<ul>
+<li><strong>Planeta Godot (Porto Parafuso)</strong>: roda no servidor 8795 do PC; a página mostra o aviso e o botão "voltar ao Planeta". Embutir no APK: ver <code>PESQUISA_T101U.md</code>.</li>
+<li>Conversa com IA (Ollama/Gemini), mundo vivo da Mini Terra evoluindo, longe da área guardada (503 honesto).</li>
+</ul>
+<h2>Backup</h2>
+<ul>
+<li>APK vc19: <code>D:\CARTA\BACKUPS\BACKUP_APK_ANTES_1.16.0_20261103\app-debug_vc19.apk</code>. Build antigo intacto em <code>D:\CARTA\BUILD_APK_1.15.0</code>.</li>
+</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 16:21 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>

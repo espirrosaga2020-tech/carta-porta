@@ -1,0 +1,89 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Pesquisa T101U: código aberto adotado (03/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Pesquisa T101U: código aberto adotado (03/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Pesquisa T101U: código aberto adotado (03/11/2026)</h1><h1>Pesquisa T101U (03/11/2026) — tecnologias gratuitas e de código aberto</h1>
+<p>Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e <strong>adotar só o que for compatível e testável</strong>.
+Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy/cv2/PIL).</p>
+<h2>O que foi ADOTADO (e testado)</h2>
+<table>
+<thead>
+<tr>
+<th>Ideia</th>
+<th>De onde veio</th>
+<th>Licença</th>
+<th>Como entrou na CARTA</th>
+<th>Teste</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Offline-first: fotografia + motor local</strong> (como o <em>Workbox</em>: "cache primeiro, rede depois")</td>
+<td>Google Workbox / web.dev (padrão de PWA)</td>
+<td>MIT (Workbox); aqui é <strong>código nosso</strong>, só o padrão</td>
+<td><code>tools/t101u/offline_planeta_snapshot.py</code> fotografa 423 rotas do PC (chão do Planeta perto do sítio, clima, céu, Mini Terra...) e <code>android/t101u/offline_motor.js</code> responde no celular</td>
+<td>celular em <strong>modo avião, PC desligado</strong>: Planeta, Meu Robô, Mini Terra, DeLorean e Início abriram (fotos em <code>D:\CARTA\ANOTACOES\CARTA20\visual\t101u</code>)</td>
+</tr>
+<tr>
+<td><strong>Injetar o script antes da página</strong> (como <code>WebViewAssetLoader</code> / <code>addDocumentStartJavaScript</code> do androidx.webkit)</td>
+<td>Android Developers / AndroidX (Google)</td>
+<td>Apache-2.0; aqui <strong>sem a biblioteca</strong> (o build é "sem bibliotecas extras")</td>
+<td><code>OfflineAssets.kt</code> põe <code>&lt;script src="/__carta/offline_motor.js"&gt;</code> logo depois do <code>&lt;head&gt;</code> só no modo viagem</td>
+<td><code>tests/test_t101u.py</code> + teste no celular</td>
+</tr>
+<tr>
+<td><strong>Freio de tempestade</strong> (não repetir pedido que acabou de falhar; <em>retry com espera</em>)</td>
+<td>fóruns de WebView/PWA (r/webdev, StackOverflow: "retry storm")</td>
+<td>padrão, código nosso</td>
+<td>o motor espera 3 s antes de repetir uma rota que deu 503</td>
+<td>emulação no box (<code>offline_motor.js</code>, item 4)</td>
+</tr>
+<tr>
+<td><strong>"Imagem sintética = verdade conhecida"</strong> para testar visão sem câmera</td>
+<td>prática comum em visão computacional (datasets sintéticos; MediaPipe Model Maker)</td>
+<td>código nosso, Python puro</td>
+<td><code>src/carta/t101u/lego_sintetico.py</code>: desenha a montagem, mede com momentos de 2ª ordem, compara com o modelo</td>
+<td><code>tests/test_t101u.py</code> (certa, torta 15°, 12 mm fora, falta, peça tapada)</td>
+</tr>
+<tr>
+<td><strong>Godot Web sem threads</strong> (<code>thread_support=false</code>) — confirmado</td>
+<td>docs.godotengine.org (Exporting for the Web, 4.3+)</td>
+<td>MIT (Godot)</td>
+<td>o export do Porto Parafuso já está assim (<code>export_presets.cfg</code>) — não precisa de SharedArrayBuffer/COOP/COEP</td>
+<td>lido no PC</td>
+</tr>
+</tbody>
+</table>
+<h2>O que ficou como CANDIDATO (não adotado agora, e por quê)</h2>
+<table>
+<thead>
+<tr>
+<th>Ideia</th>
+<th>Licença</th>
+<th>Por que não agora</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MediaPipe Tasks Vision</strong> (<code>@mediapipe/tasks-vision</code> 0.10.x, ObjectDetector) para o LEGO de verdade</td>
+<td>Apache-2.0</td>
+<td>dá para hospedar offline, mas são ~10 MB de wasm + modelo; e o teste real precisa de webcam e peças. Fica para quando o Bruno for testar o LEGO com câmera</td>
+</tr>
+<tr>
+<td><strong>Godot dentro do APK</strong> (jogo Porto Parafuso sem PC)</td>
+<td>MIT</td>
+<td>o <code>index.pck</code> tem ~147 MB + 38 MB de wasm: o APK passaria de 220 MB. Fóruns (issue 1429 do <em>web-to-app</em>) apontam 3 armadilhas no WebView: User-Agent "Version/4.0" faz o Emscripten achar que é Safari velho (tela preta), o <code>response.clone()</code> do wasm trava, e camada <code>LAYER_TYPE_HARDWARE</code> pode parar o WebGL. Fica documentado para uma rodada própria</td>
+</tr>
+<tr>
+<td><strong>Meshopt</strong> (melhor que Draco no celular) e <strong>KTX2</strong> com <code>detectSupport</code> + reserva WebP; texturas até 1–2K; desenhar só quando muda</td>
+<td>MIT (meshoptimizer), Apache-2.0 (Draco/KTX-Software)</td>
+<td>o Planeta usa geometria gerada (não modelos baixados); vale quando entrarem modelos 3D grandes</td>
+</tr>
+<tr>
+<td><strong>model-viewer</strong>, <strong>Filament</strong> (Google)</td>
+<td>Apache-2.0</td>
+<td>bons para ver um objeto 3D; a CARTA já tem three.js</td>
+</tr>
+</tbody>
+</table>
+<h2>Achados que viraram correção</h2>
+<ul>
+<li><code>terra/terra.js</code> (linha ~301): <code>aplicar(v)</code> chama a si mesmo para sempre quando a resposta de <code>POST /api/terra/controle</code> não traz <code>velocidade</code> → 8.033 pedidos em 9 s na emulação. <strong>No celular</strong> o motor offline responde com <code>{velocidade, pausado}</code> e o laço não acontece. O arquivo do PC <strong>não foi mexido</strong> (regra: não trocar o que funciona) — fica anotado como pendência.</li>
+<li>No app, o botão <strong>"🐎 Mapa do herói · sair"</strong> nascia em <code>top: 64px</code> e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido).</li>
+</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 16:21 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>

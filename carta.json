@@ -1,7 +1,7 @@
 {
  "projeto": "CARTA",
  "site": "https://espirrosaga2020-tech.github.io/carta-porta/",
- "gerado_em": "03/11/2026 15:08 (horário de Brasília)",
+ "gerado_em": "03/11/2026 16:21 (horário de Brasília)",
  "somente_leitura": true,
  "enciclopedia": {
   "engrenagens_com_texto": [
@@ -768,7 +768,7 @@
  },
  "documentos": [
   {
-   "titulo": "Manual de Tudo da CARTA (v5, 03/11/2026)",
+   "titulo": "Manual de Tudo da CARTA (v6, 03/11/2026)",
    "url": "https://espirrosaga2020-tech.github.io/carta-porta/manual.html"
   },
   {
@@ -794,6 +794,14 @@
   {
    "titulo": "Diagnóstico dos Sonhos (03/11/2026)",
    "url": "https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html"
+  },
+  {
+   "titulo": "Pesquisa T101U: código aberto adotado (03/11/2026)",
+   "url": "https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html"
+  },
+  {
+   "titulo": "Celular sem cabo (app vc20, 03/11/2026)",
+   "url": "https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html"
   },
   {
    "titulo": "Análise do PR #99 (Olhos Vivos, Copiloto)",
@@ -839,6 +847,8 @@
    "portoes-t95u.html": 1,
    "portoes-t100u.html": 4,
    "diagnostico-sonhos.html": 4,
+   "pesquisa-t101u.html": 0,
+   "celular-sem-cabo.html": 0,
    "analise-pr99.html": 0
   }
  }

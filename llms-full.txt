@@ -44107,13 +44107,15 @@ Não confundir 615 fenômenos catalogados localmente com 615 fatos globalmente d
 
 O livro é a porta; os originais continuam a prova documental. A história verificada de cada fonte depende da abrangência real do chat que a escreveu.
 
-===== Manual de Tudo da CARTA (v5, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
+===== Manual de Tudo da CARTA (v6, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
 # 📘 MANUAL DE TUDO DA CARTA
 
-**Manual e orientações · versão 5, de 03/11/2026 ~15h20 (horário de Brasília)**
+**Manual e orientações · versão 6, de 03/11/2026 ~16h30 (horário de Brasília)**
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.
 
 > Regra deste manual: **nada aqui foi inventado.** Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito **"não confirmado"**. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.
+>
+> **Versão 6 (03/11 fim da tarde):** acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Onde a 0.3 diz diferente, vale a 0.3. A versão 5 continua guardada com o nome dela.
 >
 > **Versão 5 (03/11 tarde):** acrescenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela.
 >
@@ -44165,6 +44167,20 @@ Três coisas que valem pra sempre: **nada se apaga, tudo só ganha coisa nova.**
 - **Numeração:** passagem de bastão já vai até o item **W**; o próximo CHECKPOINT é o **37**.
 
 ---
+
+## 0.3 Novidades de 03/11 no fim da tarde — T101U (vale mais que a 0.2)
+
+- **Celular sem cabo (de verdade).** App **vc20 (1.16.0-carta20-t101u)**. Testado em **modo avião com o PC desligado**: Planeta (58 FPS), Meu Robô no Planeta, Mini Terra, DeLorean e Início abrem só com o que está guardado no celular. O Planeta mostra "📦 modo viagem" (o aviso encolhe sozinho em 8 s; toque para ver de novo). **Piso agora = vc20.** Detalhes: `docs/CARTA20/CELULAR_SEM_CABO_T101U.md`.
+- **O que ainda precisa do PC:** o Planeta Godot (Porto Parafuso, ~147 MB), conversar com IA e a Mini Terra evoluindo ao vivo (no celular ela é uma fotografia).
+- **Como refazer a fotografia do celular:** com a CARTA ligada, `python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api` na pasta do BUILD (nunca no repo), depois build e `adb install -r`.
+- **Topo do celular limpo no app:** o botão "🐎 Mapa do herói · sair" e as dicas 💡 descem para perto da barra de baixo.
+- **LEGO "tá torto?":** agora testado com **imagem sintética** (verdade conhecida): acha peça torta, fora do lugar, faltando e tapada. Rota (só o dono): `/api/t89u/t101u/lego/sintetico`. Webcam real: ainda não.
+- **Fontes da Pesquisa:** teste ponta a ponta do `conversar` (o modelo esquece a fonte → a resposta sai com "Fontes: …"). Papo leve não leva fonte, de propósito.
+- **Meu Robô:** um robô de teste jogou loja, venda de sucata, compra, golpes na arena e save: 9 de 9 (`tools\t101u\teste_meu_robo_lojas.py`, precisa do Playwright).
+- **🤖 Robótica na Enciclopédia (só a estrutura):** coloque seus arquivos em `D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO` (gavetas: componentes, montagens, programas, referencias, diario). A CARTA só lista nomes e tamanhos em `/api/t89u/t101u/robotica`. Nada foi inventado.
+- **Pesquisa de código aberto:** o que foi adotado, por quê e a licença: `docs/CARTA20/PESQUISA_T101U.md`.
+- **Continua DESLIGADO esperando você:** as 3 decisões da seção 0.2 (persona, pesos 10/6 da rodoviária, robô físico), Ollama e Gemini.
+- Diagnóstico dos sonhos: `docs/CARTA20/DIAGNOSTICO_SONHOS.md` — 85% nos 32 sonhos de antes; 83% contando o sonho novo da Robótica.
 
 ## 0.2 Novidades de 03/11 à tarde — T100U (vale mais que a 0.1)
 
@@ -45267,9 +45283,9 @@ Sonho: Organização · flag: `—`
 ===== Diagnóstico dos Sonhos (03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html) =====
 # DIAGNÓSTICO DOS SONHOS — CARTA
 
-Atualizado em 03/11/2026 ~15:20 (horário de Brasília), depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).
+Atualizado em 03/11/2026 ~16:20 (horário de Brasília), depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).
 
-**Geral: 84%** — 13 completos, 19 parciais, 0 faltando (de 32 sonhos/pedidos). Antes (13:50): 69%, 6 completos, 22 parciais, 4 faltando.
+**Geral: 85%** nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando). Contando o pedido NOVO (Robótica na Enciclopédia, 30% porque o conteúdo ainda vai chegar), são 33 itens e a média fica em **83%** — a nota caiu só porque entrou um sonho novo. Antes: 84% (15:20) e 69% (13:50).
 
 (linha omitida no site público pelo filtro de privacidade)
 
@@ -45283,31 +45299,32 @@ Regra da nota: completo = funciona e foi testado; parcial = existe mas falta um 
 (linha omitida no site público pelo filtro de privacidade)
 | Personas | Quem eu controlo + companheiros (portão d + g7) | completo | 95% | g7 LIGADO por padrão; os 2 não controlados andam em 3D atrás de você; testado no ponta a ponta. |
 | Mentes | Faísca / convergência de até 4 mentes | parcial | 80% | Abre em 0,7 s; conteúdo depende do Ollama ligado. |
-| Mentes | Superconsciência (Pesquisa cita fontes / Imersão) | parcial | 75% | t7: o servidor agora anexa as fontes quando o modelo esquece (teste de código). Não testado com IA ligada (Ollama desligado). |
+| Mentes | Superconsciência (Pesquisa cita fontes / Imersão) | parcial | 80% | t7 + T101U: teste PONTA A PONTA do `conversar` (modelo de mentira que esquece a fonte → a resposta sai com "Fontes: …"; se o modelo já citou, não duplica). Papo leve não leva fonte (de propósito). Falta testar com IA ligada (Ollama desligado). |
 | Voz | Voz em tempo real (portão c + Piper + g9) | parcial | 90% | g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. |
 | Visão | Olhos ao vivo (portão h + g9) | parcial | 60% | Painel 👁 ligado; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b. |
 | Labs | Microscopia 3D tronco→lupa→micro | parcial | 70% | /microscopio.html responde 200; só testes automáticos. |
 | Labs | Bactérias no Planeta (g4) | completo | 95% | LIGADO por padrão; crescimento determinístico testado; FPS ok no ponta a ponta. |
-| Labs | Lab de visão / LEGO "tá torto?" | parcial | 55% | t5: cálculo de torto/desalinhado pronto e testado ("0 de 5"); a montagem real tem 0 peças vistas e não há opencv no PC. |
+| Labs | Lab de visão / LEGO "tá torto?" | parcial | 70% | T101U: imagem SINTÉTICA (verdade conhecida) → mede cor, ângulo, tamanho e posição em Python puro → compara: certa, torta 15°, 12 mm fora, peça faltando e peça tapada por outra, todos testados (rota /api/t89u/t101u/lego/sintetico). Falta a webcam com peças de verdade. |
 | Fogueira | Fogueira / cinema vivo (portão e + g8) | parcial | 90% | g8 LIGADO; luz, partículas, ▶/⏸/✖. Falta sessão longa com o Bruno. |
 | Gráficos | Gráficos estilo Witcher 3 / BG3 (f + g1) | parcial | 85% | g1 ligado no preset medido; ?atmosfera=baixo volta. |
 | Gráficos | Mapa do herói estilo HoMM3 | parcial | 90% | Ligado; clique no chão = herói anda. |
 | Gráficos | Visual cyber/neon nas telas | completo | 100% | Em todas as telas; ✨ ou ?cyber=0 desliga. |
-| Planeta | Planeta repaginado: chegada + HUD + barra de baixo (g2 + t3) | parcial | 90% | Barra de baixo: 6 visíveis + 7 na gaveta (antes 11–12); topo do celular mais limpo; 115–120 FPS no PC e no celular (viewport). No app ainda aparece um aviso por cima do painel do topo. ?t100u=0 volta ao antigo. |
+| Planeta | Planeta repaginado: chegada + HUD + barra de baixo (g2 + t3) | parcial | 95% | Barra de baixo: 6 visíveis + 7 na gaveta; T101U: no app o botão "Mapa do herói" e as dicas 💡 descem para perto da barra de baixo (não cobrem mais o topo), visto no celular real. Falta: o selo de qualidade mostra "undefined · NN FPS" no app. |
 | Planeta | Fauna viva (g3) | completo | 95% | LIGADO; 133 animais; FPS ok. |
 | Planeta | Navegação/escala por regiões (P7) | parcial | 90% | t4: 32 regiões, viagem testada no ponta a ponta (PC e celular). |
 | Mundos | Mini Terra dentro do Planeta (g5 + t2 Vale 3D) | completo | 95% | O Planeta é o astro: o Vale 3D (840 organismos, 2 habitantes, grade 32×24) abre dentro dele a 117–120 FPS. A Mini Terra antiga ficou guardada nos Bastidores. |
 | Mundos | Dois planetas (cópia do JOGO, save por planeta, g6) | parcial | 85% | g6 LIGADO; original D:\MEU ROBO\JOGO só lido. |
-| Mundos | Meu Robô dentro do Planeta (t8) | parcial | 70% | Página abre sem erros no ponta a ponta; tecla U ok. Lojas/arenas do Godot não jogadas por robô de teste. |
+| Mundos | Meu Robô dentro do Planeta (t8) | parcial | 85% | T101U: robô de teste JOGOU loja, venda de sucata, compra, golpes na arena e save: 9/9 (tools/t101u/teste_meu_robo_lojas.py, emulação). Abre também no celular sem cabo. Falta: a versão Godot (Porto Parafuso) jogada por robô. |
 | Mundos | Robô físico (braço/LEGO com câmera) | parcial | 25% | t12: só a simulação com motores desarmados, DESLIGADO. Falta o Bruno decidir o hardware (OpenBot ou outro). |
 | Save | Save com posição | completo | 100% | 4/4 testes de ida e volta. |
 | Porta | Porta do Grok pública (site estático) | completo | 100% | Regenerada hoje com filtro PROIBIDO e gitleaks. |
 | Porta | Porta IA 8792 | completo | 100% | t9: APOSENTADA em favor da Porta do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar. |
-| Celular | App no celular | parcial | 90% | vc19 (1.15.0-carta20-t100u) instalado com install -r; o Planeta abre no app. Offline o Planeta 3D ainda precisa do PC. |
+| Celular | App no celular | parcial | 95% | T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/CELULAR_SEM_CABO_T101U.md). Falta: o Planeta Godot (147 MB) continua só no PC. |
 | Conhecimento | Enciclopédia das engrenagens | completo | 95% | App, repo, Drive e Porta batem (só acréscimo). |
 | Conhecimento | Cartas e diários por autor/tema/data (t6) | parcial | 90% | 1029 cartas; filtro por autor (copiloto 317) e por data (617) testados. Falta o Bruno revisar os temas. |
-| Organização | Drive, Manual v5, atalhos, backups, CONTINUAR_DAQUI | completo | 95% | Manual v5 no Drive; v1–v4 intactas. |
+| Organização | Drive, Manual v6, atalhos, backups, CONTINUAR_DAQUI | completo | 95% | Manual v6 (T101U); v1–v5 guardadas. |
 | Organização | Segurança: nada apagado, segredos só por caminho | completo | 95% | t14: COMO_EXECUTAR.md:10 mascarado (gera token na hora). O histórico do git continua com a linha antiga (não reescrevemos histórico). Auditoria destrutiva ok. |
+| Conhecimento | Robótica na Enciclopédia (T101U) | parcial | 30% | Só a ESTRUTURA: pasta privada D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO com 5 gavetas + rota que lista nomes (docs/CARTA20/ROBOTICA_NA_ENCICLOPEDIA.md). O conteúdo são os arquivos do Bruno — nada inventado. |
 | Qualidade | Teste ponta a ponta completo (P13 + t13) | parcial | 90% | tools/pc/TESTE_E2E_T100U.py: 40/40 no PC (PC 1600×900 e celular 412×915). Não cobre: Godot jogado, IA ligada, câmera real. |
 
 ## Ligar (t15)
@@ -45319,6 +45336,60 @@ LIGAR CARTA agora sobe 8790, 8791 e 8795 juntos e espera pelo relógio: 3,9 s �
 - Robô físico: escolher o hardware (OpenBot ou outro).
 - Abrir o Ollama (e, se quiser, `ollama pull qwen2.5vl:3b`) para o olho local e as fontes ao vivo.
 (linha omitida no site público pelo filtro de privacidade)
+
+===== Pesquisa T101U: código aberto adotado (03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html) =====
+# Pesquisa T101U (03/11/2026) — tecnologias gratuitas e de código aberto
+
+Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e **adotar só o que for compatível e testável**.
+Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy/cv2/PIL).
+
+## O que foi ADOTADO (e testado)
+
+| Ideia | De onde veio | Licença | Como entrou na CARTA | Teste |
+|---|---|---|---|---|
+| **Offline-first: fotografia + motor local** (como o *Workbox*: "cache primeiro, rede depois") | Google Workbox / web.dev (padrão de PWA) | MIT (Workbox); aqui é **código nosso**, só o padrão | `tools/t101u/offline_planeta_snapshot.py` fotografa 423 rotas do PC (chão do Planeta perto do sítio, clima, céu, Mini Terra...) e `android/t101u/offline_motor.js` responde no celular | celular em **modo avião, PC desligado**: Planeta, Meu Robô, Mini Terra, DeLorean e Início abriram (fotos em `D:\CARTA\ANOTACOES\CARTA20\visual\t101u`) |
+| **Injetar o script antes da página** (como `WebViewAssetLoader` / `addDocumentStartJavaScript` do androidx.webkit) | Android Developers / AndroidX (Google) | Apache-2.0; aqui **sem a biblioteca** (o build é "sem bibliotecas extras") | `OfflineAssets.kt` põe `<script src="/__carta/offline_motor.js">` logo depois do `<head>` só no modo viagem | `tests/test_t101u.py` + teste no celular |
+| **Freio de tempestade** (não repetir pedido que acabou de falhar; *retry com espera*) | fóruns de WebView/PWA (r/webdev, StackOverflow: "retry storm") | padrão, código nosso | o motor espera 3 s antes de repetir uma rota que deu 503 | emulação no box (`offline_motor.js`, item 4) |
+| **"Imagem sintética = verdade conhecida"** para testar visão sem câmera | prática comum em visão computacional (datasets sintéticos; MediaPipe Model Maker) | código nosso, Python puro | `src/carta/t101u/lego_sintetico.py`: desenha a montagem, mede com momentos de 2ª ordem, compara com o modelo | `tests/test_t101u.py` (certa, torta 15°, 12 mm fora, falta, peça tapada) |
+| **Godot Web sem threads** (`thread_support=false`) — confirmado | docs.godotengine.org (Exporting for the Web, 4.3+) | MIT (Godot) | o export do Porto Parafuso já está assim (`export_presets.cfg`) — não precisa de SharedArrayBuffer/COOP/COEP | lido no PC |
+
+## O que ficou como CANDIDATO (não adotado agora, e por quê)
+
+| Ideia | Licença | Por que não agora |
+|---|---|---|
+| **MediaPipe Tasks Vision** (`@mediapipe/tasks-vision` 0.10.x, ObjectDetector) para o LEGO de verdade | Apache-2.0 | dá para hospedar offline, mas são ~10 MB de wasm + modelo; e o teste real precisa de webcam e peças. Fica para quando o Bruno for testar o LEGO com câmera |
+| **Godot dentro do APK** (jogo Porto Parafuso sem PC) | MIT | o `index.pck` tem ~147 MB + 38 MB de wasm: o APK passaria de 220 MB. Fóruns (issue 1429 do *web-to-app*) apontam 3 armadilhas no WebView: User-Agent "Version/4.0" faz o Emscripten achar que é Safari velho (tela preta), o `response.clone()` do wasm trava, e camada `LAYER_TYPE_HARDWARE` pode parar o WebGL. Fica documentado para uma rodada própria |
+| **Meshopt** (melhor que Draco no celular) e **KTX2** com `detectSupport` + reserva WebP; texturas até 1–2K; desenhar só quando muda | MIT (meshoptimizer), Apache-2.0 (Draco/KTX-Software) | o Planeta usa geometria gerada (não modelos baixados); vale quando entrarem modelos 3D grandes |
+| **model-viewer**, **Filament** (Google) | Apache-2.0 | bons para ver um objeto 3D; a CARTA já tem three.js |
+
+## Achados que viraram correção
+
+- `terra/terra.js` (linha ~301): `aplicar(v)` chama a si mesmo para sempre quando a resposta de `POST /api/terra/controle` não traz `velocidade` → 8.033 pedidos em 9 s na emulação. **No celular** o motor offline responde com `{velocidade, pausado}` e o laço não acontece. O arquivo do PC **não foi mexido** (regra: não trocar o que funciona) — fica anotado como pendência.
+- No app, o botão **"🐎 Mapa do herói · sair"** nascia em `top: 64px` e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido).
+
+===== Celular sem cabo (app vc20, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html) =====
+# Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026
+
+**O que mudou:** o celular abre os mundos principais **sozinho**, sem cabo, sem Wi-Fi e com o PC desligado.
+
+## Como foi testado (de verdade)
+1. PC: `LIGAR CARTA` (8790/8791) → fotografia com `tools/t101u/offline_planeta_snapshot.py` **direto na pasta do build** (`D:\CARTA\BUILD_APK_1.16.0\app\src\main\assets\offline_api`, nunca no repo) → 423 rotas, 3,7 MB.
+2. Build `gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist` → `adb install -r` → versionCode 20.
+3. `DESLIGAR CARTA` (8790/8791/8795/11434 desligadas), celular em **modo avião**, `adb reverse` vazio.
+4. Abertos no app: Planeta (58 FPS, chão perto do sítio), Meu Robô no Planeta, Mini Terra (fotografia + Pesquisador, 51 FPS), DeLorean, Início. Fotos: `D:\CARTA\ANOTACOES\CARTA20\visual\t101u\vc20_aviao_*.png`.
+   (O cabo USB só foi usado para abrir as páginas e tirar as fotos; o conteúdo veio todo do próprio celular.)
+
+## O que funciona sem PC
+- Planeta: chão guardado em volta do sítio: pedaços finos de 64 m num quadrado de ~640 m e pedaços de 128 m num quadrado de ~2,2 km, clima, céu, regiões.
+- Mini Terra: a **fotografia** do momento em que foi tirada (não evolui sozinha no celular). Velocidade/pausa ficam guardadas no celular (`localStorage carta.off.*`).
+- Outros pedidos de escrita ficam numa fila no celular (`carta.off.fila`, só rota e hora, sem conteúdo).
+
+## O que continua precisando do PC (honesto)
+- **Planeta Godot (Porto Parafuso)**: roda no servidor 8795 do PC; a página mostra o aviso e o botão "voltar ao Planeta". Embutir no APK: ver `PESQUISA_T101U.md`.
+- Conversa com IA (Ollama/Gemini), mundo vivo da Mini Terra evoluindo, longe da área guardada (503 honesto).
+
+## Backup
+- APK vc19: `D:\CARTA\BACKUPS\BACKUP_APK_ANTES_1.16.0_20261103\app-debug_vc19.apk`. Build antigo intacto em `D:\CARTA\BUILD_APK_1.15.0`.
 
 ===== Análise do PR #99 (Olhos Vivos, Copiloto) (https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html) =====
 # Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026)
