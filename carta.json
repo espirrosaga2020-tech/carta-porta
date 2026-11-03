@@ -1,7 +1,7 @@
 {
  "projeto": "CARTA",
  "site": "https://espirrosaga2020-tech.github.io/carta-porta/",
- "gerado_em": "03/11/2026 12:10 (horário de Brasília)",
+ "gerado_em": "03/11/2026 15:08 (horário de Brasília)",
  "somente_leitura": true,
  "enciclopedia": {
   "engrenagens_com_texto": [
@@ -768,7 +768,7 @@
  },
  "documentos": [
   {
-   "titulo": "Manual de Tudo da CARTA (v4, 03/11/2026)",
+   "titulo": "Manual de Tudo da CARTA (v5, 03/11/2026)",
    "url": "https://espirrosaga2020-tech.github.io/carta-porta/manual.html"
   },
   {
@@ -786,6 +786,14 @@
   {
    "titulo": "Portões T95U (03/11/2026): gráficos, mundos, personagens",
    "url": "https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html"
+  },
+  {
+   "titulo": "Portões T100U (03/11/2026): o Planeta é o astro",
+   "url": "https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html"
+  },
+  {
+   "titulo": "Diagnóstico dos Sonhos (03/11/2026)",
+   "url": "https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html"
   },
   {
    "titulo": "Análise do PR #99 (Olhos Vivos, Copiloto)",
@@ -824,11 +832,13 @@
    "enciclopedia/EG027.html": 0,
    "enciclopedia/auditoria.html": 0,
    "enciclopedia/leia-primeiro.html": 0,
-   "manual.html": 17,
+   "manual.html": 20,
    "portoes.html": 1,
    "estado.html": 2,
    "portoes-antigos.html": 9,
    "portoes-t95u.html": 1,
+   "portoes-t100u.html": 4,
+   "diagnostico-sonhos.html": 4,
    "analise-pr99.html": 0
   }
  }

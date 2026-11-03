@@ -1,0 +1,250 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Diagnóstico dos Sonhos (03/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Diagnóstico dos Sonhos (03/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Diagnóstico dos Sonhos (03/11/2026)</h1><h1>DIAGNÓSTICO DOS SONHOS — CARTA</h1>
+<p>Atualizado em 03/11/2026 ~15:20 (horário de Brasília), depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).</p>
+<p><strong>Geral: 84%</strong> — 13 completos, 19 parciais, 0 faltando (de 32 sonhos/pedidos). Antes (13:50): 69%, 6 completos, 22 parciais, 4 faltando.</p>
+<p>(linha omitida no site público pelo filtro de privacidade)</p>
+<p>Regra da nota: completo = funciona e foi testado; parcial = existe mas falta um pedaço; falta = não começado ou quase nada.</p>
+<table>
+<thead>
+<tr>
+<th>Área</th>
+<th>Sonho / pedido</th>
+<th>Situação</th>
+<th>%</th>
+<th>O que tem / o que falta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Origem</td>
+<td>Rodoviária preservada (história de origem intocada)</td>
+<td>completo</td>
+<td>100%</td>
+<td>Nunca mexida; regra mantida em todas as rodadas.</td>
+</tr>
+<tr>
+<td>Origem</td>
+<td>Pesos da rodoviária início 10 / final 6</td>
+<td>parcial</td>
+<td>50%</td>
+<td>t11: cálculo pronto e testado, DESLIGADO (não toca a rodoviária, só calcula). Falta o Bruno dizer se é assim que ele quer.</td>
+</tr>
+<tr>
+<td>Personas</td>
+<td>Copiloto, Creuza e Dobra (Dobra = Bruno, quem-sou-eu)</td>
+<td>completo</td>
+<td>100%</td>
+<td>API /api/personas/v1/quem-sou-eu responde certo.</td>
+</tr>
+<tr>
+<td>(linha omitida no site público pelo filtro de privacidade)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Personas</td>
+<td>Quem eu controlo + companheiros (portão d + g7)</td>
+<td>completo</td>
+<td>95%</td>
+<td>g7 LIGADO por padrão; os 2 não controlados andam em 3D atrás de você; testado no ponta a ponta.</td>
+</tr>
+<tr>
+<td>Mentes</td>
+<td>Faísca / convergência de até 4 mentes</td>
+<td>parcial</td>
+<td>80%</td>
+<td>Abre em 0,7 s; conteúdo depende do Ollama ligado.</td>
+</tr>
+<tr>
+<td>Mentes</td>
+<td>Superconsciência (Pesquisa cita fontes / Imersão)</td>
+<td>parcial</td>
+<td>75%</td>
+<td>t7: o servidor agora anexa as fontes quando o modelo esquece (teste de código). Não testado com IA ligada (Ollama desligado).</td>
+</tr>
+<tr>
+<td>Voz</td>
+<td>Voz em tempo real (portão c + Piper + g9)</td>
+<td>parcial</td>
+<td>90%</td>
+<td>g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida.</td>
+</tr>
+<tr>
+<td>Visão</td>
+<td>Olhos ao vivo (portão h + g9)</td>
+<td>parcial</td>
+<td>60%</td>
+<td>Painel 👁 ligado; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b.</td>
+</tr>
+<tr>
+<td>Labs</td>
+<td>Microscopia 3D tronco→lupa→micro</td>
+<td>parcial</td>
+<td>70%</td>
+<td>/microscopio.html responde 200; só testes automáticos.</td>
+</tr>
+<tr>
+<td>Labs</td>
+<td>Bactérias no Planeta (g4)</td>
+<td>completo</td>
+<td>95%</td>
+<td>LIGADO por padrão; crescimento determinístico testado; FPS ok no ponta a ponta.</td>
+</tr>
+<tr>
+<td>Labs</td>
+<td>Lab de visão / LEGO "tá torto?"</td>
+<td>parcial</td>
+<td>55%</td>
+<td>t5: cálculo de torto/desalinhado pronto e testado ("0 de 5"); a montagem real tem 0 peças vistas e não há opencv no PC.</td>
+</tr>
+<tr>
+<td>Fogueira</td>
+<td>Fogueira / cinema vivo (portão e + g8)</td>
+<td>parcial</td>
+<td>90%</td>
+<td>g8 LIGADO; luz, partículas, ▶/⏸/✖. Falta sessão longa com o Bruno.</td>
+</tr>
+<tr>
+<td>Gráficos</td>
+<td>Gráficos estilo Witcher 3 / BG3 (f + g1)</td>
+<td>parcial</td>
+<td>85%</td>
+<td>g1 ligado no preset medido; ?atmosfera=baixo volta.</td>
+</tr>
+<tr>
+<td>Gráficos</td>
+<td>Mapa do herói estilo HoMM3</td>
+<td>parcial</td>
+<td>90%</td>
+<td>Ligado; clique no chão = herói anda.</td>
+</tr>
+<tr>
+<td>Gráficos</td>
+<td>Visual cyber/neon nas telas</td>
+<td>completo</td>
+<td>100%</td>
+<td>Em todas as telas; ✨ ou ?cyber=0 desliga.</td>
+</tr>
+<tr>
+<td>Planeta</td>
+<td>Planeta repaginado: chegada + HUD + barra de baixo (g2 + t3)</td>
+<td>parcial</td>
+<td>90%</td>
+<td>Barra de baixo: 6 visíveis + 7 na gaveta (antes 11–12); topo do celular mais limpo; 115–120 FPS no PC e no celular (viewport). No app ainda aparece um aviso por cima do painel do topo. ?t100u=0 volta ao antigo.</td>
+</tr>
+<tr>
+<td>Planeta</td>
+<td>Fauna viva (g3)</td>
+<td>completo</td>
+<td>95%</td>
+<td>LIGADO; 133 animais; FPS ok.</td>
+</tr>
+<tr>
+<td>Planeta</td>
+<td>Navegação/escala por regiões (P7)</td>
+<td>parcial</td>
+<td>90%</td>
+<td>t4: 32 regiões, viagem testada no ponta a ponta (PC e celular).</td>
+</tr>
+<tr>
+<td>Mundos</td>
+<td>Mini Terra dentro do Planeta (g5 + t2 Vale 3D)</td>
+<td>completo</td>
+<td>95%</td>
+<td>O Planeta é o astro: o Vale 3D (840 organismos, 2 habitantes, grade 32×24) abre dentro dele a 117–120 FPS. A Mini Terra antiga ficou guardada nos Bastidores.</td>
+</tr>
+<tr>
+<td>Mundos</td>
+<td>Dois planetas (cópia do JOGO, save por planeta, g6)</td>
+<td>parcial</td>
+<td>85%</td>
+<td>g6 LIGADO; original D:\MEU ROBO\JOGO só lido.</td>
+</tr>
+<tr>
+<td>Mundos</td>
+<td>Meu Robô dentro do Planeta (t8)</td>
+<td>parcial</td>
+<td>70%</td>
+<td>Página abre sem erros no ponta a ponta; tecla U ok. Lojas/arenas do Godot não jogadas por robô de teste.</td>
+</tr>
+<tr>
+<td>Mundos</td>
+<td>Robô físico (braço/LEGO com câmera)</td>
+<td>parcial</td>
+<td>25%</td>
+<td>t12: só a simulação com motores desarmados, DESLIGADO. Falta o Bruno decidir o hardware (OpenBot ou outro).</td>
+</tr>
+<tr>
+<td>Save</td>
+<td>Save com posição</td>
+<td>completo</td>
+<td>100%</td>
+<td>4/4 testes de ida e volta.</td>
+</tr>
+<tr>
+<td>Porta</td>
+<td>Porta do Grok pública (site estático)</td>
+<td>completo</td>
+<td>100%</td>
+<td>Regenerada hoje com filtro PROIBIDO e gitleaks.</td>
+</tr>
+<tr>
+<td>Porta</td>
+<td>Porta IA 8792</td>
+<td>completo</td>
+<td>100%</td>
+<td>t9: APOSENTADA em favor da Porta do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar.</td>
+</tr>
+<tr>
+<td>Celular</td>
+<td>App no celular</td>
+<td>parcial</td>
+<td>90%</td>
+<td>vc19 (1.15.0-carta20-t100u) instalado com install -r; o Planeta abre no app. Offline o Planeta 3D ainda precisa do PC.</td>
+</tr>
+<tr>
+<td>Conhecimento</td>
+<td>Enciclopédia das engrenagens</td>
+<td>completo</td>
+<td>95%</td>
+<td>App, repo, Drive e Porta batem (só acréscimo).</td>
+</tr>
+<tr>
+<td>Conhecimento</td>
+<td>Cartas e diários por autor/tema/data (t6)</td>
+<td>parcial</td>
+<td>90%</td>
+<td>1029 cartas; filtro por autor (copiloto 317) e por data (617) testados. Falta o Bruno revisar os temas.</td>
+</tr>
+<tr>
+<td>Organização</td>
+<td>Drive, Manual v5, atalhos, backups, CONTINUAR_DAQUI</td>
+<td>completo</td>
+<td>95%</td>
+<td>Manual v5 no Drive; v1–v4 intactas.</td>
+</tr>
+<tr>
+<td>Organização</td>
+<td>Segurança: nada apagado, segredos só por caminho</td>
+<td>completo</td>
+<td>95%</td>
+<td>t14: COMO_EXECUTAR.md:10 mascarado (gera token na hora). O histórico do git continua com a linha antiga (não reescrevemos histórico). Auditoria destrutiva ok.</td>
+</tr>
+<tr>
+<td>Qualidade</td>
+<td>Teste ponta a ponta completo (P13 + t13)</td>
+<td>parcial</td>
+<td>90%</td>
+<td>tools/pc/TESTE_E2E_T100U.py: 40/40 no PC (PC 1600×900 e celular 412×915). Não cobre: Godot jogado, IA ligada, câmera real.</td>
+</tr>
+</tbody>
+</table>
+<h2>Ligar (t15)</h2>
+<p>LIGAR CARTA agora sobe 8790, 8791 e 8795 juntos e espera pelo relógio: 3,9 s → 2,8 s. A lentidão de antes (12:24 e 12:30) era a espera "60 s" que virava ~100 s quando o 8790 travava. O jeito antigo continua: LIGAR_CARTA.ps1 -EmSequencia.</p>
+<h2>O que só o Bruno pode fazer</h2>
+<p>(linha omitida no site público pelo filtro de privacidade)
+- Rodoviária 10/6: confirmar se o cálculo do t11 é o que você quer.
+- Robô físico: escolher o hardware (OpenBot ou outro).
+- Abrir o Ollama (e, se quiser, <code>ollama pull qwen2.5vl:3b</code>) para o olho local e as fontes ao vivo.
+(linha omitida no site público pelo filtro de privacidade)</p><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 15:08 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
