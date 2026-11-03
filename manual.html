@@ -1,8 +1,9 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Manual de Tudo da CARTA (v3, 02/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Manual de Tudo da CARTA (v3, 02/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Manual de Tudo da CARTA (v3, 02/11/2026)</h1><h1>📘 MANUAL DE TUDO DA CARTA</h1>
-<p><strong>Manual e orientações · versão 3, de 02/11/2026 ~21h10 (horário de Brasília)</strong>
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Manual de Tudo da CARTA (v4, 03/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Manual de Tudo da CARTA (v4, 03/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Manual de Tudo da CARTA (v4, 03/11/2026)</h1><h1>📘 MANUAL DE TUDO DA CARTA</h1>
+<p><strong>Manual e orientações · versão 4, de 03/11/2026 ~12h15 (horário de Brasília)</strong>
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.</p>
 <blockquote>
 <p>Regra deste manual: <strong>nada aqui foi inventado.</strong> Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito <strong>"não confirmado"</strong>. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.</p>
+<p><strong>Versão 4 (03/11):</strong> acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1.</p>
 <p><strong>Versão 3:</strong> a versão 1 (~20h30) foi escrita antes da varredura geral do PC sair. A versão 2 (~20h45) já usou a <code>VARREDURA_GERAL_20261102.md</code>. Esta versão 3 traz também o passo a passo da Porta IA para um ChatGPT de fora (seção 2.7), o resumo dos portões e a numeração da passagem e dos checkpoints. As versões 1 e 2 continuam guardadas, com os nomes delas.</p>
 </blockquote>
 <hr />
@@ -15,7 +16,7 @@ Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer a
 <li><strong>Pra chamar outro agente</strong> (se a cota deste acabar): copia o texto da seção 14 e cola no chat novo.</li>
 <li><strong>Pra um ChatGPT de fora conversar com a Consciência:</strong> segue a seção 2.7, passo a passo.</li>
 </ol>
-<p><strong>Como está hoje (02/11, varredura):</strong></p>
+<p><strong>Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo:</strong></p>
 <ul>
 <li>Celular no app <strong>vc16 (1.12.0)</strong>, instalado por cima, <strong>com os dados intactos</strong>.</li>
 <li><strong>A Porta IA (8792) e o Ollama não ligam sozinhos.</strong> Pra Porta, veja a 2.7; pro Ollama, a 2.6.</li>
@@ -25,6 +26,25 @@ Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer a
 <li><strong>Numeração:</strong> na passagem de bastão, o próximo item livre é o <strong>Q</strong> (depois do P). O próximo CHECKPOINT é o <strong>30</strong>.</li>
 </ul>
 <p>Três coisas que valem pra sempre: <strong>nada se apaga, tudo só ganha coisa nova.</strong> Antes de trocar qualquer arquivo, faz backup. E o <code>D:\MEU ROBO\JOGO</code> <strong>nunca</strong> se mexe.</p>
+<hr />
+<h2>0.1 Novidades de 03/11 (vale mais que a lista de 02/11)</h2>
+<ul>
+<li><strong>Ligar e desligar:</strong> dois atalhos na Área de Trabalho, <strong>LIGAR CARTA</strong> e <strong>DESLIGAR CARTA</strong>. Nada liga sozinho com o Windows (de propósito).
+  Memória medida: desligado ~7,4 GB · ligado ~9,4 GB · pico no teste ~11 GB (de 31,9 GB).</li>
+<li><strong>Celular:</strong> app <strong>vc17 (1.13.0)</strong>, instalado por cima, dados intactos. <strong>Nunca instalar versão menor que 17.</strong></li>
+<li><strong>Portões antigos:</strong> a, b, c, d, e, f e h <strong>ligados</strong>; g (APK automático) <strong>desligado de propósito</strong>.</li>
+<li><strong>Portões T95U</strong> (lista em <code>docs/CARTA20/PORTOES_T95U.md</code>): 10 portões, um por PR, cada um com teste e flag própria.</li>
+<li><strong>g1 — gráficos estilo Witcher 3 / Baldur's Gate 3</strong> no Planeta: abra o Planeta com <code>?atmosfera=ultra</code> (ou <code>medio</code>/<code>alto</code>).
+    Sem nada (ou <code>baixo</code>) fica <strong>igual ao de antes</strong>. FPS medido no PC ~118-120 em todos.</li>
+<li><strong>Mapa do herói (inspirado em Heroes of Might and Magic 3):</strong> abra o Planeta com <code>?heroi=1</code>. A câmera vai pro alto
+    como mapa-mundo e um herói a cavalo anda até onde você clicar no chão. Roda do mouse = zoom; botão "sair" volta.</li>
+<li>g2 a g10: ainda por fazer (veja <code>PORTOES_T95U.md</code>).
+(linha omitida no site público pelo filtro de privacidade)
+  Teste de 03/11 deu <strong>erro 402 (cobrança/cota do Google)</strong>; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança.</li>
+<li><strong>Voz Piper:</strong> ainda sem áudio (pendente).</li>
+<li><strong>Se a sessão cair:</strong> abra <code>D:\CARTA\CONTINUAR_DAQUI.txt</code> — diz o estado exato e o próximo passo.</li>
+<li><strong>Numeração:</strong> passagem de bastão já vai até o item <strong>W</strong>; o próximo CHECKPOINT é o <strong>37</strong>.</li>
+</ul>
 <hr />
 <h2>1. O que é a CARTA</h2>
 <p>A CARTA é o seu laboratório pessoal. É um programa que roda no seu PC (Windows, o <strong>BRUNOGTAVI</strong>): um servidor local em Python mais um monte de páginas web. Lá dentro tem:</p>
@@ -817,4 +837,4 @@ e a Porta IA 8792 não ligam sozinhos (manual, seções 2.6 e 2.7). Portões fec
 <li>Os cartões do Início (<code>src/carta/webdist/inicio.html</code>).</li>
 <li>Os CHECKPOINTs 20 a 29 em <code>D:\CARTA\ANOTACOES\CARTA20</code>, o catálogo do Drive de 02/11 e o mapa 00_LEIA_PRIMEIRO.</li>
 <li><strong>A varredura geral do PC:</strong> <code>D:\CARTA\ANOTACOES\CARTA20\VARREDURA_GERAL_20261102.md</code> (02/11 ~20h30). Usada nas versões 2 e 3.</li>
-</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 09:27 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
+</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 12:10 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>

@@ -1,0 +1,160 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Portões T95U (03/11/2026): gráficos, mundos, personagens · CARTA (Porta do Grok)</title><meta name="description" content="Portões T95U (03/11/2026): gráficos, mundos, personagens"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Portões T95U (03/11/2026): gráficos, mundos, personagens</h1><h1>PORTÕES T95U — 10 portões de design pontilhado (03/11/2026)</h1>
+<p>Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge
+<code>--merge</code> · flags <strong>desligadas por padrão</strong> até o teste do portão passar · nada na inicialização do Windows.</p>
+<p>Flags: <code>CARTA_T95U="g1,g2"</code> · arquivo <code>&lt;workspace&gt;/t95u_flags.json</code> <code>{"t95u_g1_atmosfera": true}</code> · numa aba <code>?t95u=g1</code>
+(<code>?t95u=0</code> desliga). Rotas (só dono): <code>GET /api/t89u/t95u/flags</code>, <code>GET /api/t89u/t95u/portoes</code>.
+Código: <code>src/carta/t95u/</code> (catálogo + flags) · teste do esqueleto: <code>tests/test_t95u_portoes.py</code>.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>id</th>
+<th>flag</th>
+<th>portão</th>
+<th>critério booleano (todos têm que ser verdade)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>g1</td>
+<td>t95u_g1_atmosfera</td>
+<td><strong>Gráficos estilo The Witcher 3 / Baldur's Gate 3</strong> (prioridade nº 1, t96u)</td>
+<td>baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença anotada; FPS por preset + fotos antes/depois</td>
+</tr>
+<tr>
+<td>2</td>
+<td>g2</td>
+<td>t95u_g2_planeta</td>
+<td>Planeta repaginado</td>
+<td>chegada cinematográfica; HUD ≤ 6 botões; nada removido (vai pro ☰); URLs antigas 200</td>
+</tr>
+<tr>
+<td>3</td>
+<td>g3</td>
+<td>t95u_g3_fauna</td>
+<td>Fauna viva</td>
+<td>≥ 6 espécies; instanciada (≤ 2 ms/quadro no alto); flag off = igual</td>
+</tr>
+<tr>
+<td>4</td>
+<td>g4</td>
+<td>t95u_g4_bacterias</td>
+<td>Bactérias / microscópio</td>
+<td>abre/fecha com 1 botão; crescimento determinístico testado; simulador intacto</td>
+</tr>
+<tr>
+<td>5</td>
+<td>g5</td>
+<td>t95u_g5_miniterra</td>
+<td>Recursos da Mini Terra no Planeta</td>
+<td>cada recurso acessível no Planeta; Mini Terra continua 200; nada apagado/movido</td>
+</tr>
+<tr>
+<td>6</td>
+<td>g6</td>
+<td>t95u_g6_dois_planetas</td>
+<td>Dois planetas (Natural / Jogo do Bruno)</td>
+<td>cópia de <code>D:\MEU ROBO\JOGO</code> com hash conferido, original só leitura; save por planeta</td>
+</tr>
+<tr>
+<td>7</td>
+<td>g7</td>
+<td>t95u_g7_companheiros3d</td>
+<td>Companheiros em 3D</td>
+<td>os 2 não controlados seguem em 3D; evento <code>carta:personagem</code>; Aventura igual</td>
+</tr>
+<tr>
+<td>8</td>
+<td>g8</td>
+<td>t95u_g8_fogueira3d</td>
+<td>Fogueira em 3D</td>
+<td>luz + partículas; ▶/⏸/✖; FPS ≥ preset − 10%</td>
+</tr>
+<tr>
+<td>(linha omitida no site público pelo filtro de privacidade)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>g10</td>
+<td>t95u_g10_celular</td>
+<td>Celular premium + autoteste</td>
+<td>versionCode &gt; 17; instala por cima sem apagar dados; autoteste dos 5 ambientes</td>
+</tr>
+</tbody>
+</table>
+<h2>Portão g1 — o que cada preset liga (presets medidos do portão f: <code>window.CARTA_PRESET</code>)</h2>
+<table>
+<thead>
+<tr>
+<th>recurso</th>
+<th>baixo</th>
+<th>médio</th>
+<th>alto</th>
+<th>ultra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>renderizador / cena</td>
+<td><strong>igual a hoje</strong></td>
+<td>ACES + exposição</td>
+<td>ACES</td>
+<td>ACES</td>
+</tr>
+<tr>
+<td>PBR com HDRI CC0 (reflexos)</td>
+<td>–</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>céu dinâmico (Sky físico, segue o sol do dia/noite)</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>vegetação instanciada (grama densa com LOD por distância)</td>
+<td>–</td>
+<td>–</td>
+<td>12 mil</td>
+<td>40 mil</td>
+</tr>
+<tr>
+<td>água com reflexo (env map + rugosidade baixa)</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>sombras suaves (PCF soft, 4096)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>névoa volumétrica (altura + luz do sol, pós)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>bloom · SSAO · color grading · tone mapping no pós</td>
+<td>–</td>
+<td>–</td>
+<td>bloom</td>
+<td>todos</td>
+</tr>
+</tbody>
+</table>
+<p>Assets: só CC0 — Poly Haven (HDRI) e ambientCG; licença de cada um em <code>web/public/t95u/LICENCAS.md</code>.</p><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 12:10 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>

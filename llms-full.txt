@@ -44107,13 +44107,15 @@ Não confundir 615 fenômenos catalogados localmente com 615 fatos globalmente d
 
 O livro é a porta; os originais continuam a prova documental. A história verificada de cada fonte depende da abrangência real do chat que a escreveu.
 
-===== Manual de Tudo da CARTA (v3, 02/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
+===== Manual de Tudo da CARTA (v4, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
 # 📘 MANUAL DE TUDO DA CARTA
 
-**Manual e orientações · versão 3, de 02/11/2026 ~21h10 (horário de Brasília)**
+**Manual e orientações · versão 4, de 03/11/2026 ~12h15 (horário de Brasília)**
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.
 
 > Regra deste manual: **nada aqui foi inventado.** Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito **"não confirmado"**. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.
+>
+> **Versão 4 (03/11):** acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1.
 >
 > **Versão 3:** a versão 1 (~20h30) foi escrita antes da varredura geral do PC sair. A versão 2 (~20h45) já usou a `VARREDURA_GERAL_20261102.md`. Esta versão 3 traz também o passo a passo da Porta IA para um ChatGPT de fora (seção 2.7), o resumo dos portões e a numeração da passagem e dos checkpoints. As versões 1 e 2 continuam guardadas, com os nomes delas.
 
@@ -44129,7 +44131,7 @@ Mano, este é o mapa de tudo. Você não precisa decorar nada. Se um dia não ti
 4. **Pra chamar outro agente** (se a cota deste acabar): copia o texto da seção 14 e cola no chat novo.
 5. **Pra um ChatGPT de fora conversar com a Consciência:** segue a seção 2.7, passo a passo.
 
-**Como está hoje (02/11, varredura):**
+**Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo:**
 
 - Celular no app **vc16 (1.12.0)**, instalado por cima, **com os dados intactos**.
 - **A Porta IA (8792) e o Ollama não ligam sozinhos.** Pra Porta, veja a 2.7; pro Ollama, a 2.6.
@@ -44139,6 +44141,26 @@ Mano, este é o mapa de tudo. Você não precisa decorar nada. Se um dia não ti
 - **Numeração:** na passagem de bastão, o próximo item livre é o **Q** (depois do P). O próximo CHECKPOINT é o **30**.
 
 Três coisas que valem pra sempre: **nada se apaga, tudo só ganha coisa nova.** Antes de trocar qualquer arquivo, faz backup. E o `D:\MEU ROBO\JOGO` **nunca** se mexe.
+
+---
+
+## 0.1 Novidades de 03/11 (vale mais que a lista de 02/11)
+
+- **Ligar e desligar:** dois atalhos na Área de Trabalho, **LIGAR CARTA** e **DESLIGAR CARTA**. Nada liga sozinho com o Windows (de propósito).
+  Memória medida: desligado ~7,4 GB · ligado ~9,4 GB · pico no teste ~11 GB (de 31,9 GB).
+- **Celular:** app **vc17 (1.13.0)**, instalado por cima, dados intactos. **Nunca instalar versão menor que 17.**
+- **Portões antigos:** a, b, c, d, e, f e h **ligados**; g (APK automático) **desligado de propósito**.
+- **Portões T95U** (lista em `docs/CARTA20/PORTOES_T95U.md`): 10 portões, um por PR, cada um com teste e flag própria.
+  - **g1 — gráficos estilo Witcher 3 / Baldur's Gate 3** no Planeta: abra o Planeta com `?atmosfera=ultra` (ou `medio`/`alto`).
+    Sem nada (ou `baixo`) fica **igual ao de antes**. FPS medido no PC ~118-120 em todos.
+  - **Mapa do herói (inspirado em Heroes of Might and Magic 3):** abra o Planeta com `?heroi=1`. A câmera vai pro alto
+    como mapa-mundo e um herói a cavalo anda até onde você clicar no chão. Roda do mouse = zoom; botão "sair" volta.
+  - g2 a g10: ainda por fazer (veja `PORTOES_T95U.md`).
+(linha omitida no site público pelo filtro de privacidade)
+  Teste de 03/11 deu **erro 402 (cobrança/cota do Google)**; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança.
+- **Voz Piper:** ainda sem áudio (pendente).
+- **Se a sessão cair:** abra `D:\CARTA\CONTINUAR_DAQUI.txt` — diz o estado exato e o próximo passo.
+- **Numeração:** passagem de bastão já vai até o item **W**; o próximo CHECKPOINT é o **37**.
 
 ---
 
@@ -45005,6 +45027,44 @@ S6 Teste final rápido + prints; reportar.
 - S4 ✅ 🎙️ ao lado de qualquer campo de digitar (Whisper local); "abrir livro/consciência/Faísca…" navega.
 - S5 ◐ botão ⛶ tela cheia no Livro, mentes e Consciência. Falta: grafo do Livro no estilo das mentes.
 - Pendente: fala longa ainda sai curta às vezes (o modelo pequeno ignora o pedido de tamanho).
+
+===== Portões T95U (03/11/2026): gráficos, mundos, personagens (https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html) =====
+# PORTÕES T95U — 10 portões de design pontilhado (03/11/2026)
+
+Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge
+`--merge` · flags **desligadas por padrão** até o teste do portão passar · nada na inicialização do Windows.
+
+Flags: `CARTA_T95U="g1,g2"` · arquivo `<workspace>/t95u_flags.json` `{"t95u_g1_atmosfera": true}` · numa aba `?t95u=g1`
+(`?t95u=0` desliga). Rotas (só dono): `GET /api/t89u/t95u/flags`, `GET /api/t89u/t95u/portoes`.
+Código: `src/carta/t95u/` (catálogo + flags) · teste do esqueleto: `tests/test_t95u_portoes.py`.
+
+| # | id | flag | portão | critério booleano (todos têm que ser verdade) |
+|---|----|------|--------|-----------------------------------------------|
+| 1 | g1 | t95u_g1_atmosfera | **Gráficos estilo The Witcher 3 / Baldur's Gate 3** (prioridade nº 1, t96u) | baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença anotada; FPS por preset + fotos antes/depois |
+| 2 | g2 | t95u_g2_planeta | Planeta repaginado | chegada cinematográfica; HUD ≤ 6 botões; nada removido (vai pro ☰); URLs antigas 200 |
+| 3 | g3 | t95u_g3_fauna | Fauna viva | ≥ 6 espécies; instanciada (≤ 2 ms/quadro no alto); flag off = igual |
+| 4 | g4 | t95u_g4_bacterias | Bactérias / microscópio | abre/fecha com 1 botão; crescimento determinístico testado; simulador intacto |
+| 5 | g5 | t95u_g5_miniterra | Recursos da Mini Terra no Planeta | cada recurso acessível no Planeta; Mini Terra continua 200; nada apagado/movido |
+| 6 | g6 | t95u_g6_dois_planetas | Dois planetas (Natural / Jogo do Bruno) | cópia de `D:\MEU ROBO\JOGO` com hash conferido, original só leitura; save por planeta |
+| 7 | g7 | t95u_g7_companheiros3d | Companheiros em 3D | os 2 não controlados seguem em 3D; evento `carta:personagem`; Aventura igual |
+| 8 | g8 | t95u_g8_fogueira3d | Fogueira em 3D | luz + partículas; ▶/⏸/✖; FPS ≥ preset − 10% |
+(linha omitida no site público pelo filtro de privacidade)
+| 10 | g10 | t95u_g10_celular | Celular premium + autoteste | versionCode > 17; instala por cima sem apagar dados; autoteste dos 5 ambientes |
+
+## Portão g1 — o que cada preset liga (presets medidos do portão f: `window.CARTA_PRESET`)
+
+| recurso | baixo | médio | alto | ultra |
+|---|---|---|---|---|
+| renderizador / cena | **igual a hoje** | ACES + exposição | ACES | ACES |
+| PBR com HDRI CC0 (reflexos) | – | ✓ | ✓ | ✓ |
+| céu dinâmico (Sky físico, segue o sol do dia/noite) | – | – | ✓ | ✓ |
+| vegetação instanciada (grama densa com LOD por distância) | – | – | 12 mil | 40 mil |
+| água com reflexo (env map + rugosidade baixa) | – | – | ✓ | ✓ |
+| sombras suaves (PCF soft, 4096) | – | – | – | ✓ |
+| névoa volumétrica (altura + luz do sol, pós) | – | – | – | ✓ |
+| bloom · SSAO · color grading · tone mapping no pós | – | – | bloom | todos |
+
+Assets: só CC0 — Poly Haven (HDRI) e ambientCG; licença de cada um em `web/public/t95u/LICENCAS.md`.
 
 ===== Análise do PR #99 (Olhos Vivos, Copiloto) (https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html) =====
 # Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026)
