@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://espirrosaga2020-tech.github.io/carta-porta/sitemap.xml

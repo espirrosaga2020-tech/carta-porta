@@ -1,0 +1,74 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Análise do PR #99 (Olhos Vivos, Copiloto) · CARTA (Porta do Grok)</title><meta name="description" content="Análise do PR #99 (Olhos Vivos, Copiloto)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Análise do PR #99 (Olhos Vivos, Copiloto)</h1><h1>Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026)</h1>
+<p>Feita pelo Grok Bot em 03/11/2026 (tarefa t94u). <strong>O PR #99 não foi mesclado, nem fechado, nem alterado.</strong>
+O que serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto.</p>
+<h2>O que o #99 traz</h2>
+<p>Pasta <code>experimentos/olhos_vivos_20261103/</code> (rascunho):
+- <code>CARTA_AO_GROKBOT.md</code> — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo.
+- <code>contratos.py</code> — <code>Modo</code>, <code>Natureza</code> (observado/inferido/desconhecido), <code>Permissoes(camera, microfone, nuvem)</code>,
+  <code>Observacao</code> (com limites de tamanho e fuso obrigatório) e <code>EstadoCaptura.indicador()</code>.
+- <code>motor_eventos.py</code> — <code>comparar_objetos()</code> (o que apareceu/sumiu) e <code>MemoriaVisual</code> (curta, só em RAM, com prazo).
+- <code>test_motor_eventos.py</code> — 6 testes (unittest).</p>
+<h2>Comparação com o que já existia (portão h / t89u)</h2>
+<ul>
+<li><code>src/carta/t89u/visao_ao_vivo.py</code> já tinha: os dois modos (<code>olho_local</code> padrão, <code>olho_gemini</code> desligado sem chave),
+  limiar de mudança de cena, heartbeat, aviso de privacidade e volta automática pro Olho Local. <strong>Não tinha</strong> contrato de
+  observação, permissões explícitas nem memória do que foi visto. O #99 completa exatamente esse buraco.</li>
+<li>O JS <code>webdist/t89u/visao_ao_vivo.js</code> e <code>voz_tempo_real.js</code> são esqueletos (o Copiloto acertou: <code>ouvir()</code> devolve <code>null</code>).
+  Isso continua sendo trabalho dos portões c e h.</li>
+</ul>
+<h2>O que foi APROVEITADO</h2>
+<table>
+<thead>
+<tr>
+<th>Do #99</th>
+<th>Para onde foi</th>
+<th>Observação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>contratos.py</code> (Permissoes, Observacao, EstadoCaptura)</td>
+<td><code>src/carta/t89u/olhos_eventos.py</code></td>
+<td>crédito no cabeçalho do arquivo</td>
+</tr>
+<tr>
+<td><code>motor_eventos.py</code> (comparar_objetos, MemoriaVisual)</td>
+<td>mesmo arquivo</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>ideia "percepção por eventos, memória sem vídeo"</td>
+<td>base do portão h</td>
+<td>só descritores, nunca pixels</td>
+</tr>
+<tr>
+<td>critérios de aceite da carta</td>
+<td>testes <code>tests/test_t89u_olhos_eventos.py</code></td>
+<td>5 testes pytest</td>
+</tr>
+</tbody>
+</table>
+<h2>O que foi MELHORADO</h2>
+<ol>
+<li><strong>Limite por sessão de verdade.</strong> No original havia uma fila só, com <code>maxlen</code> global: uma conversa movimentada
+   empurrava as observações da outra pra fora (o docstring dizia "por sessão", o código não fazia). Agora cada sessão tem a sua fila.</li>
+<li><strong>Relógio injetável.</strong> Os testes não dependem da hora real (o original usava <code>datetime.now</code> e era frágil).</li>
+<li><strong>Modos reaproveitados</strong> de <code>visao_ao_vivo.MODOS</code> — um lugar só define os nomes (nada duplicado nem trocado).</li>
+<li><code>Permissoes.permite()</code> recusa modo desconhecido; <code>Observacao</code> valida <code>natureza</code>.</li>
+<li><code>MemoriaVisual.resumo()</code> para a persona dizer o que viu por último; <code>Mudanca.houve</code>.</li>
+<li><code>adicionar()</code> responde <code>True/False</code> (aceitou ou era velha demais).</li>
+</ol>
+<h2>O que foi DESCARTADO (e por quê)</h2>
+<ul>
+<li><strong>Enums <code>Modo</code>/<code>Natureza</code> como classes</strong>: trocados por tuplas de texto já usadas no t89u (mesmo comportamento, sem duplicar).</li>
+<li><strong>Rodar o laboratório dentro de <code>experimentos/</code></strong>: o código foi para <code>src/carta/t89u/</code> (onde o resto dos portões mora); a pasta do #99 fica só no rascunho.</li>
+<li><strong>Mexer na Porta antiga (8792)</strong> — a carta apontou duas coisas reais, mas o Bruno pediu que a Porta antiga fique como está:</li>
+<li><code>tools/porta_ia_bridge.py</code> usa 8791 como padrão se rodar sem variável (o <code>tools/iniciar_porta_ia.cmd</code> já põe 8792, então na prática está certo);</li>
+<li>a ponte mostra o segredo no terminal local ao ligar (só no PC, não vai pra rede). Fica registrado como recomendação, sem alteração.</li>
+<li><strong>Rota POST de turno de voz</strong> que falta: não é visão; entra no portão c (voz), não aqui.</li>
+</ul>
+<h2>Outros rascunhos do Copiloto do mesmo dia</h2>
+<p>Os PRs #98 (<code>experimentos/visao_viva_copiloto/</code>) e #100 (<code>experimentos/copiloto_visao_viva/</code>) tratam do mesmo tema.
+Não foram pedidos nesta tarefa; ficam intocados e podem ser lidos quando o portão h for completado.</p>
+<h2>Estado</h2>
+<p>Nada ligado em tela ainda. O módulo novo é puro (sem câmera, rede ou disco). O portão h continua desligado por flag.</p><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 09:27 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>

@@ -1,0 +1,47 @@
+# CARTA — Porta do Grok
+
+> Site público e só de leitura do projeto CARTA (Bruno Henry): enciclopédia das engrenagens, manual, mapa do código, portões e estado atual.
+
+## Comece aqui
+- [Para IAs](https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html)
+- [Tudo num arquivo só](https://espirrosaga2020-tech.github.io/carta-porta/llms-full.txt)
+
+## Enciclopédia
+- [Índice](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html)
+- [Livro Mestre](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html)
+- [Fichas](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html)
+- [EG001 — Calçada, Caderno e DUNADA](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG001.html)
+- [EG002 — Calçada e continuidade portátil](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG002.html)
+- [EG003 — Calçada, Sofisticado, Grafo e Rocky](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG003.html)
+- [EG004 — Central, Copiloto e Atlas](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG004.html)
+- [EG005 — Chat da Liberdade: POE2 e autonomia](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG005.html)
+- [EG006 — Checkpoint e entrada no sonho](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG006.html)
+- [EG007 — Continuidade Limpa de Meu Robô](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG007.html)
+- [EG008 — Tamagotchi e continuidade conversacional](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG008.html)
+- [EG009 — Bard, Corpo e a própria Conversa](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG009.html)
+- [EG010 — Derivada da Paz](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG010.html)
+- [EG011 — Entra no Sonho](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG011.html)
+- [EG012 — Grafo e Humanidade](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG012.html)
+- [EG013 — Grafos São — Atlas C.03](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG013.html)
+- [EG014 — Grafos São — origem e desenvolvimento](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG014.html)
+- [EG015 — Pai do Grafo e Rigor](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG015.html)
+- [EG016 — Humanidade e Amiguiá: continuidade de Meu Robô](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG016.html)
+- [EG017 — Humanidade/Amiguiá — Entrada no Sonho](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG017.html)
+- [EG018 — Linguagem, Observação e Consciência](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG018.html)
+- [EG019 — Meu Robô — Copiloto e Máquina de Laranja](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG019.html)
+- [EG020 — Nova Batcaverna](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG020.html)
+- [EG021 — Paz e Central — Kamonson](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG021.html)
+- [EG022 — Paz, Central e Continuidade de Meu Robô](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG022.html)
+- [EG023 — Paz — Linguagem e Continuidade](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG023.html)
+- [EG024 — POE2 — Gulosona e Árvore de Attack Speed](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG024.html)
+- [EG025 — POE2 — Milton e Value Engineering](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG025.html)
+- [EG026 — Reciprocidade e Memória Persistente](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG026.html)
+- [EG027 — SPA — Ping-pong Cognitivo](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG027.html)
+
+## Documentos
+- [Manual de Tudo da CARTA (v3, 02/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/manual.html)
+- [Portões booleanos t89u (critérios e estado)](https://espirrosaga2020-tech.github.io/carta-porta/portoes.html)
+- [Estado atual — varredura geral (02/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/estado.html)
+- [Portões anteriores (21/10/2026)](https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html)
+- [Análise do PR #99 (Olhos Vivos, Copiloto)](https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html)
+- [Mapa de pastas e código](https://espirrosaga2020-tech.github.io/carta-porta/mapa.html)

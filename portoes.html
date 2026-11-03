@@ -1,0 +1,131 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok)</title><meta name="description" content="Portões booleanos t89u (critérios e estado)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Portões booleanos t89u (critérios e estado)</h1><h1>PORTÕES T89U — desenho pontilhado (Portão 1 = esqueleto)</h1>
+<p>Ordem do Bruno t89u/t90u (02/11/2026). Método: o <strong>Portão 1</strong> desenha TODO o projeto (a) a (h) como esqueleto —
+arquitetura, arquivos/módulos, interfaces, flags DESLIGADAS por padrão e critério booleano de cada portão — sem estragar o atual.
+Os portões seguintes só preenchem a tecnologia, cada um com teste próprio.</p>
+<h2>Arquitetura</h2>
+<pre><code>navegador (planeta, inicio, mundo3d, planeta-godot, meu-robo-planeta)
+  └─ /t89u/t89u.js  carregador: lê /api/t89u/flags (dono) ou ?t89u=b,c (só a aba); ?t89u=0 desliga
+       └─ /t89u/&lt;modulo&gt;.js  só carrega se a flag do portão estiver LIGADA; registra instalar(ctx)/estado()
+servidor 127.0.0.1:8790 (lab_server.py)
+  └─ /api/t89u/*  → src/carta/t89u/rotas.py  (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada;
+                     visitante 403; POST com a mesma checagem de Host/Origin)
+       ├─ catalogo.py  (fonte única dos portões)   ├─ flags.py (CARTA_T89U=a,b  ou  &lt;workspace&gt;/t89u_flags.json)
+       └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py
+</code></pre>
+<p>Portões ligados por padrão (já aprovados): <strong>a</strong> e <strong>b</strong>. Os outros seguem desligados.
+Como ligar um portão (dono, no PC): <code>&lt;workspace&gt;/t89u_flags.json</code> com <code>{"t89u_b_save_posicao": true}</code> ou a variável <code>CARTA_T89U=b</code>.
+Teste numa aba só: <code>http://127.0.0.1:8790/planeta.html?t89u=b</code>.</p>
+<h2>Critério do Portão 1 (esqueleto) — FECHA quando tudo for verdadeiro</h2>
+<ul>
+<li>[x] (a)…(h) catalogados em <code>src/carta/t89u/catalogo.py</code> e neste documento</li>
+<li>[x] cada portão tem módulo Python importável, interface e (quando tem tela) módulo JS em <code>webdist/t89u/</code></li>
+<li>[x] todas as flags começam desligadas; rotas dos portões respondem 404 <code>portao_desligado</code></li>
+<li>[x] as 5 páginas carregam só o carregador (sem efeito com flags desligadas); arquivos novos no MANIFESTO_WEBDIST</li>
+<li>[x] nada apagado/movido; capturas do Planeta principal antes/depois iguais em painéis e botões</li>
+<li>[x] testes: <code>tests/test_t89u_portao1.py</code> + suíte do box verde + CI verde</li>
+</ul>
+<h2>Portões</h2>
+<h3>Portão a — Organização: Bastidores/Dev só do dono; Planeta principal em destaque</h3>
+<ul>
+<li>flag: <code>t89u_a_bastidores</code> (<strong>LIGADA por padrão desde 02/11/2026</strong>, depois do teste; desliga com <code>{"t89u_a_bastidores": false}</code> em <code>&lt;workspace&gt;/t89u_flags.json</code>, ou só numa aba com <code>?t89u=0</code>)</li>
+<li>Python: <code>carta/t89u/bastidores.py</code> · JS: <code>webdist/t89u/bastidores.js</code></li>
+<li>API: <code>GET /api/t89u/bastidores</code> (visitante com ficha: 403)</li>
+<li>Status: <strong>FECHADO em 02/11/2026</strong> (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono)</li>
+<li>Como fica: o Início ganha um cartão NOVO e grande <strong>🌍 PLANETA · Terra Grande</strong> como primeiro da tela; o cartão antigo do Planeta continua no grupo dele com o selo "⭐ principal". Os cartões de teste Mini Terra (cTerra, cMiniTerra) e Mundo 3D (cMundo3D) saem da vitrine (só escondidos por CSS, continuam na página). No <strong>modo dono</strong> (botão no canto ou Ctrl+Shift+E) aparece o cartão <strong>🛠️ Bastidores (dev)</strong>, que abre a lista de páginas de teste e versões guardadas com link para cada uma. Esc ou ✖ fecha.</li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev</li>
+<li>[x] Bastidores só aparece no modo dono (carta20_modo)</li>
+<li>[x] Início mostra o Planeta principal como cartão em destaque</li>
+<li>[x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam respondendo 200</li>
+</ul>
+<h3>Portão b — SAVE do mundo com posição do jogador, DeLorean e coordenadas</h3>
+<ul>
+<li>flag: <code>t89u_b_save_posicao</code> (<strong>LIGADA por padrão desde 02/11/2026</strong>, depois do teste de ida e volta; desliga com <code>{"t89u_b_save_posicao": false}</code> em <code>&lt;workspace&gt;/t89u_flags.json</code>)</li>
+<li>Python: <code>carta/t89u/save_mundo.py</code> · JS: <code>webdist/t89u/save_posicao.js</code></li>
+<li>API: <code>POST /api/t89u/save/posicao</code>, <code>GET /api/t89u/save/posicao</code> (<code>?vinculo=&lt;pasta do salvamento&gt;</code>, <code>?lista=1</code>)</li>
+<li>Status: <strong>FECHADO em 02/11/2026</strong> (tests/test_t89u_portao_b.py + ida e volta no navegador: a pé, dentro do DeLorean, 📂 Retomar e pesquisador)</li>
+<li>Como usa: 💾 Mundo ▾ → 💾 Salvar grava também onde você (Dobra), o DeLorean e a câmera estão. 📂 Carregar → Retomar recoloca a posição daquele salvamento. Botão novo <strong>📍 Voltar onde salvei</strong> volta para a última posição salva.</li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[x] salvar grava jogador{x,y,z,yaw}, delorean{x,y,z,yaw,dentro}, coordenadas{lat,lon}, câmera/vista</li>
+<li>[x] ida e volta: carregar(salvar(E)) == E (teste automático)</li>
+<li>[x] carregar no Planeta recoloca jogador e DeLorean no lugar (captura antes/depois)</li>
+<li>[x] save antigo (sem bloco de posição) continua carregando</li>
+</ul>
+<h3>Portão c — Conversa por voz em tempo real em TODOS os ambientes (STT→IA→TTS)</h3>
+<ul>
+<li>flag: <code>t89u_c_voz_tempo_real</code> (desligada)</li>
+<li>Python: <code>carta/t89u/voz_tempo_real.py</code> · JS: <code>webdist/t89u/voz_tempo_real.js</code></li>
+<li>API: <code>GET /api/t89u/voz/status</code>, <code>POST /api/t89u/voz/turno</code></li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[ ] microfone em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta abre o mesmo pipeline</li>
+<li>[ ] STT (/api/ouvir) → IA (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde</li>
+<li>[ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (medido e registrado)</li>
+<li>[ ] sem STT/IA instalados: aviso claro e resposta de reserva, nunca silêncio</li>
+</ul>
+<h3>Portão d — Personagens: seletor de quem eu controlo; os outros são companheiros</h3>
+<ul>
+<li>flag: <code>t89u_d_personagens</code> (desligada)</li>
+<li>Python: <code>carta/t89u/personagens.py</code> · JS: <code>webdist/t89u/personagens.js</code></li>
+<li>API: <code>GET /api/t89u/personagens</code></li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[ ] seletor visível Dobra/Creuza/Copiloto; escolha persiste</li>
+<li>[ ] os dois não controlados seguem o jogador com função própria (pesquisa, guia, humor)</li>
+<li>[ ] a interface mostra quem faz o quê (etiqueta de função em cada um)</li>
+<li>[ ] Aventura continua funcionando com a Dobra como padrão</li>
+</ul>
+<h3>Portão e — Fogueira / Cinema Vivo: menos confuso, mais entretenimento</h3>
+<ul>
+<li>flag: <code>t89u_e_cinema</code> (desligada)</li>
+<li>Python: <code>carta/t89u/cinema.py</code> · JS: <code>webdist/t89u/cinema.js</code></li>
+<li>API: <code>GET /api/t89u/cinema/cenas</code></li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[ ] roteiro de cenas com começo-meio-fim e legenda clara</li>
+<li>[ ] personagens aparecem como homenagem estilizada (comida, anões, bardo, feiticeira, bruxo, sobrevivente) — formas próprias, sem assets/nomes protegidos no código de arte</li>
+<li>[ ] um botão inicia, pausa e sai; nada de painel confuso</li>
+<li>[ ] FPS durante a cena ≥ preset escolhido − 10%</li>
+</ul>
+<h3>Portão f — Gráficos: medir a máquina e subir o nível com presets</h3>
+<ul>
+<li>flag: <code>t89u_f_graficos</code> (desligada)</li>
+<li>Python: <code>carta/t89u/graficos.py</code> · JS: <code>webdist/t89u/graficos.js</code></li>
+<li>API: <code>GET /api/t89u/graficos/presets</code>, <code>POST /api/refino/fps (já existe)</code></li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[ ] benchmark mede FPS e escolhe preset (baixo/médio/alto/ultra) sozinho</li>
+<li>[ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e vegetação melhores</li>
+<li>[ ] FPS medido por preset gravado em refino_fps.jsonl</li>
+<li>[ ] preset 'baixo' = visual atual (nada piora no PC fraco/celular)</li>
+</ul>
+<h3>Portão g — APK novo só no final, versionCode maior</h3>
+<ul>
+<li>flag: <code>t89u_g_apk</code> (desligada)</li>
+<li>Python: <code>carta/t89u/apk.py</code></li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[x] versionCode novo &gt; 15 (nunca rebaixa) — vc16 "1.12.0-carta20-t89u" (02/11)</li>
+<li>[x] gerado só quando o Bruno pedir para instalar no celular — pedido t93u (02/11)</li>
+<li>[x] APK assinado igual ao anterior e com sha256 anotado — mesmo certificado do vc15; sha256 0A4DAF63…3861</li>
+<li>estado 02/11: APK FEITO e instalado com <code>adb install -r</code> (dados preservados). O projeto Android fica no PC
+  (<code>D:\CARTA\BUILD_APK_1.12.0</code>), não no repo; a flag <code>t89u_g_apk</code> segue desligada (não muda nada no app).
+  Detalhes: <code>docs/CARTA20/VARREDURA_GERAL_20261102.md</code>.</li>
+</ul>
+<h3>Portão h — Visão ao vivo: câmera contínua + conversa (reservado)</h3>
+<ul>
+<li>flag: <code>t89u_h_visao_ao_vivo</code> (desligada)</li>
+<li>Python: <code>carta/t89u/visao_ao_vivo.py</code> · JS: <code>webdist/t89u/visao_ao_vivo.js</code></li>
+<li>API: <code>GET /api/t89u/visao/status</code></li>
+<li>pesquisa: <code>docs/CARTA20/PESQUISA_VISAO_AO_VIVO_CARTA.md</code></li>
+<li>critério booleano (todos verdadeiros para fechar):</li>
+<li>[ ] câmera contínua só com consentimento e indicador visível; desliga com um toque</li>
+<li>[ ] quadros processados LOCALMENTE por padrão; nada de foto salva sem pedir</li>
+<li>[ ] conversa por voz (portão c) comenta o que vê com latência medida</li>
+<li>[ ] detalhes técnicos preenchidos a partir da pesquisa paralela</li>
+</ul>
+<h3>Detalhes do Portão h — Visão ao vivo (da pesquisa)</h3>
+<ul>
+<li><strong>Um botão, dois modos.</strong> <code>olho_local</code> (padrão): Ollama <code>qwen2.5vl:3b</code> + OpenCV (só chama a IA quando a cena muda ou o Bruno fala, 1 quadro/s) + Piper pt-BR. Grátis, privado, nada sai do PC.
+(linha omitida no site público pelo filtro de privacidade)</li>
+<li>Aviso de privacidade sempre visível no modo Gemini: o tier grátis pode usar os dados para treinar; não mostrar documentos, senhas ou nada íntimo.</li>
+<li>Sem faturamento e sem criar chave por nós. Cota acabou/caiu → volta sozinho para o <code>olho_local</code>. Sessão com <code>session_resumption</code> + compressão de contexto; heartbeat ~15 s com foto + "o que mudou?".</li>
+<li>Celular: <code>adb reverse tcp:8790 tcp:8790</code>; a 8790 continua só em 127.0.0.1.</li>
+</ul>
+<h2>Ordem de preenchimento sugerida</h2>
+<p>b (SAVE, menor e com teste de ida e volta) → a (Bastidores) → d (Personagens) → c (Voz) → h (Visão, Olho Local primeiro) → e (Cinema) → f (Gráficos) → g (APK, só no fim e quando o Bruno pedir).</p><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 09:27 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
