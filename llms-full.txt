@@ -44107,13 +44107,15 @@ Não confundir 615 fenômenos catalogados localmente com 615 fatos globalmente d
 
 O livro é a porta; os originais continuam a prova documental. A história verificada de cada fonte depende da abrangência real do chat que a escreveu.
 
-===== Manual de Tudo da CARTA (v6, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
+===== Manual de Tudo da CARTA (v7, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
 # 📘 MANUAL DE TUDO DA CARTA
 
-**Manual e orientações · versão 6, de 03/11/2026 ~16h30 (horário de Brasília)**
+**Manual e orientações · versão 7, de 03/11/2026 ~18h30 (horário de Brasília)**
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.
 
 > Regra deste manual: **nada aqui foi inventado.** Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito **"não confirmado"**. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.
+>
+> **Versão 7 (03/11 noite):** acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela.
 >
 > **Versão 6 (03/11 fim da tarde):** acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Onde a 0.3 diz diferente, vale a 0.3. A versão 5 continua guardada com o nome dela.
 >
@@ -44167,6 +44169,18 @@ Três coisas que valem pra sempre: **nada se apaga, tudo só ganha coisa nova.**
 - **Numeração:** passagem de bastão já vai até o item **W**; o próximo CHECKPOINT é o **37**.
 
 ---
+
+## 0.4 Novidades de 03/11 à noite — T102U e T103U (vale mais que a 0.3)
+
+- **Planeta Godot (Porto Parafuso) dentro do app, sem PC.** Versão LEVE (texturas WebP com perda: pacote 154 → 38 MB). App agora **vc24 (1.18.2-carta20-t103u)**. **Piso agora = vc24** (Android não volta versão). Detalhes: `docs/CARTA20/CELULAR_SEM_CABO_T101U.md` (seções T102U e T103U).
+- **Você jogou com o dedo e aprovou** (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado.
+- **FPS do Godot no celular:** medido sem tocar na tela, pelo `adb logcat` (linha `CARTA_GODOT_FPS`): **3–4 FPS** no Porto Parafuso (Mi 9 Lite). Tirar MSAA e baixar a resolução do 3D não mudou; o próximo passo é perfilar a cena (ideias em `docs/CARTA20/PESQUISA_T101U.md`). O Planeta three.js continua a 58 FPS.
+- **Robô jogador do Godot:** `node tools\t103u\teste_godot_robo.mjs D:\CARTA\GODOT_WEB_LEVE\web_t103u_b` (precisa do Playwright e de uma porta livre, padrão 8799, só 127.0.0.1): pronto, relatório, WASD, arena, vitória e volta ao porto — 6 de 6 no export de 03/11.
+- **Consertos só na cópia** `D:\CARTA\GODOT_WEB_LEVE\proj` (o `D:\MEU ROBO\JOGO` nunca é mexido): `python tools\t103u\godot_leve_consertos.py D:\CARTA\GODOT_WEB_LEVE\proj` (BOM do `_fix_probe.tscn`, ponte do `workshop.gd`, filtro do export, comando "porto", linha de FPS e versão web mais leve). Pode rodar de novo: não muda nada da segunda vez.
+- **Mini Terra:** o botão de ritmo não entra mais em laço; o selo de qualidade não mostra mais "undefined" (T102U).
+- **Os arquivos do jogo não vão para o GitHub** (são grandes): ficam em `D:\CARTA\GODOT_WEB_LEVE\` e dentro do APK. Build do app: `D:\CARTA\BUILD_APK_1.18.0` com `-PcartaWebDist=D:\CARTA\BUILD_APK_1.18.0\webdist_t103u_b`. APKs antigos: `D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T103U\`.
+- **Continua DESLIGADO esperando você:** as 3 decisões da seção 0.2 (persona, pesos 10/6 da rodoviária, robô físico), Ollama e Gemini.
+- Diagnóstico dos sonhos: `docs/CARTA20/DIAGNOSTICO_SONHOS.md` — 86% nos 32 sonhos de antes; 84% contando o sonho novo da Robótica.
 
 ## 0.3 Novidades de 03/11 no fim da tarde — T101U (vale mais que a 0.2)
 
@@ -45283,9 +45297,9 @@ Sonho: Organização · flag: `—`
 ===== Diagnóstico dos Sonhos (03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html) =====
 # DIAGNÓSTICO DOS SONHOS — CARTA
 
-Atualizado em 03/11/2026 ~16:20 (horário de Brasília), depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).
+Atualizado em 03/11/2026 ~18:30 (horário de Brasília), depois da rodada T103U (Bruno jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s).
 
-**Geral: 85%** nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando). Contando o pedido NOVO (Robótica na Enciclopédia, 30% porque o conteúdo ainda vai chegar), são 33 itens e a média fica em **83%** — a nota caiu só porque entrou um sonho novo. Antes: 84% (15:20) e 69% (13:50).
+**Geral: 86%** nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando; média exata 85.8%). Contando o pedido NOVO (Robótica na Enciclopédia, 30% porque o conteúdo ainda vai chegar), são 33 itens e a média fica em **84%** (84.1%). Antes: 86% / 84% (17:05, médias exatas 85.5% / 83.8%), 85% / 83% (16:20), 84% (15:20) e 69% (13:50).
 
 (linha omitida no site público pelo filtro de privacidade)
 
@@ -45309,23 +45323,23 @@ Regra da nota: completo = funciona e foi testado; parcial = existe mas falta um 
 | Gráficos | Gráficos estilo Witcher 3 / BG3 (f + g1) | parcial | 85% | g1 ligado no preset medido; ?atmosfera=baixo volta. |
 | Gráficos | Mapa do herói estilo HoMM3 | parcial | 90% | Ligado; clique no chão = herói anda. |
 | Gráficos | Visual cyber/neon nas telas | completo | 100% | Em todas as telas; ✨ ou ?cyber=0 desliga. |
-| Planeta | Planeta repaginado: chegada + HUD + barra de baixo (g2 + t3) | parcial | 95% | Barra de baixo: 6 visíveis + 7 na gaveta; T101U: no app o botão "Mapa do herói" e as dicas 💡 descem para perto da barra de baixo (não cobrem mais o topo), visto no celular real. Falta: o selo de qualidade mostra "undefined · NN FPS" no app. |
+| Planeta | Planeta repaginado: chegada + HUD + barra de baixo (g2 + t3) | parcial | 98% | Barra de baixo: 6 visíveis + 7 na gaveta; T101U: no app o botão "Mapa do herói" e as dicas 💡 descem para perto da barra de baixo (não cobrem mais o topo), visto no celular real. T102U: o selo de qualidade não mostra mais "undefined": sem PC aparece "baixo (sem PC) · NN FPS" (tests/test_t102u.py roda o graficos.js de verdade no Node). Falta: sessão longa no celular. |
 | Planeta | Fauna viva (g3) | completo | 95% | LIGADO; 133 animais; FPS ok. |
 | Planeta | Navegação/escala por regiões (P7) | parcial | 90% | t4: 32 regiões, viagem testada no ponta a ponta (PC e celular). |
-| Mundos | Mini Terra dentro do Planeta (g5 + t2 Vale 3D) | completo | 95% | O Planeta é o astro: o Vale 3D (840 organismos, 2 habitantes, grade 32×24) abre dentro dele a 117–120 FPS. A Mini Terra antiga ficou guardada nos Bastidores. |
+| Mundos | Mini Terra dentro do Planeta (g5 + t2 Vale 3D) | completo | 97% | O Planeta é o astro: o Vale 3D (840 organismos, 2 habitantes, grade 32×24) abre dentro dele a 117–120 FPS. A Mini Terra antiga ficou guardada nos Bastidores. T102U: o botão de ritmo não entra mais em laço quando o servidor responde vazio (tenta 0,1 e cai para 1 uma vez só; testado no Node). |
 | Mundos | Dois planetas (cópia do JOGO, save por planeta, g6) | parcial | 85% | g6 LIGADO; original D:\MEU ROBO\JOGO só lido. |
-| Mundos | Meu Robô dentro do Planeta (t8) | parcial | 85% | T101U: robô de teste JOGOU loja, venda de sucata, compra, golpes na arena e save: 9/9 (tools/t101u/teste_meu_robo_lojas.py, emulação). Abre também no celular sem cabo. Falta: a versão Godot (Porto Parafuso) jogada por robô. |
+| Mundos | Meu Robô dentro do Planeta (t8) | parcial | 95% | T101U: robô de teste JOGOU loja, venda de sucata, compra, golpes na arena e save: 9/9 (tools/t101u/teste_meu_robo_lojas.py, emulação). Abre também no celular sem cabo. T102U: o Porto Parafuso (Godot) abre no celular em modo avião, sem PC. T103U: robô jogador do Godot (tools/t103u/teste_godot_robo.mjs, o MESMO export do APK, no navegador): pronto, relatório, WASD, arena, vitória e volta ao porto = 6/6; achou e consertou o comando "porto" (chamava go_city(), que não existe). Falta: robô jogando dentro do próprio celular (o adb não deixa tocar nesta tela). |
 | Mundos | Robô físico (braço/LEGO com câmera) | parcial | 25% | t12: só a simulação com motores desarmados, DESLIGADO. Falta o Bruno decidir o hardware (OpenBot ou outro). |
 | Save | Save com posição | completo | 100% | 4/4 testes de ida e volta. |
 | Porta | Porta do Grok pública (site estático) | completo | 100% | Regenerada hoje com filtro PROIBIDO e gitleaks. |
 | Porta | Porta IA 8792 | completo | 100% | t9: APOSENTADA em favor da Porta do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar. |
-| Celular | App no celular | parcial | 95% | T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/CELULAR_SEM_CABO_T101U.md). Falta: o Planeta Godot (147 MB) continua só no PC. |
+| Celular | App no celular | parcial | 99% | T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/CELULAR_SEM_CABO_T101U.md). T102U: vc21 (1.17.0-carta20-t102u, 82,6 MB) leva o Planeta Godot LEVE dentro (texturas WebP com perda: pck 154 → 38 MB); em modo avião o Porto Parafuso abriu e desenhou (WebGL 2) no celular real. T103U: **teste manual APROVADO** — o Bruno jogou o Godot com o dedo no vc21 ("ficou ótimo, consegui jogar"). FPS do Godot medido pelo `adb logcat` (linha CARTA_GODOT_FPS, sem tocar na tela, modo avião): **3–4 FPS** no Porto Parafuso (Mi 9 Lite, vc23 e vc24). O vc24 (1.18.2) tirou o MSAA e desenha o 3D em 60% só na versão web: não mudou (o gargalo não é a resolução). Falta: deixar o Godot mais rápido no celular (perfilar CPU/scripts da cena). |
 | Conhecimento | Enciclopédia das engrenagens | completo | 95% | App, repo, Drive e Porta batem (só acréscimo). |
 | Conhecimento | Cartas e diários por autor/tema/data (t6) | parcial | 90% | 1029 cartas; filtro por autor (copiloto 317) e por data (617) testados. Falta o Bruno revisar os temas. |
-| Organização | Drive, Manual v6, atalhos, backups, CONTINUAR_DAQUI | completo | 95% | Manual v6 (T101U); v1–v5 guardadas. |
+| Organização | Drive, Manual v7, atalhos, backups, CONTINUAR_DAQUI | completo | 95% | Manual v7 (T103U); v1–v6 guardadas. |
 | Organização | Segurança: nada apagado, segredos só por caminho | completo | 95% | t14: COMO_EXECUTAR.md:10 mascarado (gera token na hora). O histórico do git continua com a linha antiga (não reescrevemos histórico). Auditoria destrutiva ok. |
 | Conhecimento | Robótica na Enciclopédia (T101U) | parcial | 30% | Só a ESTRUTURA: pasta privada D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO com 5 gavetas + rota que lista nomes (docs/CARTA20/ROBOTICA_NA_ENCICLOPEDIA.md). O conteúdo são os arquivos do Bruno — nada inventado. |
-| Qualidade | Teste ponta a ponta completo (P13 + t13) | parcial | 90% | tools/pc/TESTE_E2E_T100U.py: 40/40 no PC (PC 1600×900 e celular 412×915). Não cobre: Godot jogado, IA ligada, câmera real. |
+| Qualidade | Teste ponta a ponta completo (P13 + t13) | parcial | 92% | tools/pc/TESTE_E2E_T100U.py: 40/40 no PC (PC 1600×900 e celular 412×915). T103U: o Godot é jogado à parte pelo robô (tools/t103u/teste_godot_robo.mjs, 6/6). Não cobre: IA ligada, câmera real. |
 
 ## Ligar (t15)
 LIGAR CARTA agora sobe 8790, 8791 e 8795 juntos e espera pelo relógio: 3,9 s → 2,8 s. A lentidão de antes (12:24 e 12:30) era a espera "60 s" que virava ~100 s quando o 8790 travava. O jeito antigo continua: LIGAR_CARTA.ps1 -EmSequencia.
@@ -45364,8 +45378,19 @@ Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (s
 
 ## Achados que viraram correção
 
+> **Atualização T102U (03/11/2026):** o laço do `aplicar(v)` foi corrigido em `terra.js` (no máximo uma troca para o ritmo normal; teste `tests/test_t102u.py` roda o código de verdade no Node). A etiqueta "🎨 undefined · FPS" do app também foi corrigida em `t89u/graficos.js`: sem PC mostra "🎨 baixo (sem PC) · N FPS" e não guarda esse valor.
+
 - `terra/terra.js` (linha ~301): `aplicar(v)` chama a si mesmo para sempre quando a resposta de `POST /api/terra/controle` não traz `velocidade` → 8.033 pedidos em 9 s na emulação. **No celular** o motor offline responde com `{velocidade, pausado}` e o laço não acontece. O arquivo do PC **não foi mexido** (regra: não trocar o que funciona) — fica anotado como pendência.
 - No app, o botão **"🐎 Mapa do herói · sair"** nascia em `top: 64px` e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido).
+
+**T102U (03/11 ~17h):** o "Godot dentro do APK" saiu na versão LEVE (texturas WebP com perda: pacote 154 → 38 MB, APK vc21 com 82,6 MB). No celular real, em modo avião, o jogo abriu e desenhou sem mexer no User-Agent nem na camada de hardware do app; as 3 armadilhas não apareceram neste aparelho. Detalhes em CELULAR_SEM_CABO_T101U.md.
+
+**T103U (03/11 ~18h30):** FPS do Godot leve no celular medido por `adb logcat` = **3–4 FPS** (Mi 9 Lite). Tirar MSAA e desenhar o 3D em 60% (só web) não mudou → não é a placa de vídeo enchendo pixels. Próximas ideias de código aberto (Godot, MIT), em ordem de custo:
+- **Perfilar primeiro:** rodar a mesma cena no navegador do PC com `Engine.get_frames_per_second()` + `Performance.get_monitor(TIME_PROCESS / TIME_PHYSICS_PROCESS / RENDER_TOTAL_DRAW_CALLS_IN_FRAME)` escritos na mesma linha `CARTA_GODOT_FPS` (só na cópia leve).
+- **Grama e árvores em MultiMeshInstance3D** e **visibility range (HLOD)** nos objetos longe; sombras direcionais desligadas no `.web`.
+- **`physics/common/physics_ticks_per_second.web=30`** e `max_physics_steps_per_frame` menor se o tempo de física dominar.
+- **Export com threads** (Godot 4.3+ precisa de COOP/COEP; no WebView do app isso exige servir os cabeçalhos pelo `WebViewAssetLoader`) — só se o perfil mostrar CPU de uma linha só no limite.
+Nada disso mexe no `D:\MEU ROBO\JOGO`; tudo na cópia `GODOT_WEB_LEVE`.
 
 ===== Celular sem cabo (app vc20, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html) =====
 # Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026
@@ -45390,6 +45415,32 @@ Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (s
 
 ## Backup
 - APK vc19: `D:\CARTA\BACKUPS\BACKUP_APK_ANTES_1.16.0_20261103\app-debug_vc19.apk`. Build antigo intacto em `D:\CARTA\BUILD_APK_1.15.0`.
+
+## T102U (03/11/2026 ~17h, horário de Brasília): Planeta Godot LEVE dentro do celular
+
+- **O que mudou:** o APK **vc21 (1.17.0-carta20-t102u, 82,6 MB)** leva uma versão leve do jogo Godot (Porto Parafuso) em `/godot_leve/`. Antes o jogo tinha 154 MB de pacote (texturas sem perda); a versão leve usa texturas WebP com perda e fica com **38 MB de pacote + 37,7 MB de wasm**.
+- **Como foi feito, sem quebrar nada:** tudo numa CÓPIA, `D:\CARTA\GODOT_WEB_LEVE\proj` (o `D:\CARTA\GODOT_WEB_POC` e o `D:\MEU ROBO\JOGO` não foram mexidos). Ferramentas: `tools/t102u/godot_leve_texturas.py` (troca só os `.import` da cópia) e `tools/t102u/godot_leve_carta.py` (faz a `carta.html` leve com o tamanho certo dos arquivos). Depois: Godot 4.7.2 `--headless --import` e `--export-release "Web"`.
+- **Os arquivos do jogo não vão para o GitHub** (são grandes e o pacote tem notas internas). Eles ficam só no PC (`D:\CARTA\GODOT_WEB_LEVE\web`) e dentro do APK. Montagem: `D:\CARTA\BUILD_APK_1.17.0` com `-PcartaWebDist=D:\CARTA\BUILD_APK_1.17.0\webdist_t102u`.
+- **Na página:** `planeta_godot.js` só usa `/godot_leve/carta.html` quando o app está em `https://carta.offline` (modo viagem). No PC continua o 8795, e `carta.planetaGodot.url` ainda ganha de tudo.
+- **Teste no celular real, em modo avião e sem PC:** o Planeta Godot recebeu o "jogo pronto" (apareceu a ajuda "Como jogar"), e abrindo direto o Porto Parafuso desenhou (WebGL 2.0, modo Compatibility). O selo mostrou "baixo (sem PC) · 1 FPS" durante a carga (sem "undefined"). Prints no PC: `C:\Users\bruno\t94u_stage\t102u\vc21_godot_*.png`.
+- **Falta (honesto):** jogar com o dedo por um tempo e medir o FPS do Godot no celular; o adb deste celular não deixa simular toque (`INJECT_EVENTS`).
+- **Volta atrás:** o vc20 está guardado em `D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T102U\app-debug_vc20_1.16.0.apk`. Não instalar por cima do vc21 (Android não volta versão); se precisar, faça um vc22 a partir dele.
+
+## T103U (03/11/2026 ~18h, horário de Brasília): Godot jogado com o dedo, robô jogador e FPS medido
+
+- **Teste manual APROVADO:** o Bruno jogou o Porto Parafuso com o dedo no vc21 ("ficou ótimo, consegui jogar").
+- **Consertos só na cópia** `D:\CARTA\GODOT_WEB_LEVE\proj` (nunca em `D:\MEU ROBO\JOGO`), com `tools/t103u/godot_leve_consertos.py` (aditivo, roda 2 vezes sem mudar nada):
+  1. `_fix_probe.tscn` começava com BOM → "Parse Error: Expected '['". Regravado sem o BOM (mesmo texto).
+  2. `workshop.tscn` apontava para `res://game/workshop/workshop.gd`, que não existia → criada uma "ponte" que faz `extends` do script de verdade (`game/workshop/workshop/workshop.gd`).
+  3. `exclude_filter` do export tira do pacote as pastas de backup antigas e as sondas `_*.tscn` (continuam no disco). Export: **0 erros**.
+  4. Comando "porto" da ponte chamava `go_city()`, que não existe; ganhou um ramo com `go_city_a()` (o antigo ficou igual). Achado pelo robô jogador.
+  5. A ponte escreve `CARTA_GODOT_FPS <n> <cena>` no console a cada relatório → aparece no `adb logcat` do celular.
+  6. Só na versão web (sufixo `.web` do Godot): MSAA desligado e 3D em 60% da resolução.
+- **Robô jogador** (`tools/t103u/teste_godot_robo.mjs`, servidor só em 127.0.0.1, o MESMO export do APK no navegador): pronto, relatório, WASD, arena, vitória (vitorias 1, vit_arena 1) e volta ao porto = **6/6**. Não roda no CI (precisa do export, que não vai para o GitHub).
+- **APKs:** vc22 (1.18.0, export sem erros), vc23 (1.18.1, com a linha de FPS) e **vc24 (1.18.2, com o conserto 6) instalado**. Em modo avião o Porto Parafuso abriu e desenhou.
+- **FPS do Godot no celular (Mi 9 Lite, Snapdragon 710), medido sem tocar na tela:** **3–4 FPS** no Porto Parafuso, com vc23 e com vc24 (o conserto 6 não mudou nada → o gargalo não é a resolução; provável CPU/scripts da cena no wasm de uma linha só). O Planeta (three.js) continua a 58 FPS.
+- **Falta (honesto):** deixar o Godot rápido no celular (perfilar a cena; ideias em PESQUISA_T101U.md). Prints: `C:\Users\bruno\t94u_stage\t103u\t103u_fps.png` e `t103u_vc24.png`.
+- **Volta atrás:** vc21, vc22 e vc23 guardados em `D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T103U\`. O `project.godot` antes do conserto 6: `D:\CARTA\GODOT_WEB_LEVE\project.godot.antes_t103u_web_leve`. Android não volta versão: para desfazer, faça um vc25.
 
 ===== Análise do PR #99 (Olhos Vivos, Copiloto) (https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html) =====
 # Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026)

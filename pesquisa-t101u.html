@@ -83,7 +83,17 @@ Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (s
 </tbody>
 </table>
 <h2>Achados que viraram correção</h2>
+<blockquote>
+<p><strong>Atualização T102U (03/11/2026):</strong> o laço do <code>aplicar(v)</code> foi corrigido em <code>terra.js</code> (no máximo uma troca para o ritmo normal; teste <code>tests/test_t102u.py</code> roda o código de verdade no Node). A etiqueta "🎨 undefined · FPS" do app também foi corrigida em <code>t89u/graficos.js</code>: sem PC mostra "🎨 baixo (sem PC) · N FPS" e não guarda esse valor.</p>
+</blockquote>
 <ul>
 <li><code>terra/terra.js</code> (linha ~301): <code>aplicar(v)</code> chama a si mesmo para sempre quando a resposta de <code>POST /api/terra/controle</code> não traz <code>velocidade</code> → 8.033 pedidos em 9 s na emulação. <strong>No celular</strong> o motor offline responde com <code>{velocidade, pausado}</code> e o laço não acontece. O arquivo do PC <strong>não foi mexido</strong> (regra: não trocar o que funciona) — fica anotado como pendência.</li>
 <li>No app, o botão <strong>"🐎 Mapa do herói · sair"</strong> nascia em <code>top: 64px</code> e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido).</li>
-</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 16:21 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
+</ul>
+<p><strong>T102U (03/11 ~17h):</strong> o "Godot dentro do APK" saiu na versão LEVE (texturas WebP com perda: pacote 154 → 38 MB, APK vc21 com 82,6 MB). No celular real, em modo avião, o jogo abriu e desenhou sem mexer no User-Agent nem na camada de hardware do app; as 3 armadilhas não apareceram neste aparelho. Detalhes em CELULAR_SEM_CABO_T101U.md.</p>
+<p><strong>T103U (03/11 ~18h30):</strong> FPS do Godot leve no celular medido por <code>adb logcat</code> = <strong>3–4 FPS</strong> (Mi 9 Lite). Tirar MSAA e desenhar o 3D em 60% (só web) não mudou → não é a placa de vídeo enchendo pixels. Próximas ideias de código aberto (Godot, MIT), em ordem de custo:
+- <strong>Perfilar primeiro:</strong> rodar a mesma cena no navegador do PC com <code>Engine.get_frames_per_second()</code> + <code>Performance.get_monitor(TIME_PROCESS / TIME_PHYSICS_PROCESS / RENDER_TOTAL_DRAW_CALLS_IN_FRAME)</code> escritos na mesma linha <code>CARTA_GODOT_FPS</code> (só na cópia leve).
+- <strong>Grama e árvores em MultiMeshInstance3D</strong> e <strong>visibility range (HLOD)</strong> nos objetos longe; sombras direcionais desligadas no <code>.web</code>.
+- <strong><code>physics/common/physics_ticks_per_second.web=30</code></strong> e <code>max_physics_steps_per_frame</code> menor se o tempo de física dominar.
+- <strong>Export com threads</strong> (Godot 4.3+ precisa de COOP/COEP; no WebView do app isso exige servir os cabeçalhos pelo <code>WebViewAssetLoader</code>) — só se o perfil mostrar CPU de uma linha só no limite.
+Nada disso mexe no <code>D:\MEU ROBO\JOGO</code>; tudo na cópia <code>GODOT_WEB_LEVE</code>.</p><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 18:26 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
