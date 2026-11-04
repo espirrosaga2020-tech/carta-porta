@@ -1,5 +1,5 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Manual de Tudo da CARTA (v9, 03/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Manual de Tudo da CARTA (v9, 03/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Manual de Tudo da CARTA (v9, 03/11/2026)</h1><h1>📘 MANUAL DE TUDO DA CARTA</h1>
-<p><strong>Manual e orientações · versão 9, de 03/11/2026 ~22h (horário de Brasília). A versão 8 continua no repositório.</strong>
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Manual de Tudo da CARTA (v10, 03/11/2026) · CARTA (Porta do Grok)</title><meta name="description" content="Manual de Tudo da CARTA (v10, 03/11/2026)"><style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:980px;margin:0 auto;padding:16px;line-height:1.55;color:#1b1b1b;background:#fffdf7}nav{background:#f4ecd8;padding:8px 12px;border-radius:6px;margin-bottom:16px}nav a{margin-right:12px}pre{white-space:pre-wrap;word-wrap:break-word;background:#faf5e8;padding:12px;border-left:3px solid #c9a24a;font-size:14px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #d8c9a0;padding:4px 6px;vertical-align:top;text-align:left}th{background:#f4ecd8}.meta{color:#555;font-size:13px}</style></head><body><nav><a href="index.html">Início</a><a href="para-ias.html">Para IAs</a><a href="enciclopedia/index.html">Enciclopédia</a><a href="manual.html">Manual</a><a href="mapa.html">Mapa</a><a href="portoes.html">Portões</a><a href="estado.html">Estado</a><a href="llms.txt">llms.txt</a><a href="carta.json">JSON</a></nav><h1>Manual de Tudo da CARTA (v10, 03/11/2026)</h1><h1>📘 MANUAL DE TUDO DA CARTA</h1>
+<p><strong>Manual e orientações · versão 10, de 03/11/2026 ~22h30 (horário de Brasília). A versão 9 continua no repositório.</strong>
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.</p>
 <blockquote>
 <p>Regra deste manual: <strong>nada aqui foi inventado.</strong> Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito <strong>"não confirmado"</strong>. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.</p>
@@ -31,6 +31,88 @@ Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer a
 </ul>
 <p>Três coisas que valem pra sempre: <strong>nada se apaga, tudo só ganha coisa nova.</strong> Antes de trocar qualquer arquivo, faz backup. E o <code>D:\MEU ROBO\JOGO</code> <strong>nunca</strong> se mexe.</p>
 <hr />
+<h2>0.9 Fechamento de 03/11 às 22h30 — T119U (vale mais que a 0.8)</h2>
+<p><strong>O Ollama é a base da CARTA.</strong> Ele roda só neste PC, com modelos já baixados, sem internet e sem custo. Pode ficar ligado.</p>
+<ul>
+<li><strong>Ligar:</strong> dois cliques em <code>D:\CARTA\LIGAR_OLLAMA_LOCAL.cmd</code> (só 127.0.0.1:11434). <strong>Desligar:</strong> <code>D:\CARTA\DESLIGAR_OLLAMA.cmd</code>. Não está na inicialização do Windows. O modelo sai da placa de vídeo 2 minutos depois do último uso, então o PC não fica pesado.</li>
+<li><strong>Modelos instalados (<code>ollama list</code>):</strong> qwen2.5:7b (4,7 GB, conversa), qwen2.5vl:3b (3,2 GB, Olho Local), qwen2.5vl:7b (6,0 GB), gemma3:4b (3,4 GB), gpt-oss:20b (13 GB, pensar fundo), moondream (1,7 GB), nomic-embed-text (274 MB).</li>
+</ul>
+<p><strong>Teste de conversa de verdade (03/11, ~22h25, qwen2.5:7b quente):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Quem</th>
+<th>Pergunta</th>
+<th>Tempo</th>
+<th>Resultado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mente Suprema</td>
+<td>Quantas engrenagens tem a Enciclopédia hoje?</td>
+<td>2,6 s</td>
+<td>"59 engrenagens, espalhadas por 18 estantes" ✓</td>
+</tr>
+<tr>
+<td>Mente Suprema</td>
+<td>O que é a RB02?</td>
+<td>3,5 s</td>
+<td>Nome certo ("Engrenagem das Engrenagens"); enfeitou um pouco</td>
+</tr>
+<tr>
+<td>Creuza</td>
+<td>Creuza, quem é você?</td>
+<td>6,1 s</td>
+<td>Respondeu como ela mesma ✓</td>
+</tr>
+<tr>
+<td>Faísca</td>
+<td>O que é a RB02?</td>
+<td>3,7 s (1ª frase 1,8 s)</td>
+<td>Sabe o nome; explicação vaga</td>
+</tr>
+<tr>
+<td>Faísca</td>
+<td>Quantas engrenagens tem a Enciclopédia?</td>
+<td>9,8 s (1ª frase 2,7 s)</td>
+<td>Não disse 59 (superconsciência dela está desligada)</td>
+</tr>
+<tr>
+<td>Consciência</td>
+<td>O que é a RB02?</td>
+<td>2,5 s</td>
+<td>Antes: "não sei". Corrigido nesta versão (ver abaixo)</td>
+</tr>
+<tr>
+<td>Olho Local</td>
+<td>imagem de teste</td>
+<td>1,2 s</td>
+<td>Descreveu certo as formas e cores ✓</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Correção feita (aditiva):</strong> a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste: <code>tests/test_t119u.py</code>.</li>
+<li>
+<p><strong>Faísca e as 59 engrenagens:</strong> ela só usa a Enciclopédia quando a <strong>superconsciência dela está ligada</strong> (modo pesquisa ou auto). Hoje está desligada em todas as mentes, por escolha do Bruno. Para ela saber, ligue a chave da superconsciência no app. Não foi mudado sozinho.
+(linha omitida no site público pelo filtro de privacidade)</p>
+</li>
+<li>
+<p><strong>T120U (22h50):</strong> a pedido do Bruno, a superconsciência da Faísca ficou <strong>ligada no modo AUTO</strong> (ela escolhe sozinha quando pesquisar no conhecimento de todas as consciências). A chave manual continua para o Bruno brincar.</p>
+</li>
+</ul>
+<p><strong>O que só o Bruno pode fazer:</strong> criar a chave do Gemini no AI Studio e colar no arquivo (se quiser o Olho Gemini); ligar a superconsciência da Faísca, se quiser que ela fale das engrenagens; abrir o app vc26 no celular e conferir; testar a Jornada da IA num chat novo; limpar os dados locais de prova que fazem 3 testes antigos falharem no PC.</p>
+<h2>0.8 Ollama local testado de verdade — 03/11 às 22h25 (T116U)</h2>
+<p>O Bruno autorizou ligar o Ollama (t116u). Os modelos já estavam baixados em <code>D:\OllamaModelos</code>, então não foi preciso baixar nada (sem <code>pull</code>).</p>
+<ul>
+<li><strong>Como ligar:</strong> dois cliques em <code>D:\CARTA\LIGAR_OLLAMA_LOCAL.cmd</code>. Ele liga o Ollama só neste PC (127.0.0.1:11434) e descarrega o modelo da placa depois de 2 minutos sem uso.</li>
+<li><strong>Como desligar:</strong> dois cliques em <code>D:\CARTA\DESLIGAR_OLLAMA.cmd</code>.</li>
+<li><strong>Inicialização:</strong> o atalho <code>Ollama.lnk</code> da pasta Inicializar continua <strong>desativado</strong> pelo Windows. Nada foi colocado na inicialização.</li>
+<li><strong>Olho Local (qwen2.5vl:3b), imagem de teste com um círculo vermelho e um quadrado azul:</strong> respondeu "Vê uma forma circular vermelha e uma forma retangular azul." Etiqueta OLHO_LOCAL, 1,2 s depois de aquecido (aquecer levou 5,5 s).</li>
+<li><strong>Consciência (qwen2.5:7b), modo IA_LOCAL:</strong> "Quem é a Creuza na CARTA?" foi respondida em 1,1 s, citando a fonte CB036. Outra pergunta, sobre a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou.</li>
+<li><strong>Depois do teste (T119U):</strong> o Bruno decidiu que o Ollama é a base do sistema e <strong>pode ficar ligado</strong>. Sem ele, a Consciência responde no modo SEM_IA e o Olho avisa que não está pronto. Veja a v10.</li>
+</ul>
 <h2>0.7 Novidades de 03/11 às 22h — T112U (vale mais que a 0.6)</h2>
 <p><strong>O que mudou e por quê (em palavras simples):</strong></p>
 <ul>
@@ -914,4 +996,4 @@ e a Porta IA 8792 não ligam sozinhos (manual, seções 2.6 e 2.7). Portões fec
 <li>Os cartões do Início (<code>src/carta/webdist/inicio.html</code>).</li>
 <li>Os CHECKPOINTs 20 a 29 em <code>D:\CARTA\ANOTACOES\CARTA20</code>, o catálogo do Drive de 02/11 e o mapa 00_LEIA_PRIMEIRO.</li>
 <li><strong>A varredura geral do PC:</strong> <code>D:\CARTA\ANOTACOES\CARTA20\VARREDURA_GERAL_20261102.md</code> (02/11 ~20h30). Usada nas versões 2 e 3.</li>
-</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 22:10 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
+</ul><hr><p class="meta">CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 22:52 (horário de Brasília). Sem login, sem chave, sem JavaScript. O código do projeto continua num repositório privado.</p></body></html>
