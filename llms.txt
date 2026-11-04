@@ -3,6 +3,9 @@
 > Site público e só de leitura do projeto CARTA (Bruno Henry): enciclopédia das engrenagens, manual, mapa do código, portões e estado atual.
 
 ## Comece aqui
+- [TUDO NUMA PÁGINA SÓ (rolagem contínua, sem precisar de links)](https://espirrosaga2020-tech.github.io/carta-porta/tudo.html) — 2349 KB
+- [Tudo, versão resumida](https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html) — 376 KB
+- [Página de teste: oi, pronto](https://espirrosaga2020-tech.github.io/carta-porta/oi.html)
 - [Para IAs](https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html)
 - [Tudo num arquivo só](https://espirrosaga2020-tech.github.io/carta-porta/llms-full.txt)
 
