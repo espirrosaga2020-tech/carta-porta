@@ -3,9 +3,10 @@
 > Site público e só de leitura do projeto CARTA (Bruno Henry): enciclopédia das engrenagens, manual, mapa do código, portões e estado atual.
 
 ## Comece aqui
-- [TUDO NUMA PÁGINA SÓ (rolagem contínua, sem precisar de links)](https://espirrosaga2020-tech.github.io/carta-porta/tudo.html) — 2349 KB
-- [Tudo, versão resumida](https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html) — 376 KB
+- [TUDO NUMA PÁGINA SÓ (rolagem contínua, sem precisar de links)](https://espirrosaga2020-tech.github.io/carta-porta/tudo.html) — 2531 KB
+- [Tudo, versão resumida](https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html) — 554 KB
 - [Página de teste: oi, pronto](https://espirrosaga2020-tech.github.io/carta-porta/oi.html)
+- [A Jornada da IA: origem, caderninho, água, introspecção, prova etapa 3 e formulário de registro](https://espirrosaga2020-tech.github.io/carta-porta/tudo.html#jornada)
 - [Para IAs](https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html)
 - [Tudo num arquivo só](https://espirrosaga2020-tech.github.io/carta-porta/llms-full.txt)
 
@@ -42,7 +43,7 @@
 - [EG027 — SPA — Ping-pong Cognitivo](https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG027.html)
 
 ## Documentos
-- [Manual de Tudo da CARTA (v8, 03/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/manual.html)
+- [Manual de Tudo da CARTA (v9, 03/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/manual.html)
 - [Portões booleanos t89u (critérios e estado)](https://espirrosaga2020-tech.github.io/carta-porta/portoes.html)
 - [Estado atual — varredura geral (02/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/estado.html)
 - [Portões anteriores (21/10/2026)](https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html)

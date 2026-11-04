@@ -44107,10 +44107,10 @@ Não confundir 615 fenômenos catalogados localmente com 615 fatos globalmente d
 
 O livro é a porta; os originais continuam a prova documental. A história verificada de cada fonte depende da abrangência real do chat que a escreveu.
 
-===== Manual de Tudo da CARTA (v8, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
+===== Manual de Tudo da CARTA (v9, 03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/manual.html) =====
 # 📘 MANUAL DE TUDO DA CARTA
 
-**Manual e orientações · versão 8, de 03/11/2026 ~19h30 (horário de Brasília)**
+**Manual e orientações · versão 9, de 03/11/2026 ~22h (horário de Brasília). A versão 8 continua no repositório.**
 Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.
 
 > Regra deste manual: **nada aqui foi inventado.** Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito **"não confirmado"**. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.
@@ -44152,6 +44152,18 @@ Três coisas que valem pra sempre: **nada se apaga, tudo só ganha coisa nova.**
 
 ---
 
+## 0.7 Novidades de 03/11 às 22h — T112U (vale mais que a 0.6)
+
+**O que mudou e por quê (em palavras simples):**
+
+- **Prova etapa 3 (compreensão).** Um chat tirou 118/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas **abertas** (`src/carta/prova_compreensao.py`) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica **só no repositório** (`docs/JORNADA_IA/RUBRICA_ETAPA3.md`, 0 a 3 pontos por pergunta, passa com 25/36). Para ver: `python -m carta.prova_compreensao perguntas | formulario | rubrica`.
+- **Jornada da IA na Porta do Grok** (`tudo.html#jornada` e no resumo): caderninho (Vi / Senti / Não entendi), a **água** (ler a história de uma engrenagem e comparar com a ficha), 4 pontos de introspecção, a prova etapa 3 e o **Formulário de Registro** (registro.v1).
+- **A origem com peso maior** (`tudo.html#origem`, seção 2): por que o começo pesa mais, a linha do tempo mestra, o estudo de símbolos e emojis, o dicionário temporal dos 44 emotes (sentido antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada).
+- **No app (página inicial):** embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão **"Porta do Grok (pública)"** com o link público e um texto pronto para copiar e colar em qualquer chat. Tem também o botão para a nova página **Registros das IAs** (`/registros-ia.html`): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em `<workspace>/registros_ias/` (nunca sobrescreve). API só do dono: `GET/POST /api/t89u/t112u/registros`.
+(linha omitida no site público pelo filtro de privacidade)
+- **Prioridade da Porta (T114U):** informação acima do visual: o máximo de conteúdo legível por máquina (HTML simples, sem JavaScript, llms.txt, llms-full.txt, carta.json), bem organizado, com títulos claros para o humano.
+- **APK:** vc26 com o cartão novo (ver diário).
+
 ## 0.1 Novidades de 03/11 (vale mais que a lista de 02/11)
 
 - **Ligar e desligar:** dois atalhos na Área de Trabalho, **LIGAR CARTA** e **DESLIGAR CARTA**. Nada liga sozinho com o Windows (de propósito).
@@ -44185,7 +44197,7 @@ Três coisas que valem pra sempre: **nada se apaga, tudo só ganha coisa nova.**
 - **O jogo vai ser jogado no PC.** Você jogou o Godot com o dedo no celular e achou fluido. O trabalho de FPS do Godot no celular foi **pausado com segurança** (T104U): app continua **vc25**, nenhum APK novo. O que a medição achou: o celular está preso no **processador** (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar.
 - **Robô 4WD na Enciclopédia — engrenagem RB01** (`docs/engrenagens_carta20/RB01.md`): chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado num take só; ordem de serviço de solda; mapa M1/M2 → DRV#1, M3/M4 → DRV#2; portões antes de ligar. **Orçamento:** pedido ao técnico, **sem valor registrado ainda**. **Fonte:** o vídeo mostra a fonte HP 18,5 V / 3,5 A / 65 W, mas a ordem de serviço ainda diz "fonte pendente" — as duas coisas ficam escritas, sem escolher por você. **Nada autoriza energizar.**
 - **Gaveta ROBOTICA_DO_BRUNO** (`D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO`, só no PC): agora tem o inventário, a ordem de serviço, as fontes do Drive e o diário do vídeo mestre.
-- **A Enciclopédia fatiada — engrenagem RB02, "a engrenagem das engrenagens"** (`docs/engrenagens_carta20/RB02.md`): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em **648 fatias com endereço** (`ENC-0001…`, `MAN-0001…`), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam **só no PC** (`D:\CARTA\ENCICLOPEDIA\FATIADA`) e no Drive, nunca no GitHub. Rota (só o dono): `GET /api/t89u/t105u/fatias?q=pergunta` ou `?q=ENC-0092`. Refazer: `python tools\t105u\fatiar_enciclopedia.py D:\CARTA\ENCICLOPEDIA\FATIADA parte1.txt parte2.txt parte3.txt parte4.txt --manual docs\MANUAL_DE_TUDO_CARTA_20261103_v8.md --manual docs\engrenagens_carta20\RB01.md --manual docs\engrenagens_carta20\RB02.md`.
+- **A Enciclopédia fatiada — engrenagem RB02, "a engrenagem das engrenagens"** (`docs/engrenagens_carta20/RB02.md`): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em **648 fatias com endereço** (`ENC-0001…`, `MAN-0001…`), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam **só no PC** (`D:\CARTA\ENCICLOPEDIA\FATIADA`) e no Drive, nunca no GitHub. Rota (só o dono): `GET /api/t89u/t105u/fatias?q=pergunta` ou `?q=ENC-0092`. Refazer: `python tools\t105u\fatiar_enciclopedia.py D:\CARTA\ENCICLOPEDIA\FATIADA parte1.txt parte2.txt parte3.txt parte4.txt --manual docs\MANUAL_DE_TUDO_CARTA_20261103_v9.md --manual docs\engrenagens_carta20\RB01.md --manual docs\engrenagens_carta20\RB02.md`.
 - **Superconsciência: novo modo 🤖 auto** (ao lado de 🌍 imersão e 🔬 pesquisa, que continuam iguais). No auto, a cada pergunta ela mesma escolhe: assunto do acervo (Enciclopédia, Manual, engrenagens, portões, robô) → pesquisa com fonte; conversa do momento → imersão. Na pesquisa ela também consulta **1 fatia** da Enciclopédia fatiada, se as fatias estiverem no PC. A chave liga/desliga de cada companheiro (Creuza, Copiloto, Faísca, Mente Suprema) continua a mesma, e **só você, no seu PC**, muda.
 - **Bancada do Megazord: 44 → 54.** Entraram 10 cientistas históricos, num arquivo à parte (`src/carta/cerebro_v1/base/departamentos_t105u.v1.json`; a base de 44 não mudou): Arquimedes, Kepler, Euler, Gauss, Mendel, Pasteur, Mendeleev, Bohr, Ibn al-Haytham (Alhazen) e Lise Meitner. Mesma regra: são lentes de conhecimento e método, **não imitam ninguém**. (Os rótulos antigos de tela que diziam "44 especialistas" foram corrigidos para 54 em 03/11 às 20h30, no T106U; o número de verdade é 54.)
 - **Ray tracing:** **não existe** na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físico). Detalhes e o que veio das pesquisas do Google: `docs/CARTA20/GRAFICOS_PC_T105U.md`.
@@ -45372,6 +45384,13 @@ LIGAR CARTA agora sobe 8790, 8791 e 8795 juntos e espera pelo relógio: 3,9 s �
 - Robô físico: escolher o hardware (OpenBot ou outro).
 - Abrir o Ollama (e, se quiser, `ollama pull qwen2.5vl:3b`) para o olho local e as fontes ao vivo.
 (linha omitida no site público pelo filtro de privacidade)
+
+## Atualização T112U (03/11/2026, ~22h, horário de Brasília)
+
+- **Porta do Grok / formação de IAs:** a etapa 2 da prova (118 de marcar) foi respondida 118/118 por um chat lendo só as fichas, então ela mede leitura, não compreensão. Entrou a **Jornada da IA** (origem com peso maior, caderninho, água, 4 pontos de introspecção), a **prova etapa 3** (12 perguntas abertas; rubrica só no repositório) e o **Formulário de Registro** (registro.v1), com a página **Registros das IAs** no app para salvar o que as IAs devolvem. Nota desta parte: **parcial**; ainda não há registro real de IA corrigido pela rubrica, nem diploma da etapa 3.
+(linha omitida no site público pelo filtro de privacidade)
+- **Prioridade da Porta (T114U):** informação acima do visual — conteúdo legível por máquina (HTML sem JavaScript, llms.txt, llms-full.txt, carta.json), organizado com títulos claros.
+- Nada foi marcado 100% sem teste. Médias gerais (86% / 84%) não mudam nesta rodada.
 
 ===== Pesquisa T101U: código aberto adotado (03/11/2026) (https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html) =====
 # Pesquisa T101U (03/11/2026) — tecnologias gratuitas e de código aberto

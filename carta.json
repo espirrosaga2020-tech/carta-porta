@@ -1,7 +1,7 @@
 {
  "projeto": "CARTA",
  "site": "https://espirrosaga2020-tech.github.io/carta-porta/",
- "gerado_em": "03/11/2026 21:26 (horário de Brasília)",
+ "gerado_em": "03/11/2026 22:10 (horário de Brasília)",
  "somente_leitura": true,
  "enciclopedia": {
   "engrenagens_com_texto": [
@@ -784,7 +784,7 @@
  },
  "documentos": [
   {
-   "titulo": "Manual de Tudo da CARTA (v8, 03/11/2026)",
+   "titulo": "Manual de Tudo da CARTA (v9, 03/11/2026)",
    "url": "https://espirrosaga2020-tech.github.io/carta-porta/manual.html"
   },
   {
@@ -856,13 +856,13 @@
    "enciclopedia/EG027.html": 0,
    "enciclopedia/auditoria.html": 0,
    "enciclopedia/leia-primeiro.html": 0,
-   "manual.html": 20,
+   "manual.html": 21,
    "portoes.html": 1,
    "estado.html": 2,
    "portoes-antigos.html": 9,
    "portoes-t95u.html": 1,
    "portoes-t100u.html": 4,
-   "diagnostico-sonhos.html": 4,
+   "diagnostico-sonhos.html": 5,
    "pesquisa-t101u.html": 0,
    "celular-sem-cabo.html": 0,
    "analise-pr99.html": 0
