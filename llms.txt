@@ -1,5 +1,13 @@
 # CARTA — Porta do Grok
 
+## Porta Suprema 2 — entrada pequena (t68u)
+- Entrada HTML: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+- Entrada TXT: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.txt
+- Frase de teste de transporte: ENTRADA-SUPREMA2-PROVA-T68U-20261105
+- Chave: https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt
+- Resumo: https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2-resumo.html
+- Completa: https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html
+- Clássica (intacta): https://espirrosaga2020-tech.github.io/carta-porta/tudo.html
 > Site público e só de leitura do projeto CARTA (Bruno Henry): enciclopédia das engrenagens, manual, mapa do código, portões e estado atual.
 
 ## Comece aqui
