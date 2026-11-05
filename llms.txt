@@ -3,6 +3,14 @@
 > Site público e só de leitura do projeto CARTA (Bruno Henry): enciclopédia das engrenagens, manual, mapa do código, portões e estado atual.
 
 ## Comece aqui
+
+## Porta Suprema 2 (RECHEADA · ouro 05/11/2026)
+- [PORTA SUPREMA 2 — página recheada](https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html)
+- [Porta Suprema 2 — resumo](https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2-resumo.html)
+- [Chave Suprema 2 + palavra-chave](https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt)
+- Palavra-chave de prova: `OURO-PORTA-SUPREMA2-20261105-KUALA` (diga ao Bruno se leu a atualização)
+- Clássica intacta: [tudo.html](https://espirrosaga2020-tech.github.io/carta-porta/tudo.html) · [chave.txt](https://espirrosaga2020-tech.github.io/carta-porta/chave.txt)
+
 - [TUDO NUMA PÁGINA SÓ (rolagem contínua, sem precisar de links)](https://espirrosaga2020-tech.github.io/carta-porta/tudo.html) — 2531 KB
 - [Tudo, versão resumida](https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html) — 554 KB
 - [Página de teste: oi, pronto](https://espirrosaga2020-tech.github.io/carta-porta/oi.html)
