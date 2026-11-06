@@ -1,0 +1,76 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Resultado do aperfeiçoamento 2 (31/10)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Resultado do aperfeiçoamento 2 (31/10)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-085.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-087.html">Próxima →</a></p><main id="public-source"><article id="doc-resultado-aperfeicoamento2-20261031"><h3>Resultado do aperfeiçoamento 2 (31/10)</h3><p class="meta">fonte: docs/CARTA20/RESULTADO_APERFEICOAMENTO2_20261031.md</p><h3>Resultado: Aperfeiçoamento 2 (31/10/2026, horário de Brasília)</h3>
+<p>(linha omitida no site público pelo filtro de privacidade)
+Backup antes de mexer: <code>D:\CARTA\BACKUPS\APERFEICOAMENTO2_ANTES_20261031_2102</code> (com LEIA_ROLLBACK.txt).</p>
+<table>
+<thead>
+<tr>
+<th>Portão</th>
+<th>Resultado</th>
+<th>Prova</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q1 plano pontilhado</td>
+<td>true</td>
+<td><code>PORTOES_APERFEICOAMENTO_2.md</code></td>
+</tr>
+<tr>
+<td>Q2 suíte inteira do PC pós F6/F7</td>
+<td>true</td>
+<td>700 testes, 9 falhas e 94 erros (antes 10 e 95). Nenhuma falha nova. 2 consertadas (<code>test_so_porta_e_ataques_via_http</code>, <code>test_conteudo_sem_bastidor</code>). As que sobram são do ambiente Windows: 142× arquivo temporário preso por outro processo, <code>web/public</code> ausente na instalação, <code>SCIENCE_PROTOCOL</code> ausente</td>
+</tr>
+<tr>
+<td>D1a feedback "tá torto"</td>
+<td>true</td>
+<td><code>lego/feedback.py</code>: torta, fora dos pinos, flutuando, pendurada, girada; tolerância 4° / 1,5 mm ou a incerteza σ</td>
+</tr>
+<tr>
+<td>D1b níveis/locais</td>
+<td>true</td>
+<td>camadas por altura + 6 etapas: mesa, câmera, visão, mundo 3D, encaixe, retorno</td>
+</tr>
+<tr>
+<td>D1c honestidade real × estilizado</td>
+<td>true</td>
+<td>cada etapa diz real / medido / estilizado / calculado; origem da peça: sintética / câmera / mão do Bruno; aviso de que a medida da webcam não tem validação física</td>
+</tr>
+<tr>
+<td>D1d tela + Lab chat</td>
+<td>true</td>
+<td>painel "🧭 Tá torto?" em <code>/lego.html</code> (só leitura via GET <code>/api/lego/v1/feedback</code>); o chat do Lab ganhou um item "calculado"</td>
+</tr>
+<tr>
+<td>Q2b suíte do PC depois de instalar</td>
+<td>true</td>
+<td>721 testes (21 novos, todos ok), 9 falhas e 95 erros. A diferença de ±1 erro é a trava de arquivo temporário do Windows, que alterna entre rodadas (<code>limites_e012.sqlite3</code> preso no tearDown), e não vem de código. Suíte do repositório no box: 822 testes OK</td>
+</tr>
+<tr>
+<td>E1 neon legível</td>
+<td>true</td>
+<td><code>tema/neon_fino.css</code>: só borda/foco/título, nunca a cor do texto ou do fundo; botão ✨ desliga; respeita reduzir movimento e alto contraste</td>
+</tr>
+<tr>
+<td>E1b manifesto do webdist</td>
+<td>true</td>
+<td>13 arquivos do CARTA 2.0 estavam fora do manifesto e o <code>limpar_webdist.py</code> do INICIAR os apagaria. Agora entraram, com um teste que trava isso</td>
+</tr>
+<tr>
+<td>G1 identidade da Faísca</td>
+<td>true</td>
+<td>"quem é você?" puro: fala curada, sem modelo; 1ª frase em 0,03–0,13 s, sem repetir. Pergunta longa: 1 exemplo curto (194 caracteres), 1ª frase em 0,66 s. PERSONA3 intacta</td>
+</tr>
+<tr>
+<td>Z fechamento</td>
+<td>true</td>
+<td>PR normal + merge, entregáveis no SUBIR_PARA_O_DRIVE</td>
+</tr>
+</tbody>
+</table>
+<h4>Honesto: o que ainda NÃO está provado</h4>
+<ul>
+<li>Não houve validação física com peças LEGO de verdade e régua: os números de "torto" vêm de cena sintética e de geometria.</li>
+<li>Neste Python do PC não há opencv, então o teste ponta a ponta com câmera foi pulado (ele roda onde o cv2 existir).</li>
+<li>Depois da frase curada, o comentário do qwen 7b às vezes inventa (ex.: "brinquedinho do grama-água") ou erra o gênero ("eu mesmo"). A frase de identidade em si está sempre certa.</li>
+<li>A resposta sobre a Porta Eureka continua vaga: isso não foi mexido nesta rodada.</li>
+</ul></article></main><p><a href="suprema2-acervo-085.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-087.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-086-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

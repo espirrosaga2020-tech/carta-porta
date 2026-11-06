@@ -1,0 +1,104 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Histórico das contagens
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html>
+Histórico das contagens
+fonte: docs/CARTA20/HISTORICO_DE_CONTAGENS.md
+Histórico de contagens das engrenagens (CARTA 2.0)
+Documento de versão. Os números históricos ficam
+aqui e nos documentos de versão
+, não na interface pública
+(pedido da CARTA 2.0, §2). Nada foi apagado: cada contagem antiga continua valendo
+para o critério da época dela
+.
+As divergências estão também em
+registry/CONHECIMENTO_DIVERGENCIAS.v1.json
+e aparecem em
+/conhecimento
+sem reconciliação.
+Número
+O que contava (critério da época)
+Fonte
+27
+o Volume Zero, a origem (EG001–EG027)
+docs/CONTAGEM_OFICIAL_ENGRENAGENS_R3.md
+36
+as posições do
+Painel 1
+das esferas (33 engrenagens + 3 registros que não são engrenagem) — não era o total
+idem
+47
+a foto do índice em 18/10: 27 ancestrais + 20 registros posteriores — contava
+registros
+, não engrenagens
+idem
+61
+total de registros na R3 (31/10): 45 engrenagens + 16 que não eram engrenagem
+idem
+45
+engrenagens na R3 FINAL (31/10, 17:13 BRT): 27 do Volume Zero + 18 posteriores
+idem
+47 (hipótese da R3)
+"se CP-P01 e AT-V4 forem engrenagens, a conta passa a 47" — pergunta deixada para o Bruno
+idem, §"Para o Bruno decidir"
+57 em 17 estantes (71 registros)
+CARTA 2.0 (31/10, noite): definição estrutural (§2)
+— toda unidade com identidade, fonte, conteúdo próprio e lugar na estante é engrenagem; diários, cartas, registros e análises de vídeo passam a contar; CP-P01 e AT-V4 reavaliadas
+/api/enciclopedia/v1/publico
+,
+/api/enciclopedia/v1/criterio
+,
+registry/ENCICLOPEDIA_ADITIVOS.v1.json
+(rev 3),
+registry/ENCICLOPEDIA_REAVALIACOES.v1.json
+O que mudou da R3 para a CARTA 2.0
++10 engrenagens novas, todas com ficha de proveniência e originais intactos:
+  DB01–DB03 (diários de bordo), CT01–CT02 (cartas), RH01 (registros históricos), AV01–AV04 (análises de vídeo).
+  Arquivos:
+docs/engrenagens_carta20/*.md
+(gerados por
+tools/carta20/gerar_engrenagens_carta20.py
+).
+Painel 2 das Esferas: 20 → 30 bolas. LIVRO_INDICE_VIVO: +10 entradas.
+Reavaliadas pelo critério estrutural,
+sem apagar a classificação original
+: CP-P01 e AT-V4
+  (
+registry/ENCICLOPEDIA_REAVALIACOES.v1.json
+, cada uma com motivo e a modalidade anterior preservada).
+Regra para contar de novo
+O número público vem sempre da API (
+/api/enciclopedia/v1/publico
+), nunca escrito à mão numa página.
+Se o critério mudar outra vez, acrescente uma linha nesta tabela — não reescreva as anteriores.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-084-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

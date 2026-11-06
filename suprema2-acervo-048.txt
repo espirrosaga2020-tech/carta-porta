@@ -1,0 +1,2128 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — EG024 — POE2 — Gulosona e Árvore de Attack Speed
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html>
+EG024 — POE2 — Gulosona e Árvore de Attack Speed
+Estante: POE2 e métodos operacionais · 2091 linhas · texto integral do original · SHA-256 conferido (e1480db16784f27f…)
+ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED_HISTORIA_v01.txt
+==============================================================
+
+ESTADO DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE
+
+Esta documentação reconstrói a engrenagem histórica acessível desta conversa
+antes da mensagem que trouxe o protocolo "Arqueologia das Engrenagens".
+
+A investigação é "VERIFICADO PARCIALMENTE" porque:
+- a janela textual atualmente acessível não contém a primeira mensagem original
+  da conversa;
+- existem artefatos mais antigos desta mesma conversa, inclusive um checkpoint
+  de 02/10/2026 e vários vídeos/imagens, que demonstram uma história anterior;
+- a sequência que vai do "engasgo das bolinhas" até a criação dos documentos da
+  Gulosona está disponível com alta nitidez;
+- nem todas as passivas da árvore receberam tooltip no vídeo, portanto alguns
+  nomes individuais continuaram conscientemente sem confirmação.
+
+O objetivo deste arquivo NÃO é substituir os checkpoints técnicos da build.
+Ele preserva a HISTÓRIA de como o entendimento, o método de trabalho e a
+estratégia de árvore se transformaram.
+
+
+======================================================================
+00 — FICHA DE PROVENIÊNCIA
+======================================================================
+
+IDENTIFICADOR
+-------------
+ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED
+
+TÍTULO HISTÓRICO DESCRITIVO
+---------------------------
+"Da bolinha impossível à Gulosona:
+recalibração, Attack Speed e cartografia da árvore do Monk"
+
+IDENTIDADE DA CONVERSA
+----------------------
+Conversa de trabalho sobre uma build de Monk em Path of Exile 2, centrada
+nesta fase em:
+- reconstrução e otimização da árvore de passivas;
+- Time-Lost Very Large apelidada de "Gulosona";
+- diferenciação entre pontos vermelhos, verdes e universais;
+- Attack Speed como novo foco de otimização;
+- recuperação de Rage pela árvore;
+- Heavy Stun / Armour Break como cadeia de payoff;
+- criação de checkpoints e mapas técnicos para impedir perda de contexto.
+
+FRONTEIRA HISTÓRICA
+-------------------
+Início textual exato atualmente acessível:
+a mensagem do usuário que começa com
+"Daí, pô, vamos tentar manter a compostura, certo? Proibido pesquisar..."
+
+Essa mensagem já ocorre no meio de uma história maior: ela reage a uma análise
+anterior que havia se prolongado excessivamente tentando contar passivas em um
+vídeo/imagem.
+
+Fim histórico:
+a mensagem imediatamente anterior ao protocolo atual, na qual o usuário pede:
+"FAÇA TUDO QUE VOCE FALOU CADA VÍRGULA..."
+e exige TXT + checkpoint + caminhada/marco definitivo; a resposta subsequente
+produz quatro documentos técnicos.
+
+PERÍODO VERIFICÁVEL
+-------------------
+- Há um checkpoint técnico datado de 02/10/2026.
+- A sequência principal desta engrenagem está documentada em artefatos de
+  03/10/2026.
+- O protocolo arqueológico foi apresentado em 10/10/2026 e está fora do
+  território histórico catalogado.
+
+ANCESTRALIDADE / BRANCHES
+-------------------------
+A conversa menciona materiais e contextos anteriores e possui um checkpoint
+prévio de build. Não há, no território textual acessível desta investigação,
+prova suficiente para reconstruir a genealogia completa de branches de outros
+chats. Eles permanecem fora de escopo.
+
+MATERIAIS HISTÓRICOS CONCRETAMENTE ASSOCIADOS A ESTA ENGRENAGEM
+---------------------------------------------------------------
+1. CHECKPOINT_POE2_BUILD_2026-10-02.txt
+   Natureza: checkpoint técnico anterior.
+   Função: base prévia da build, Milton, defesa, WS1/WS2, stun, joias.
+
+2. 1000115162.mp4
+   Natureza: vídeo curto da árvore.
+   Função: preservar a geometria dos caminhos e weapon-set passives.
+
+3. 1000115175.png
+   Natureza: imagem da região da Time-Lost Very Large.
+   Função: permitir contagem e análise espacial do raio da "Gulosona".
+
+4. 1000115176.jpg
+   Natureza: recorte/localização de uma família de passivas.
+   Função: aproximar a região de Stun/Armour Break.
+
+5. POE2_CHECKPOINT_GULOSONA_2026-10-03.txt
+   Natureza: checkpoint operacional novo da árvore.
+
+6. POE2_MAPA_PASSIVAS_LEDGER_2026-10-03.txt
+   Natureza: ledger técnico de "cada bola / cada efeito".
+
+7. POE2_CAMINHADA_MARCO_DEFINITIVO_2026-10-03.txt
+   Natureza: ordem cirúrgica de execução.
+
+8. POE2_MARCO_DEFINITIVO_MASTER_2026-10-03.txt
+   Natureza: síntese-mestre para retomada futura.
+
+LIMITAÇÕES
+----------
+- A primeira mensagem original da conversa não está disponível na janela atual.
+- O conteúdo de muitos tooltips individuais da árvore não foi filmado.
+- Algumas contagens amplas de notables no raio foram inicialmente estimadas e
+  depois corretamente rebaixadas para hipótese.
+- A investigação histórica não reexecutou nem revalidou externamente a base de
+  dados do jogo; registra o que foi pesquisado e consolidado naquele momento.
+
+
+======================================================================
+01 — APRESENTAÇÃO HISTÓRICA
+======================================================================
+
+Esta engrenagem começou, no território hoje acessível, com um problema que
+parecia banal: contar "bolinhas" da árvore. O problema, porém, se transformou
+em uma crise metodológica. O assistente havia tentado extrair certeza absoluta
+de frames e cores, separando passivas dentro do raio, passivas alocadas e
+passivas específicas de weapon set. Em vez de pedir uma entrada melhor, ficou
+preso em verificação visual prolongada.
+
+A reação do usuário foi decisiva. A crítica não rejeitou rigor; rejeitou rigor
+mal aplicado. A frase essencial foi, em substância: se a imagem não permite
+fechar a conta, peça uma foto melhor. Isso produziu uma recalibração temporal,
+uma regra de escopo e uma mudança na relação de trabalho: dificuldade deve ser
+exposta cedo, não escondida dentro de uma investigação infinita.
+
+Depois dessa correção, o progresso acelerou. Uma imagem melhor da região da
+Time-Lost permitiu fechar um pacote local de sete passivas: cinco smalls e dois
+notables. A matemática da joia começou a ser tratada como uma função da
+topologia da árvore, não apenas como um conjunto de mods no item. O apelido
+"Gulosona" estabilizou essa ideia: uma joia que "come" passivas no raio e
+transforma caminhos comuns em pontos com duas ou três funções simultâneas.
+
+A descoberta mais importante não foi um número isolado. Foi a mudança de
+objeto de otimização. Antes, o projeto havia investido fortemente em itens,
+joias e dano. Nesta conversa, a árvore passou a ser tratada como capital
+realocável. Os 24 pontos vermelhos e 24 pontos verdes deixaram de ser um pano
+de fundo fixo e passaram a ser um orçamento. O alvo também estreitou: primeiro
+"árvore", depois "Attack Speed". Os notables dentro da Gulosona viraram destino;
+os smalls viraram estrada que, por causa da Time-Lost, ainda pagava Quarterstaff
+Damage e Charm Effect Duration.
+
+Duas mecânicas antigas voltaram com nova função. Rage deixou de depender da
+support removida quando Heavy Swing entrou e passou a ser procurada na árvore,
+principalmente via Bestial Rage / Rage on Melee Hit. Heavy Stun, que já era
+fortíssimo na identidade da build, deixou de ser apenas controle e passou a ser
+visto como gatilho para Armour Break, Fully Broken Armour e efeitos de dano
+condicional.
+
+A conversa também amadureceu documentalmente. O usuário exigiu que cada bola
+usada fosse nomeada e descrita. O assistente, depois de ter errado por excesso
+de confiança visual, adotou uma regra explícita: se o vídeo não mostrava
+tooltip suficiente, a bola seria marcada "VISUAL / NÃO FECHADO", nunca batizada
+por adivinhação. Desse princípio nasceram checkpoint, ledger, caminhada e master.
+
+A identidade histórica desta conversa, portanto, não é apenas "otimização de
+build". É a passagem de uma otimização difusa e cara para uma engenharia
+topológica, auditável e incremental da árvore — acompanhada de uma correção
+profunda do método de colaboração humano–IA.
+
+
+======================================================================
+02 — LINHA DO TEMPO
+======================================================================
+
+FASE A — ESTADO ANTERIOR RECUPERÁVEL PELO CHECKPOINT DE 02/10
+-------------------------------------------------------------
+A build já tinha uma identidade consolidada:
+- Milton como bastão principal e símbolo de custo/benefício;
+- WS1 como motor físico/melee;
+- Bell/WS2 como módulo de crítico separado;
+- alto investimento em Heavy Stun;
+- defesa baseada em ES, Evasion e Deflection;
+- Megalomaniac "Filha do Milton";
+- Time-Lost antiga ou provisória percebida como área de upgrade.
+
+Nesta fase, a lógica dominante ainda era fortemente orientada a itens, joias e
+ganhos localizados.
+
+FASE B — O ENGASGO DAS BOLINHAS
+-------------------------------
+O assistente passa tempo excessivo tentando resolver visualmente uma contagem
+que deveria ser simples. O usuário interrompe o processo e exige explicação.
+
+O assistente reconstrói o próprio erro:
+tentou separar simultaneamente:
+- nodes no raio;
+- nodes alocados;
+- nodes ativos em WS1 ou WS2;
+e ficou preso no último nível de certeza.
+
+Resultado:
+a tarefa simples se transforma em ponto de ruptura metodológica.
+
+FASE C — RECALIBRAÇÃO TEMPORAL
+------------------------------
+O usuário formula a correção central:
+"Me dá uma foto melhor."
+
+Além disso, impõe um limite operacional: tarefas simples não podem consumir
+horas. Se a entrada for insuficiente, deve-se pedir uma entrada melhor.
+
+O assistente converte isso em checkpoint:
+- parar cedo diante de incerteza visual;
+- separar CONFIRMADO / PROVISÓRIO / NÃO LEGÍVEL;
+- não reabrir pesquisas já resolvidas;
+- preservar a árvore universal como referência estrutural.
+
+FASE D — SEGURANÇA PARA CONTINUAR
+---------------------------------
+O usuário explica que o checkpoint serve para reduzir tensão e dar base comum.
+O assistente avalia a confiabilidade da continuação como 9/10, preservando 1
+ponto de incerteza para detalhes visuais e validações em mapa.
+
+Esse momento é importante porque o checkpoint deixa de ser só arquivo técnico:
+torna-se mecanismo de estabilidade colaborativa.
+
+FASE E — O "PRESENTINHO" VISUAL
+-------------------------------
+O usuário envia uma imagem clara do raio da Time-Lost.
+
+A análise fecha um pacote local:
+- 5 small passives;
+- 2 notables.
+
+Somente pelos mods da Time-Lost:
+- +10% Quarterstaff Damage;
+- +10% Charm Effect Duration;
+- +4% Quarterstaff Attack Speed.
+
+A conversa deixa de discutir "se a joia é boa" e começa a discutir densidade
+de valor por ponto.
+
+FASE F — A GULOSONA APARECE
+---------------------------
+O usuário envia outro recorte e propõe uma ideia agressiva:
+realocar pontos da árvore para dentro da Time-Lost, aceitando eventualmente
+perda de ES, porque cada ponto no raio pode acumular vários efeitos.
+
+A investigação local identifica a relação entre Heavy Stun e Armour Break,
+principalmente via Shattering Blow.
+
+O usuário corrige o nome de "Golosura" para "Gulosona".
+A partir daí o nome deixa de ser só piada e vira identificador técnico-cultural
+da joia Very Large.
+
+FASE G — RAGE VOLTA À ARQUITETURA
+---------------------------------
+O usuário lembra que havia uma fonte de Rage próxima e percebe que recuperar
+Rage pela árvore poderia devolver uma camada ofensiva inteira sem retirar
+Heavy Swing.
+
+O nome Bestial Rage entra no vocabulário do projeto.
+
+A cadeia passa a ser imaginada assim:
+Whirling rápido
+-> hits melee
+-> Rage
+-> Heavy Stun
+-> Armour Break
+-> payoff físico/condicional.
+
+FASE H — ORGANIZAÇÃO DO PLANO
+-----------------------------
+O usuário pede uma pausa para "amarrar tudo":
+Gulosona, Rage, rota de ES, pontos dentro da Time-Lost.
+
+Surge um plano numerado:
+- usar refunds temporários primeiro;
+- alimentar a Gulosona;
+- buscar Rage on Melee Hit;
+- só depois tocar na peregrinação de ES;
+- testar em mapa por etapas.
+
+FASE I — OS 24 PONTOS VIRAM CAPITAL
+-----------------------------------
+O usuário percebe que existem 24 pontos vermelhos e 24 verdes específicos de
+weapon set e pergunta o que aconteceria se parte significativa dos 24 vermelhos
+fosse refundada.
+
+A conversa passa de:
+"quais nodes são bons?"
+para:
+"qual é a melhor aplicação marginal de cada ponto?"
+
+O teto teórico de 40% increased Attack Speed aparece pela conta:
+20 notables × 2% por notable.
+Depois, corretamente, esse valor é reclassificado como hipótese/teto, porque a
+alocação real exige travel points e nem todo círculo grande visual é um notable
+normal elegível.
+
+FASE J — REDUÇÃO RADICAL DE ESCOPO
+----------------------------------
+O usuário corta todo ruído:
+não otimizar Quarterstaff Damage deliberadamente;
+não estudar a build inteira;
+o foco é:
+ÁRVORE -> ATTACK SPEED -> PASSIVE POINTS.
+
+Essa redução melhora imediatamente a precisão da conversa.
+
+FASE K — TRIANGULAÇÃO DAS FONTES
+--------------------------------
+O usuário lembra que já havia enviado um vídeo completo da árvore e aponta que,
+com uma referência digital atualizada, não deveria ser necessário perguntar
+repetidamente para onde o caminho vai.
+
+Forma-se um método de três fontes:
+- vídeo do usuário = geometria real da árvore usada;
+- screenshot da Gulosona = raio e localização espacial;
+- árvore digital/banco = nomes e efeitos.
+
+O problema deixa de ser "enxergar pixels" e vira correspondência entre fontes.
+
+FASE L — "DAR NOME AOS BOIS"
+----------------------------
+O usuário exige que cada bola utilizada tenha:
+- nome;
+- função;
+- região;
+- relação com vermelho/verde/amarelo;
+- valor para a estratégia.
+
+O assistente reconhece um limite importante:
+nem todos os cinco clusters vermelhos tiveram tooltips registrados.
+Em vez de inventar, passa a usar rótulos como
+"VISUAL / NÃO FECHADO".
+
+FASE M — DOCUMENTAÇÃO DEFINITIVA DA ETAPA
+-----------------------------------------
+O usuário pede execução integral:
+TXT + checkpoint + caminhada + marco definitivo.
+
+São criados quatro documentos:
+- checkpoint da Gulosona;
+- ledger de passivas;
+- caminhada operacional;
+- master.
+
+O estado final é forte, mas não completo:
+a arquitetura estratégica está consolidada;
+algumas passivas individuais permanecem sem nome confirmado.
+
+
+======================================================================
+03 — ÍNDICE GERAL DE FENÔMENOS
+======================================================================
+
+F001 — O ENGASGO DAS BOLINHAS
+Classificação: G
+Confiança: alta
+Localização: início textual acessível; "era só contar o número de bolinhas"
+
+F002 — REGRA DA FOTO MELHOR E LIMITE TEMPORAL
+Classificação: G
+Confiança: alta
+Localização: resposta do usuário ao engasgo; "Me dá uma foto melhor"
+
+F003 — CHECKPOINT COMO BASE DE SEGURANÇA
+Classificação: M
+Confiança: alta
+Localização: diálogo sobre confiabilidade "de 0 a 10"
+
+F004 — O PACOTE DE SETE PASSIVAS
+Classificação: G
+Confiança: alta
+Localização: após o "Presentinho!" com 1000115175.png
+
+F005 — NASCIMENTO DO NOME "GULOSONA"
+Classificação: P
+Confiança: alta
+Influência posterior: grande
+Localização: correção "GULOSONA*"
+
+F006 — HEAVY STUN GANHA PAYOFF VIA ARMOUR BREAK
+Classificação: G
+Confiança: alta
+Localização: análise da família próxima e discussão de Shattering Blow
+
+F007 — RAGE VOLTA PELA ÁRVORE
+Classificação: G
+Confiança: alta
+Localização: busca por node de Rage / Bestial Rage
+
+F008 — A ÁRVORE VIRA CAPITAL REALOCÁVEL
+Classificação: E
+Confiança: alta
+Localização: discussão dos 24 pontos vermelhos e refunds
+
+F009 — NOTABLE É DESTINO; SMALL É ESTRADA
+Classificação: G
+Confiança: alta
+Localização: foco em Attack Speed dentro da Gulosona
+
+F010 — VERMELHO / VERDE / AMARELO VIRA LINGUAGEM OPERACIONAL
+Classificação: M
+Confiança: alta
+Localização: redução de WS1/WS2 à codificação já visível no vídeo
+
+F011 — REDUÇÃO DE ESCOPO COMO MOTOR DE QUALIDADE
+Classificação: G
+Confiança: alta
+Localização: "vamos diminuir mais ainda o scope"
+
+F012 — TRIANGULAÇÃO VÍDEO + IMAGEM + ÁRVORE DIGITAL
+Classificação: G
+Confiança: alta
+Localização: fase "dar nome aos bois"
+
+F013 — REGRA "NÃO INVENTAR BOLA"
+Classificação: G
+Confiança: alta
+Localização: criação do ledger e marcação VISUAL / NÃO FECHADO
+
+F014 — 40% ATTACK SPEED REBAIXADO DE ÊXTASE A TETO HIPOTÉTICO
+Classificação: M
+Confiança: alta
+Localização: matemática da Gulosona e documentos finais
+
+F015 — PEREGRINAÇÃO DE ES VIRA BANCO SECUNDÁRIO
+Classificação: M
+Confiança: alta
+Localização: planos de refund mantendo ~5k ES
+
+F016 — MILTON SE TRANSFORMA EM PRINCÍPIO DE ENGENHARIA
+Classificação: P
+Confiança: alta
+Influência posterior: grande
+Localização: linguagem recorrente "Milton", "Filha do Milton", "Milton sumiu"
+
+F017 — HUMANO E IA COMO DEBUGGER DISTRIBUÍDO
+Classificação: G
+Confiança: alta
+Localização: "me usa como ser humano e eu te uso como amigo de trabalho"
+
+F018 — DOCUMENTAÇÃO EM QUATRO CAMADAS
+Classificação: G
+Confiança: alta
+Localização: pedido "TXT + CHECKPOINT + CAMINHADA MARCO DEFINITIVO"
+
+
+======================================================================
+04 — DOSSIÊS HISTÓRICOS COMPLETOS
+======================================================================
+
+----------------------------------------------------------------------
+F001 — O ENGASGO DAS BOLINHAS
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A investigação estava tentando extrair uma contagem exata de passivas a partir
+de vídeo e frames da árvore. Havia uma ambição de precisão total: distinguir
+passivas no raio, passivas alocadas e passivas condicionais a weapon set.
+
+2. Acontecimento desencadeador
+O usuário interrompe o processo e exige explicação. O núcleo da crítica:
+a tarefa era "só contar o número de bolinhas", mas havia consumido um tempo
+desproporcional.
+
+3. Desenvolvimento
+O assistente reconstrói a própria deriva. Admite ter transformado uma contagem
+visual em um problema de prova:
+- raio;
+- alocação;
+- WS1/WS2;
+- borda;
+- centro da joia;
+- frames sucessivos.
+
+4. Transformação
+A falha deixa de ser tratada como "falta de capacidade visual" e passa a ser
+entendida como falha de decisão: insistir com uma entrada ruim em vez de pedir
+uma entrada melhor.
+
+5. Relações
+ORIGINOU F002.
+CONTRIBUIU PARA F011 e F017.
+
+6. Consequências
+Imediata:
+criação de regra temporal e de escalonamento da dificuldade.
+Posterior:
+a conversa inteira passa a valorizar escopo pequeno e explicitação de limites.
+
+7. Evidências
+Âncoras:
+- "era só pra contar o número de bolinhas"
+- "duas horas não é pouca coisa"
+- "qual foi o motivo que você engasgou"
+
+8. Avaliação histórica
+Magnitude original: grande, porque interrompeu o método vigente.
+Influência posterior: extraordinariamente alta dentro desta engrenagem, pois
+todas as etapas seguintes adotaram limites de escopo.
+
+9. Situação final
+Consolidado como erro metodológico reconhecido.
+
+10. Utilidade futura
+Serve como regra de falha:
+se uma tarefa visual simples não fecha rapidamente, mudar a entrada, não
+aumentar indefinidamente a análise.
+
+
+----------------------------------------------------------------------
+F002 — REGRA DA FOTO MELHOR E LIMITE TEMPORAL
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+O assistente ainda associava rigor a insistência analítica.
+
+2. Acontecimento desencadeador
+O usuário formula a alternativa simples:
+"você pode me dar outra foto?"
+
+Também exige uma recalibração temporal e rejeita tarefas simples que se
+prolonguem por horas.
+
+3. Desenvolvimento
+A correção vira protocolo:
+- tarefas simples têm limite;
+- incerteza visual gera pedido de imagem melhor;
+- entregar parcial honesto é melhor do que ocultar um loop;
+- "CONFIRMADO / PROVISÓRIO / NÃO LEGÍVEL".
+
+4. Transformação
+O método muda de "resolver a qualquer custo" para "escolher a fonte correta".
+
+5. Relações
+DERIVOU DE F001.
+CONTRIBUIU PARA F003, F011, F012 e F013.
+
+6. Consequências
+A próxima imagem realmente resolve em segundos uma parte daquilo que o vídeo
+não havia permitido fechar.
+
+7. Evidências
+Âncoras:
+- "Me dá uma foto melhor"
+- "Você não pode mais ficar mais de cinco minutos numa tarefa"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande e diretamente demonstrada.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Protocolo de trabalho para qualquer análise visual, não apenas PoE2.
+
+
+----------------------------------------------------------------------
+F003 — CHECKPOINT COMO BASE DE SEGURANÇA
+Classificação: M
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Depois do engasgo, havia risco de a conversa permanecer desconfiada e reabrir
+toda a build a cada passo.
+
+2. Acontecimento desencadeador
+O usuário valida o novo checkpoint como suficientemente palpável e pergunta a
+confiabilidade para seguir.
+
+3. Desenvolvimento
+O assistente responde 9/10:
+a espinha dorsal é sólida, mas ainda existem detalhes visuais não fechados.
+
+4. Transformação
+Checkpoint deixa de ser simples armazenamento e passa a ser base operacional:
+reduz a necessidade de recarregar todo o histórico.
+
+5. Relações
+DEPENDEU DE F002.
+CONTRIBUIU PARA F004 e F018.
+
+6. Consequências
+A conversa ganha permissão para avançar sem reabrir decisões já consolidadas.
+
+7. Evidências
+Âncoras:
+- "pra aliviar a sua mente, pra aliviar a sua tensão"
+- "de 0 a 10, qual a confiabilidade"
+- resposta: "9/10"
+
+8. Avaliação histórica
+Magnitude original: média.
+Influência posterior: alta.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Mostra que checkpoint não é só memória: é contrato de continuidade.
+
+
+----------------------------------------------------------------------
+F004 — O PACOTE DE SETE PASSIVAS
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A contagem da Gulosona ainda era parcial e visualmente frágil.
+
+2. Acontecimento desencadeador
+O usuário envia uma imagem clara e diz "Presentinho!".
+
+3. Desenvolvimento
+A imagem permite fechar um subconjunto:
+- cinco small passives;
+- dois notables.
+
+Pelos mods conhecidos da Time-Lost:
+- cinco smalls geram +10% Quarterstaff Damage;
+- cinco smalls geram +10% Charm Effect Duration;
+- dois notables geram +4% Quarterstaff Attack Speed.
+
+4. Transformação
+A discussão deixa de ser abstrata e ganha uma unidade de medida real:
+"7 pontos = pacote mínimo já provado".
+
+5. Relações
+DEPENDEU DE F002.
+ORIGINOU F005 e CONTRIBUIU PARA F008/F009.
+
+6. Consequências
+A Time-Lost deixa de ser avaliada apenas pelo item e passa a ser avaliada pelo
+produto:
+efeito da joia × topologia da árvore.
+
+7. Evidências
+Âncoras:
+- "Presentinho!"
+- "cinco pequenos"
+- "dois grandes"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado como piso matemático.
+
+10. Utilidade futura
+É a menor unidade comprovada para comparar qualquer realocação.
+
+
+----------------------------------------------------------------------
+F005 — NASCIMENTO DO NOME "GULOSONA"
+Classificação: P
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+O apelido apareceu de forma oscilante, incluindo a forma "Golosura".
+
+2. Acontecimento desencadeador
+O usuário corrige:
+"GULOSONA* O CORRETOR ME CORRIGIU KKK"
+
+3. Desenvolvimento
+A palavra passa a designar de forma estável:
+a Time-Lost Very Large + o comportamento de "comer" passivas e multiplicar o
+valor delas.
+
+4. Transformação
+Uma piada vira índice cognitivo.
+
+5. Relações
+DERIVOU DE F004.
+CONTRIBUIU linguisticamente para F008, F009, F014 e F018.
+
+6. Consequências
+Permitiu falar de uma estrutura matemática complexa com uma palavra curta.
+
+7. Evidências
+Âncora:
+"GULOSONA*"
+
+8. Avaliação histórica
+Magnitude original: pequena.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+"Gulosona" deve ser interpretada como a Time-Lost Very Large desta fase.
+
+
+----------------------------------------------------------------------
+F006 — HEAVY STUN GANHA PAYOFF VIA ARMOUR BREAK
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Heavy Stun já era identidade da build e ferramenta de controle, com grande
+Stun Buildup acumulado.
+
+2. Acontecimento desencadeador
+Ao investigar a família de nodes mostrada pelo usuário, surge Shattering Blow
+e a possibilidade de converter Heavy Stun em Armour Break.
+
+3. Desenvolvimento
+A percepção muda:
+não é necessário investir indefinidamente em "mais stun".
+O objetivo pode ser lucrar com o stun já produzido.
+
+A cadeia conceitual passa a incluir:
+Heavy Stun
+-> Armour Break
+-> Fully Broken Armour
+-> aumento do payoff físico
+-> sinergia com efeitos condicionais já existentes.
+
+4. Transformação
+Heavy Stun muda de camada principalmente defensiva/controle para gatilho de
+uma cadeia ofensiva.
+
+5. Relações
+COMBINOU COM a identidade antiga da build.
+CONTRIBUIU PARA F008 e para o plano final F018.
+
+6. Consequências
+Shattering Blow e Material Solidification entram no ledger como candidatos
+estratégicos.
+
+7. Evidências
+Âncoras:
+- "quebrar armadura"
+- "50%"
+- "a barrinha começa... quando ele é stunado"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado como linha estratégica; custo de rota ainda não totalmente fechado.
+
+10. Utilidade futura
+Evita tratar Stun Buildup adicional como valor automático.
+O foco passa a ser payoff.
+
+
+----------------------------------------------------------------------
+F007 — RAGE VOLTA PELA ÁRVORE
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Rage III havia sido retirada para abrir espaço a Heavy Swing.
+Rage era lembrada como uma camada importante, mas sem fonte conveniente.
+
+2. Acontecimento desencadeador
+O usuário lembra de um node de Rage próximo e pede sua localização.
+
+3. Desenvolvimento
+Bestial Rage é identificado como alvo:
+Gain 1 Rage on Melee Hit
+e bônus físico por blocos de Rage.
+
+A solução proposta:
+recuperar Rage pela árvore sem remover Heavy Swing.
+
+4. Transformação
+O problema deixa de ser "qual support sacrificar?".
+Vira "quanto custa comprar uma fonte de Rage na árvore?".
+
+5. Relações
+CONTRIBUIU PARA F008, F009 e F018.
+COMBINOU COM Whirling e Attack Speed.
+
+6. Consequências
+Rage passa a fazer parte da arquitetura de árvore, não apenas de gem setup.
+
+7. Evidências
+Âncoras:
+- "onde que tem um node de rage?"
+- "pegar a Rage de graça"
+- "sem sacrificar Heavy Swing"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado como prioridade; posição/custo exato ainda dependiam de cartografia.
+
+10. Utilidade futura
+Sempre procurar Rage como mecânica de árvore antes de reabrir sockets de support.
+
+
+----------------------------------------------------------------------
+F008 — A ÁRVORE VIRA CAPITAL REALOCÁVEL
+Classificação: E
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A build havia gasto muito em itens e upgrades.
+Os pontos de árvore eram tratados mais como configuração existente do que como
+um patrimônio de capital a ser redistribuído.
+
+2. Acontecimento desencadeador
+O usuário percebe que existem 24 pontos específicos vermelhos e 24 verdes e
+imagina refundar parte significativa deles para comprar eficiência dentro da
+Gulosona.
+
+3. Desenvolvimento
+A pergunta deixa de ser:
+"qual item dá mais dano?"
+e se torna:
+"qual aplicação de passive point produz mais Attack Speed e mecânicas úteis?"
+
+Também entram como fontes de capital:
+- pontos verdes temporários;
+- clusters vermelhos de dano/área;
+- posteriormente, peregrinação de ES;
+- possivelmente mana antiga.
+
+4. Transformação
+Muda o objeto central de otimização:
+de aquisição de item
+para alocação marginal de pontos.
+
+5. Relações
+DEPENDEU DE F004, F006 e F007.
+ORIGINOU F009, F011, F014 e F015.
+
+6. Consequências
+O "próximo grande upgrade" passa a poder ser gratuito em moeda e caro apenas
+em reorganização.
+
+7. Evidências
+Âncoras:
+- "24 pontos em WS1 e 24 pontos em WS2"
+- "refund 24 pontos"
+- "agora o menino pegou a calculadora"
+
+8. Avaliação histórica
+Magnitude original: extraordinária dentro desta engrenagem.
+Justificativa:
+reorganizou simultaneamente o objeto de análise, o orçamento e a prioridade da
+build.
+
+9. Situação final
+Consolidado como paradigma, embora nenhuma refundação total tenha sido
+executada no território final documentado.
+
+10. Utilidade futura
+Tratar passive points como recursos comparáveis por retorno marginal.
+
+
+----------------------------------------------------------------------
+F009 — NOTABLE É DESTINO; SMALL É ESTRADA
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Ainda havia tentação de somar todos os efeitos da Time-Lost simultaneamente.
+
+2. Acontecimento desencadeador
+O usuário reduz o foco:
+"não precisa focar mais em quarterstaff damage... o único focus é attack speed"
+
+3. Desenvolvimento
+Surge uma regra elegante:
+- notables são perseguidos porque cada um recebe Attack Speed;
+- smalls aparecem obrigatoriamente no caminho;
+- por estarem no raio, os smalls já dão Quarterstaff Damage e Charm Duration.
+
+4. Transformação
+A otimização fica unidimensional no objetivo e multidimensional no benefício.
+
+5. Relações
+DERIVOU DE F008 e F011.
+CONTRIBUIU PARA F018.
+
+6. Consequências
+A métrica passa a ser aproximadamente:
+Attack Speed obtido / passive points gastos
++
+valor original dos notables.
+
+7. Evidências
+Âncoras:
+- "o único focus é só attack speed"
+- "no caminho, obrigatoriamente, quarterstaff damage"
+- "smalls são estrada"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+É a regra de otimização mais importante da Gulosona.
+
+
+----------------------------------------------------------------------
+F010 — VERMELHO / VERDE / AMARELO VIRA LINGUAGEM OPERACIONAL
+Classificação: M
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A conversa usava WS1/WS2, mas ainda havia confusão sobre qual conjunto de
+passivas estava ativo.
+
+2. Acontecimento desencadeador
+O usuário insiste que o vídeo já mostra as linhas e que é melhor chamá-las pela
+cor.
+
+3. Desenvolvimento
+A linguagem se estabiliza:
+- vermelho = pontos do ataque principal;
+- verde = pontos do outro weapon set;
+- amarelo = universal.
+
+4. Transformação
+Uma distinção abstrata vira mapa visual compartilhado.
+
+5. Relações
+CONTRIBUIU PARA F012, F013 e F018.
+
+6. Consequências
+Diminui o custo de comunicação e evita reexplicar weapon-set semantics.
+
+7. Evidências
+Âncoras:
+- "não tem mais WS1, WS2"
+- "vai falar ponto vermelho, ponto verde"
+
+8. Avaliação histórica
+Magnitude original: média.
+Influência posterior: alta.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Usar cores antes de siglas quando estiver consultando o vídeo da árvore.
+
+
+----------------------------------------------------------------------
+F011 — REDUÇÃO DE ESCOPO COMO MOTOR DE QUALIDADE
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A investigação tendia a crescer:
+árvore inteira, itens, dano, ES, crit, stun, charms.
+
+2. Acontecimento desencadeador
+O usuário observa explicitamente que, quando o scope diminuiu, a resposta
+melhorou.
+
+3. Desenvolvimento
+O scope é comprimido em estágios:
+build
+-> árvore
+-> passive points
+-> Attack Speed
+-> notables.
+
+4. Transformação
+"Menos assuntos" passa a significar "mais resolução".
+
+5. Relações
+DERIVOU DE F001/F002.
+ORIGINOU F009 e fortaleceu F012.
+
+6. Consequências
+A pesquisa deixa de se comportar como exploração global e vira investigação
+cirúrgica.
+
+7. Evidências
+Âncoras:
+- "quando diminuir o scope eu vi que você acertou em cheio"
+- "o scope é... árvore"
+- "o único focus é só attack speed"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: extraordinariamente alta no método.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Antes de qualquer investigação complexa, definir uma única variável-alvo.
+
+
+----------------------------------------------------------------------
+F012 — TRIANGULAÇÃO VÍDEO + IMAGEM + ÁRVORE DIGITAL
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A imagem sozinha não tinha resolução suficiente para nomear todos os nodes.
+A árvore digital sozinha não conhecia a alocação real do usuário.
+
+2. Acontecimento desencadeador
+O usuário junta as peças:
+já existe vídeo da árvore;
+existem sites com árvore navegável;
+a screenshot localiza a região.
+
+3. Desenvolvimento
+Cada fonte ganha uma função:
+- vídeo = caminho real;
+- screenshot = região/raio;
+- banco/árvore digital = nome e texto do node.
+
+4. Transformação
+O problema de visão passa a ser um problema de correspondência de coordenadas
+e nomes.
+
+5. Relações
+DEPENDEU DE F002, F010 e F011.
+CONTRIBUIU PARA F013 e F018.
+
+6. Consequências
+O assistente deixa de precisar perguntar repetidamente "onde você foi?".
+
+7. Evidências
+Âncoras:
+- "você já tem fotos e vídeos"
+- "agora com a referência digital"
+- "dar nome aos bois"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado como método, mas não completado para todas as bolas.
+
+10. Utilidade futura
+É a arquitetura correta para terminar a cartografia sem reanalisar o planeta.
+
+
+----------------------------------------------------------------------
+F013 — REGRA "NÃO INVENTAR BOLA"
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A pressão para entregar nomes poderia induzir inferência visual excessiva.
+
+2. Acontecimento desencadeador
+A necessidade de documentar "cada bola" encontra um limite:
+o vídeo não mostra tooltip de todos os nodes.
+
+3. Desenvolvimento
+O ledger cria estados:
+- ATUAL;
+- CANDIDATA;
+- NÃO ATRIBUÍDO;
+- VISUAL / NÃO FECHADO.
+
+4. Transformação
+A ausência de certeza deixa de ser um defeito escondido e vira dado explícito.
+
+5. Relações
+DERIVOU DE F001/F002 e F012.
+CONTRIBUIU PARA F018.
+
+6. Consequências
+Os cinco clusters vermelhos não recebem nomes inventados.
+A documentação passa a preservar lacunas.
+
+7. Evidências
+Âncoras:
+- "cada bola que nois usar e o que ela faz"
+- "não vou batizar uma bolinha... só para completar tabela"
+- "VISUAL / NÃO FECHADO"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: alta, porque protege a continuidade contra falsos fatos.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Qualquer dado sem tooltip deve continuar marcado como pendente até prova.
+
+
+----------------------------------------------------------------------
+F014 — 40% ATTACK SPEED REBAIXADO DE ÊXTASE A TETO HIPOTÉTICO
+Classificação: M
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A imagem ampla produziu entusiasmo com a possibilidade de muitos notables.
+
+2. Acontecimento desencadeador
+A fórmula simples:
+20 notables × 2% = 40% increased Quarterstaff Attack Speed.
+
+3. Desenvolvimento
+O número chega a ser tratado como possibilidade muito agressiva.
+Depois, na documentação, recebe limites:
+- é "increased", não "more";
+- exige 20 notables normais realmente alocados;
+- travel points consomem orçamento;
+- círculos visuais especiais podem não contar.
+
+4. Transformação
+A conversa preserva o entusiasmo sem converter teto em fato.
+
+5. Relações
+DERIVOU DE F008/F009.
+FOI MODIFICADO POR F013.
+
+6. Consequências
+A matemática futura fica obrigada a contar notables realmente comprados.
+
+7. Evidências
+Âncoras:
+- "40% ataque speed"
+- "20 notables = +40% somente como teto matemático"
+
+8. Avaliação histórica
+Magnitude original: média.
+Influência posterior: alta como correção epistemológica.
+
+9. Situação final
+Parcialmente demonstrado como teto; não demonstrado como resultado atual.
+
+10. Utilidade futura
+Nunca usar "+40%" como baseline até a contagem final de alocação.
+
+
+----------------------------------------------------------------------
+F015 — PEREGRINAÇÃO DE ES VIRA BANCO SECUNDÁRIO
+Classificação: M
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A rota superior de Energy Shield tinha sido construída para manter a defesa e
+atributos, com custo perceptível em pontos.
+
+2. Acontecimento desencadeador
+Ao perceber a eficiência potencial da Gulosona, o usuário começa a considerar
+refund de ES.
+
+3. Desenvolvimento
+A conversa evita o extremo:
+não sacrificar defesa cegamente.
+Fica estabelecido um piso aproximado de ~5k ES e uma ordem:
+refunds temporários/vermelhos ruins primeiro; ES depois.
+
+4. Transformação
+A defesa deixa de ser intocável, mas continua sujeita a um piso.
+
+5. Relações
+DERIVOU DE F008.
+CONTRIBUIU PARA F018.
+
+6. Consequências
+A rota de ES vira "segundo banco" de pontos, não primeira fonte.
+
+7. Evidências
+Âncoras:
+- "refund lá pro lado do Energy Shield"
+- "perder uns Energy Shields"
+- "~5k ES é piso operacional"
+
+8. Avaliação histórica
+Magnitude original: média.
+Influência posterior: média/alta.
+
+9. Situação final
+Aberto para execução futura.
+
+10. Utilidade futura
+Evita sacrificar sobrevivência antes de esgotar refunds mais baratos.
+
+
+----------------------------------------------------------------------
+F016 — MILTON SE TRANSFORMA EM PRINCÍPIO DE ENGENHARIA
+Classificação: P
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Milton era o nome do bastão principal, historicamente barato e difícil de
+substituir por itens muito mais caros.
+
+2. Acontecimento desencadeador
+O padrão custo/resultado é reutilizado em "Filha do Milton" e depois em toda a
+conversa.
+
+3. Desenvolvimento
+Milton passa a significar:
+- eficiência absurda;
+- solução barata que supera expectativa;
+- benchmark contra gasto irracional;
+- personagem humorístico que "some" quando a matemática fica absurda.
+
+4. Transformação
+Um item vira princípio de decisão e símbolo narrativo.
+
+5. Relações
+CONTRIBUIU culturalmente para F008 e F018.
+
+6. Consequências
+A build passa a valorizar retorno marginal, não preço ou prestígio do upgrade.
+
+7. Evidências
+Âncoras:
+- "Milton"
+- "Filha do Milton"
+- "Milton sumiu"
+
+8. Avaliação histórica
+Magnitude original: pequena como apelido.
+Influência posterior: grande como heurística.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+"Regra Milton" = comprar resultado, não perfeição cara.
+
+
+----------------------------------------------------------------------
+F017 — HUMANO E IA COMO DEBUGGER DISTRIBUÍDO
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+O assistente tentava resolver incertezas internamente, gerando loops longos.
+
+2. Acontecimento desencadeador
+O usuário explicita uma relação de trabalho:
+"me usa como ser humano e eu te uso como amigo de trabalho"
+
+3. Desenvolvimento
+A divisão de funções fica clara:
+- usuário pode fornecer screenshot, sensação de jogo, cor das linhas e teste;
+- IA pode estruturar, calcular, nomear, comparar e preservar;
+- dificuldades devem ser verbalizadas cedo.
+
+4. Transformação
+A colaboração passa de "assistente autônomo que precisa resolver tudo" para
+"sistema distribuído com dois tipos de percepção".
+
+5. Relações
+DERIVOU DE F001/F002.
+FORTALECEU F011/F012/F013.
+
+6. Consequências
+O usuário assume explicitamente o papel de melhorar inputs quando necessário.
+
+7. Evidências
+Âncoras:
+- "me usa como ser humano"
+- "eu te uso como amigo de trabalho"
+- "se você falar sempre as dificuldades, eu vou te ajudar"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: grande.
+
+9. Situação final
+Consolidado como princípio de colaboração.
+
+10. Utilidade futura
+Quando uma fonte visual falhar, acionar a parceria, não aumentar a teimosia.
+
+
+----------------------------------------------------------------------
+F018 — DOCUMENTAÇÃO EM QUATRO CAMADAS
+Classificação: G
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A conversa havia produzido várias descobertas e corria risco de perder:
+- Rage;
+- pacote de sete passivas;
+- regra dos notables;
+- ES como segundo banco;
+- limites de hipótese.
+
+2. Acontecimento desencadeador
+O usuário exige execução integral:
+"TXT + CHECKPOINT + CAMINHADA MARCO DEFINITIVO"
+
+3. Desenvolvimento
+São criados quatro documentos:
+A) checkpoint;
+B) ledger;
+C) caminhada;
+D) master.
+
+Cada um recebe função distinta:
+- preservar estado;
+- nomear passivas;
+- ordenar execução;
+- resumir a retomada.
+
+4. Transformação
+A conversa deixa de depender da memória imediata.
+
+5. Relações
+RECUPEROU e consolidou F003-F017.
+
+6. Consequências
+O estado da árvore passa a existir como artefato consultável.
+Ao mesmo tempo, a documentação registra honestamente lacunas remanescentes.
+
+7. Evidências
+Âncoras:
+- "CADA BOLA QUE NOIS USAR E O QUE ELA FAZ"
+- "TXT + CHECKPOINT+ CAMINHADA MARCO DEFITIVO"
+
+8. Avaliação histórica
+Magnitude original: grande.
+Influência posterior: potencialmente grande, pois cria continuidade futura.
+
+9. Situação final
+Consolidado.
+O conteúdo técnico ainda possui pontos marcados como VISUAL / NÃO FECHADO.
+
+10. Utilidade futura
+É o conjunto principal de recuperação rápida da estratégia desta fase.
+
+
+======================================================================
+05 — GRAFO GENEALÓGICO TEXTUAL
+======================================================================
+
+RELAÇÕES CONFIRMADAS
+--------------------
+
+F001 --ORIGINOU--> F002
+
+F002 --CONTRIBUIU PARA--> F003
+F002 --CONTRIBUIU PARA--> F011
+F002 --CONTRIBUIU PARA--> F017
+
+F003 --PERMITIU CONTINUIDADE PARA--> F004
+
+F004 --ORIGINOU--> F005
+F004 --CONTRIBUIU PARA--> F008
+F004 --CONTRIBUIU PARA--> F009
+
+F006 --CONTRIBUIU PARA--> F008
+
+F007 --CONTRIBUIU PARA--> F008
+
+F008 --ORIGINOU--> F009
+F008 --CONTRIBUIU PARA--> F014
+F008 --CONTRIBUIU PARA--> F015
+
+F010 --CONTRIBUIU PARA--> F012
+
+F011 --MODIFICOU O MÉTODO DE--> F012
+F011 --FORTALECEU--> F009
+
+F012 --CONTRIBUIU PARA--> F013
+
+F013 --MODIFICOU--> F014
+
+F003 + F009 + F013 + F015
+--CONTRIBUÍRAM PARA--> F018
+
+F016 --CONTRIBUIU COMO HEURÍSTICA PARA--> F008
+F016 --CONTRIBUIU COMO VOCABULÁRIO PARA--> F018
+
+F017 --FORTALECEU--> F012
+F017 --FORTALECEU--> F013
+
+
+RELAÇÕES PROVÁVEIS, MAS NÃO TOTALMENTE DEMONSTRADAS
+---------------------------------------------------
+- A descoberta de Armour Break provavelmente elevou o valor percebido de alguns
+  notables no raio, mas o custo final de rota não foi calculado antes do
+  encerramento histórico.
+- A solução de mana provavelmente aumentou o valor de Chakra of Thought, mas a
+  posição e alocação final desse notable não foram fechadas nesta etapa.
+- O aumento deliberado de Attack Speed provavelmente aceleraria Rage e Stun na
+  prática, mas os ganhos exatos de APS real dependem do total de "increased
+  Attack Speed" pré-existente e dos limites de geração de cada mecânica.
+
+
+======================================================================
+06 — VOCABULÁRIO E SÍMBOLOS
+======================================================================
+
+MILTON
+------
+Origem:
+bastão principal histórico de custo muito baixo e resultado muito alto.
+
+Transformação:
+vira regra filosófica de custo/benefício.
+
+Uso final:
+"Milton" significa também uma solução que entrega resultado desproporcional ao
+preço ou esforço.
+
+FILHA DO MILTON
+---------------
+Megalomaniac comprada com boa relação custo/resultado.
+Estende a metáfora de Milton para outros componentes.
+
+GULOSONA
+--------
+Time-Lost Very Large desta fase.
+Nome sugere que a joia "come" vários nodes e extrai valor acumulado deles.
+
+Transformação:
+de piada -> identificador técnico central.
+
+"GULOSONA*"
+-----------
+Correção explícita do usuário depois do autocorretor alterar o termo.
+Importante porque estabiliza o vocabulário.
+
+BOLINHAS / CADA BOLA
+--------------------
+Forma informal de falar dos passive nodes.
+Depois da crise metodológica, ganha sentido documental:
+cada bola usada deve ter nome, efeito e status.
+
+VERMELHO
+--------
+Weapon-set passives do ataque principal/Whirling.
+
+VERDE
+-----
+Weapon-set passives do outro set/Bell.
+
+AMARELO
+-------
+Backbone universal.
+
+PEREGRINAÇÃO
+------------
+Nome informal para rota longa de ES/INT/recharge.
+Posteriormente vista como possível banco secundário de refunds.
+
+"MORE, MORE, MORE"
+------------------
+Expressa a fase de busca contínua por dano.
+Retrospectivamente, a conversa percebe que já possuía múltiplas camadas e que
+o gargalo podia ser organização da árvore, não compra de mais itens.
+
+"BAZUCA"
+--------
+Metáfora para a potência latente da build:
+já existiam várias mecânicas fortes, mas não estavam sendo organizadas juntas.
+
+"ME DÁ UMA FOTO MELHOR"
+-----------------------
+Mais do que frase operacional: torna-se princípio metodológico contra loops de
+análise com input insuficiente.
+
+
+======================================================================
+07 — PROJETOS E ARTEFATOS
+======================================================================
+
+A. CHECKPOINT_POE2_BUILD_2026-10-02.txt
+---------------------------------------
+Natureza:
+checkpoint técnico anterior.
+
+Função histórica:
+preservou o estado de build antes da fase Gulosona.
+
+Conteúdo relevante para esta engrenagem:
+- Milton;
+- WS1/WS2;
+- Stun Buildup alto;
+- ES/Evasion/Deflection;
+- Megalomaniac;
+- Time-Lost anterior;
+- regras de não confundir increased com more;
+- filosofia de custo/benefício.
+
+Relação:
+foi superado parcialmente, não destruído.
+O checkpoint Gulosona substitui apenas a parte de árvore/Time-Lost.
+
+
+B. 1000115162.mp4
+-----------------
+Natureza:
+vídeo curto da árvore.
+
+Função histórica:
+preservar os caminhos reais usados pelo personagem.
+
+Importância retrospectiva:
+de início foi tratado como fonte visual difícil.
+Depois, combinado com árvore digital, tornou-se chave para "dar nome aos bois".
+
+
+C. 1000115175.png
+-----------------
+Natureza:
+screenshot da Gulosona e seu Very Large radius.
+
+Função:
+permitiu contagem local e percepção espacial da densidade de notables/smalls.
+
+
+D. 1000115176.jpg
+-----------------
+Natureza:
+recorte de cluster.
+
+Função:
+direcionou a investigação para Stun / Armour Break.
+
+
+E. POE2_CHECKPOINT_GULOSONA_2026-10-03.txt
+-----------------------------------------
+Natureza:
+checkpoint operacional da nova fase.
+
+Função:
+fixar:
+- foco Attack Speed;
+- fórmulas da Gulosona;
+- pacote de sete pontos;
+- Rage;
+- Armour Break;
+- piso de ES;
+- estados de certeza.
+
+
+F. POE2_MAPA_PASSIVAS_LEDGER_2026-10-03.txt
+-------------------------------------------
+Natureza:
+inventário técnico.
+
+Função:
+tentar dar identidade a "cada bola".
+
+Contribuição metodológica:
+introduz explicitamente:
+ATUAL / CANDIDATA / NÃO ATRIBUÍDO / VISUAL.
+
+
+G. POE2_CAMINHADA_MARCO_DEFINITIVO_2026-10-03.txt
+-------------------------------------------------
+Natureza:
+procedimento de execução.
+
+Função:
+impedir refund caótico.
+
+Sequência:
+baseline -> refunds baratos -> Gulosona -> Rage -> Armour Break ->
+Attack Speed nativo -> ES -> teste controlado.
+
+
+H. POE2_MARCO_DEFINITIVO_MASTER_2026-10-03.txt
+----------------------------------------------
+Natureza:
+síntese de retomada.
+
+Função:
+preservar a estratégia em formato compacto.
+
+Frase estrutural:
+o próximo grande upgrade não seria necessariamente um item, mas a reorganização
+da árvore em torno da Gulosona.
+
+
+======================================================================
+08 — CONTRADIÇÕES E CORREÇÕES
+======================================================================
+
+C001 — "DUAS HORAS" COMO MEDIDA
+-------------------------------
+O usuário descreve a demora como "duas horas".
+Isso é evidência da experiência de espera, não uma medição independente
+auditada neste documento.
+
+Correção histórica:
+preservar como percepção/relato do usuário, não como telemetria precisa.
+
+
+C002 — CONTAGEM AMPLA DE NOTABLES
+---------------------------------
+Em uma fase, o assistente estimou visualmente algo como 17 notables claros e
+até 20 possíveis no Very Large.
+
+Problema:
+a imagem não permitia distinguir com segurança todo círculo grande normal de
+socket/keystone/estrutura especial.
+
+Correção:
+20 notables × 2% = 40% permanece fórmula válida como teto condicional,
+mas não contagem atual confirmada.
+
+
+C003 — +40% INCREASED NÃO É +40% MORE
+-------------------------------------
+O entusiasmo com "40% attack speed" podia induzir leitura multiplicativa.
+
+Correção:
+o documento técnico fixa:
+"increased Attack Speed" soma com outros increased.
+O ganho real de APS depende da base e do increased já existente.
+
+
+C004 — IMBIBED POWER
+--------------------
+Houve risco de interpretar 25% como Attack Speed.
+
+Correção registrada:
+- 6% increased Attack Speed durante Flask Effect;
+- 25% increased Damage durante Flask Effect.
+
+Importância:
+exemplo de por que cada tooltip deve ser nomeado e preservado literalmente.
+
+
+C005 — GOLOSURA -> GULOSONA
+---------------------------
+Correção linguística do usuário.
+
+Situação final:
+"Gulosona" é o nome canônico interno.
+
+
+C006 — "CONHEÇO TODOS OS NODES" VS. REALIDADE DOCUMENTAL
+--------------------------------------------------------
+Em momento anterior, o assistente havia falado com confiança ampla sobre
+conhecer os nodes da árvore.
+
+Mais tarde, a investigação mostrou que:
+- a geometria era conhecida;
+- nem todos os tooltips estavam preservados;
+- cinco clusters vermelhos ainda não podiam receber nomes honestos.
+
+Correção:
+separar topologia conhecida de identidade textual conhecida.
+
+
+C007 — PESQUISA INFINITA VS. PEDIDO DE INPUT
+--------------------------------------------
+Erro:
+tratar pixel ruim como problema solucionável com mais análise.
+
+Correção:
+pedir screenshot melhor ou usar referência digital.
+
+
+C008 — STUN COMO FIM VS. STUN COMO GATILHO
+------------------------------------------
+Antes:
+mais Stun Buildup parecia por si só um caminho de melhoria.
+
+Depois:
+como a build já possuía muito Stun Buildup, o valor maior pode estar em efeitos
+que exploram Heavy Stun, como Armour Break e dano condicional.
+
+
+======================================================================
+09 — DESCOBERTAS RETROSPECTIVAS
+======================================================================
+
+DR001 — O PROBLEMA NÃO ERA FALTA DE DADO; ERA MAU ENCAIXE ENTRE FONTES
+----------------------------------------------------------------------
+Só depois da crise ficou claro que:
+- vídeo tinha geometria;
+- screenshot tinha resolução local;
+- banco digital tinha nomes.
+Nenhuma fonte precisava fazer tudo sozinha.
+
+
+DR002 — A GULOSONA JÁ ESTAVA COMPRADA, MAS SUBALIMENTADA
+--------------------------------------------------------
+O ganho potencial não dependia necessariamente de comprar outra joia.
+Dependia de alocar melhor pontos dentro do raio.
+
+Essa descoberta muda o sentido do investimento anterior:
+o item caro ainda não estava sendo explorado topologicamente.
+
+
+DR003 — SMALLS TINHAM VALOR RETROSPECTIVO MAIOR
+-----------------------------------------------
+Antes, small passives podiam parecer "imposto de viagem".
+Dentro da Gulosona, eles passam a dar:
+efeito original
++
+Quarterstaff Damage
++
+Charm Effect Duration.
+
+Assim, o custo de viajar até um notable é parcialmente devolvido.
+
+
+DR004 — OS 24 PONTOS NÃO ERAM IDENTIDADE; ERAM ORÇAMENTO
+--------------------------------------------------------
+A conversa percebe que "os 24 vermelhos" não precisam ser preservados por
+tradição.
+Devem competir por retorno.
+
+
+DR005 — RAGE PODIA VOLTAR SEM DESFAZER HEAVY SWING
+---------------------------------------------------
+A falsa dicotomia era:
+Heavy Swing OU Rage support.
+
+A árvore abre uma terceira possibilidade:
+Heavy Swing continua;
+Rage vem de passiva.
+
+
+DR006 — O CHECKPOINT MAIS VALIOSO NÃO É O MAIS LONGO
+-----------------------------------------------------
+O momento de maior progresso veio quando o scope diminuiu.
+O valor do checkpoint passou a ser:
+reduzir o universo ativo, não carregar tudo.
+
+
+DR007 — HUMOR FUNCIONOU COMO COMPRESSÃO SEMÂNTICA
+--------------------------------------------------
+Milton e Gulosona não foram apenas ornamentação.
+Eles passaram a carregar regras:
+- Milton = eficiência;
+- Gulosona = densidade topológica da Time-Lost.
+
+
+======================================================================
+10 — ESTADO HISTÓRICO FINAL
+======================================================================
+
+CONSOLIDADO
+-----------
+- O foco da próxima otimização é a árvore.
+- Dentro da árvore, o foco é Attack Speed.
+- Notables dentro da Gulosona são o alvo principal.
+- Smalls no caminho são benefícios colaterais valiosos.
+- Vermelho / verde / amarelo são a linguagem visual preferida.
+- Rage deve ser buscada pela árvore antes de sacrificar Heavy Swing.
+- Heavy Stun deve ser explorado por payoff, não apenas aumentado.
+- ES é banco secundário, com piso aproximado de ~5k.
+- Não se deve executar refund total de uma vez.
+- O processo correto é lote -> teste -> próxima cirurgia.
+- Dados sem tooltip permanecem não fechados.
+- Existem quatro documentos técnicos para continuidade.
+
+MODIFICADO
+----------
+- A visão de Time-Lost passou de "joia com bons mods" para "multiplicador de
+  topologia da árvore".
+- Attack Speed passou de "cereja do bolo" para objetivo explícito de alocação.
+- Heavy Stun passou de controle predominante para gatilho potencial de Armour
+  Break e outras camadas.
+- Checkpoint passou de mero armazenamento para instrumento de segurança e foco.
+
+PARCIALMENTE DEMONSTRADO
+------------------------
+- +40% increased Attack Speed como teto de 20 notables.
+- localização/custo exato de Bestial Rage na rota final.
+- presença/custo de Chakra of Thought, Chakra of Rhythm e outros notables de
+  speed dentro do raio efetivamente comprado.
+- retorno total de todos os 24 pontos vermelhos se refundados.
+
+AINDA ABERTO
+------------
+- nome e efeito exatos de todos os cinco clusters vermelhos de dano/área;
+- enumeração definitiva de cada uma das 24 passivas vermelhas;
+- enumeração definitiva de cada uma das 24 verdes;
+- contagem final de todos os notables normais compráveis no Very Large;
+- cálculo final de Attack Speed real após considerar o increased já existente;
+- execução e teste em mapa da nova árvore.
+
+ABANDONADO / REJEITADO
+----------------------
+- insistir indefinidamente em imagem ruim;
+- transformar hipótese visual em fato;
+- perseguir Quarterstaff Damage como foco separado nesta etapa;
+- desmontar ES antes de refunds mais baratos;
+- tratar +40% increased como +40% more.
+
+
+======================================================================
+11 — PONTES PARA OUTRAS ENGRENAGENS
+======================================================================
+
+PONTE 1 — CHECKPOINT DE 02/10
+-----------------------------
+A conversa depende de um patrimônio anterior sobre:
+Milton, Megalomaniac, ES, Stun, WS1/WS2 e Time-Lost.
+Esse conteúdo é referenciado, não reconstituído integralmente aqui.
+
+PONTE 2 — VÍDEOS ANTERIORES DA ÁRVORE
+-------------------------------------
+O usuário afirma que já havia produzido vídeos em que a árvore inteira fora
+mostrada. Um deles, 1000115162.mp4, torna-se fonte central nesta engrenagem.
+
+PONTE 3 — FUTURO MAPA COMPLETO DE PASSIVAS
+------------------------------------------
+A documentação atual prepara um próximo trabalho:
+nomear os clusters vermelhos/verde restantes sem reabrir a build inteira.
+
+LIMITAÇÃO DE PONTE
+------------------
+Outros chats, branches e projetos mais amplos não são reconstruídos neste TXT.
+Não há evidência suficiente, dentro do território desta engrenagem, para narrar
+sua genealogia detalhada.
+
+
+======================================================================
+12 — GUIA PARA UM CHAT FUTURO
+======================================================================
+
+SE O OBJETIVO FOR RETOMAR RAPIDAMENTE
+-------------------------------------
+Leia primeiro:
+POE2_MARCO_DEFINITIVO_MASTER_2026-10-03.txt
+
+Depois:
+POE2_CHECKPOINT_GULOSONA_2026-10-03.txt
+
+
+SE O OBJETIVO FOR SABER "O QUE CADA BOLA FAZ"
+---------------------------------------------
+Leia:
+POE2_MAPA_PASSIVAS_LEDGER_2026-10-03.txt
+
+Regra:
+não transforme entradas VISUAL / NÃO FECHADO em fatos.
+
+
+SE O OBJETIVO FOR EXECUTAR A REALOCAÇÃO
+---------------------------------------
+Leia:
+POE2_CAMINHADA_MARCO_DEFINITIVO_2026-10-03.txt
+
+Sequência recomendada historicamente:
+1. medir baseline;
+2. refunds fáceis;
+3. notables da Gulosona;
+4. Rage;
+5. Armour Break;
+6. Attack Speed nativo;
+7. ES por último;
+8. teste em mapa.
+
+
+SE O OBJETIVO FOR TERMINAR A CARTOGRAFIA
+----------------------------------------
+Não reanalise a build inteira.
+
+Use:
+- 1000115162.mp4 para caminho;
+- 1000115175.png para Gulosona;
+- referência digital atual para nome/efeito.
+
+Scope:
+somente os clusters/pontos ainda marcados VISUAL / NÃO FECHADO.
+
+
+SE SURGIR UMA DIFICULDADE VISUAL
+--------------------------------
+Não repetir F001.
+Dizer imediatamente qual região não está legível e pedir uma imagem melhor.
+
+
+SE APARECER UMA NOVA HIPÓTESE GIGANTE
+-------------------------------------
+Classificar:
+- fato atual;
+- teto matemático;
+- hipótese de rota;
+- efeito condicional.
+
+Exemplo:
+"+40% Attack Speed" = teto matemático condicionado a 20 notables alocados,
+não baseline.
+
+
+======================================================================
+13 — AUDITORIA FINAL
+======================================================================
+
+FRONTEIRA RESPEITADA?
+---------------------
+Sim.
+O protocolo atual não foi catalogado como acontecimento histórico.
+
+PRIMEIRA MENSAGEM ORIGINAL ENCONTRADA?
+--------------------------------------
+Não integralmente.
+A primeira mensagem original disponível na janela atual já é uma reação a
+acontecimentos anteriores.
+
+Medida compensatória:
+o checkpoint de 02/10 foi usado apenas para caracterizar o estado anterior
+documentado, sem inventar mensagens ausentes.
+
+REGIÕES INACESSÍVEIS DECLARADAS?
+--------------------------------
+Sim.
+
+ACONTECIMENTOS POSSUEM EVIDÊNCIA?
+---------------------------------
+Sim, por âncoras textuais, artefatos ou ambos.
+
+CLASSIFICAÇÕES JUSTIFICADAS?
+----------------------------
+Sim.
+A única classificação "E" foi F008, porque reorganizou o objeto de otimização
+e produziu consequências extensas e verificáveis.
+
+PEQUENOS FENÔMENOS COM GRANDE INFLUÊNCIA FORAM CONSIDERADOS?
+------------------------------------------------------------
+Sim:
+- "Gulosona";
+- Milton;
+- "me dá uma foto melhor";
+- linguagem vermelho/verde/amarelo.
+
+CAUSALIDADE E COINCIDÊNCIA FORAM DIFERENCIADAS?
+-----------------------------------------------
+Sim.
+As relações incertas estão marcadas como prováveis.
+
+BRANCHES FORAM INVENTADAS?
+--------------------------
+Não.
+
+DOCUMENTOS ANTIGOS FORAM MODIFICADOS?
+-------------------------------------
+Não.
+Foram apenas catalogados.
+
+CONTRADIÇÕES E REVISÕES FORAM INCLUÍDAS?
+----------------------------------------
+Sim.
+
+INFERÊNCIAS FORAM SEPARADAS DOS FATOS?
+--------------------------------------
+Sim.
+Especialmente:
+- teto de +40% Attack Speed;
+- contagem ampla de notables;
+- nomes de clusters vermelhos ainda não tooltipados.
+
+IDENTIFICADORES CONSISTENTES?
+-----------------------------
+Sim: F001 a F018.
+
+O TXT É INDEPENDENTE?
+---------------------
+Sim.
+Ele explica vocabulário, genealogia, estado final e artefatos.
+
+COBERTURA
+---------
+Alta para a sequência:
+engasgo -> recalibração -> Gulosona -> Rage -> Attack Speed -> documentação.
+
+Parcial para:
+o início original do chat e a cartografia completa de todas as passivas.
+
+ESTADO FINAL DA AUDITORIA
+-------------------------
+VERIFICADO PARCIALMENTE.
+
+
+======================================================================
+14 — METADADOS PARA O FUTURO LIVRO
+======================================================================
+
+TÍTULO HISTÓRICO
+----------------
+Da bolinha impossível à Gulosona:
+recalibração, Attack Speed e cartografia da árvore do Monk
+
+IDENTIFICADOR
+-------------
+ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED
+
+PERÍODO VERIFICÁVEL
+-------------------
+Checkpoint antecedente: 02/10/2026
+Núcleo documental principal: 03/10/2026
+Protocolo arqueológico posterior: 10/10/2026, fora do corpus histórico
+
+POSIÇÃO CRONOLÓGICA
+-------------------
+Posterior à consolidação inicial da build Milton / Filha do Milton.
+Anterior à execução final comprovada da grande realocação da árvore.
+
+ANCESTRALIDADE
+--------------
+Parcialmente conhecida por checkpoint e arquivos.
+Branches externas não reconstruídas.
+
+TEMAS PRINCIPAIS
+----------------
+- Path of Exile 2
+- Monk
+- passive tree
+- weapon-set passives
+- Time-Lost Very Large
+- Attack Speed
+- Rage
+- Heavy Stun
+- Armour Break
+- Energy Shield
+- metodologia de investigação
+- escopo
+- documentação
+- continuidade humano–IA
+
+FENÔMENOS PRINCIPAIS
+--------------------
+F001 — O engasgo das bolinhas
+F002 — Regra da foto melhor
+F004 — Pacote de sete passivas
+F006 — Heavy Stun ganha payoff
+F007 — Rage volta pela árvore
+F008 — A árvore vira capital realocável
+F009 — Notable é destino; small é estrada
+F011 — Redução de escopo
+F012 — Triangulação de fontes
+F013 — Não inventar bola
+F018 — Documentação em quatro camadas
+
+REFERÊNCIAS DOCUMENTAIS RELACIONADAS
+------------------------------------
+CHECKPOINT_POE2_BUILD_2026-10-02.txt
+1000115162.mp4
+1000115175.png
+1000115176.jpg
+POE2_CHECKPOINT_GULOSONA_2026-10-03.txt
+POE2_MAPA_PASSIVAS_LEDGER_2026-10-03.txt
+POE2_CAMINHADA_MARCO_DEFINITIVO_2026-10-03.txt
+POE2_MARCO_DEFINITIVO_MASTER_2026-10-03.txt
+
+FRASE-SÍNTESE DA ENGRENAGEM
+----------------------------
+"O problema não era comprar mais poder.
+Era dar nome às bolas, reduzir o scope e alimentar corretamente a Gulosona."
+
+FRASE-METODOLÓGICA
+------------------
+"Se a imagem não fecha a conta, peça uma imagem melhor."
+
+FRASE-DE-CONTINUIDADE
+---------------------
+"Notable é destino. Small é estrada. O que não foi provado fica não fechado."
+
+======================================================================
+FIM — ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED_HISTORIA_v01
+======================================================================
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-048-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

@@ -1,0 +1,50 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html>
+Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo)
+fonte: ENTRADA_OBRIGATORIA/MODELO_BOT/MEU_RESUMO_DAS_ENGRENAGENS.md
+MEU RESUMO DAS ENGRENAGENS — {NOME}
+Depois de PASSAR em cada capítulo, escreva aqui uma seção
+## CAP
+(ex.:
+## R00
+,
+## EG014
+) com pelo menos 3 linhas SUAS: o que é, por que importa e uma citação curta com arquivo:linha. A ferramenta só abre o próximo capítulo quando a seção existe.
+EXEMPLO (como fica um resumo de R00; NÃO conta, escreva o seu em "## R00")
+R00 junta as regras e os portões: rascunho sem merge, só acrescentar, SHA do jogo antes e depois.
+Importa porque o Bruno decide e nada se perde; cada fase tem tag de volta.
+Citação: "PR sempre rascunho, sem merge" (docs/prova_engrenagens/fontes/R00/02_PORTOES_GROK_CODEX.md).
+CONSOLIDADO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-060-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

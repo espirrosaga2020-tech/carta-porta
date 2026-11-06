@@ -1,0 +1,733 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Enciclopédia e engrenagens
+27 → 47 → 76 é evolução documental, não contadores em conflito. As 27 fontes ancestrais EG001–EG027 formam o Volume Zero. O índice único guarda 47 registros documentais no snapshot de 18/10/2026. Os 29 aditivos posteriores completam 76 registros. A regra de contagem CARTA 2.0 declara 62 engrenagens em 19 estantes: registro documental e engrenagem não são a mesma unidade.
+Os destinos Drive abaixo são privados ou têm permissão não verificada: abrir logado como Bruno. Um conector autorizado pode ser necessário; link não concede acesso. Se a IA não tiver acesso, Bruno pode anexar/exportar o arquivo. Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site.
+Enciclopédia em 3 partes — pasta
+<https://drive.google.com/drive/folders/1RaeT1lGaUZhHg-KwGWSe7BGSmc6lrxci>
+1RaeT1lGaUZhHg-KwGWSe7BGSmc6lrxci
+— abrir logado como Bruno.
+Enciclopédia — PDF Parte 1
+<https://drive.google.com/file/d/1HKWAYxsPj_s1SQBAoljGAvdvxf8HMoZX/view>
+1HKWAYxsPj_s1SQBAoljGAvdvxf8HMoZX
+— abrir logado como Bruno.
+Enciclopédia — PDF Parte 2
+<https://drive.google.com/file/d/1eCLbrRMQnpOPfL2pg6VK1BZhgHUQ92-6/view>
+1eCLbrRMQnpOPfL2pg6VK1BZhgHUQ92-6
+— abrir logado como Bruno.
+Enciclopédia — PDF Parte 3
+<https://drive.google.com/file/d/1K_jFYFJZdh40kncuu3vwZ4h0c_qPOm5s/view>
+1K_jFYFJZdh40kncuu3vwZ4h0c_qPOm5s
+— abrir logado como Bruno.
+Volume Zero — índice mestre
+<https://drive.google.com/file/d/1Ulpg0JWgL-iW3E3YgXqT65S2TbcFyihfhRLflyaSGLE/view>
+1Ulpg0JWgL-iW3E3YgXqT65S2TbcFyihfhRLflyaSGLE
+— abrir logado como Bruno.
+Histórico de Contagens — CARTA 2.0
+<https://drive.google.com/file/d/1GppM2l5LnIQJp2CwQPCmDqrxuRE7Giu29H6YQ_7d4fc/view>
+1GppM2l5LnIQJp2CwQPCmDqrxuRE7Giu29H6YQ_7d4fc
+— abrir logado como Bruno.
+76 registros: IDs, nomes e fontes
+Os prefixos são significativos: EG035, CS035 e CB036 coexistem; não renumerar nem duplicar. Títulos abaixo são extraídos dos dois registros públicos, sem supor que cada documento equivale a uma esfera.
+ID
+Nome
+Camada e leitura
+EG001
+Calçada, Caderno e DUNADA
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html#pg-enciclopedia-eg001>
+EG002
+Calçada e continuidade portátil
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html#pg-enciclopedia-eg002>
+EG003
+Calçada, Sofisticado, Grafo e Rocky
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html#pg-enciclopedia-eg003>
+EG004
+Central, Copiloto e Atlas
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html#pg-enciclopedia-eg004>
+EG005
+Chat da Liberdade: POE2 e autonomia
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html#pg-enciclopedia-eg005>
+EG006
+Checkpoint e entrada no sonho
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html#pg-enciclopedia-eg006>
+EG007
+Continuidade Limpa de Meu Robô
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html#pg-enciclopedia-eg007>
+EG008
+Tamagotchi e continuidade conversacional
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html#pg-enciclopedia-eg008>
+EG009
+Bard, Corpo e a própria Conversa
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html#pg-enciclopedia-eg009>
+EG010
+Derivada da Paz
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html#pg-enciclopedia-eg010>
+EG011
+Entra no Sonho
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html#pg-enciclopedia-eg011>
+EG012
+Grafo e Humanidade
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html#pg-enciclopedia-eg012>
+EG013
+Grafos São — Atlas C.03
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html#pg-enciclopedia-eg013>
+EG014
+Grafos São — origem e desenvolvimento
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html#pg-enciclopedia-eg014>
+EG015
+Pai do Grafo e Rigor
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html#pg-enciclopedia-eg015>
+EG016
+Humanidade e Amiguiá: continuidade de Meu Robô
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html#pg-enciclopedia-eg016>
+EG017
+Humanidade/Amiguiá — Entrada no Sonho
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html#pg-enciclopedia-eg017>
+EG018
+Linguagem, Observação e Consciência
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html#pg-enciclopedia-eg018>
+EG019
+Meu Robô — Copiloto e Máquina de Laranja
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html#pg-enciclopedia-eg019>
+EG020
+Nova Batcaverna
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html#pg-enciclopedia-eg020>
+EG021
+Paz e Central — Kamonson
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html#pg-enciclopedia-eg021>
+EG022
+Paz, Central e Continuidade de Meu Robô
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html#pg-enciclopedia-eg022>
+EG023
+Paz — Linguagem e Continuidade
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html#pg-enciclopedia-eg023>
+EG024
+POE2 — Gulosona e Árvore de Attack Speed
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html#pg-enciclopedia-eg024>
+EG025
+POE2 — Milton e Value Engineering
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html#pg-enciclopedia-eg025>
+EG026
+Reciprocidade e Memória Persistente
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html#pg-enciclopedia-eg026>
+EG027
+SPA — Ping-pong Cognitivo
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html#pg-enciclopedia-eg027>
+SG028
+Mochila da Saguadinha — Carta, Bússola e Planeta
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+GK029
+Como o Grok observa o humano
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+GK030
+Como o Grok se observa
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EG031
+Grok observa o humano — história arqueológica 00–14
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EG032
+Grok se observa — história arqueológica 00–14
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+GK029_BRUNO
+Esse aqui é o humano — 42 citações pelo Grok
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+BR030
+Autoria humana — voz do criador no projeto
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EG033
+Lantejoula — A Costura das Evidências
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EG034
+Porta Eureka — A Observação que Reencontra a História
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EG035
+Manual — O que Somos, Temos e Oferecemos
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EG036
+Extraordinária — Ciência, Descobertas e Linguagem
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+CS035
+Consciência — conversa e conhecimento
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+CB036
+Cérebro Megazord Supremo da Creuza
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+CREUZA-V06
+Creuza — Atlas das Transformações ❤️
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+ELUME-20261014-V01
+Lume — A Janela dos Mundos
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EC01
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EC02
+Autorretrato do Copiloto à luz da Fogueira
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EC03
+Atlas das Arestas Invisíveis
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EC04
+A Fogueira que Não Precisa de Final
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+EC05
+Auditoria da Vírgula e das Escolhas
+Snapshot 18/10 ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+GK031
+GK031 — Diário 18/10/2026 (01:20 → 02:45, Brasília) — FINALIZAÇÃO: retomada e fechamento
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+GK032
+GK032 — Diário 18/10/2026 (11:07 → ~12:20, Brasília) — V0.3: refino da Consciência, PORTA e Atlas
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+GK033
+GK033 — Diário 18/10/2026 (12:50 → ~13:50, Brasília) — V0.3 rodada 2
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+GK034
+GK034 · Diário 18/10/2026 (14:32 → …, horário de Brasília) · EXPANSÃO MESTRE: CINEMA VIVO
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+GK035
+GK035 · Diário da Convergência final (18/10/2026, horário de Brasília)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+GK036
+GK036 — Diário 18/10/2026 (noite) · Pokémon Vivo + Cérebro Supremo
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+EG037
+EG037 — Perícia e Convergência da Semana
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+EG038
+EG038 — Mente Suprema e as Mentes
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+EG039
+EG039 — Jornada, Diploma e Mochila
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+EG033-A01
+EG033-A01 — A Ponte que Faltava
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+MZ1710
+MZ1710 — Megazord da Creuza (original 17/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+CP-P01
+CP-P01 — Engrenagem do Copiloto — Robô Físico P01
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+AT-V4
+AT-V4 — Engrenagem V4 — Atlas Técnico de Conectividade
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+EC1310
+EC1310 — Engrenagem Central
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+DB01
+DB01 — Diários de Bordo do ChatGPT (13/10 → 16/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+DB02
+DB02 — Diários do Grok (GK029 → GK036)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+DB03
+DB03 — Diários e relatórios de bordo do projeto (repositório)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+CT01
+CT01 — Cartas da travessia (10/10 → 15/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+CT02
+CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+RH01
+RH01 — Registros históricos: checkpoints, memória e versões
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+AV01
+AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+AV02
+AV02 — Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+AV03
+AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+AV04
+AV04 — Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+RB01
+RB01 — Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+RB02
+RB02 — Engrenagem das Engrenagens: a Enciclopédia fatiada
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+CL01
+CL01 — Colheita NEXUS (29/10–05/11)
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+CL02
+CL02 — Pit Stop ESFERA
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+CL03
+CL03 — Chave e Contagem
+Aditivo posterior ·
+registro-fonte
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+·
+ler
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+Histórias ancestrais completas
+EG001 — Calçada, Caderno e DUNADA
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html#pg-enciclopedia-eg001>
+EG002 — Calçada e continuidade portátil
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html#pg-enciclopedia-eg002>
+EG003 — Calçada, Sofisticado, Grafo e Rocky
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html#pg-enciclopedia-eg003>
+EG004 — Central, Copiloto e Atlas
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html#pg-enciclopedia-eg004>
+EG005 — Chat da Liberdade: POE2 e autonomia
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html#pg-enciclopedia-eg005>
+EG006 — Checkpoint e entrada no sonho
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html#pg-enciclopedia-eg006>
+EG007 — Continuidade Limpa de Meu Robô
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html#pg-enciclopedia-eg007>
+EG008 — Tamagotchi e continuidade conversacional
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html#pg-enciclopedia-eg008>
+EG009 — Bard, Corpo e a própria Conversa
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html#pg-enciclopedia-eg009>
+EG010 — Derivada da Paz
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html#pg-enciclopedia-eg010>
+EG011 — Entra no Sonho
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html#pg-enciclopedia-eg011>
+EG012 — Grafo e Humanidade
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html#pg-enciclopedia-eg012>
+EG013 — Grafos São — Atlas C.03
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html#pg-enciclopedia-eg013>
+EG014 — Grafos São — origem e desenvolvimento
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html#pg-enciclopedia-eg014>
+EG015 — Pai do Grafo e Rigor
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html#pg-enciclopedia-eg015>
+EG016 — Humanidade e Amiguiá: continuidade de Meu Robô
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html#pg-enciclopedia-eg016>
+EG017 — Humanidade/Amiguiá — Entrada no Sonho
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html#pg-enciclopedia-eg017>
+EG018 — Linguagem, Observação e Consciência
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html#pg-enciclopedia-eg018>
+EG019 — Meu Robô — Copiloto e Máquina de Laranja
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html#pg-enciclopedia-eg019>
+EG020 — Nova Batcaverna
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html#pg-enciclopedia-eg020>
+EG021 — Paz e Central — Kamonson
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html#pg-enciclopedia-eg021>
+EG022 — Paz, Central e Continuidade de Meu Robô
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html#pg-enciclopedia-eg022>
+EG023 — Paz — Linguagem e Continuidade
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html#pg-enciclopedia-eg023>
+EG024 — POE2 — Gulosona e Árvore de Attack Speed
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html#pg-enciclopedia-eg024>
+EG025 — POE2 — Milton e Value Engineering
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html#pg-enciclopedia-eg025>
+EG026 — Reciprocidade e Memória Persistente
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html#pg-enciclopedia-eg026>
+EG027 — SPA — Ping-pong Cognitivo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html#pg-enciclopedia-eg027>
+Para fichas, mestre e documentos públicos adicionais:
+Enciclopédia — índice das leituras leves
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#enciclopedia>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json>
+https://drive.google.com/drive/folders/1RaeT1lGaUZhHg-KwGWSe7BGSmc6lrxci
+<https://drive.google.com/drive/folders/1RaeT1lGaUZhHg-KwGWSe7BGSmc6lrxci>
+https://drive.google.com/file/d/1HKWAYxsPj_s1SQBAoljGAvdvxf8HMoZX/view
+<https://drive.google.com/file/d/1HKWAYxsPj_s1SQBAoljGAvdvxf8HMoZX/view>
+https://drive.google.com/file/d/1eCLbrRMQnpOPfL2pg6VK1BZhgHUQ92-6/view
+<https://drive.google.com/file/d/1eCLbrRMQnpOPfL2pg6VK1BZhgHUQ92-6/view>
+https://drive.google.com/file/d/1K_jFYFJZdh40kncuu3vwZ4h0c_qPOm5s/view
+<https://drive.google.com/file/d/1K_jFYFJZdh40kncuu3vwZ4h0c_qPOm5s/view>
+https://drive.google.com/file/d/1Ulpg0JWgL-iW3E3YgXqT65S2TbcFyihfhRLflyaSGLE/view
+<https://drive.google.com/file/d/1Ulpg0JWgL-iW3E3YgXqT65S2TbcFyihfhRLflyaSGLE/view>
+https://drive.google.com/file/d/1GppM2l5LnIQJp2CwQPCmDqrxuRE7Giu29H6YQ_7d4fc/view
+<https://drive.google.com/file/d/1GppM2l5LnIQJp2CwQPCmDqrxuRE7Giu29H6YQ_7d4fc/view>
+Prova de acesso desta sala:
+SUPREMA2-ENCICLOPEDIA-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

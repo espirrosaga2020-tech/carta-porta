@@ -1,0 +1,92 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — RB02: documento da engrenagem (CARTA 2.0)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html>
+RB02: documento da engrenagem (CARTA 2.0)
+fonte: docs/engrenagens_carta20/RB02.md
+RB02 — Engrenagem das Engrenagens
+A engrenagem que olha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho certo sem ler tudo.
+00 Ficha de proveniência {#rb02-00}
+id:
+RB02 ·
+estante:
+Robótica do Bruno / Método ·
+modalidade:
+engrenagem de método (índice de índices) · CARTA 2.0
+autoria:
+pedido do Bruno (03/11, 19h) + Grok (T105U)
+fontes:
+"ENCICLOPÉDIA DAS ENGRENAGENS — livro completo ilustrado", partes 1 a 4 (págs. 1–216, 217–432, 433–648, 649–863, montado em 02/11) + Manual de Tudo v7 (03/11).
+código:
+tools/t105u/fatiar_enciclopedia.py
+(público) ·
+fatias:
+só no PC e no Drive (o texto das engrenagens é privado; nunca no GitHub nem na Porta).
+01 Como funciona {#rb02-01}
+O PDF vira texto, uma página por vez.
+Uma
+seção
+começa quando um título abre a página (EG001 — …, "Estante: …", "Parte …", "Apêndice"). Assim, uma engrenagem que atravessa de uma parte do PDF para a outra continua inteira.
+Dentro da seção, cada subtítulo numerado ("02 — LINHA DO TEMPO") abre uma
+fatia
+; se passar de ~6.000 caracteres, corta no próximo parágrafo.
+Cada fatia ganha
+endereço
+, seção, subtítulo, páginas, 12 palavras-chave e um resumo de 280 caracteres.
+O Manual é fatiado pelos títulos
+##
+.
+02 Resultado de 03/11 {#rb02-02}
+648 fatias (608 da Enciclopédia + 40 do Manual v8 e das fichas RB01/RB02), 76 seções, 863 de 863 páginas cobertas. Arquivos:
+fatias.jsonl
+,
+INDICE_FATIAS.md
+,
+mapa.json
+.
+03 Como consultar {#rb02-03}
+python tools/t105u/fatiar_enciclopedia.py --consultar <pasta> "pergunta"
+→ as 5 fatias mais próximas (busca por palavras, tipo BM25), com endereço e páginas. No laboratório, só o dono:
+GET /api/t89u/t105u/fatias?q=...
+.
+04 Limites {#rb02-04}
+A busca é por palavras, não por sentido. O livro é uma cópia de leitura: se houver diferença, vale o original no Drive. As fatias não mudam nem substituem nada.
+05 Relações {#rb02-05}
+fatia:
+EG001–EG027
+, a Parte III (fichas posteriores) e o
+Manual
+· par:
+RB01
+.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-106-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

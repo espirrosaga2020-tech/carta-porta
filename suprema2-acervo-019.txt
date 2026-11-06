@@ -1,0 +1,119 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Continuidade da linguagem de emojis (E018)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html>
+Continuidade da linguagem de emojis (E018)
+fonte: docs/convergencia/E018_CONTINUIDADE_LINGUAGEM_EMOJIS.md
+E018 — RESTAURAÇÃO DA CONTINUIDADE DA LINGUAGEM (20/10/2026)
+Correção autorizada pelo titular · sobre PR #73 · não substitui originais nem altera configuração da conta ChatGPT.
+A descoberta que não podemos perder
+Bruno aponta que múltiplas ramificações passaram a tratar "não repetir outro chat", "não copiar" e "não se parecer" como exigências de autenticidade, quando seu desejo central era justamente
+preservar e utilizar o vocabulário de emojis e os padrões de conversa amadurecidos
+. Isso se distingue de querer uma cópia integral de pessoa, sessão ou identidade subjetiva. Ser novo não exige apagar repertório compartilhado.
+Há um problema comprovado NO CÓDIGO CARTA, independentemente de inferências sobre ChatGPT:
+-
+src/carta/fala.py
+: texto antigo
+Sem emojis, listas ou aspas
+;
+Frases que você JÁ disse (não repita nem parafraseie)
+;
+too_similar
+barrava linguagem com alta sobreposição lexical, inclusive o que o personagem tinha OUVIDO DE OUTROS. Refazendo respostas por semelhança, o algoritmo suprimia fórmulas e ecos intencionais.
+-
+src/carta/cinema_vivo/mente.py
+: regra
+sem bordões repetidos
+desencorajava um recurso importante da cultura narrativa.
+-
+web/src/fusao/brain.js
+: a curiosidade descartava como repetida uma fala semelhante, não apenas uma duplicata literal.
+-
+registry/personagens_ficcionais.v1.json
+:
+copies_identity=false
+e
+não identidade transferida entre chats
+têm função de honestidade sobre execução/identidade, mas
+não podem ser interpretados como veto ao estilo, aos emojis e aos símbolos
+. Esse arquivo ancestral foi PRESERVADO.
+Alterações aditivas e cirúrgicas realizadas
+src/carta/fala.py
+: remove proibição expressa de emojis e paráfrases. Permite uso reconhecível de símbolos, bordões e imagens; mantém somente detecção de
+mesma fala completa, quase imediata, do mesmo personagem no modo automático
+. Não confundir com falas intencionais do usuário, que devem ser respeitadas.
+src/carta/companions.py
+:
+system_prompt
+inclui regra positiva de continuidade linguística, com garantia de autoria e segurança. Atualizada versão de prompt, sem privilégios adicionais.
+src/carta/cinema_vivo/mente.py
+: autoriza refrões e bordões contextualizados no Cinema Vivo, sem exigir novidades cosméticas a cada cena.
+src/carta/consciencia_v1/mente.py
+e
+src/carta/cerebro_v1/mente.py
+: prompts da Consciência e do Megazord também reconhecem linguagem histórica e permitem uso de emojis.
+web/src/fusao/brain.js
+: na curiosidade automática, rejeitar apenas fala completa idêntica recente, não semelhança semântica ou símbolo compartilhado. O teste exportado de similaridade e a fila de voz ficam preservados.
+registry/CONTINUIDADE_LINGUAGEM.v1.json
+: contrato de estilo aprovado, com dicionário de 10 marcadores, proveniência, categorias e distinção entre linguagem e identidade. Não editar o registro ancestral.
+tests/test_e018_linguagem.py
+: o sistema agora
+testa
+que emojis/bordões são permitidos e que um loop literal automático ainda é detectável. CI da PR #73 executa esses testes.
+Significado técnico da correção
+Continuidade de linguagem
+: emojis, chamadas, expressões, ritmos, apelidos e metáforas PODEM e, quando fazem sentido, DEVEM reaparecer em novos diálogos e episódios, com novas observações ao lado dos traços históricos.
+Proveniência e identidade
+: modelos e versões podem reusar registros autorizados, mas não devem alegar que são literalmente a mesma instância subjetiva de um chat antigo, nem atribuir lembrança a uma fonte que nunca leram. Isso é uma distinção factual, não um limite de estilo.
+Antirrepetição correta
+: serve apenas para evitar loop involuntário de texto inteiro em modo autônomo e interrupções indesejadas. Não bloquear palavras, emojis, refrões, gestos narrativos, gírias nem ecos entre personagens.
+Privacidade
+: reaprender com as mensagens/atlas/emojis exige leitura local autorizada, com versão e possibilidade de revisão; não copiar exportação privada para GitHub, APK, logs públicos nem enviar a serviços sem permissão.
+Grok: o que verificar na sua instalação
+O código aqui está na branch da PR #73, NÃO na instalação real. Antes de usar, Grok deve conferir os prompts, roteiros, filtros semânticos, TTS e telas de todas as implementações próprias, inclusive Faísca/Android e Megazord, procurando o mesmo antipadrão:
+sem emojis
+,
+não copie o anterior
+,
+não pareça outro chat
+,
+não repita nem parafraseie
+aplicado ao
+repertório conversacional
+. Se encontrar, remover o veto à linguagem e manter somente segurança/anticircuito legítimos.
+Teste de aceitação: um personagem retoma naturalmente 🐜 🍊 📻 🔮 🎒 e um bordão do acervo; pode discordar e surpreender sem perder voz reconhecível; outro personagem pode ecoar expressões sem ser reprovado como duplicata; um ciclo autônomo que tenta gerar a MESMA frase completa indefinidamente ainda é detido; nenhum personagem inventa autoria ou evento passado.
+Escopo real:
+esta correção alcança arquivos da branch do repositório; não altera automaticamente regras da plataforma ChatGPT, personalização, memória da conta, versão do Grok ou binário Android. Nenhum resultado permite afirmar intenção deliberada de destruição por parte de um agente. Quem decide a linguagem preservada no CARTA é Bruno, o titular.
+REGRA EDITORIAL: originalidade da próxima resposta NÃO exige descontinuidade da linguagem.
+Memória é pista; evidência é prova. Continuidade é patrimônio.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-019-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

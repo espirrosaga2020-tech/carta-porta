@@ -1,0 +1,268 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Portões booleanos t89u (critérios e estado)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html>
+Portões booleanos t89u (critérios e estado)
+PORTÕES T89U — desenho pontilhado (Portão 1 = esqueleto)
+Ordem do Bruno t89u/t90u (02/11/2026). Método: o
+Portão 1
+desenha TODO o projeto (a) a (h) como esqueleto —
+arquitetura, arquivos/módulos, interfaces, flags DESLIGADAS por padrão e critério booleano de cada portão — sem estragar o atual.
+Os portões seguintes só preenchem a tecnologia, cada um com teste próprio.
+Arquitetura
+navegador (planeta, inicio, mundo3d, planeta-godot, meu-robo-planeta)
+  └─ /t89u/t89u.js  carregador: lê /api/t89u/flags (dono) ou ?t89u=b,c (só a aba); ?t89u=0 desliga
+       └─ /t89u/<modulo>.js  só carrega se a flag do portão estiver LIGADA; registra instalar(ctx)/estado()
+servidor 127.0.0.1:8790 (lab_server.py)
+  └─ /api/t89u/*  → src/carta/t89u/rotas.py  (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada;
+                     visitante 403; POST com a mesma checagem de Host/Origin)
+       ├─ catalogo.py  (fonte única dos portões)   ├─ flags.py (CARTA_T89U=a,b  ou  <workspace>/t89u_flags.json)
+       └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py
+Portões ligados por padrão (já aprovados):
+a
+e
+b
+. Os outros seguem desligados.
+Como ligar um portão (dono, no PC):
+<workspace>/t89u_flags.json
+com
+{"t89u_b_save_posicao": true}
+ou a variável
+CARTA_T89U=b
+.
+Teste numa aba só:
+http://127.0.0.1:8790/planeta.html?t89u=b
+.
+Critério do Portão 1 (esqueleto) — FECHA quando tudo for verdadeiro
+[x] (a)…(h) catalogados em
+src/carta/t89u/catalogo.py
+e neste documento
+[x] cada portão tem módulo Python importável, interface e (quando tem tela) módulo JS em
+webdist/t89u/
+[x] todas as flags começam desligadas; rotas dos portões respondem 404
+portao_desligado
+[x] as 5 páginas carregam só o carregador (sem efeito com flags desligadas); arquivos novos no MANIFESTO_WEBDIST
+[x] nada apagado/movido; capturas do Planeta principal antes/depois iguais em painéis e botões
+[x] testes:
+tests/test_t89u_portao1.py
++ suíte do box verde + CI verde
+Portões
+Portão a — Organização: Bastidores/Dev só do dono; Planeta principal em destaque
+flag:
+t89u_a_bastidores
+(
+LIGADA por padrão desde 02/11/2026
+, depois do teste; desliga com
+{"t89u_a_bastidores": false}
+em
+<workspace>/t89u_flags.json
+, ou só numa aba com
+?t89u=0
+)
+Python:
+carta/t89u/bastidores.py
+· JS:
+webdist/t89u/bastidores.js
+API:
+GET /api/t89u/bastidores
+(visitante com ficha: 403)
+Status:
+FECHADO em 02/11/2026
+(tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono)
+Como fica: o Início ganha um cartão NOVO e grande
+🌍 PLANETA · Terra Grande
+como primeiro da tela; o cartão antigo do Planeta continua no grupo dele com o selo "⭐ principal". Os cartões de teste Mini Terra (cTerra, cMiniTerra) e Mundo 3D (cMundo3D) saem da vitrine (só escondidos por CSS, continuam na página). No
+modo dono
+(botão no canto ou Ctrl+Shift+E) aparece o cartão
+🛠️ Bastidores (dev)
+, que abre a lista de páginas de teste e versões guardadas com link para cada uma. Esc ou ✖ fecha.
+critério booleano (todos verdadeiros para fechar):
+[x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev
+[x] Bastidores só aparece no modo dono (carta20_modo)
+[x] Início mostra o Planeta principal como cartão em destaque
+[x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam respondendo 200
+Portão b — SAVE do mundo com posição do jogador, DeLorean e coordenadas
+flag:
+t89u_b_save_posicao
+(
+LIGADA por padrão desde 02/11/2026
+, depois do teste de ida e volta; desliga com
+{"t89u_b_save_posicao": false}
+em
+<workspace>/t89u_flags.json
+)
+Python:
+carta/t89u/save_mundo.py
+· JS:
+webdist/t89u/save_posicao.js
+API:
+POST /api/t89u/save/posicao
+,
+GET /api/t89u/save/posicao
+(
+?vinculo=<pasta do salvamento>
+,
+?lista=1
+)
+Status:
+FECHADO em 02/11/2026
+(tests/test_t89u_portao_b.py + ida e volta no navegador: a pé, dentro do DeLorean, 📂 Retomar e pesquisador)
+Como usa: 💾 Mundo ▾ → 💾 Salvar grava também onde você (Dobra), o DeLorean e a câmera estão. 📂 Carregar → Retomar recoloca a posição daquele salvamento. Botão novo
+📍 Voltar onde salvei
+volta para a última posição salva.
+critério booleano (todos verdadeiros para fechar):
+[x] salvar grava jogador{x,y,z,yaw}, delorean{x,y,z,yaw,dentro}, coordenadas{lat,lon}, câmera/vista
+[x] ida e volta: carregar(salvar(E)) == E (teste automático)
+[x] carregar no Planeta recoloca jogador e DeLorean no lugar (captura antes/depois)
+[x] save antigo (sem bloco de posição) continua carregando
+Portão c — Conversa por voz em tempo real em TODOS os ambientes (STT→IA→TTS)
+flag:
+t89u_c_voz_tempo_real
+(desligada)
+Python:
+carta/t89u/voz_tempo_real.py
+· JS:
+webdist/t89u/voz_tempo_real.js
+API:
+GET /api/t89u/voz/status
+,
+POST /api/t89u/voz/turno
+critério booleano (todos verdadeiros para fechar):
+[ ] microfone em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta abre o mesmo pipeline
+[ ] STT (/api/ouvir) → IA (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde
+[ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (medido e registrado)
+[ ] sem STT/IA instalados: aviso claro e resposta de reserva, nunca silêncio
+Portão d — Personagens: seletor de quem eu controlo; os outros são companheiros
+flag:
+t89u_d_personagens
+(desligada)
+Python:
+carta/t89u/personagens.py
+· JS:
+webdist/t89u/personagens.js
+API:
+GET /api/t89u/personagens
+critério booleano (todos verdadeiros para fechar):
+[ ] seletor visível Dobra/Creuza/Copiloto; escolha persiste
+[ ] os dois não controlados seguem o jogador com função própria (pesquisa, guia, humor)
+[ ] a interface mostra quem faz o quê (etiqueta de função em cada um)
+[ ] Aventura continua funcionando com a Dobra como padrão
+Portão e — Fogueira / Cinema Vivo: menos confuso, mais entretenimento
+flag:
+t89u_e_cinema
+(desligada)
+Python:
+carta/t89u/cinema.py
+· JS:
+webdist/t89u/cinema.js
+API:
+GET /api/t89u/cinema/cenas
+critério booleano (todos verdadeiros para fechar):
+[ ] roteiro de cenas com começo-meio-fim e legenda clara
+[ ] personagens aparecem como homenagem estilizada (comida, anões, bardo, feiticeira, bruxo, sobrevivente) — formas próprias, sem assets/nomes protegidos no código de arte
+[ ] um botão inicia, pausa e sai; nada de painel confuso
+[ ] FPS durante a cena ≥ preset escolhido − 10%
+Portão f — Gráficos: medir a máquina e subir o nível com presets
+flag:
+t89u_f_graficos
+(desligada)
+Python:
+carta/t89u/graficos.py
+· JS:
+webdist/t89u/graficos.js
+API:
+GET /api/t89u/graficos/presets
+,
+POST /api/refino/fps (já existe)
+critério booleano (todos verdadeiros para fechar):
+[ ] benchmark mede FPS e escolhe preset (baixo/médio/alto/ultra) sozinho
+[ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e vegetação melhores
+[ ] FPS medido por preset gravado em refino_fps.jsonl
+[ ] preset 'baixo' = visual atual (nada piora no PC fraco/celular)
+Portão g — APK novo só no final, versionCode maior
+flag:
+t89u_g_apk
+(desligada)
+Python:
+carta/t89u/apk.py
+critério booleano (todos verdadeiros para fechar):
+[x] versionCode novo > 15 (nunca rebaixa) — vc16 "1.12.0-carta20-t89u" (02/11)
+[x] gerado só quando o Bruno pedir para instalar no celular — pedido t93u (02/11)
+[x] APK assinado igual ao anterior e com sha256 anotado — mesmo certificado do vc15; sha256 0A4DAF63…3861
+estado 02/11: APK FEITO e instalado com
+adb install -r
+(dados preservados). O projeto Android fica no PC
+  (
+D:\CARTA\BUILD_APK_1.12.0
+), não no repo; a flag
+t89u_g_apk
+segue desligada (não muda nada no app).
+  Detalhes:
+docs/CARTA20/VARREDURA_GERAL_20261102.md
+.
+Portão h — Visão ao vivo: câmera contínua + conversa (reservado)
+flag:
+t89u_h_visao_ao_vivo
+(desligada)
+Python:
+carta/t89u/visao_ao_vivo.py
+· JS:
+webdist/t89u/visao_ao_vivo.js
+API:
+GET /api/t89u/visao/status
+pesquisa:
+docs/CARTA20/PESQUISA_VISAO_AO_VIVO_CARTA.md
+critério booleano (todos verdadeiros para fechar):
+[ ] câmera contínua só com consentimento e indicador visível; desliga com um toque
+[ ] quadros processados LOCALMENTE por padrão; nada de foto salva sem pedir
+[ ] conversa por voz (portão c) comenta o que vê com latência medida
+[ ] detalhes técnicos preenchidos a partir da pesquisa paralela
+Detalhes do Portão h — Visão ao vivo (da pesquisa)
+Um botão, dois modos.
+olho_local
+(padrão): Ollama
+qwen2.5vl:3b
++ OpenCV (só chama a IA quando a cena muda ou o Bruno fala, 1 quadro/s) + Piper pt-BR. Grátis, privado, nada sai do PC.
+(linha omitida no site público pelo filtro de privacidade)
+Aviso de privacidade sempre visível no modo Gemini: o tier grátis pode usar os dados para treinar; não mostrar documentos, senhas ou nada íntimo.
+Sem faturamento e sem criar chave por nós. Cota acabou/caiu → volta sozinho para o
+olho_local
+. Sessão com
+session_resumption
++ compressão de contexto; heartbeat ~15 s com foto + "o que mudou?".
+Celular:
+adb reverse tcp:8790 tcp:8790
+; a 8790 continua só em 127.0.0.1.
+Ordem de preenchimento sugerida
+b (SAVE, menor e com teste de ida e volta) → a (Bastidores) → d (Personagens) → c (Voz) → h (Visão, Olho Local primeiro) → e (Cinema) → f (Gráficos) → g (APK, só no fim e quando o Bruno pedir).
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#portoes
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#portoes>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-073-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

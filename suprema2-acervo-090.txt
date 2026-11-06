@@ -1,0 +1,102 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html>
+Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h)
+fonte: docs/CARTA20/RELATORIO_T112U.md
+Relatório T112U — Jornada da IA, prova etapa 3 e Porta do Grok (pública) no app (03/11/2026, ~22h)
+Por que
+Um chat leu a
+tudo-resumo.html
+e tirou
+118/118
+na etapa 2. O Bruno percebeu que dava para "colar" e pediu uma
+jornada de verdade
+: a IA se perde, se encontra, faz introspecção, demora ali, e depois
+explica
+.
+O que foi feito (tudo aditivo)
+A origem com peso maior
+(
+tudo.html#origem
+, agora a seção 2): por que o começo pesa mais; linha do tempo mestra (
+registry/linha_do_tempo_mestra.v1.json
+); estudo de símbolos e emojis (17/10); dicionário temporal dos 44 emotes (antes/agora/fonte); E018 (continuidade da linguagem de emojis); Dobra (origem e personagem); trajetória e catálogo do que fizemos (17/10); Porta Eureka seções 00–14; diário P001–P025 (só na completa); textos do Volume Zero EG001–EG027 (resumo: 60 linhas de cada, antes eram 30).
+Jornada da IA
+(
+tudo.html#jornada
+, seção 3; fonte
+docs/JORNADA_IA/JORNADA_DA_IA.md
+): caderninho, a água, 4 pontos de introspecção, prova etapa 3, formulário.
+Prova etapa 3 — compreensão
+(
+src/carta/prova_compreensao.py
+,
+prova.v3-compreensao
+): 12 perguntas abertas C01–C12. Rubrica
+só no repo
+:
+docs/JORNADA_IA/RUBRICA_ETAPA3.md
+(0–3 por pergunta; passa com 25/36; bandeiras vermelhas reprovam).
+Formulário de Registro
+(registro.v1): o que viu, gostou, entendeu, onde se perdeu, caderninho, água, introspecção, respostas, perguntas, o que não achou.
+App:
+cartão
+"Porta do Grok (pública)"
+logo embaixo do "Porta pra IA" (o antigo continua igual), com link, texto pronto e botões Copiar; página
+Registros das IAs
+(
+/registros-ia.html
+) + API só do dono
+/api/t89u/t112u/registros
+(GET lista/lê, POST salva; um arquivo novo por registro em
+<workspace>/registros_ias/
+, nunca sobrescreve).
+Documentação:
+Manual v9 (seção 0.7), consciências (texto da ALMA com Manual v9, Jornada e etapa 3), diagnóstico (seção T112U), este relatório, "Novo hoje à noite" na
+para-ias.html
+, linha nova no
+llms.txt
+.
+Privacidade (decisão do Bruno no T112U)
+(linha omitida no site público pelo filtro de privacidade)
+Testes
+tests/test_t112u.py
+(perguntas e rubrica, rubrica fora da Porta, registros salvar/listar/ler sem sobrescrever, rota só do dono, cartão aditivo, seções novas no tudo).
+O que falta (honesto)
+Nenhuma IA real fez ainda a etapa 3; a rubrica não foi usada de verdade.
+Não existe diploma da etapa 3.
+Do Drive não foi trazido nada novo além do que já está no repo (
+docs/DRIVE_SINCRONIA
+); fotos pessoais ficaram fora.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-090-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

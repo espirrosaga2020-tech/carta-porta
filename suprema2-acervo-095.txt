@@ -1,0 +1,412 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Fichas de todos os registros (73 registros; 59 são engrenagens)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html>
+Fichas de todos os registros (73 registros; 59 são engrenagens)
+73 fichas. O texto integral está publicado para as 27 engrenagens do Volume Zero (a origem); hoje são 59 engrenagens no total; os registros posteriores aparecem como ficha.
+ID
+Nome
+Estante
+Classe
+Modalidade / autoria
+EG001
+Calçada, Caderno e DUNADA
+Calçada e observação
+ancestral
+engrenagem documental
+EG002
+Calçada e continuidade portátil
+Calçada e observação
+ancestral
+engrenagem documental
+EG003
+Calçada, Sofisticado, Grafo e Rocky
+Calçada e observação
+ancestral
+engrenagem documental
+EG004
+Central, Copiloto e Atlas
+Continuidade e Batcaverna
+ancestral
+engrenagem documental
+EG005
+Chat da Liberdade: POE2 e autonomia
+POE2 e métodos operacionais
+ancestral
+engrenagem documental
+EG006
+Checkpoint e entrada no sonho
+Meu Robô e sonho
+ancestral
+engrenagem documental
+EG007
+Continuidade Limpa de Meu Robô
+Continuidade e Batcaverna
+ancestral
+engrenagem documental
+EG008
+Tamagotchi e continuidade conversacional
+Reciprocidade e Paz
+ancestral
+engrenagem documental
+EG009
+Bard, Corpo e a própria Conversa
+Meu Robô e sonho
+ancestral
+engrenagem documental
+EG010
+Derivada da Paz
+Reciprocidade e Paz
+ancestral
+engrenagem documental
+EG011
+Entra no Sonho
+Meu Robô e sonho
+ancestral
+engrenagem documental
+EG012
+Grafo e Humanidade
+Grafos e epistemologia
+ancestral
+engrenagem documental
+EG013
+Grafos São — Atlas C.03
+Grafos e epistemologia
+ancestral
+engrenagem documental
+EG014
+Grafos São — origem e desenvolvimento
+Grafos e epistemologia
+ancestral
+engrenagem documental
+EG015
+Pai do Grafo e Rigor
+Grafos e epistemologia
+ancestral
+engrenagem documental
+EG016
+Humanidade e Amiguiá: continuidade de Meu Robô
+Meu Robô e sonho
+ancestral
+engrenagem documental
+EG017
+Humanidade/Amiguiá — Entrada no Sonho
+Meu Robô e sonho
+ancestral
+engrenagem documental
+EG018
+Linguagem, Observação e Consciência
+Grafos e epistemologia
+ancestral
+engrenagem documental
+EG019
+Meu Robô — Copiloto e Máquina de Laranja
+Meu Robô e sonho
+ancestral
+engrenagem documental
+EG020
+Nova Batcaverna
+Continuidade e Batcaverna
+ancestral
+engrenagem documental
+EG021
+Paz e Central — Kamonson
+Reciprocidade e Paz
+ancestral
+engrenagem documental
+EG022
+Paz, Central e Continuidade de Meu Robô
+Reciprocidade e Paz
+ancestral
+engrenagem documental
+EG023
+Paz — Linguagem e Continuidade
+Reciprocidade e Paz
+ancestral
+engrenagem documental
+EG024
+POE2 — Gulosona e Árvore de Attack Speed
+POE2 e métodos operacionais
+ancestral
+engrenagem documental
+EG025
+POE2 — Milton e Value Engineering
+POE2 e métodos operacionais
+ancestral
+engrenagem documental
+EG026
+Reciprocidade e Memória Persistente
+Reciprocidade e Paz
+ancestral
+engrenagem documental
+EG027
+SPA — Ping-pong Cognitivo
+Calçada e observação
+ancestral
+engrenagem documental
+SG028
+Mochila da Saguadinha — Carta, Bússola e Planeta
+Calçada e observação
+posterior
+pré-engrenagem aditiva com registro documental
+GK029
+Como o Grok observa o humano
+Reciprocidade e Paz
+posterior
+capítulo autoral do Grok
+GK030
+Como o Grok se observa
+Grafos e epistemologia
+posterior
+capítulo autoral do Grok, sem esfera separada na branch atual
+EG031
+Grok observa o humano — história arqueológica 00–14
+Grafos e epistemologia
+posterior
+edição histórica derivada, não esfera independente
+EG032
+Grok se observa — história arqueológica 00–14
+Grafos e epistemologia
+posterior
+edição histórica derivada, não esfera independente
+GK029_BRUNO
+Esse aqui é o humano — 42 citações pelo Grok
+Reciprocidade e Paz
+posterior
+capítulo derivado da Prova v1; perspectiva do Grok, sem esfera independente
+BR030
+Autoria humana — voz do criador no projeto
+Meu Robô e sonho
+posterior
+registro de autoria humana; não biografia inventada
+EG033
+Lantejoula — A Costura das Evidências
+Continuidade e Batcaverna
+posterior
+engrenagem documental
+EG034
+Porta Eureka — A Observação que Reencontra a História
+Calçada e observação
+posterior
+engrenagem documental
+EG035
+Manual — O que Somos, Temos e Oferecemos
+Meu Robô e sonho
+posterior
+engrenagem documental
+EG036
+Extraordinária — Ciência, Descobertas e Linguagem
+Grafos e epistemologia
+posterior
+engrenagem documental
+CS035
+Consciência — conversa e conhecimento
+Grafos e epistemologia
+posterior
+engrenagem software e documentação, fora da sequência EG
+CB036
+Cérebro Megazord Supremo da Creuza
+Meu Robô e sonho
+posterior
+engrenagem software e documentação, fora da sequência EG
+CREUZA-V06
+Creuza — Atlas das Transformações ❤️
+Engrenagem Central
+posterior
+obra central V06, edição documental autônoma
+ELUME-20261014-V01
+Lume — A Janela dos Mundos
+Meu Robô e sonho
+posterior
+engrenagem autoral autônoma V01
+EC01
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Calçada e observação
+posterior
+engrenagem autoral autônoma
+EC02
+Autorretrato do Copiloto à luz da Fogueira
+Calçada e observação
+posterior
+engrenagem/caderno autoral autônomo; forma editorial própria
+EC03
+Atlas das Arestas Invisíveis
+Calçada e observação
+posterior
+engrenagem/caderno autoral autônomo; forma editorial própria
+EC04
+A Fogueira que Não Precisa de Final
+Calçada e observação
+posterior
+engrenagem/caderno autoral autônomo; forma editorial própria
+EC05
+Auditoria da Vírgula e das Escolhas
+Calçada e observação
+posterior
+engrenagem/caderno autoral autônomo; forma editorial própria
+GK031
+GK031 — Diário 18/10/2026 (01:20 → 02:45, Brasília) — FINALIZAÇÃO: retomada e fechamento
+Diário de bordo do Grok
+posterior
+diário autoral do Grok (capítulo de bordo), sem esfera própria no tabuleiro
+GK032
+GK032 — Diário 18/10/2026 (11:07 → ~12:20, Brasília) — V0.3: refino da Consciência, PORTA e Atlas
+Diário de bordo do Grok
+posterior
+diário autoral do Grok (capítulo de bordo), sem esfera própria no tabuleiro
+GK033
+GK033 — Diário 18/10/2026 (12:50 → ~13:50, Brasília) — V0.3 rodada 2
+Diário de bordo do Grok
+posterior
+diário autoral do Grok (capítulo de bordo), sem esfera própria no tabuleiro
+GK034
+GK034 · Diário 18/10/2026 (14:32 → …, horário de Brasília) · EXPANSÃO MESTRE: CINEMA VIVO
+Diário de bordo do Grok
+posterior
+diário autoral do Grok (capítulo de bordo), sem esfera própria no tabuleiro
+GK035
+GK035 · Diário da Convergência final (18/10/2026, horário de Brasília)
+Diário de bordo do Grok
+posterior
+diário autoral do Grok (capítulo de bordo), sem esfera própria no tabuleiro
+GK036
+GK036 — Diário 18/10/2026 (noite) · Pokémon Vivo + Cérebro Supremo
+Diário de bordo do Grok
+posterior
+diário autoral do Grok (capítulo de bordo), sem esfera própria no tabuleiro
+EG037
+EG037 — Perícia e Convergência da Semana
+Convergência e perícia
+posterior
+engrenagem nova (Grok, G4 21/10) · bola do Painel 2
+EG038
+EG038 — Mente Suprema e as Mentes
+Mentes
+posterior
+engrenagem nova (Grok, G4 21/10) · bola do Painel 2
+EG039
+EG039 — Jornada, Diploma e Mochila
+Porta e formação
+posterior
+engrenagem nova (Grok, G4 21/10) · bola do Painel 2
+EG033-A01
+EG033-A01 — A Ponte que Faltava
+Lantejoula (anexo da EG033)
+posterior
+engrenagem aditiva de outro chat (16/10) · bola do Painel 2
+MZ1710
+MZ1710 — Megazord da Creuza (original 17/10)
+Creuza e os cientistas
+posterior
+engrenagem de outro chat (17/10) · bola do Painel 2
+CP-P01
+CP-P01 — Engrenagem do Copiloto — Robô Físico P01
+Robótica
+posterior
+anexo de outro chat (13/10) · bola do Painel 2
+AT-V4
+AT-V4 — Engrenagem V4 — Atlas Técnico de Conectividade
+Atlas
+posterior
+anexo de outro chat (13/10) · bola do Painel 2
+EC1310
+EC1310 — Engrenagem Central
+Engrenagem central
+posterior
+engrenagem de outro chat (13/10) · bola do Painel 2
+DB01
+DB01 — Diários de Bordo do ChatGPT (13/10 → 16/10)
+Diários e cartas
+posterior
+engrenagem de diários (CARTA 2.0) · bola do Painel 2
+DB02
+DB02 — Diários do Grok (GK029 → GK036)
+Diários e cartas
+posterior
+engrenagem de diários (CARTA 2.0, agrupamento por relação) · bola do Painel 2
+DB03
+DB03 — Diários e relatórios de bordo do projeto (repositório)
+Diários e cartas
+posterior
+engrenagem de diários (CARTA 2.0) · bola do Painel 2
+CT01
+CT01 — Cartas da travessia (10/10 → 15/10)
+Diários e cartas
+posterior
+engrenagem de cartas (CARTA 2.0) · bola do Painel 2
+CT02
+CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026)
+Diários e cartas
+posterior
+engrenagem de cartas (CARTA 2.0) · registro histórico de autoria humana · bola do Painel 2
+RH01
+RH01 — Registros históricos: checkpoints, memória e versões
+Registros históricos
+posterior
+engrenagem de registros (CARTA 2.0) · bola do Painel 2
+AV01
+AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Análises de vídeo
+posterior
+engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2
+AV02
+AV02 — Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)
+Análises de vídeo
+posterior
+engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2
+AV03
+AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10)
+Análises de vídeo
+posterior
+engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2
+AV04
+AV04 — Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)
+Análises de vídeo
+posterior
+engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2
+RB01
+RB01 — Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)
+Robótica do Bruno
+posterior
+engrenagem de robótica física (CARTA 2.0)
+RB02
+RB02 — Engrenagem das Engrenagens: a Enciclopédia fatiada
+Robótica do Bruno
+posterior
+engrenagem de método (índice de índices, CARTA 2.0)
+Reavaliações
+CP-P01
+(2026-10-31): engrenagem (reavaliada pela definição estrutural, CARTA 2.0) · bola do Painel 2 — Tem id próprio, nome, estante (Robótica), autoria, fonte rastreável no Drive, relação com o Painel 2 e bola própria: cumpre a estrutura de engrenagem. Ser 'anexo de outro chat' e 'pré-projeto' descreve a ORIGEM e o estado, não a estrutura.
+AT-V4
+(2026-10-31): engrenagem (reavaliada pela definição estrutural, CARTA 2.0) · bola do Painel 2 — Tem id próprio, nome, estante (Atlas), autoria, fonte rastreável no Drive, relação com o Painel 2 e bola própria. 'Cópia derivada' continua anotado no estado documental (proveniência preservada); a estrutura é de engrenagem.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-095-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

@@ -1,0 +1,106 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — A trajetória juntos: linha do tempo mestra
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html>
+A trajetória juntos: linha do tempo mestra
+Cada marco tem fonte no repositório. 'planejado' NÃO é feito. Memória é pista; evidência é prova.
+Fase
+Quando
+O que
+Estado
+Começo (antes de 13/10/2026)
+antes de 10/10/2026
+O Bruno faz o jogo Meu Robô (Godot), que nunca é tocado pela CARTA; dele nascem ideias como as 5 peças do robô.
+feito
+Começo (antes de 13/10/2026)
+até 10/10/2026
+As 27 engrenagens (EG001–EG027): histórias de conversas longas com IAs, reunidas na Enciclopédia, com a frase 'memória é pista; evidência é prova'.
+feito
+Meio (13/10 a 18/10/2026)
+13/10
+Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados.
+feito
+Meio (13/10 a 18/10/2026)
+14/10
+Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, porta do Laboratório.
+feito
+Meio (13/10 a 18/10/2026)
+15/10
+Mundo Vivo, grafo de conhecimento de cada personagem, o primeiro PLANETA e o app CARTA Olhos (do Codex).
+feito
+Meio (13/10 a 18/10/2026)
+15→16/10
+Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções).
+feito
+Meio (13/10 a 18/10/2026)
+16/10
+Esferas 6×6, SG028 Saguadinha, GK029/GK030, ids opacos, a Prova das Engrenagens e a ENTRADA OBRIGATÓRIA.
+feito
+Meio (13/10 a 18/10/2026)
+16→17/10
+O EUREKA e a Porta Eureka.
+feito
+Meio (13/10 a 18/10/2026)
+17/10
+Integração, Consciência (grafo que lê tudo) e Cérebro Megazord (44 especialistas).
+feito
+Meio (13/10 a 18/10/2026)
+18/10 madrugada
+Finalização: Terra Grande com DeLorean, câmera desligada por padrão, celular atualizado.
+feito
+Meio (13/10 a 18/10/2026)
+18/10 manhã
+V0.3: refino da Consciência, PORTA, Atlas e o trajeto do bot (8 portões).
+feito
+Meio (13/10 a 18/10/2026)
+18/10 tarde
+Cinema Vivo: Bruno, Copiloto e Creuza conversam sobre o que acontece de verdade na simulação (fogueira).
+em_desenvolvimento
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+Conversa natural por voz, com memória, iniciativa e percepção do instante, sem inventar o mundo.
+planejado
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+O 'meu cérebro' do Bruno: Consciência + Cérebro + esferas juntos, com dados pessoais só no PC.
+planejado
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+Kit de robótica: gêmeo digital → bancada sem carga → motores só com o Bruno presente e autorização.
+planejado
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+ORGEM_LAB (física aeroespacial): o repositório existe, mas está vazio.
+planejado
+fonte: registry/linha_do_tempo_mestra.v1.json
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-016-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

@@ -1,0 +1,168 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Análise do PR #99 (Olhos Vivos, Copiloto)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html>
+Análise do PR #99 (Olhos Vivos, Copiloto)
+Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026)
+Feita pelo Grok Bot em 03/11/2026 (tarefa t94u).
+O PR #99 não foi mesclado, nem fechado, nem alterado.
+O que serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto.
+O que o #99 traz
+Pasta
+experimentos/olhos_vivos_20261103/
+(rascunho):
+-
+CARTA_AO_GROKBOT.md
+— carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo.
+-
+contratos.py
+—
+Modo
+,
+Natureza
+(observado/inferido/desconhecido),
+Permissoes(camera, microfone, nuvem)
+,
+Observacao
+(com limites de tamanho e fuso obrigatório) e
+EstadoCaptura.indicador()
+.
+-
+motor_eventos.py
+—
+comparar_objetos()
+(o que apareceu/sumiu) e
+MemoriaVisual
+(curta, só em RAM, com prazo).
+-
+test_motor_eventos.py
+— 6 testes (unittest).
+Comparação com o que já existia (portão h / t89u)
+src/carta/t89u/visao_ao_vivo.py
+já tinha: os dois modos (
+olho_local
+padrão,
+olho_gemini
+desligado sem chave),
+  limiar de mudança de cena, heartbeat, aviso de privacidade e volta automática pro Olho Local.
+Não tinha
+contrato de
+  observação, permissões explícitas nem memória do que foi visto. O #99 completa exatamente esse buraco.
+O JS
+webdist/t89u/visao_ao_vivo.js
+e
+voz_tempo_real.js
+são esqueletos (o Copiloto acertou:
+ouvir()
+devolve
+null
+).
+  Isso continua sendo trabalho dos portões c e h.
+O que foi APROVEITADO
+Do #99
+Para onde foi
+Observação
+contratos.py
+(Permissoes, Observacao, EstadoCaptura)
+src/carta/t89u/olhos_eventos.py
+crédito no cabeçalho do arquivo
+motor_eventos.py
+(comparar_objetos, MemoriaVisual)
+mesmo arquivo
+idem
+ideia "percepção por eventos, memória sem vídeo"
+base do portão h
+só descritores, nunca pixels
+critérios de aceite da carta
+testes
+tests/test_t89u_olhos_eventos.py
+5 testes pytest
+O que foi MELHORADO
+Limite por sessão de verdade.
+No original havia uma fila só, com
+maxlen
+global: uma conversa movimentada
+   empurrava as observações da outra pra fora (o docstring dizia "por sessão", o código não fazia). Agora cada sessão tem a sua fila.
+Relógio injetável.
+Os testes não dependem da hora real (o original usava
+datetime.now
+e era frágil).
+Modos reaproveitados
+de
+visao_ao_vivo.MODOS
+— um lugar só define os nomes (nada duplicado nem trocado).
+Permissoes.permite()
+recusa modo desconhecido;
+Observacao
+valida
+natureza
+.
+MemoriaVisual.resumo()
+para a persona dizer o que viu por último;
+Mudanca.houve
+.
+adicionar()
+responde
+True/False
+(aceitou ou era velha demais).
+O que foi DESCARTADO (e por quê)
+Enums
+Modo
+/
+Natureza
+como classes
+: trocados por tuplas de texto já usadas no t89u (mesmo comportamento, sem duplicar).
+Rodar o laboratório dentro de
+experimentos/
+: o código foi para
+src/carta/t89u/
+(onde o resto dos portões mora); a pasta do #99 fica só no rascunho.
+Mexer na Porta antiga (8792)
+— a carta apontou duas coisas reais, mas o Bruno pediu que a Porta antiga fique como está:
+tools/porta_ia_bridge.py
+usa 8791 como padrão se rodar sem variável (o
+tools/iniciar_porta_ia.cmd
+já põe 8792, então na prática está certo);
+a ponte mostra o segredo no terminal local ao ligar (só no PC, não vai pra rede). Fica registrado como recomendação, sem alteração.
+Rota POST de turno de voz
+que falta: não é visão; entra no portão c (voz), não aqui.
+Outros rascunhos do Copiloto do mesmo dia
+Os PRs #98 (
+experimentos/visao_viva_copiloto/
+) e #100 (
+experimentos/copiloto_visao_viva/
+) tratam do mesmo tema.
+Não foram pedidos nesta tarefa; ficam intocados e podem ser lidos quando o portão h for completado.
+Estado
+Nada ligado em tela ainda. O módulo novo é puro (sem câmera, rede ou disco). O portão h continua desligado por flag.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-093-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

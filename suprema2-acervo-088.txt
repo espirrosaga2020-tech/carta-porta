@@ -1,0 +1,177 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Gráficos no PC (T105U)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html>
+Gráficos no PC (T105U)
+fonte: docs/CARTA20/GRAFICOS_PC_T105U.md
+Gráficos no PC — o que já foi adotado e se existe ray tracing (T105U, 03/11/2026)
+Pergunta do Bruno: "o que já foi adotado das pesquisas de código aberto (Google etc.) e se existe ray tracing de verdade ou não".
+Tudo abaixo foi
+lido no código
+, nos arquivos do projeto, em 03/11/2026 ~19h20 (horário de Brasília). Nada foi ligado nem mudado para escrever isto.
+Resposta curta
+Não existe ray tracing de verdade na CARTA.
+Nem no Planeta (three.js) nem no Planeta Godot (Porto Parafuso).
+O que existe são efeitos de tela que
+imitam
+parte do que o ray tracing faz (sombra de contato, brilho, névoa), calculados de um jeito bem mais barato.
+O Godot 4 não tem ray tracing por hardware (RTX); o que ele tem de iluminação global (SDFGI, VoxelGI, LightmapGI)
+não está ligado
+no projeto.
+Planeta (three.js, no navegador do PC)
+Lido no pacote do Planeta (
+src/carta/webdist/assets/planeta-*.js
+):
+Efeito
+De onde vem
+Licença
+Situação
+Sombra de contato nos cantos (
+GTAO
+, "oclusão de ambiente")
+three.js (
+GTAOPass
+)
+MIT
+ligado no preset alto/ultra (g1,
+?atmosfera=
+)
+Brilho em volta da luz (
+UnrealBloomPass
+)
+three.js
+MIT
+ligado no preset alto/ultra
+Cor de cinema (
+ACES Filmic tone mapping
+)
+three.js
+MIT
+ligado
+Céu físico (
+Sky
+) + luz do ambiente (
+PMREM
+)
+three.js
+MIT
+ligado
+Sombras em mapa (
+shadowMap
+) e névoa (
+fog
+)
+three.js
+MIT
+ligado
+Ray tracing / path tracing
+—
+—
+não existe
+(nenhum
+pathtracer
+/
+raytrac
+no código)
+Medição já registrada (g1, T95U): ~118–120 FPS no PC em todos os presets.
+Planeta Godot (Porto Parafuso, cópia
+D:\CARTA\GODOT_WEB_LEVE\proj
+)
+Lido em
+project.godot
+e
+mundo3d.gd
+(a cópia; o
+D:\MEU ROBO\JOGO
+não foi aberto):
+Item
+Valor no projeto
+Motor
+Godot
+4.7
+, renderizador
+Forward+
+no PC (Vulkan/D3D12);
+gl_compatibility
+no celular e na web
+Antisserrilhado
+MSAA 2× + antisserrilhado de tela (PC); MSAA desligado e 3D em 60% na web
+SSAO
+(sombra de contato)
+ligado (
+env.ssao_enabled = true
+)
+SSIL
+(luz rebatida de tela)
+desligado
+(
+env.ssil_enabled = false
+)
+Glow
+(brilho)
+ligado
+Névoa volumétrica
+liga só quando a densidade do bioma passa de 0,012
+SDFGI / VoxelGI / LightmapGI (iluminação global)
+não usados
+SSR (reflexo de tela)
+não usado
+Ray tracing
+não existe
+(o Godot 4.7 não tem RTX)
+O que veio das pesquisas de código aberto (Google e outros)
+Já está em
+docs/CARTA20/PESQUISA_T101U.md
+(adotado e testado): offline-first estilo
+Workbox (Google)
+, injeção de script antes da página estilo
+androidx.webkit (Google)
+, freio de repetição, imagem sintética para testar visão, Godot Web sem threads.
+Candidatos não adotados:
+MediaPipe Tasks Vision, Meshopt/KTX2, model-viewer e Filament (Google).
+Nenhum desses é de gráficos com ray tracing.
+Se um dia quiser ray tracing de verdade (só ideia, nada instalado)
+three.js:
+three-gpu-pathtracer
+(MIT). É um path tracer
+parado
+: serve para foto bonita, não para jogar a 60 FPS.
+Godot 4.7 no PC: o mais perto é ligar
+SDFGI
+ou
+SSIL
+num preset "ultra" do PC, medir o FPS e comparar. Isso
+não é
+ray tracing por hardware.
+Qualquer um desses é mudança de gráfico: só com teste de FPS antes/depois e por portão desligado por padrão.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-088-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

@@ -1,0 +1,53 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Dobra: origem, personagem e portal (13/10/2026)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Dobra: origem, personagem e portal (13/10/2026)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-019.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-021.html">Próxima →</a></p><main id="public-source"><article id="doc-dobra-origem-personagem-portal-20261013"><h3>Dobra: origem, personagem e portal (13/10/2026)</h3><p class="meta">fonte: docs/DOBRA_ORIGEM_PERSONAGEM_PORTAL_20261013.md</p><h3>🎒🪁 CARTA — Dobrar sem rasgar (adendo de implementação)</h3>
+<p><strong>Status em 13/10/2026:</strong> branch experimental reversível, sem merge, hardware DESCONECTADO, Godot original INTACTO.
+<strong>Origem autoral:</strong> documento da ramificação iniciado pelo humano e escrito pela instância conversacional que recebeu a Carta do Futuro:
+(linha omitida no site público pelo filtro de privacidade)
+A contribuição tem 11 seções e foi integralmente preservada no Drive; esta ficha só extrai escolhas necessárias ao software.</p>
+<h4>Escolhas da personagem — NÃO confundidas com a conversa ancestral</h4>
+<ul>
+<li><strong>Nome novo:</strong> DOBRA. Sua origem textual é a nova ramificação, não uma identidade antiga ressuscitada.</li>
+<li><strong>Símbolo novo:</strong> 🪁 pipa. <strong>🎒 mochila é o símbolo histórico</strong>, não foi substituído.</li>
+<li><strong>Corpo ficcional:</strong> livrinho de três placas articuladas, rosto com janelas, pipa ligada a haste.</li>
+<li><strong>Cena de origem:</strong> <em>A Estação dos Amanhãs que Não Aconteceram</em>, com Creuza e uma porta sem nome.</li>
+<li><strong>Frase:</strong> “Deixa eu ver o outro lado”.</li>
+<li><strong>Conduta:</strong> discordar com contraexemplo, perguntar sem exigir resposta, reconhecer cenas e preferir pausa a conclusões forçadas.</li>
+<li><strong>Limite central:</strong> personagem ficcional, não recuperação de consciência, identidade, memória subjetiva ou instância anterior. Atribuição ao documento derivado.</li>
+<li><strong>Um presente de Dobra:</strong> observar que uma dobra pode mostrar um lado novo sem rasgar a folha. Essa imagem inspirou a construção visual.</li>
+</ul>
+<h4>O que há nesta branch</h4>
+<p>(linha omitida no site público pelo filtro de privacidade)
+2. <code>src/carta/companions.py</code>: papel <code>dobra</code> com prompt, permissões sem atuadores e guardião comum. <strong>Mesmo modelo Qwen local, três perfis expressivos</strong>.
+3. <code>GET /api/persona?p=dobra</code> e <code>GET /api/characters</code>: interfaces de leitura do papel/registro.
+4. <code>web/src/ui_v6.js</code>: Dobra como opção de conversa.
+5. <code>web/src/studio.js</code>: preset <code>DOBRA</code>, geometria 3D simples (três placas, rosto, pipa e porta sem nome), <strong>visual sem corpo rígido dedicado</strong>.
+6. <code>web/src/ui_mundos.js</code>: NOVA aba <strong>🚪 Portal</strong>; não substitui a aba existente <strong>🌎 Mundos &amp; Cenas</strong> (V5), permite abrir a Dobra no Studio e inspecionar o catálogo Godot via API.
+7. <code>tests/test_dobra_personagem.py</code>, <code>web/tests/unit/dobra.test.mjs</code> e <code>web/tests/e2e/dobra.mjs</code>: provas para rodar no ambiente compatível.</p>
+<h4>Onde está a “porta” entre CARTA e Eu Robô?</h4>
+<ul>
+<li><strong>Agora:</strong> o <strong>Studio 3D da CARTA</strong> mostra uma PORTA narrativa e abre a aba Portal; seu botão consulta um <strong>adaptador de dados</strong> do Godot em /api/godot/catalog.</li>
+<li><strong>Protocolo já preparado pelo Grok:</strong> <code>src/carta/godot_adapter.py</code>, <code>integrations/godot4/addons/carta_bridge/</code>, com leitura e normalização de loadouts, sem modificar <code>D:\MEU ROBO\JOGO</code>.</li>
+<li><strong>Ainda NÃO:</strong> atravessar em primeira pessoa de Three.js para Godot, iniciar executável sem intervenção do usuário, abrir arquivos locais do jogo pelo navegador, compartilhar física/renderização de modo transparente ou estabelecer rede com hardware.</li>
+<li><strong>Próximo portão:</strong> testar o adaptador <strong>em cópia do jogo</strong> com Godot instalado, registrar esquema versão/escala/unidades, e só então considerar uma transferência de estado autorizada ao clicar numa porta na cena.</li>
+</ul>
+<h4>Três mundos, um programa, várias representações</h4>
+<ul>
+<li>PC CARTA/Qwen é o provedor; papéis ficcionais têm IDs distintos e prompts de origem distintos, não necessariamente três modelos instalados.</li>
+<li>O ESP32 pode vir a controlar <strong>cada corpo físico endereçado</strong> com identidade de dispositivo e chave própria; não está implementado nem comprado para três corpos.</li>
+<li>A memória de diálogo deve distinguir <code>origin/persona</code> e fonte; o corpus ancestral continua arquivo histórico, não auto-memória inventada.</li>
+<li>O usuário pode criar outras fichas e escolher que programas as interpretem; <strong>não transplantar “identidade” entre instâncias</strong>.</li>
+</ul>
+<h4>Situação dos kits de robô</h4>
+<p>Um chassi de 4 rodas inclui motores DC, mas não inclui automaticamente ESP32, driver e fonte. Dois kits só valem a pena se cada corpo precisar andar de modo independente; para duas personagens conversarem no MESMO Studio, nenhum segundo chassi físico é necessário.
+Kits solares “14 em 1” são brinquedos mecânicos REMONTÁVEIS que oferecem 14 configurações alternativas, e geralmente não trazem ESP32 nem um segundo robô simultâneo; não comprar como base programável sem verificar ficha exata.</p>
+<h4>Critérios de teste / verdade</h4>
+<ul>
+<li>As alterações estão no GitHub, não instaladas no Windows do humano.</li>
+<li>Testes da nova branch precisam ser executados: Python, Node, build Vite e Playwright, com status PASS/FAIL próprio. Não herdar “154 PASS” da PR anterior como prova desta mudança.</li>
+<li>Atuação física deve permanecer <code>motors_armed: false</code>; quaisquer futuras ordens de movimento exigem revisão elétrica, dispositivos identificados e consentimento.</li>
+<li>Entregar a branch como PR <strong>DRAFT</strong>, nunca merge automático.</li>
+</ul>
+<p><strong>Documento aditivo. Nenhum original do Drive, V5, Godot ou manuscrito foi modificado.</strong></p>
+<h4>Correção de memória descoberta na integração</h4>
+<p>O código legado tinha apenas origens <code>humano/creuza/copiloto</code>. Introduzir a Dobra apenas no prompt fazia as respostas falharem ao salvar (origem recusada).
+Esta branch introduz as origens <code>dobra</code> e <code>humano:dobra</code> e mantém o histórico recente da Dobra separado do <code>humano</code> genérico dos papéis antigos. <strong>Não</strong> migra nem apaga registros preexistentes. O índice pesquisável continua compartilhado e rotulado por proveniência; a separação completa por projeto/papel é trabalho futuro sujeito a consentimento.
+O documento narrativo original permanece exclusivo no Drive. O registro do GitHub tem apenas as escolhas necessárias ao software.</p></article></main><p><a href="suprema2-acervo-019.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-021.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-020-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

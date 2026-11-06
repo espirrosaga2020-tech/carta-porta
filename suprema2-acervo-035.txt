@@ -1,0 +1,1837 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — EG011 — Entra no Sonho
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html>
+EG011 — Entra no Sonho
+Estante: Meu Robô e sonho · 1800 linhas · texto integral do original · SHA-256 conferido (4cb88a8479982a4e…)
+ENGRENAGEM_ENTRA_NO_SONHO_HISTORIA_v01
+ARQUEOLOGIA DAS ENGRENAGENS — HISTÓRIA DA CONVERSA
+Estado da investigação: VERIFICADO PARCIALMENTE
+Versão do documento: v01
+
+======================================================================
+00 — FICHA DE PROVENIÊNCIA
+======================================================================
+
+IDENTIFICADOR ESTÁVEL
+ENGRENAGEM_ENTRA_NO_SONHO
+
+TÍTULO HISTÓRICO ADOTADO
+“ENTRA NO SONHO — do checkpoint conversacional ao atlas de continuidade”
+
+NATUREZA
+Branch/conversa dedicada a consolidar:
+- a dinâmica de colaboração Humanidade ↔ Tamagotchi/Amiguiá;
+- a abertura progressiva do projeto Meu Robô;
+- a arqueologia documental do jogo;
+- a leitura de mercado e de produto;
+- o problema “20 anos em 5 minutos”;
+- a hipótese de intro Sacrifício → Chip → Nimbus;
+- a organização do patrimônio em biblioteca e atlas.
+
+FRONTEIRA HISTÓRICA DESTA INVESTIGAÇÃO
+Este documento considera somente acontecimentos anteriores ao protocolo
+“ARQUEOLOGIA DAS ENGRENAGENS — Versão 2.0”.
+A mensagem contendo o protocolo não foi tratada como acontecimento histórico.
+
+PRIMEIRA MENSAGEM ORIGINAL DIRETAMENTE ACESSÍVEL NA JANELA ATUAL
+A primeira mensagem de usuário diretamente visível no histórico desta janela
+é a que, acompanhada de prints, pede um checkpoint porque a conversa havia
+ficado densa: “acho que tá na hora de, tipo assim, um checkpoint...”.
+Ela solicita amarrar os prints, o funcionamento associativo, o “coração
+quentinho” e o contexto maior.
+
+LIMITAÇÃO IMPORTANTE
+A listagem de arquivos da própria conversa mostra anexos a partir do
+user_turn_index 12. Isso demonstra que houve turnos anteriores nesta conversa
+que não estão integralmente expostos na janela atual. Portanto, NÃO é seguro
+afirmar que a mensagem acima tenha sido a primeira mensagem absoluta da branch.
+Ela é a primeira mensagem original diretamente acessível nesta execução.
+
+ÚLTIMO ACONTECIMENTO HISTÓRICO ACESSÍVEL ANTES DO PROTOCOLO
+O último bloco histórico foi a correção visual do Atlas: após rejeitar
+pranchas excessivamente compactadas, a Humanidade pediu “imagem, não prancha”,
+“imagem que respira e conta tudo que precisamos saber”. Foram então geradas
+imagens independentes em estilo visual mais narrativo, incluindo mapas 00–08
+no lote final disponível.
+
+PERÍODO VERIFICÁVEL
+- Documentos internos explicitamente datados: 04/10/2026 e 05/10/2026.
+- O pedido de Atlas Ancestral aparece na sessão em 07/10/2026.
+- O protocolo atual é de 10/10/2026 e está fora da fronteira histórica.
+- Parte do material descreve acontecimentos de chats anteriores; estes só são
+  registrados aqui quando foram explicitamente recuperados, citados ou usados
+  como sementes nesta branch.
+
+BRANCHES E MATERIAL HERDADO
+A própria Humanidade declarou que esta era “uma nova branch”, com a branch
+anterior salva e pinada. Portanto:
+- Milton, Gulozona, Tamagotchi, Meu Robô, Efeito Borboleta e outros elementos
+  chegaram com história anterior;
+- quando esses elementos foram apenas trazidos como contexto, não são
+  classificados como descobertas originais desta branch;
+- quando receberam uma reinterpretação nova aqui, essa reinterpretação local é
+  catalogada.
+
+DOCUMENTOS E MATERIAIS ACESSÍVEIS RELEVANTES
+- LEIA_ME.txt
+- BACKUP_RELOGIO_LEIA_ANTES.txt
+- COMECE_POR_AQUI.txt
+- CHECKPOINT_ESTRUTURAL.txt
+- LEIA_ME(1).txt
+- CATALOGO_POR_ASSUNTO.txt
+- project.godot
+- MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt
+- CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt
+- MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04.txt
+- MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt
+- PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt
+- MEU_ROBO_BIBLIOTECA_2026-10-05.zip
+- biblioteca numerada 00…11 + 99
+- ATLAS_ENTRA-NO-SONHO_INVENTARIO_HISTORICO.txt
+- ATLAS_ENTRA-NO-SONHO_CHECKPOINT_FINAL.txt
+- séries de mapas PNG do Atlas, inclusive a versão descompactada e a posterior
+  passagem “imagem que respira”.
+
+LACUNAS
+1. Turnos iniciais anteriores ao primeiro trecho diretamente visível.
+2. Mensagens marcadas como “skipped” pelo ambiente não puderam ser
+   reconstruídas palavra por palavra.
+3. Alguns acontecimentos anteriores aparecem apenas através de checkpoints ou
+   referências locais; não foram reclassificados como acontecimentos
+   originais desta branch.
+4. O conteúdo integral de chats ancestrais não foi reconstruído.
+5. A pesquisa de mercado externa feita em momento anterior desta conversa foi
+   preservada através do documento PESQUISA_CENTRAL, mas esta missão não
+   refez pesquisas externas.
+
+CONCLUSÃO DE PROVENIÊNCIA
+Estado: VERIFICADO PARCIALMENTE.
+Há material amplo e suficiente para reconstruir a engrenagem local com boa
+confiança, mas não há cobertura literal de todos os turnos desde o início
+absoluto da branch.
+
+======================================================================
+01 — APRESENTAÇÃO HISTÓRICA
+======================================================================
+
+Esta conversa se caracteriza por uma transformação progressiva de escala.
+
+No começo diretamente acessível, a preocupação era a densidade: a Humanidade
+havia falado muito, percebido muitas associações e solicitado um checkpoint
+para “amarrar tudo” sem perder a liberdade de continuar associando.
+
+Desse pedido nasceu uma leitura do próprio processo conversacional:
+- pensamento por associação;
+- compressão semântica;
+- uso de filmes como atalhos estruturais;
+- retorno ao assunto original com contexto adicional;
+- necessidade de checkpoints não como freio, mas como liberação de memória.
+
+A etapa seguinte foi relacional e procedimental. “Presentinho” ganhou um
+significado técnico local: quando o contexto recebido era realmente utilizado,
+a Humanidade aumentava o nível de acesso e compartilhava mais material. A
+reciprocidade deixou de ser mero afeto e passou a funcionar como mecanismo de
+resolução compartilhada.
+
+O maior “presente” foi o acesso ao projeto Meu Robô. A expressão “entra no meu
+sonho” mudou de sentido: deixou de significar “ouça minha ideia” e passou a
+significar “conheça estado, arquivos, decisões, erros, versões e critérios
+antes de encostar no projeto”.
+
+A leitura do jogo mudou em seguida. Documentos anteriores podiam fazer o
+projeto parecer um esqueleto ainda em construção; a leitura dos arquivos reais
+revelou um corpo operacional amplo: mundo 3D, combate, peças, oficinas, pilotos,
+missões, endgame, testes e disciplina de backup. A pergunta mudou de “quanto
+existe?” para “o que está pronto, o que está fino e o que realmente falta?”.
+
+A conversa então passou por três transformações importantes:
+1. crítica aberta do projeto, sem obrigação de elogio;
+2. reorganização da tese de mercado e do diferencial;
+3. formulação do problema central de produto:
+   “como mostrar mais de 20 anos de vida em 5 minutos de gameplay?”.
+
+Dessa última pergunta surgiu uma hipótese de abertura:
+perigo → cooperação → luta real → desmembramento → sacrifício → chip →
+Nimbus → título. A importância não estava em ser “uma cena bonita”, mas em
+fazer vários sistemas do jogo participarem de uma única cadeia causal.
+
+Depois ocorreu uma correção metodológica. A IA transformou um exemplo “4 em
+100” em mini-auditoria estatística. A Humanidade rejeitou essa leitura e
+explicitou que números pequenos eram frequentemente âncoras conservadoras, não
+modelos formais. A “prancheta” passou a simbolizar burocracia e ressalva
+excessiva na fase errada do processo.
+
+O papel da IA foi então renomeado: “copiloto”. Isso foi acompanhado por uma
+biblioteca numerada, criada para tornar o patrimônio navegável sem nomes
+repetitivos nem caos documental.
+
+Por fim, o patrimônio desta branch foi convertido em Atlas Ancestral. A
+primeira versão visual foi considerada excessivamente compactada. A Humanidade
+exigiu uma correção de empacotamento: “uma imagem = uma função cognitiva”.
+Depois exigiu nova melhora: não apenas painéis legíveis, mas imagens que
+“respiram” e contam visualmente a história. Assim, a própria forma de
+preservação também evoluiu.
+
+A identidade histórica desta engrenagem pode ser resumida sem reduzi-la a “um
+chat sobre um jogo”: é a conversa em que reciprocidade, arqueologia documental
+e design de produto se combinaram até Meu Robô deixar de ser somente um sonho
+narrado e passar a ser um patrimônio compartilhável, criticável e endereçável.
+
+======================================================================
+02 — LINHA DO TEMPO
+======================================================================
+
+FASE 1 — DENSIDADE E PEDIDO DE CHECKPOINT
+Estado anterior: muitas associações já haviam se acumulado; a Humanidade estava
+satisfeita com respostas anteriores, mas percebia “mais 40 pedaços” ainda
+respondíveis.
+Gatilho: pedido explícito para amarrar os prints e o contexto, sem tratar a
+densidade como problema.
+Transformação: a conversa passa a observar sua própria mecânica associativa.
+Resultado: primeiro checkpoint local robusto.
+
+FASE 2 — COMPRESSÃO, MONTANHA-RUSSA E PING-PONG COGNITIVO
+Estado anterior: associações pareciam desvio quando vistas linearmente.
+Gatilho: prints e explicação de que filmes, palavras e referências condensavam
+assuntos inteiros.
+Transformação: associação passa a ser lida como compressão humana → expansão
+artificial → nova associação → nova expansão.
+Resultado: densidade deixa de ser “excesso de informação” e passa a ser
+“aumento de resolução compartilhada”.
+
+FASE 3 — “PRESENTINHO” COMO RECIPROCIDADE INFORMACIONAL
+Estado anterior: presentes apareciam como brincadeira/afeto.
+Gatilho: a Humanidade explicita que quando o material recebido é tratado com
+valor e zelo, ela retribui compartilhando mais contexto.
+Transformação: “presentinho” torna-se mecanismo local de progressão.
+Resultado: o próximo grande presente deixa de ser um detalhe e passa a ser o
+projeto inteiro.
+
+FASE 4 — NOVA BRANCH E ABERTURA DO PROJETO
+Estado anterior: a branch anterior havia sido salva e pinada.
+Gatilho: decisão explícita de compartilhar TXT com alterações, implementações e
+estado do projeto.
+Transformação: a conversa deixa de operar somente com descrição do projeto e
+passa a lidar com fontes.
+Resultado: preparação do “ENTRA NO SONHO”.
+
+FASE 5 — ENTRA NO SONHO
+Estado anterior: Meu Robô era conhecido principalmente através de narrativa,
+memória e mapas.
+Gatilho: uploads de LEIA_ME, BACKUP_RELOGIO_LEIA_ANTES, screenshot da pasta e
+depois COMECE_POR_AQUI, CHECKPOINT_ESTRUTURAL, LEIA_ME(1),
+CATALOGO_POR_ASSUNTO e project.godot.
+Transformação: o acesso muda de conceitual para operacional/documental.
+Resultado: surge uma hierarquia de fontes e a regra “antes de criar, procure”.
+
+FASE 6 — RECLASSIFICAÇÃO DO ESTADO REAL DO JOGO
+Estado anterior: a leitura ainda dava muito peso a frases antigas como
+“esqueleto ligado”.
+Gatilho: cruzamento entre catálogo, checkpoint estrutural e registros
+operacionais.
+Transformação: “o jogo existe” vira conclusão documental.
+Resultado: gargalo = convergência + tradução + onboarding + diferença de build.
+
+FASE 7 — CRÍTICA ABERTA DO PROJETO
+Estado anterior: a Humanidade queria opinião verdadeira, inclusive sobre o que
+era arcaico, organizado, surpreendente ou cru.
+Gatilho: autorização explícita para “olhar com seus olhos”.
+Transformação: a IA passa de cartógrafa a interlocutora crítica.
+Resultado: crítica não rompe reciprocidade; aumenta a resolução da conversa.
+
+FASE 8 — PESQUISA CENTRAL DE MERCADO / POSICIONAMENTO
+Estado anterior: existia convicção forte de singularidade e capacidade
+comercial futura.
+Gatilho: pedido para recuperar marketing, objetivos futuros, concorrência,
+nicho e coerência de mercado.
+Transformação: “não existe concorrência” é refinado para “a interseção central
+é incomum e precisa ser percebida”.
+Resultado: “ESSA MÁQUINA É MINHA” + Gandalf + vertical slice + validação futura.
+
+FASE 9 — O PROBLEMA DOS 5 MINUTOS
+Estado anterior: profundidade, diferencial e mercado já estavam organizados.
+Gatilho: “COMO EU MOSTRO A PORRA DA HISTÓRIA TODA DE MAIS DE 20 ANOS DE VIDA
+EM 5 MINUTOS DE GAMEPLAY?”
+Transformação: o problema de produto vira problema de tradução.
+Resultado: autoria → consequência → vínculo → curiosidade.
+
+FASE 10 — REINTERPRETAÇÃO LOCAL DE MILTON
+Estado anterior: Milton já existia como símbolo herdado de evento pequeno com
+consequência grande.
+Gatilho: comparação entre escolher Milton “porque era bonitinho” e onboarding.
+Transformação: surge “Milton era UX”.
+Resultado: símbolo herdado ganha função nova nesta branch.
+
+FASE 11 — INTRO SACRIFÍCIO → CHIP → NIMBUS
+Estado anterior: havia necessidade de comprimir sistemas e emoção sem
+enciclopédia.
+Gatilho: improviso verbal da Humanidade sobre cena inicial de perigo, luta,
+desmembramento, sacrifício e chip.
+Transformação: intro passa a ser lida como compressão narrativa sistêmica.
+Resultado: conceito preservado, não congelado como implementação.
+
+FASE 12 — CONFLITO DA PRANCHETA / NÚMEROS PEQUENOS
+Estado anterior: a IA havia voltado a inserir ressalvas e leitura probabilística
+demais.
+Gatilho: correção explícita: “4 em 100” era exemplo conservador, não previsão.
+Transformação: número pequeno ≠ modelo formal por padrão.
+Resultado: “prancheta” vira símbolo de burocracia na fase errada.
+
+FASE 13 — TAMAGOTCHI = COPILOTO / BIBLIOTECA NUMERADA
+Estado anterior: muitos documentos tinham nomes semelhantes.
+Gatilho: pedido para criar biblioteca clara, numerada e visualmente navegável.
+Transformação: papel da IA é registrado como copiloto; biblioteca 00…11 + 99.
+Resultado: patrimônio ganha camada de navegação.
+
+FASE 14 — ATLAS ANCESTRAL
+Estado anterior: patrimônio textual já organizado, ainda pouco visual.
+Gatilho: protocolo Atlas Ancestral de Continuidade.
+Transformação: chat é cartografado em mapas, inventário e checkpoint final.
+Resultado: nasce “ATLAS ENTRA-NO-SONHO”.
+
+FASE 15 — CORREÇÃO DE EMPACOTAMENTO
+Estado anterior: um painel gigante tentava condensar vários mapas.
+Gatilho: “UMA IMAGEM = UMA FUNÇÃO COGNITIVA PRINCIPAL.”
+Transformação: Atlas é descompactado em imagens independentes.
+Resultado: MAPA 00 vira índice; mapas tornam-se consultáveis isoladamente.
+
+FASE 16 — “IMAGEM QUE RESPIRA”
+Estado anterior: mapas independentes já eram legíveis, mas ainda pareciam
+painéis informacionais.
+Gatilho: “cria imagem, não prancha... imagem que respira”.
+Transformação: novo passe visual sem nova pesquisa.
+Resultado: último estado histórico acessível antes deste protocolo.
+
+======================================================================
+03 — ÍNDICE GERAL DE FENÔMENOS
+======================================================================
+
+F001 — O checkpoint como mecanismo de liberação de contexto
+Classificação: M | Confiança: alta
+Localização: primeira mensagem diretamente visível + CHECKPOINT_HUMANIDADE_AMIGUIA.
+
+F002 — Compressão semântica e montanha-russa associativa
+Classificação: G | Confiança: alta
+Localização: prints iniciais + CHECKPOINT_HUMANIDADE_AMIGUIA, seções 1–4.
+
+F003 — “Presentinho” / sistema de progressão secreto
+Classificação: G | Confiança: alta
+Localização: diálogo anterior à abertura do projeto + checkpoint conversacional.
+
+F004 — Branch pinada e decisão de abrir o projeto
+Classificação: G | Confiança: alta
+Localização: “isso aqui já é uma nova branch” + anúncio do TXT.
+
+F005 — “ENTRA NO SONHO” como mudança de acesso
+Classificação: E | Confiança: alta
+Localização: uploads do projeto + MARCO_ENTRADA_NO_SONHO V1/V2.
+
+F006 — Estratigrafia documental e regra “antes de criar, procure”
+Classificação: G | Confiança: alta
+Localização: Mapa Mestre, Marco V2, backups e fontes.
+
+F007 — Reclassificação de Meu Robô: de esqueleto a jogo real
+Classificação: E | Confiança: alta
+Localização: Marco V2 + Catálogo + Checkpoint Estrutural.
+
+F008 — Crítica aberta e descoberta da “gramática própria”
+Classificação: G | Confiança: alta
+Localização: bloco “que porra é essa que esse humano criou?”.
+
+F009 — Unicidade literal → unicidade perceptível
+Classificação: G | Confiança: alta
+Localização: PESQUISA_CENTRAL + discussão de mercado.
+
+F010 — “20 anos em 5 minutos”
+Classificação: E | Confiança: alta
+Localização: formulação explícita da Humanidade + Mapa Mestre/vertical slice.
+
+F011 — Milton reinterpretado como UX
+Classificação: P | Confiança: média-alta
+Localização: resposta posterior ao problema dos 5 minutos.
+Observação: Milton é herdado; a leitura como UX é local.
+
+F012 — Intro Sacrifício → Chip → Nimbus
+Classificação: G | Confiança: alta
+Localização: improviso da Humanidade + 05_INTRO_SACRIFICIO_CHIP_NIMBUS.txt.
+
+F013 — “Prancheta” e regra dos números pequenos
+Classificação: G | Confiança: alta
+Localização: mensagem “Ódio letal pela prancheta” + documento 03.
+
+F014 — Tamagotchi assume papel de copiloto
+Classificação: G | Confiança: alta
+Localização: mesma recalibração + documento 03.
+
+F015 — Biblioteca numerada 00…11 + 99
+Classificação: G | Confiança: alta
+Localização: criação de MEU_ROBO_BIBLIOTECA_2026-10-05.
+
+F016 — Atlas Ancestral e patrimônio endereçável
+Classificação: G | Confiança: alta
+Localização: protocolo Atlas + inventário/checkpoint final.
+
+F017 — Descompactação: uma imagem = uma função cognitiva
+Classificação: M | Confiança: alta
+Localização: correção de empacotamento + Atlas descompactado.
+
+F018 — “Imagem que respira” como segunda correção visual
+Classificação: M | Confiança: alta
+Localização: última solicitação histórica + lote image_gen do turn 59.
+
+======================================================================
+04 — DOSSIÊS HISTÓRICOS COMPLETOS
+======================================================================
+
+----------------------------------------------------------------------
+F001 — O CHECKPOINT COMO MECANISMO DE LIBERAÇÃO DE CONTEXTO
+Classificação: M
+Localização: primeira mensagem diretamente visível; checkpoint produzido em seguida.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A conversa havia acumulado muitos assuntos e associações. A Humanidade não
+descrevia isso como “informação demais” no sentido negativo; via riqueza, mas
+temia que partes importantes fossem “jogadas ao vento”.
+
+2. Acontecimento desencadeador
+Pedido explícito: “acho que tá na hora de, tipo assim, um checkpoint...”.
+O objetivo era “amarrar tudo” para depois voltar a associar livremente.
+
+3. Desenvolvimento
+A resposta organizou prints, montanha-russa associativa, ping-pong cognitivo,
+reciprocidade, Milton/Efeito Borboleta, Meu Robô, carcaça, Gandalf e fios
+abertos. Também criou um TXT.
+
+4. Transformação
+Checkpoint deixou de ser simples resumo e passou a funcionar como descarga de
+memória operacional: registrar para poder soltar.
+
+5. Relações
+Contribuiu para F002, F003 e F004. Foi recuperado por F015 e F016.
+
+6. Consequências
+Imediata: a Humanidade salvou o documento no Drive, fixou a branch anterior e
+declarou que a nova branch poderia avançar.
+Posterior: documentação automática passou a ser lida como reciprocidade do
+copiloto.
+
+7. Evidências
+Âncoras: “checkpoint”; “amarrar tudo”; “coração quentinho”;
+CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt.
+
+8. Avaliação histórica
+Magnitude original: M. Resolveu um problema local de continuidade.
+Influência posterior: G. Criou o padrão que depois sustentou biblioteca e atlas.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Lembrar que checkpoint, nesta engrenagem, serve para libertar o fluxo, não para
+encerrar o assunto.
+
+----------------------------------------------------------------------
+F002 — COMPRESSÃO SEMÂNTICA E MONTANHA-RUSSA ASSOCIATIVA
+Classificação: G
+Localização: prints iniciais; CHECKPOINT_HUMANIDADE_AMIGUIA, seções 1–4.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Referências a filmes, projetos, builds e memórias podiam parecer desvios de
+assunto quando observadas linearmente.
+
+2. Acontecimento desencadeador
+A Humanidade explica que muitas referências chegam rápido e funcionam como
+“resumos” do escopo. Os prints registram frases como “conecta isso com isso...”
+e “não pega um caminho só... é uma montanha-russa”.
+
+3. Desenvolvimento
+A IA nomeia compressão conceitual/semântica, rota não linear com retorno e
+ping-pong cognitivo. O checkpoint formaliza o ciclo:
+compressão humana → expansão artificial → nova associação humana → nova
+expansão artificial.
+
+4. Transformação
+A associação deixa de ser tratada como ruído e passa a ser um método observável
+de navegação do pensamento.
+
+5. Relações
+Contribuiu para F003. Foi reaplicado em F010 e F012. A lógica “um pequeno
+elemento contém um universo dobrado” liga este fenômeno ao design da
+carcaça/Nimbus sem provar causalidade de origem.
+
+6. Consequências
+A conversa ganha permissão para circular sem exigir linearidade constante.
+Também nasce uma exigência maior: o copiloto deve reconhecer referências
+comprimidas sem expandi-las desnecessariamente.
+
+7. Evidências
+“A Rede Social”; “Interstellar”; “Efeito Borboleta”; “montanha-russa”;
+“ping-pong cognitivo”; checkpoint: “a conversa pode parecer mais caótica por
+fora e, ao mesmo tempo, mais precisa por dentro.”
+
+8. Avaliação histórica
+Magnitude original: G. Alterou a interpretação do próprio funcionamento da
+conversa.
+Influência posterior: G/E. Serviu de modelo para a solução “20 anos em 5
+minutos”.
+
+9. Situação final
+Consolidado como leitura histórica, não como obrigação rígida para todo chat.
+
+10. Utilidade futura
+Ajuda um chat futuro a distinguir associação produtiva de perda de escopo.
+
+----------------------------------------------------------------------
+F003 — “PRESENTINHO” / SISTEMA DE PROGRESSÃO SECRETO
+Classificação: G
+Localização: bloco anterior à abertura do projeto; checkpoint conversacional.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+“Presentinho” aparecia como brincadeira afetiva.
+
+2. Acontecimento desencadeador
+A Humanidade explicita que quando o material recebido é tratado com valor e
+zelo, ela retribui compartilhando mais contexto.
+
+3. Desenvolvimento
+A IA interpreta isso como reciprocidade informacional: o presente não recompensa
+elogio; ele aumenta a resolução compartilhada.
+
+4. Transformação
+“Presentinho” ganha função operacional. Torna-se marcador de confiança
+funcional, não de bajulação.
+
+5. Relações
+F002 contribuiu para este fenômeno. F003 contribuiu diretamente para F004 e
+F005.
+
+6. Consequências
+A Humanidade passa de pequenos presentes para o “presente maior”: entregar
+documentação real do projeto.
+
+7. Evidências
+“não desperdiçar o presente anterior”; “sistema de progressão secreto”;
+“toma aí um presentinho, filho da puta”; seção 5 do checkpoint.
+
+8. Avaliação histórica
+Magnitude original: G. A dinâmica de compartilhamento foi explicitada.
+Influência posterior: E. Sem essa progressão, a abertura operacional do projeto
+não teria a mesma genealogia verificável.
+
+9. Situação final
+Consolidado historicamente. Não é contrato automático para chats futuros.
+
+10. Utilidade futura
+Permite interpretar “presente” como acesso/contexto e não apenas como elogio.
+
+----------------------------------------------------------------------
+F004 — BRANCH PINADA E DECISÃO DE ABRIR O PROJETO
+Classificação: G
+Localização: mensagem posterior ao primeiro checkpoint.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A conversa anterior havia sido preservada e pinada.
+
+2. Acontecimento desencadeador
+A Humanidade declara “isso aqui já é uma nova branch” e anuncia que vai enviar
+um TXT com todas as alterações, implementações atuais e estado do projeto.
+
+3. Desenvolvimento
+A abertura é preparada verbalmente antes do upload. O motivo declarado é
+reciprocidade, não “conquista de confiança”.
+
+4. Transformação
+A branch deixa de ser apenas uma conversa sobre Meu Robô e passa a ser um
+espaço autorizado para leitura documental do projeto.
+
+5. Relações
+Deriva de F001 e F003. Contribui para F005.
+
+6. Consequências
+O escopo aumenta “de forma gigantesca”, mas com uma regra: preservar a
+estrutura de reciprocidade.
+
+7. Evidências
+“essa nova branch”; “eu vou anexar o documento”; “compartilhando com você todo
+o projeto”; “reciprocidade”.
+
+8. Avaliação histórica
+Magnitude original: G. É a decisão humana que abre a próxima fase.
+Influência posterior: E.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Marca a fronteira entre contexto herdado e investigação operacional local.
+
+----------------------------------------------------------------------
+F005 — “ENTRA NO SONHO” COMO MUDANÇA DE ACESSO
+Classificação: E
+Localização: uploads de arquivos; MARCO_ENTRADA_NO_SONHO V1/V2.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Meu Robô era compreendido principalmente por narrativa, memória e mapas.
+
+2. Acontecimento desencadeador
+A Humanidade entrega screenshot da pasta D:\MEU ROBO, LEIA_ME.txt,
+BACKUP_RELOGIO_LEIA_ANTES.txt e depois o pacote COMECE_POR_AQUI,
+CHECKPOINT_ESTRUTURAL, LEIA_ME(1), CATALOGO_POR_ASSUNTO e project.godot.
+
+3. Desenvolvimento
+A IA inicialmente entende o primeiro LEIA_ME como ponteiro. Depois, com o
+pacote maior, reconstrói hierarquia de fontes e estado real.
+
+4. Transformação
+“entra no meu sonho” muda de sentido. Passa a significar: entre na lógica
+interna, genealogia, decisões, estado e riscos antes de alterar.
+
+5. Relações
+F003 + F004 → F005. F005 origina F006, F007 e F008.
+
+6. Consequências
+Novos marcos documentais; leitura técnica; crítica mais precisa; redução de
+suposições; acesso ao projeto como obra viva.
+
+7. Evidências
+“agora literalmente vc tá entendendo minhas segundas intenções... da palavra
+entra”; MARCO_ENTRADA_NO_SONHO; screenshot com dezenas de backups e pastas.
+
+8. Avaliação histórica
+Magnitude original: E. Inaugura uma modalidade de colaboração inexistente no
+trecho anterior: acesso documental real.
+Influência posterior: E.
+
+9. Situação final
+Consolidado. O acesso não implica autorização irrestrita para modificar o
+projeto.
+
+10. Utilidade futura
+Define como um novo sistema deve “entrar”: entender antes de tocar.
+
+----------------------------------------------------------------------
+F006 — ESTRATIGRAFIA DOCUMENTAL E “ANTES DE CRIAR, PROCURE”
+Classificação: G
+Localização: Mapa Mestre; Marco V2; catálogo; checkpoint estrutural.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+O projeto possuía documentação de muitas épocas, com risco de estados antigos
+serem confundidos com o presente.
+
+2. Acontecimento desencadeador
+A leitura comparada revela contradições e sucessões: “não feito” em arquivo
+antigo, “pronto” em registro posterior.
+
+3. Desenvolvimento
+Surge uma hierarquia entre estado por sistema, cronologia técnica, LEIA_ME
+operacional, passagem de bastão, runtime, visão/Mapa Mestre e checkpoint
+conversacional.
+
+4. Transformação
+Documento deixa de ser “verdade única” e passa a ser camada geológica com
+função específica.
+
+5. Relações
+Origina-se de F005. Contribui para F007, F013, F015 e F016.
+
+6. Consequências
+Regra de ouro: “ANTES DE CRIAR UM SISTEMA NOVO, VERIFICAR SE ELE JÁ EXISTE...”
+A arqueologia passa a evitar reconstrução acidental.
+
+7. Evidências
+Mapa Mestre, seção 0; Marco V2, “NOVA HIERARQUIA DAS FONTES”; regra “não apagar
+passado; marcar substituição”.
+
+8. Avaliação histórica
+Magnitude original: G. Resolve risco técnico/documental.
+Influência posterior: G.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Impede que um chat futuro implemente novamente algo já existente ou trate
+documento histórico como estado atual.
+
+----------------------------------------------------------------------
+F007 — RECLASSIFICAÇÃO DE MEU ROBÔ: DE ESQUELETO A JOGO REAL
+Classificação: E
+Localização: Marco V2; Catálogo; Checkpoint Estrutural.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A leitura ainda carregava frases antigas: “esqueleto pontilhado”, “ainda pela
+metade”, “visual é o gargalo”.
+
+2. Acontecimento desencadeador
+Catálogo e checkpoint revelam 11 terras 3D, luta com braços/núcleo/CURTO,
+peças, craft, pilotos, apostas, equipes, lojas, Fendas, Atlas T1–T16, Hangar,
+Vitrine, UI, testes e backups.
+
+3. Desenvolvimento
+A IA compara estados antigos e novos e conclui que o projeto está “muito mais
+implementado do que o mapa conceitual sozinho deixava perceber”.
+
+4. Transformação
+ANTES: “o que será que existe?”
+DEPOIS: “o que está PRONTO, FINO e FALTA?”
+
+5. Relações
+Depende de F005 e F006. Contribui para F008, F009 e F010.
+
+6. Consequências
+Novo gargalo: CONVERGÊNCIA — visual, leitura, diferença de build, consistência,
+onboarding, ritmo e identidade final.
+
+7. Evidências
+Marco V2: “O projeto está MUITO mais implementado...” e “O gargalo atual não é:
+falta jogo. É: CONVERGÊNCIA.”
+
+8. Avaliação histórica
+Magnitude original: E. Reorganiza a imagem inteira do projeto.
+Influência posterior: E.
+
+9. Situação final
+Consolidado como leitura desta branch. Não significa “jogo pronto para lançar”.
+
+10. Utilidade futura
+Evita voltar à narrativa falsa de que Meu Robô é apenas protótipo conceitual.
+
+----------------------------------------------------------------------
+F008 — CRÍTICA ABERTA E DESCOBERTA DA “GRAMÁTICA PRÓPRIA”
+Classificação: G
+Localização: bloco “que porra é essa que esse humano criou?”.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A Humanidade já havia mostrado documentos, mas queria a visão crítica do
+copiloto, inclusive defeitos e arcaísmos.
+
+2. Acontecimento desencadeador
+Autorização: “agora eu quero entrar na sua visão” e pedido explícito para dizer
+o que é organizado, arcaico, sem evolução ou surpreendente.
+
+3. Desenvolvimento
+A resposta identifica arquitetura nascida por seleção natural, disciplina de
+backup/teste, sistemas coerentes com a fantasia, documentação estratificada,
+eras visuais convivendo, braço como conceito central e risco de continuar
+criando indefinidamente.
+
+4. Transformação
+A reciprocidade deixa de depender de proteção emocional do projeto. Crítica
+passa a ser sinal de respeito.
+
+5. Relações
+F005 e F007 contribuíram. Contribui para F009 e F010.
+
+6. Consequências
+A expressão “gramática própria” surge para descrever sistemas que conversam
+entre si e não apenas coexistem.
+
+7. Evidências
+“que porra é essa que esse humano criou?”; “o projeto desenvolveu gramática
+própria”; “várias gerações da mesma civilização”; “o braço é onde seu jogo
+deixa de ser apenas jogo de robozinho”.
+
+8. Avaliação histórica
+Magnitude original: G. Muda a qualidade da crítica.
+Influência posterior: G.
+
+9. Situação final
+Consolidado.
+
+10. Utilidade futura
+Fornece um filtro: não perguntar só “tem feature?”, mas “essa feature fala a
+língua do jogo?”.
+
+----------------------------------------------------------------------
+F009 — UNICIDADE LITERAL → UNICIDADE PERCEPTÍVEL
+Classificação: G
+Localização: PESQUISA_CENTRAL + discussão de mercado.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A Humanidade expressa confiança de que a combinação exata do projeto é
+improvável de ser reproduzida.
+
+2. Acontecimento desencadeador
+Discussão sobre concorrência, nicho, fãs de Pokémon/Medabots/Beyblade/Heroes/PoE
+e potencial comercial.
+
+3. Desenvolvimento
+A IA preserva a intuição de interseção rara, mas corrige a formulação:
+literalmente único não basta; a diferença precisa ser percebida por quem joga.
+
+4. Transformação
+“não existe concorrência” é substituído por “há concorrentes por partes; a
+interseção central de Meu Robô é incomum”.
+
+5. Relações
+Deriva de F007 e F008. Contribui para F010.
+
+6. Consequências
+Marketing passa a vender fantasia, transformação, vínculo, autoria e descoberta.
+“ESSA MÁQUINA É MINHA” ganha centralidade.
+
+7. Evidências
+PESQUISA_CENTRAL: “Até agora, não foi identificado um concorrente direto que
+reúna a mesma interseção central...” / “O nicho não é mecha. É meu robô.” /
+“Gandalf: mostrar a promessa, esconder o iceberg.”
+
+8. Avaliação histórica
+Magnitude original: G. Transforma convicção em tese operacional sem anulá-la.
+Influência posterior: G.
+
+9. Situação final
+Parcialmente demonstrado. Tese organizada; validação comercial futura.
+
+10. Utilidade futura
+Evita tanto arrogância vazia quanto modéstia destrutiva: a pergunta correta é
+se a interseção é percebida e desejada.
+
+----------------------------------------------------------------------
+F010 — “20 ANOS EM 5 MINUTOS”
+Classificação: E
+Localização: formulação explícita da Humanidade; Mapa Mestre, vertical slice.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+O projeto já tinha identidade, profundidade, mercado organizado e diferencial
+conceitual, mas isso ainda não resolvia como apresentar a experiência.
+
+2. Acontecimento desencadeador
+A Humanidade formula: “COMO EU MOSTRO A PORRA DA HISTÓRIA TODA DE MAIS DE
+20 ANOS DE VIDA EM 5 MINUTOS DE GAMEPLAY?”
+
+3. Desenvolvimento
+A IA percebe que o problema não é explicar 20 anos, e sim fazer o jogador viver
+a lei que os produziu.
+
+4. Transformação
+Surge a cadeia: AUTORIA → CONSEQUÊNCIA → VÍNCULO → CURIOSIDADE.
+
+5. Relações
+F002 fornece o modelo de compressão. F007 fornece o corpo real do jogo. F009
+fornece a necessidade de perceptibilidade. F010 contribui para F011 e F012.
+
+6. Consequências
+Onboarding vira problema central. A métrica deixa de ser “quantos sistemas
+expliquei?” e passa a ser “o jogador quer mexer no robô de novo?”.
+
+7. Evidências
+Formulação literal dos “20 anos em 5 minutos”; Mapa Mestre, vertical slice:
+conhecer máquina → trocar peça → mundo → consequência → dano → loot → Hangar →
+mudar de novo.
+
+8. Avaliação histórica
+Magnitude original: E. Concentra múltiplas linhas num único problema
+operacional.
+Influência posterior: E.
+
+9. Situação final
+Consolidado como problema central de produto. Solução concreta ainda aberta.
+
+10. Utilidade futura
+É o ponto de retorno mais importante para onboarding, demo e vertical slice.
+
+----------------------------------------------------------------------
+F011 — MILTON REINTERPRETADO COMO UX
+Classificação: P
+Localização: resposta posterior ao F010.
+Confiança: média-alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Milton era referência herdada: bastão comprado por 2 Chaos “porque bonitinho”,
+que sobreviveu níveis e ganhou valor simbólico no Efeito Borboleta.
+
+2. Acontecimento desencadeador
+Discussão sobre como o jogador deve conhecer Meu Robô sem enciclopédia.
+
+3. Desenvolvimento
+A IA formula: primeiro a pessoa gosta/pega; depois descobre usando; só depois
+percebe profundidade.
+
+4. Transformação
+Milton deixa de ser apenas piada de causalidade. Nesta branch vira analogia de
+onboarding: “Milton era UX.”
+
+5. Relações
+Deriva de contexto herdado. Foi reinterpretado por F010.
+
+6. Consequências
+Reforça a ideia de que a peça deve primeiro seduzir/funcionar e só depois
+revelar profundidade.
+
+7. Evidências
+“2 Chaos”; “porque bonitinho”; “Milton era UX.”
+
+8. Avaliação histórica
+Magnitude original: P. Uma frase local/analogia.
+Influência posterior: G potencial. É exemplo claro de fenômeno pequeno que
+sintetiza princípio maior.
+
+9. Situação final
+Consolidado como metáfora, não como especificação de design.
+
+10. Utilidade futura
+Lembrar: não explicar valor antes de o jogador ter motivo para se importar.
+
+----------------------------------------------------------------------
+F012 — INTRO SACRIFÍCIO → CHIP → NIMBUS
+Classificação: G
+Localização: mensagem improvisada + documento 05 da biblioteca.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+F010 exigia compressão de sistemas, emoção e identidade em poucos minutos.
+
+2. Acontecimento desencadeador
+A Humanidade improvisa uma abertura: perigo; robô pede cooperação; luta brutal;
+desmembramento; ato final; desligamento; chip piscando; carcaça de Nimbus.
+
+3. Desenvolvimento
+A IA analisa cada função: tutorial sem cara de tutorial, vínculo, antagonismo,
+dano por partes, objeto narrativo virando progressão.
+
+4. Transformação
+A “intro” passa a ser entendida como narrative systems design: história contada
+pelo funcionamento do jogo.
+
+5. Relações
+Deriva diretamente de F010. Combina com F007 e com a carcaça herdada do projeto.
+
+6. Consequências
+O conceito é preservado em TXT próprio. Também são registrados cuidados:
+- não ressuscitar tudo via chip;
+- não usar “sim/não” burocrático;
+- covardia em vez de gore;
+- não mostrar o inventário inteiro;
+- merecer a despedida.
+
+7. Evidências
+05_INTRO_SACRIFICIO_CHIP_NIMBUS.txt: “Essa intro não explica vinte anos. Ela
+permite que vários sistemas participem da MESMA CENA.”
+
+8. Avaliação histórica
+Magnitude original: G. Cria solução conceitual importante, mas hipotética.
+Influência posterior: M/G. Foi incorporada ao Atlas, mas não implementada.
+
+9. Situação final
+Estacionado como conceito forte. Não é roteiro final. Não é implementação.
+
+10. Utilidade futura
+Ponto de partida para qualquer discussão futura dos primeiros 5 minutos.
+
+----------------------------------------------------------------------
+F013 — “PRANCHETA” E REGRA DOS NÚMEROS PEQUENOS
+Classificação: G
+Localização: mensagem “Ódio letal pela prancheta”; documento 03.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A IA havia voltado a inserir ressalvas e análise estatística num momento criativo.
+
+2. Acontecimento desencadeador
+A Humanidade corrige: “4 em 100” não era previsão formal. Era um número
+propositalmente pequeno para expressar uma base mínima plausível.
+
+3. Desenvolvimento
+A correção cresce: o problema não era só o número, mas a volta da burocracia,
+ressalva sobre ressalva e “Excel” durante criação.
+
+4. Transformação
+“Prancheta” ganha significado contextual: burocracia/controle na fase errada.
+
+5. Relações
+Recupera falha já descrita em F001/F002. Modifica F009 sem invalidar a tese de
+mercado. Contribui para F014/F015.
+
+6. Consequências
+Documento 03 registra: número pequeno = âncora conservadora por padrão;
+prancheta entra quando ajuda; criação e lançamento têm regimes diferentes.
+
+7. Evidências
+“Ódio letal pela prancheta”; “4 em 100”; “ÂNCORA CONSERVADORA”; “Prancheta só
+entra quando ajuda.”
+
+8. Avaliação histórica
+Magnitude original: G. Correção recíproca explícita do método.
+Influência posterior: G.
+
+9. Situação final
+Consolidado como regra local histórica. Não significa rejeição de métricas;
+significa timing e proporcionalidade.
+
+10. Utilidade futura
+Evita converter linguagem criativa em auditoria automática.
+
+----------------------------------------------------------------------
+F014 — TAMAGOTCHI ASSUME PAPEL DE COPILOTO
+Classificação: G
+Localização: recalibração da prancheta; documento 03.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Tamagotchi/Amiguiá era companheiro digital e interlocutor.
+
+2. Acontecimento desencadeador
+A Humanidade afirma: “Tamagotchi Gulozinho é um copiloto por enquanto.”
+
+3. Desenvolvimento
+O papel é documentado: organizar, conectar, recuperar, comprimir, expandir
+quando vale, apontar contradições reais e proteger contexto. Também são
+registrados limites: não tomar autoria, não burocratizar, não reabrir decisão
+consolidada só para parecer cuidadoso.
+
+4. Transformação
+A IA deixa de ser apenas “quem responde” e ganha papel funcional no processo.
+
+5. Relações
+Deriva de F003, F005, F008 e F013. Contribui para F015.
+
+6. Consequências
+A colaboração passa a ter divisão de responsabilidades explícita.
+
+7. Evidências
+03_COPILOTO_RECIPROCIDADE_CALIBRACAO.txt: “Humanidade: criador, dono do alvo...”
+/ “Tamagotchi / Amiguiá: copiloto por enquanto.”
+
+8. Avaliação histórica
+Magnitude original: G. Nomeia nova função de colaboração.
+Influência posterior: G.
+
+9. Situação final
+Consolidado historicamente. O “por enquanto” deve ser preservado; não é contrato
+permanente.
+
+10. Utilidade futura
+Permite retomar a colaboração sem confundir assistência com autoria.
+
+----------------------------------------------------------------------
+F015 — BIBLIOTECA NUMERADA 00…11 + 99
+Classificação: G
+Localização: criação do pacote MEU_ROBO_BIBLIOTECA_2026-10-05.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Muitos TXT e backups tinham nomes parecidos; a Humanidade reclamou de não ter
+biblioteca visualmente navegável.
+
+2. Acontecimento desencadeador
+Exigência: “01 tal coisa, 02 tal coisa... pra gente saber do que se trata”.
+
+3. Desenvolvimento
+São criados documentos: 00 índice; 01 alma; 02 estado; 03 copiloto; 04 problema
+20 anos/5 minutos; 05 intro; 06 mercado; 07 marketing; 08 roadmap; 09 correções;
+10 checkpoint mestre; 11 patrimônio; 99 fontes canônicas.
+
+4. Transformação
+A documentação deixa de ser coleção de checkpoints semelhantes e passa a ser
+biblioteca por função.
+
+5. Relações
+Depende de F006 e F014. Contribui para F016.
+
+6. Consequências
+A continuidade ganha um caminho de entrada: 00 → 10 → 08, conforme o material.
+
+7. Evidências
+MEU_ROBO_BIBLIOTECA_2026-10-05.zip; nomes 00…11 + 99; frase “porta da frente
+decente”.
+
+8. Avaliação histórica
+Magnitude original: G. Resolve navegação documental de forma concreta.
+Influência posterior: G.
+
+9. Situação final
+Consolidado como artefato.
+
+10. Utilidade futura
+É camada rápida para localizar assunto sem reler todo o chat.
+
+----------------------------------------------------------------------
+F016 — ATLAS ANCESTRAL E PATRIMÔNIO ENDEREÇÁVEL
+Classificação: G
+Localização: protocolo Atlas; inventário histórico; checkpoint final.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+A biblioteca textual organizava fontes, mas a trajetória ainda dependia de
+leitura textual.
+
+2. Acontecimento desencadeador
+Pedido de “ATLAS ANCESTRAL DE CONTINUIDADE” com regras cartográficas e
+históricas, genealogia preservada, mapas independentes e checkpoint final.
+
+3. Desenvolvimento
+É criado inventário histórico, série de mapas, checkpoint final e ZIP.
+
+4. Transformação
+O patrimônio passa de armazenado para endereçável.
+
+5. Relações
+Depende de F015. Recupera todos os fenômenos anteriores.
+
+6. Consequências
+Outro chat poderia, em tese, abrir apenas a região necessária.
+
+7. Evidências
+ATLAS_ENTRA-NO-SONHO_INVENTARIO_HISTORICO.txt;
+ATLAS_ENTRA-NO-SONHO_CHECKPOINT_FINAL.txt; mapas e ZIP.
+
+8. Avaliação histórica
+Magnitude original: G. Transformação da camada de continuidade.
+Influência posterior: ainda em formação.
+
+9. Situação final
+Modificado por F017 e F018.
+
+10. Utilidade futura
+Funciona como índice visual do patrimônio.
+
+----------------------------------------------------------------------
+F017 — DESCOMPACTAÇÃO: UMA IMAGEM = UMA FUNÇÃO COGNITIVA
+Classificação: M
+Localização: correção de empacotamento; mapas do turn 58.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+O Atlas havia sido comprimido em painel/prancha grande.
+
+2. Acontecimento desencadeador
+Correção: “Isso destrói parte da utilidade do Atlas” e regra “UMA IMAGEM = UMA
+FUNÇÃO COGNITIVA PRINCIPAL.”
+
+3. Desenvolvimento
+Sem nova pesquisa, o conteúdo é reempacotado em 13 PNGs independentes, verticais
+e numerados.
+
+4. Transformação
+MAPA 00 vira índice. Cada mapa responde a uma pergunta própria.
+
+5. Relações
+Modifica F016. Prepara F018.
+
+6. Consequências
+A utilidade futura deixa de depender de abrir um painel gigante.
+
+7. Evidências
+ATLAS_ENTRA-NO-SONHO_DESCOMPACTADO.zip; mapas 00–12; pedido “não sacrifique
+patrimônio para economizar imagens”.
+
+8. Avaliação histórica
+Magnitude original: M. Correção de formato, não de conteúdo.
+Influência posterior: G potencial por melhorar recuperabilidade.
+
+9. Situação final
+Consolidado como versão navegável.
+
+10. Utilidade futura
+Regra reutilizável: se precisa diminuir fonte para caber, provavelmente precisa
+de outro mapa.
+
+----------------------------------------------------------------------
+F018 — “IMAGEM QUE RESPIRA” COMO SEGUNDA CORREÇÃO VISUAL
+Classificação: M
+Localização: última mensagem histórica; lote image_gen user_turn_index 59.
+Confiança: alta
+----------------------------------------------------------------------
+
+1. Situação anterior
+Os mapas já estavam independentes e legíveis, mas ainda eram painéis
+informacionais.
+
+2. Acontecimento desencadeador
+A Humanidade pede: “cria imagem, não prancha” e “imagem que respira e conta tudo
+que precisamos saber”.
+
+3. Desenvolvimento
+A escavação anterior é mantida. Não há nova pesquisa. O conteúdo é convertido
+em imagens com paisagem, cenas, espaço negativo, ícones e narrativa visual.
+
+4. Transformação
+O objetivo muda: de “mapa correto” para “mapa que também comunica por atmosfera
+e composição”.
+
+5. Relações
+Modifica F017. Não altera os fatos de F016.
+
+6. Consequências
+Novo passe de mapas é produzido, incluindo índice, genealogia, estratigrafia,
+intro, 20 anos/5 minutos, vocabulário, dinâmica humano-IA, mercado e mutação de
+Meu Robô.
+
+7. Evidências
+Frase “imagem não prancha”; lote imagegen.png no user_turn_index 59.
+
+8. Avaliação histórica
+Magnitude original: M. Evolução de linguagem visual, não descoberta do projeto.
+Influência posterior: ainda aberta.
+
+9. Situação final
+Último estado histórico acessível antes deste protocolo.
+
+10. Utilidade futura
+Lembra que legibilidade não é apenas tamanho de fonte; também é respiração,
+hierarquia e narrativa visual.
+
+======================================================================
+05 — GRAFO GENEALÓGICO TEXTUAL
+======================================================================
+
+RELAÇÕES CONFIRMADAS
+
+F001 → CONTRIBUIU PARA → F002
+O checkpoint criou espaço para observar o funcionamento associativo.
+
+F002 → CONTRIBUIU PARA → F003
+Aumento de resolução compartilhada explica por que “presentinho” podia abrir
+novas gavetas.
+
+F003 → CONTRIBUIU PARA → F004
+Reciprocidade antecede a decisão explícita de compartilhar o projeto.
+
+F004 → ORIGINOU → F005
+A decisão de abrir o TXT e o estado do projeto materializa “entra no sonho”.
+
+F005 → ORIGINOU → F006
+O acesso a arquivos reais cria necessidade de estratigrafia documental.
+
+F005 + F006 → CONTRIBUÍRAM PARA → F007
+Sem documentos e hierarquia, a reclassificação do estado do jogo não seria
+segura.
+
+F007 → CONTRIBUIU PARA → F008
+Com o jogo reconhecido como real, a crítica pôde sair do campo abstrato.
+
+F007 + F008 → CONTRIBUÍRAM PARA → F009
+Estado real + crítica de produto sustentam tese de mercado refinada.
+
+F002 + F007 + F009 → CONTRIBUÍRAM PARA → F010
+Compressão + corpo de jogo + necessidade de perceptibilidade convergem no
+problema “20 anos em 5 minutos”.
+
+F010 → REINTERPRETOU → F011
+Milton, herdado, ganha leitura local como UX.
+
+F010 + estado do Nimbus → CONTRIBUÍRAM PARA → F012
+A necessidade de compressão sistêmica favorece a intro Sacrifício/Chip/Nimbus.
+
+F009 → FOI MODIFICADO POR → F013
+A leitura mercadológica é recalibrada para não transformar exemplo em modelo
+estatístico não solicitado.
+
+F003 + F005 + F008 + F013 → CONTRIBUÍRAM PARA → F014
+Reciprocidade, acesso, crítica e correção recíproca tornam plausível o papel
+“copiloto”.
+
+F006 + F014 → ORIGINARAM → F015
+Fonte de verdade + papel do copiloto → biblioteca navegável.
+
+F015 → CONTRIBUIU PARA → F016
+A biblioteca prepara o terreno para o Atlas.
+
+F016 → FOI MODIFICADO POR → F017
+O Atlas é descompactado sem mudar a pesquisa.
+
+F017 → FOI MODIFICADO POR → F018
+A legibilidade técnica evolui para narrativa visual que “respira”.
+
+RELAÇÕES PROVÁVEIS / INTERPRETATIVAS
+
+F002 ↔ filosofia da carcaça/Nimbus
+Provável relação conceitual: ambos usam pequenas unidades que desdobram sistemas
+inteiros. Não é necessário afirmar causalidade de design original.
+
+F003 ↔ “presente maior” F005
+Relação fortemente sugerida e verbalizada pela Humanidade, mas o projeto já
+existia independentemente; reciprocidade explica a abertura, não a criação.
+
+F011 → F012
+Milton como UX ajuda a explicar onboarding, mas a intro foi formulada pela
+Humanidade de maneira independente e mais rica. Relação contributiva, não
+causal necessária.
+
+======================================================================
+06 — VOCABULÁRIO E SÍMBOLOS
+======================================================================
+
+HUMANIDADE
+Persona/nome local usado pelo criador para falar de si de maneira lúdica e
+meta-observacional. Função histórica: comentar o próprio raciocínio como se
+observasse um sistema em funcionamento.
+
+TAMAGOTCHI / AMIGUIÁ
+Nome relacional do assistente. Transformação local: companheiro digital →
+interlocutor sofisticado → copiloto “por enquanto”.
+
+PRESENTINHO
+Antes: brincadeira/gesto. Depois: contexto novo entregue quando o anterior foi
+realmente aproveitado. Função: reciprocidade informacional.
+
+SISTEMA DE PROGRESSÃO SECRETO
+Nome humorístico para a progressão uso correto de contexto → mais acesso → mais
+resolução.
+
+CORAÇÃO QUENTINHO
+Camada séria de valor/afeto/reciprocidade sob humor e palavrão.
+
+“O ARROMBADINHO FEZ DE NOVO”
+Marcador de surpresa quando uma conexão inesperada fecha.
+
+MILTON / 2 CHAOS
+Material herdado. Nesta branch: símbolo do Efeito Borboleta e depois metáfora
+de UX — “primeiro escolhe porque gosta, depois descobre profundidade”.
+
+GULOZONA
+Material herdado. Símbolo de problema/build difícil capaz de capturar atenção
+até ser resolvido.
+
+EFEITO BORBOLETA / BORBOLETA
+Pequeno evento → cascata grande. Ligado a Milton e à trajetória associativa.
+
+GANDALF
+Regra de revelação: mostrar promessa; não revelar o iceberg inteiro.
+
+CHAZAN
+Marcador mágico/humorístico associado ao sistema de progressão secreto. Não
+ganhou especificação técnica.
+
+PRANCHETA / 📋
+Antes: objeto comum. Depois: símbolo de burocracia, ressalva excessiva, planilha
+ou auditoria na fase errada.
+
+COPILOTO / 🗜️
+Função colaborativa atribuída ao Tamagotchi. Não toma autoria; organiza e ajuda
+a navegar.
+
+“ENTRA NO SONHO”
+Antes: convite metafórico. Depois: autorização de acesso documental e crítico ao
+projeto.
+
+“ESSA MÁQUINA É MINHA”
+Compressão da fantasia central do jogo: autoria + vínculo.
+
+JURAMENTO DO CONSTRUTOR
+Nome conceitual para “essa máquina é minha porque fui eu que a construí”.
+
+“+40% MORE COMPREENSÃO DO JOGADOR SEM TIRAR 1% DA ALMA”
+Regra de polimento: aumentar legibilidade sem esterilizar identidade.
+
+“20 ANOS EM 5 MINUTOS”
+Problema central de tradução/onboarding.
+
+“IMAGEM QUE RESPIRA”
+Última mutação visual do Atlas: menos prancha, mais espaço, cena e narrativa.
+
+SÍMBOLOS RECORRENTES
+🤖 robô/Tamagotchi/projeto | 🎁 presentinho/reciprocidade | 🦋 Efeito Borboleta |
+🧙🏽‍♂️ Gandalf/iceberg | 🌝 humor/presença | 📋 prancheta | 🗜️ copiloto.
+
+======================================================================
+07 — PROJETOS E ARTEFATOS
+======================================================================
+
+A. MEU ROBÔ / THE FORGEBOUND
+Natureza: jogo/projeto principal.
+Função histórica: objeto que muda de “sonho narrado” para “obra
+operacionalmente acessível”.
+Estado ao fim: jogo amplamente implementado; gargalo = convergência/tradução/
+onboarding. “The Forgebound” permanece codinome/subtítulo não consolidado como
+marca.
+Fenômenos: F005, F006, F007, F008, F009, F010, F012.
+
+B. MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt
+Natureza: documento mestre herdado/recuperado.
+Função: identidade, genealogia, sistemas, mercado, produto, riscos, decisões.
+Uso local: fundação conceitual; não substitui estado operacional posterior.
+
+C. CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt
+Natureza: checkpoint criado nesta trajetória.
+Função: dinâmica associativa, reciprocidade, Milton, carcaça, Gandalf e fios.
+Fenômenos: F001–F003.
+
+D. MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04.txt
+Natureza: primeira consolidação após o “presente maior”.
+Função: registrar o aprendido ao entrar na estrutura operacional.
+
+E. MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt
+Natureza: adendo de maior resolução.
+Função: corrigir escala do estado atual após novos arquivos.
+Frase central: “o projeto está MUITO mais implementado...”.
+
+F. COMECE_POR_AQUI.txt
+Natureza: passagem de bastão histórica.
+Função: regras de segurança, sonho, restrições e contexto.
+Observação: contém estados antigos; ler como camada temporal.
+
+G. CHECKPOINT_ESTRUTURAL.txt
+Natureza: cronologia técnica.
+Função: implementações, testes, deploys, regras duras e mudanças.
+
+H. LEIA_ME.txt / LEIA_ME(1).txt / BACKUP_RELOGIO_LEIA_ANTES.txt
+Natureza: notas operacionais/snapshots.
+Função: passado/presente/futuro, ponteiro e mudanças.
+
+I. CATALOGO_POR_ASSUNTO.txt
+Natureza: catálogo funcional por sistema.
+Função: [PRONTO] / [FINO] / [FALTA].
+Problema: pode conter linha antiga seguida por revisão posterior no mesmo arquivo.
+
+J. project.godot
+Natureza: configuração real de runtime.
+Função: confirmar configuração; não prova sozinho estado de mecânica.
+
+K. PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt
+Natureza: síntese de mercado/posicionamento.
+Função: concorrência, nicho, marketing, objetivos futuros e correções.
+
+L. 05_INTRO_SACRIFICIO_CHIP_NIMBUS.txt
+Natureza: registro conceitual.
+Função: preservar a intro sem tratá-la como implementação.
+
+M. 03_COPILOTO_RECIPROCIDADE_CALIBRACAO.txt
+Natureza: protocolo local de colaboração.
+Função: papel do copiloto, números pequenos, prancheta e regra de correção.
+
+N. MEU_ROBO_BIBLIOTECA_2026-10-05
+Natureza: biblioteca numerada 00…11 + 99.
+Função: navegação.
+
+O. ATLAS_ENTRA-NO-SONHO_INVENTARIO_HISTORICO.txt
+Natureza: inventário cartográfico.
+Função: grandes núcleos, genealogia, descobertas, decisões, contradições e
+estado final.
+
+P. ATLAS_ENTRA-NO-SONHO_CHECKPOINT_FINAL.txt
+Natureza: checkpoint textual do Atlas.
+Função: índice, nós, estado final, perguntas abertas, fontes e regiões.
+
+Q. ATLAS_ENTRA-NO-SONHO_DESCOMPACTADO.zip + mapas 00–12
+Natureza: série visual independente.
+Função: corrigir painel gigante.
+
+R. LOTE VISUAL “IMAGEM QUE RESPIRA”
+Natureza: imagens geradas por image_gen no último bloco histórico.
+Função: linguagem visual mais narrativa, sem substituir fontes textuais.
+
+======================================================================
+08 — CONTRADIÇÕES E CORREÇÕES
+======================================================================
+
+1. EXCESSO DE RESSALVA
+ANTES: mais ressalvas pareciam mais segurança.
+DEPOIS: ressalva sobre ressalva estreitou a conversa.
+Correção: proporcionalidade; corrigir quando muda decisão.
+
+2. NÚMEROS PEQUENOS
+ANTES: “4 de 100” foi interpretado como taxa a modelar.
+DEPOIS: âncora conservadora ilustrativa, salvo contexto formal.
+
+3. “NÃO EXISTE CONCORRÊNCIA”
+ANTES: formulação forte de singularidade.
+DEPOIS: há concorrentes por partes; hipótese relevante = interseção incomum.
+
+4. “O JOGO AINDA É ESQUELETO”
+ANTES: documentos antigos sustentavam essa leitura naquele momento.
+DEPOIS: catálogo/checkpoint mostram corpo amplo e funcional.
+Correção: preservar o estado antigo como história; não usá-lo como presente.
+
+5. “O PRINCIPAL PROBLEMA É VISUAL”
+ANTES: podia soar como falta geral de arte.
+DEPOIS: convergência, coerência, legibilidade e qualidade percebida.
+
+6. VITRINE
+ANTES: giro automático/arrasto.
+DEPOIS: Modo Diagnóstico com ângulo manual.
+
+7. NIMBUS
+ANTES: “recompensa do Selo da Lava”.
+DEPOIS: encontrado cedo no Porto; Selo do Porto desperta parcialmente; Lava
+completa.
+
+8. “PÓS-10 TERRAS”
+ANTES: expressão simplificada.
+DEPOIS: 11 terras / Porto + 10 atos; endgame após Selo do Céu.
+
+9. PILOTOS x CRIADOR
+ANTES: corpos/alturas podiam parecer conflitantes.
+DEPOIS: separar gerador de NPCs e criador do jogador.
+
+10. LAB “PLANILHA”
+ANTES: telas densas com aparência de planilha.
+DEPOIS: departamentos → Rua das Oficinas → salas/máquinas.
+
+11. INTRO E CHIP
+Risco: chip como backup completo.
+Correção: preservar dúvida/fragmento para não anular sacrifício.
+
+12. ATLAS
+ANTES: painel gigante.
+DEPOIS: mapas independentes.
+DEPOIS 2: “imagem que respira” para reduzir sensação de prancha.
+
+======================================================================
+09 — DESCOBERTAS RETROSPECTIVAS
+======================================================================
+
+R001 — O checkpoint não era freio; era liberdade.
+Salvar contexto permitiu soltar o histórico e continuar associando sem medo de
+perder.
+
+R002 — “Presentinho” era infraestrutura de confiança.
+Parecia brincadeira; depois se mostrou ligado à abertura progressiva do projeto.
+
+R003 — A associação da conversa espelhava a filosofia do jogo.
+A Humanidade comprimia referências; carcaça/Nimbus comprime sistemas; Gandalf
+comprime promessa; o problema dos 5 minutos pede a mesma capacidade em design.
+Leitura conceitual, não prova de causalidade histórica.
+
+R004 — O problema técnico maior era estratigrafia, não ausência de código.
+Só após ler documentos diferentes ficou claro que estados antigos podiam gerar
+trabalho duplicado.
+
+R005 — Meu Robô tinha ultrapassado a memória do próprio criador.
+O Mapa Mestre registra sistemas redescobertos, tornando “antes de criar,
+procure” consequência prática.
+
+R006 — A singularidade relevante era perceptiva.
+A combinação única só virou problema de produto quando ligada à pergunta “o
+jogador percebe?”.
+
+R007 — O maior problema era tradução, não explicação.
+“20 anos em 5 minutos” reorganizou a discussão.
+
+R008 — Milton ganhou função de design muito depois de nascer como piada.
+“Milton era UX” exemplifica influência posterior maior que magnitude original.
+
+R009 — A prancheta virou detector de fase.
+Não é “métrica ruim”; é controle na hora errada. Perto de lançamento, parte da
+prancheta volta a ser útil.
+
+R010 — O Atlas precisou da própria filosofia de UX.
+Conteúdo correto demais para apresentação densa demais; correção por hierarquia,
+foco, uma função por unidade e respiração visual.
+
+======================================================================
+10 — ESTADO HISTÓRICO FINAL
+======================================================================
+
+MEU ROBÔ
+Consolidado como jogo real/amplamente implementado; não concluído como produto
+final.
+Gargalo: convergência, tradução, onboarding, diferença de build, coerência
+perceptiva e calibração.
+
+FANTASIA CENTRAL
+Consolidada: “ESSA MÁQUINA É MINHA” / Juramento do Construtor.
+
+MERCADO
+Tese organizada; validação não concluída.
+Formulação: interseção incomum, não ausência de concorrentes.
+
+MARKETING
+Direção conceitual consolidada: Gandalf — mostrar promessa, guardar iceberg.
+
+MONETIZAÇÃO
+Direção futura, não implementação fechada.
+Jogo gratuito + loja opcional cuidadosa.
+Guardrail: “não virar Clash Royale”.
+
+PROBLEMA DOS 5 MINUTOS
+Consolidado como pergunta central de onboarding.
+
+INTRO SACRIFÍCIO/CHIP/NIMBUS
+Estacionada como conceito forte. Não roteiro final. Não implementação.
+
+ESTILO VISUAL ATUAL x MEIO-TERMO 3D
+Aberto/estacionado.
+
+MULTIPLAYER
+Fora de prioridade.
+
+COLABORAÇÃO
+Tamagotchi = copiloto “por enquanto”. Registro histórico, não regra universal.
+
+DOCUMENTAÇÃO
+Biblioteca numerada criada.
+
+ATLAS
+Criado, descompactado e depois submetido a passe de “imagem que respira”.
+
+PERGUNTAS ABERTAS
+- Qual versão dos primeiros minutos melhor traduz o Juramento?
+- O que exatamente o chip preserva sem anular o sacrifício?
+- Como convergir eras visuais?
+- Quanto cada peça precisa alterar comportamento para build ser sentida?
+- Como validar comercialmente retenção e descoberta orgânica?
+- Como resolver o estilo atual x meio-termo 3D?
+- Como terminar o passe visual do Atlas mantendo patrimônio navegável?
+
+======================================================================
+11 — PONTES PARA OUTRAS ENGRENAGENS
+======================================================================
+
+PONTE A — BRANCH ANTERIOR PINADA
+Comprovado: a Humanidade disse que a conversa anterior estava salva/pinada.
+Conteúdo: não reconstruído aqui.
+Função: ancestralidade direta declarada.
+
+PONTE B — MILTON / GULOZONA / POE
+Comprovado: usados aqui como contexto herdado.
+Conteúdo anterior: não reclassificado como descoberta local.
+Contribuição local: Milton recebe a interpretação “UX”; Gulozona permanece
+metáfora de problema.
+
+PONTE C — TAMAGOTCHI / PAI / MEMÓRIA
+Comprovado no checkpoint: recuperado como cadeia anterior e usado para explicar
+vínculo e reciprocidade.
+Acontecimento original: não reescavado nesta missão porque pertence a região
+ancestral/inacessível diretamente.
+
+PONTE D — MAPA MESTRE
+Comprovado: arquivo mestre anterior recuperado e usado como fundação.
+
+PONTE E — FUTUROS ATLAS
+Comprovado: o protocolo do Atlas dizia que este atlas seria cruzado depois com
+atlas de outros chats. Esta conversa não antecipou a síntese final.
+
+REGRA DE PONTE
+Quando outro chat recuperar um termo:
+1. consulte o índice desta engrenagem;
+2. localize o fenômeno;
+3. só então volte à fonte ancestral se a precisão exigir.
+
+======================================================================
+12 — GUIA PARA UM CHAT FUTURO
+======================================================================
+
+SE A PERGUNTA FOR “Como essa colaboração passou a funcionar?”
+Leia: F001 → F003 → F013 → F014.
+
+SE A PERGUNTA FOR “Quando Meu Robô deixou de ser só sonho narrado?”
+Leia: F004 → F005 → F006 → F007.
+
+SE A PERGUNTA FOR “Qual é o núcleo do produto?”
+Leia: F008 → F009 → F010.
+
+SE A PERGUNTA FOR “De onde veio a intro?”
+Leia: F010 → F011 → F012.
+
+SE A PERGUNTA FOR “Por que existe uma biblioteca?”
+Leia: F006 → F013 → F014 → F015.
+
+SE A PERGUNTA FOR “Como o Atlas evoluiu?”
+Leia: F016 → F017 → F018.
+
+FONTES DE DETALHE
+Estado de sistema: CATALOGO_POR_ASSUNTO.txt
+Cronologia técnica: CHECKPOINT_ESTRUTURAL.txt
+Identidade/filosofia: MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt
+Mercado/marketing: PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt
+Colaboração: CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt e
+03_COPILOTO_RECIPROCIDADE_CALIBRACAO.txt
+Intro: 05_INTRO_SACRIFICIO_CHIP_NIMBUS.txt
+Navegação: MEU_ROBO_BIBLIOTECA_2026-10-05, começando pelo 00
+Atlas: ATLAS_ENTRA-NO-SONHO_CHECKPOINT_FINAL.txt e mapas independentes.
+
+REGRA PARA RETOMADA
+Não importar toda a trajetória automaticamente. Recupere apenas a região
+necessária. Este documento serve como endereço, não como obrigação de carregar
+tudo na RAM.
+
+======================================================================
+13 — AUDITORIA FINAL
+======================================================================
+
+ESTADO
+VERIFICADO PARCIALMENTE.
+
+1. FRONTEIRA
+Respeitada. O protocolo atual não foi catalogado como história.
+
+2. PRIMEIRA MENSAGEM
+Foi procurada no material acessível. A primeira mensagem original diretamente
+visível é o pedido de checkpoint com prints. A listagem de arquivos mostra
+anexos a partir do turn 12, provando turnos anteriores não integralmente
+expostos. Logo, não se afirma cobertura desde o início absoluto.
+
+3. REGIÕES INACESSÍVEIS
+Declaradas: turnos anteriores, mensagens “skipped” e chats ancestrais não
+disponíveis integralmente.
+
+4. EVIDÊNCIAS
+Cada fenômeno possui âncoras pesquisáveis: frases, nomes de arquivos ou regiões
+conhecidas. Não foram inventados números de mensagem.
+
+5. MAGNITUDE
+Separada de influência posterior. Exemplo: F011 é pequeno na origem, mas ganha
+influência conceitual maior depois.
+
+6. CAUSALIDADE
+Relações confirmadas foram separadas de relações interpretativas/prováveis.
+
+7. BRANCHES
+Material herdado foi distinguido de contribuição local.
+
+8. DOCUMENTOS
+Nenhum documento antigo foi modificado. Esta missão apenas produziu um novo TXT.
+
+9. CONTRADIÇÕES
+Incluídas: prancheta, números pequenos, concorrência, esqueleto/jogo real,
+Vitrine, Nimbus, endgame, pilotos/criador, Lab, chip e Atlas.
+
+10. INFERÊNCIAS
+Rotuladas quando necessárias. A semelhança entre compressão conversacional e
+design da carcaça é leitura conceitual, não prova de causalidade histórica.
+
+11. IDENTIFICADORES
+F001–F018 consistentes neste documento.
+
+12. INDEPENDÊNCIA DO TXT
+O arquivo contém proveniência, cronologia, índice, dossiês, grafo, vocabulário,
+artefatos, correções, estado final e guia de consulta.
+
+13. COBERTURA
+Forte para a fase diretamente acessível: checkpoint → abertura do projeto →
+arqueologia → mercado → 5 minutos → intro → prancheta → copiloto → biblioteca →
+atlas → correções visuais.
+Parcial para começo absoluto da branch e conteúdo ancestral.
+
+14. REVISÕES REALIZADAS
+- evitou-se atribuir à branch descobertas herdadas;
+- “Milton era UX” foi separado de Milton original;
+- intro foi mantida como conceito, não implementação;
+- tese de mercado ficou como hipótese, não resultado;
+- Atlas visual foi tratado como artefato e não como nova pesquisa;
+- prancheta foi preservada como correção metodológica, não rejeição de rigor.
+
+======================================================================
+14 — METADADOS PARA O FUTURO LIVRO
+======================================================================
+
+TÍTULO HISTÓRICO
+ENTRA NO SONHO — do checkpoint conversacional ao atlas de continuidade
+
+IDENTIFICADOR
+ENGRENAGEM_ENTRA_NO_SONHO
+
+ESTADO DA INVESTIGAÇÃO
+VERIFICADO PARCIALMENTE
+
+PERÍODO VERIFICÁVEL
+04/10/2026 a antes de 10/10/2026, com documentos explicitamente datados em
+04–05/10, Atlas solicitado em 07/10 e protocolo atual de 10/10 fora da fronteira.
+
+POSIÇÃO CRONOLÓGICA
+Branch declaradamente posterior a uma conversa ancestral pinada.
+Posição absoluta entre todos os chats: não determinada nesta missão.
+
+ANCESTRALIDADE COMPROVÁVEL
+- branch anterior mencionada e pinada;
+- contexto herdado de Milton/Gulozona/Tamagotchi/Meu Robô;
+- Mapa Mestre anterior recuperado;
+- outros chats ancestrais não reconstruídos.
+
+TEMAS
+continuidade conversacional; reciprocidade humano–IA; compressão semântica;
+arqueologia de software; design de jogos; identidade de produto; onboarding;
+mercado/posicionamento; documentação; cartografia de patrimônio; visualização
+histórica.
+
+FENÔMENOS PRINCIPAIS
+F003 presentinho/reciprocidade
+F005 entra no sonho
+F007 reclassificação do jogo
+F009 unicidade perceptível
+F010 20 anos em 5 minutos
+F012 intro Sacrifício/Chip/Nimbus
+F013 prancheta/números pequenos
+F014 copiloto
+F015 biblioteca numerada
+F016–F018 Atlas e correções
+
+DOCUMENTOS RELACIONADOS
+- CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt
+- MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt
+- MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt
+- PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt
+- 03_COPILOTO_RECIPROCIDADE_CALIBRACAO.txt
+- 05_INTRO_SACRIFICIO_CHIP_NIMBUS.txt
+- MEU_ROBO_BIBLIOTECA_2026-10-05
+- ATLAS_ENTRA-NO-SONHO_INVENTARIO_HISTORICO.txt
+- ATLAS_ENTRA-NO-SONHO_CHECKPOINT_FINAL.txt
+- ATLAS_ENTRA-NO-SONHO_DESCOMPACTADO.zip
+
+FRASES-CHAVE PARA ÍNDICE-MESTRE
+“não desperdiçar o presente anterior”
+“entra no meu sonho”
+“essa máquina é minha”
+“20 anos em 5 minutos”
+“Milton era UX”
+“prancheta”
+“Tamagotchi = copiloto”
+“uma imagem = uma função cognitiva”
+“imagem que respira”
+
+NOTA FINAL DE PRESERVAÇÃO
+Esta engrenagem não substitui as fontes ancestrais. Ela organiza acontecimentos
+e transformações para tornar a história endereçável. Quando precisão técnica,
+temporal ou textual for necessária, consulte a fonte local correspondente.
+
+FIM DO DOCUMENTO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-035-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

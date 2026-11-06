@@ -1,0 +1,225 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html>
+Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso
+fonte: src/carta/prova_engrenagens/README.md
+🎓 PROVA DAS ENGRENAGENS
+Prova de entrada para
+qualquer assistente de IA
+que chegue ao projeto CARTA (Grok Bot, Codex ou outro). É booleana: passou ou não passou. Ninguém trabalha no projeto antes de passar.
+Protocolo obrigatório: a primeira coisa ao chegar
+Comece com o contexto limpo.
+Não traga conversa anterior. Carregue
+só os resumos
+:
+python -m carta prova resumo CAP
+. Os resumos são curtos para você não precisar carregar 80 mil linhas.
+Para cada capítulo, na ordem oficial:
+Leia a fonte inteira:
+python -m carta prova --assistente SEU_NOME ler CAP --contexto-limpo
+. Sem leitura não há prova.
+Faça a prova:
+python -m carta prova --assistente SEU_NOME fazer CAP
+. Sem
+--respostas
+ela é interativa; com
+--respostas 0,2,1,...
+você passa os índices de 0 a 3. São 20 questões e passa com
+18/20
+. Se reprovar, a correção diz qual
+arquivo:linha
+reler.
+Escreva a nota:
+python -m carta prova --assistente SEU_NOME nota CAP --texto "..."
+. São pontos de referência, no máximo cerca de 10 linhas (o limite rígido é 12). A nota vai para o seu caderno,
+<workspace>/prova/SEU_NOME/caderno.md
+.
+O próximo capítulo só abre depois da
+prova aprovada e da nota escrita
+.
+Concurso público:
+são 60 questões: 1 de cada EG001–EG027 e o restante das regras do projeto, SG028 e GK. Passa com
+54/60
+(90%). Só depois disso o status mostra
+liberado_para_trabalhar: true
+.
+Não abra
+gabaritos/
+antes de fazer a prova.
+Ele existe para correção e auditoria. Abrir antes é cola e invalida o protocolo.
+Para ver o seu progresso:
+python -m carta prova --assistente SEU_NOME status
+. A tela
+Prova
+(
+/prova.html
+, cartão 🎓 no início) mostra o mesmo progresso, só para leitura.
+Capítulos (ordem oficial)
+Capítulo
+Fonte (no git)
+Estado
+R00 Regras do projeto e portões
+portões Grok/Codex, ordem Grok, contrato de absorção, manual do Bruno, proteções (plano FINAL ONZE)
+com prova
+R01 Pesquisador × personagem
+DESENHO_PONTILHADO_MUNDO_VIVO, ARQUITETURA
+com prova
+R02 Contrato das Esferas
+02_CONTRATO_DAS_ESFERAS, 01_CONTRATO_ESFERAS, CONTRATO_ESFERAS_API_CODEX
+com prova
+EG001–EG027
+a
+Enciclopédia das Engrenagens
+: repositório CARTA, branch
+arquivo/drive-2026-10-16
+,
+DRIVE_ESPELHO_2026-10-16/acervo/ENCICLOPÉDIA DAS ENGRENAGENS — ACERVO MESTRE/01_FONTES_ORIGINAIS_IMUTAVEIS/
+(23 arquivos em texto) e o zip de
+03_AUDITORIA_E_CONTROLE
+(os 4 restantes: EG009, EG020, EG024, EG026). Ponteiro com SHA-256:
+registry/enciclopedia.v1.json
+. Lidos
+pelo caminho
+(
+git show
+ou
+CARTA_ENCICLOPEDIA=<checkout>
+),
+sem cópia
+com prova (20, aprova com 18)
+SG028 Mochila da Saguadinha
+fechamento_20261015 (00, 01, 09) + 00_LEIA_PRIMEIRO (PRs #20/#25)
+com prova
+GK029 e GK030 (escritas pelo Grok)
+registry/esferas_grok_autoria.v1.json
+com prova
+As fontes estão copiadas em
+fontes/<CAP>/
+linha por linha, com uma única mudança: os links do Drive foram trocados por um marcador (o número de linhas não muda). O arquivo
+fontes/ORIGEM.json
+registra a origem de cada uma (branch, caminho, commit, blob, sha256).
+Nada aqui vem do Drive, de conversas privadas ou da Enciclopédia completa.
+Ficou de fora de propósito
+01_ORIGEM_E_OURO_NAS_BORDAS.md
+, que tem detalhes da vida pessoal do Bruno.
+Os EG
+não
+são copiados para cá.
+ler EGnnn
+busca o original na Enciclopédia, confere o SHA-256 do catálogo e mostra o texto. Fora do repositório (por exemplo, no PC), aponte
+CARTA_ENCICLOPEDIA
+para um checkout do branch
+arquivo/drive-2026-10-16
+. Os bancos, gabaritos e resumos guardam só trechos curtos, com
+arquivo:linha
+. Parágrafos com sinal de dado pessoal (e-mail, CPF, telefone, senha, banco) são pulados. Os documentos pessoais da Enciclopédia (cadernos do humano, transcrição da solicitação original, compras) não viram capítulo.
+Como as questões são feitas
+python -m carta prova gerar
+gera as questões do próprio texto, de forma determinística (semente fixa, versão
+prova.v1
+):
+-
+regra
+("qual regra o texto estabelece / o que ele proíbe"): a frase verdadeira contra uma versão com a negação trocada e regras de outros capítulos;
+-
+referência cruzada
+: em que arquivo ou seção aparece um trecho;
+-
+factual
+: completar a frase com o termo exato (número, nome, sigla, código ou palavra rara).
+Cada questão tem gabarito em
+gabaritos/CAP.json
+, com o
+arquivo:linha
+da fonte e o trecho, de modo que só dá para responder lendo o texto. Quando a fonte muda, rode
+gerar
+de novo: os testes conferem que o banco gravado é igual ao gerado.
+Arquivos
+bancos/CAP.json
+: questões sem gabarito.
+gabaritos/CAP.json
+: respostas, linha da fonte e trecho.
+resumos/CAP.md
+: resumo extrativo e compacto, com linhas do texto e
+arquivo:linha
+.
+capitulos.json
+: a ordem e os estados dos capítulos.
+fontes/
+: as cópias das fontes.
+(linha omitida no site público pelo filtro de privacidade)
+FINAL LEIA-ME: arquivos pessoais do bot (obrigatórios)
+Antes de começar:
+python -m carta prova --assistente SEU_NOME iniciar
+cria
+bots/SEU_NOME/
+(DIARIO_DE_BORDO, MEU_RESUMO_DAS_ENGRENAGENS, COMO_ME_COMPORTAR), a partir de
+ENTRADA_OBRIGATORIA/MODELO_BOT/
+.
+- Depois de passar em cada capítulo, escreva o resumo da engrenagem na seção
+## CAP
+do SEU
+MEU_RESUMO_DAS_ENGRENAGENS.md
+, com 3 linhas ou mais. Sem isso o próximo capítulo não abre.
+- O concurso só abre quando há
+## CONSOLIDADO
+(5 linhas ou mais),
+COMO_ME_COMPORTAR.md
+com 5 regras ou mais e o diário com uma entrada, sem a marca do modelo.
+-
+liberado_para_trabalhar
+exige o concurso aprovado
+e
+os arquivos em ordem.
+-
+verificar
+mostra o que falta. "Atualize seu documento" = esses arquivos. A pasta pode ser trocada com
+--pasta-bot
+ou
+CARTA_BOTS
+.
+Etapa 2 — Panorama das Engrenagens (T107U, 03/11/2026)
+A etapa 1 (acima) foi montada quando havia cerca de 30 engrenagens e continua igual (os bancos antigos não mudam).
+A etapa 2 cobre
+todas
+as engrenagens da contagem oficial de hoje (
+carta.enciclopedia.totais()["engrenagens_total"]
+, 59 em 03/11/2026),
+com 2 questões por engrenagem geradas das fichas da Enciclopédia (nome pelo código; estante pelo nome), semente fixa, 4 opções cada.
+Passa com 90% (107 de 118 em 03/11). Quando entrar engrenagem nova na Enciclopédia, a etapa 2 cresce sozinha.
+python -m carta.prova_panorama banco        # questões (sem gabarito)
+python -m carta.prova_panorama gabarito     # gabarito com a ficha de origem
+python -m carta.prova_panorama corrigir --respostas 0,2,1,...   # 0=A 1=B 2=C 3=D
+As questões (sem gabarito) estão também na página pública única: https://espirrosaga2020-tech.github.io/carta-porta/tudo.html#prova-das-engrenagens
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-064-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

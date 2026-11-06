@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""P4 regression: anchors resolve, expected files exist, classic nearly unchanged."""
+"""P4 regression: anchors resolve, expected files exist, classic byte-identical; T71 rooms and cross-file anchors."""
 from __future__ import annotations
 import re, sys, subprocess
 from pathlib import Path
@@ -14,7 +14,7 @@ EXPECTED = [
 PRE = subprocess.check_output(['git','rev-parse','HEAD~0'], cwd=ROOT, text=True).strip()
 # Prefer explicit pre-change if on branch with commits; caller may pass PRE_SHA
 import os
-PRE = os.environ.get('PRE_SHA', 'a9889c3bffbbd05aef96c60c8cc6679e343ebc50')
+PRE = os.environ.get('PRE_SHA', 'bd295e0')
 
 def ids_and_hrefs(html: str):
     ids = set(re.findall(r'\bid=["\']([^"\']+)["\']', html))
@@ -46,63 +46,15 @@ for f in ROOT.glob('*.html'):
         ok = False
     print(f'  {status} {f.name} ids={nids} hrefs={nh} missing={missing}')
 
-print('=== classic nearly unchanged vs', PRE, '===')
-# Allowed classic deltas: only additive id on enciclopedia h2, and optional entrada lines in oi/para-ias/chave
-ALLOWED_CLASSIC = {
-    'tudo.html': {'add_substr': ['id="pg-enciclopedia-index"']},
-    'tudo-resumo.html': {'add_substr': ['id="pg-enciclopedia-index"']},
-    'oi.html': {'add_substr': ['suprema2-entrada.html', 'ENTRADA-SUPREMA2-PROVA-T68U-20261105']},
-    'para-ias.html': {'add_substr': ['suprema2-entrada.html']},
-    'chave.txt': {'add_substr': ['suprema2-entrada.html', 'PORTA SUPREMA 2']},
-}
-
-def git_show(ref, path):
-    try:
-        return subprocess.check_output(['git','show', f'{ref}:{path}'], cwd=ROOT)
-    except subprocess.CalledProcessError:
-        return None
-
-for path, rules in ALLOWED_CLASSIC.items():
-    old = git_show(PRE, path)
-    new = (ROOT / path).read_bytes()
-    if old is None:
-        print(f'  SKIP {path} (not in PRE)')
-        continue
-    if old == new:
-        print(f'  OK {path} byte-identical')
-        continue
-    # Check that removing allowed additive pieces from new recovers old, or that new == old + additive only
-    old_t = old.decode('utf-8', 'replace')
-    new_t = new.decode('utf-8', 'replace')
-    # For tudo*.html the only change should be inserting id="pg-enciclopedia-index" into the h2 tag
-    if path in ('tudo.html', 'tudo-resumo.html'):
-        stripped = new_t.replace('<h2 id="pg-enciclopedia-index">', '<h2>', 1)
-        if stripped == old_t:
-            print(f'  OK {path} only additive id on enciclopedia h2')
-        else:
-            # show rough diff size
-            print(f'  FAIL {path} unexpected classic delta old={len(old)} new={len(new)}')
-            ok = False
-        continue
-    # For oi/para-ias/chave: new must start with old (prefix) or contain old as contiguous body
-    core = old_t
-    for closer in ('</body></html>', '</body>', '</html>'):
-        if core.endswith(closer):
-            core = core[: -len(closer)]
-            break
-    if core and core in new_t:
-        print(f'  OK {path} classic body preserved; additive append/insert present')
-        for s in rules['add_substr']:
-            if s not in new_t:
-                print(f'  FAIL {path} missing expected additive {s!r}')
-                ok = False
-    else:
-        missing_lines = [ln for ln in old_t.splitlines() if ln.strip() and ln not in new_t]
-        if not missing_lines:
-            print(f'  OK {path} all classic lines preserved with additive inserts')
-        else:
-            print(f'  FAIL {path} lost classic lines sample={missing_lines[:3]!r}')
-            ok = False
+print('=== classic strict SHA-256 vs', PRE, '===')
+import hashlib, json
+CLASSIC = ['tudo.html','chave.txt','tudo-resumo.html','oi.html','para-ias.html','carta.json']
+for name in CLASSIC:
+    old = subprocess.check_output(['git','show',f'{PRE}:{name}'],cwd=ROOT)
+    new = (ROOT/name).read_bytes()
+    same = old == new
+    ok &= same
+    print('  ' + ('OK' if same else 'FAIL'), name, hashlib.sha256(new).hexdigest(), 'byte-identical' if same else 'CHANGED')
 
 # Entry phrase present
 ent = (ROOT / 'suprema2-entrada.html').read_text(encoding='utf-8')
@@ -120,6 +72,60 @@ for f, name in [('tudo-suprema2.html','tudo-suprema2.html'), ('tudo-suprema2-res
         ok = False
     else:
         print(f'OK footer {f}')
+
+# T71 regression: generated navigation, text fallback and bounded payloads.
+from urllib.parse import urlsplit, unquote
+from html.parser import HTMLParser
+class Parser(HTMLParser):
+    def __init__(self):
+        super().__init__(); self.ids=[]; self.links=[]
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs)
+        if 'id' in a: self.ids.append(a['id'])
+        if tag=='a' and 'href' in a: self.links.append(a['href'])
+
+def parse_file(path):
+    parser=Parser(); parser.feed(path.read_text()); return parser
+
+manifest=json.loads((ROOT/'scripts/t71u_manifesto.json').read_text())
+assert manifest['drive_items']==140 and manifest['harvest_refs']==42 and manifest['nexus_children']==30
+parsed={}
+print('=== T71 rooms, TXT twins, cross-file routes ===')
+for stem,meta in manifest['pages'].items():
+    for ext in ['html','txt']:
+        path=ROOT/(stem+'.'+ext)
+        valid=path.exists() and 0 < path.stat().st_size < 150000 and meta['prova'] in path.read_text()
+        if not valid: print('FAIL payload/prova',path.name)
+        ok &= valid
+    parser=parse_file(ROOT/(stem+'.html')); parsed[stem+'.html']=parser
+    if len(parser.ids)!=len(set(parser.ids)):
+        print('FAIL duplicate IDs',stem); ok=False
+    for route in ['suprema2-mapa.html','suprema2-entrada.html']:
+        if route not in parser.links: print('FAIL backlink',stem,route);ok=False
+    if 'Fontes' not in (ROOT/(stem+'.html')).read_text(): print('FAIL fontes',stem);ok=False
+for filename,parser in list(parsed.items()):
+    for href in parser.links:
+        url=urlsplit(href)
+        if url.scheme or url.netloc:continue
+        target=ROOT/(unquote(url.path) or filename)
+        if not target.exists(): print('FAIL local route',filename,href);ok=False;continue
+        if url.fragment and target.suffix=='.html':
+            if target.name not in parsed: parsed[target.name]=parse_file(target)
+            if unquote(url.fragment) not in parsed[target.name].ids:
+                print('FAIL cross-file anchor',filename,href);ok=False
+for f in ['suprema2-entrada.html','tudo-suprema2-resumo.html','chave-suprema2.txt','index.html','llms.txt']:
+    if 'suprema2-mapa.html' not in (ROOT/f).read_text():print('FAIL hub discovery',f);ok=False
+if (ROOT/'suprema2-entrada.html').stat().st_size >= 15000:print('FAIL entry too big');ok=False
+inventory=json.loads((ROOT/'scripts/t71u_fontes.json').read_text())
+drive=(ROOT/'suprema2-drive.html').read_text()
+for item in inventory['inventory']:
+    if item['id'] not in drive:print('FAIL missing Drive id',item['id']);ok=False
+for key in ['indice','aditivos']:
+    for record in inventory[key]['registros']:
+        if 'registro-'+record['id'] not in (ROOT/'suprema2-enciclopedia.html').read_text(): print('FAIL registry record',record['id']);ok=False
+for n in range(1,13):
+    if f'q3-c{n:02}' not in (ROOT/'suprema2-jornada.html').read_text():print('FAIL question',n);ok=False
+print('T71 page pairs',len(manifest['pages']),'public readings',manifest['public_readings'])
 
 print('RESULT', 'PASS' if ok else 'FAIL')
 sys.exit(0 if ok else 1)

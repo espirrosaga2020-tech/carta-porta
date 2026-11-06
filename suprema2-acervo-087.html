@@ -1,0 +1,68 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Mundos da CARTA 2.0</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Mundos da CARTA 2.0</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-086.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-088.html">Próxima →</a></p><main id="public-source"><article id="doc-mundos-carta20"><h3>Mundos da CARTA 2.0</h3><p class="meta">fonte: docs/CARTA20/MUNDOS_CARTA20.md</p><h3>Mundos na CARTA 2.0 (§6–§10)</h3>
+<table>
+<thead>
+<tr>
+<th>Mundo</th>
+<th>Onde</th>
+<th>Natureza</th>
+<th>O que tem na 2.0</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🌍 Planeta (Terra Grande)</td>
+<td><code>/planeta.html</code></td>
+<td>ficção (simulação estilizada)</td>
+<td>3D real (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, links para os outros mundos no painel 🧠</td>
+</tr>
+<tr>
+<td>🤖 Planeta Godot (Meu Robô)</td>
+<td><code>/planeta-godot.html</code> (U no Planeta)</td>
+<td>ficção</td>
+<td>o jogo Godot de verdade exportado para a web (porta 8795) + mapa neon com as regiões acendendo</td>
+</tr>
+<tr>
+<td>🌱 Mini Terra</td>
+<td><code>/terra.html</code></td>
+<td>ficção</td>
+<td>simulação ecológica pequena (servidor local), legado preservado</td>
+</tr>
+<tr>
+<td>🔬 Microscópio do tronco</td>
+<td><code>/microscopio.html</code></td>
+<td>ciência × ficção marcadas</td>
+<td>três escalas em 3D (Tronco · Lupa ×20 · Micro ×400), barra de escala, seres clicáveis</td>
+</tr>
+</tbody>
+</table>
+<h4>§8 Voo suave (o que já existe e como funciona)</h4>
+<p>No bundle do Planeta (<code>web/src/terra_grande/aventura.js</code>, função <code>_voar</code>) o voo já é amortecido:
+aceleração e curva entram por interpolação (<code>thr</code>, <code>steer</code> com fator <code>dt·2</code>/<code>dt·3</code>), a altura alvo é seguida com
+<code>sy += (alvo − sy)·dt·2,5</code> (pouso <code>dt·4</code>), e a inclinação do carro (<code>sp</code>, <code>sr</code>) também é suavizada. Por isso não há tranco.
+A CARTA 2.0 <strong>não reconstruiu o bundle</strong> (as dependências do Vite não estão no PC); as teclas novas (numérico 8/2/4/6/5, setas)
+entram por <code>tema/delorean_voo.js</code>, que só "segura" as teclas que o bundle já entende.</p>
+<h4>§7 Neon legível</h4>
+<p><code>tema/carta20.css</code>: brilho neon nos cartões do Início e no painel da Mente Suprema, com contraste alto.
+Desliga com <code>html.sem-neon</code> e respeita "reduzir movimento" do sistema.</p>
+<h4>§10 Microscópio — ciência separada da ficção</h4>
+<p>Cada ser tem um selo: <strong>🧪 científico</strong> (existe de verdade; forma e escala aproximadas) ou <strong>✨ estilizado</strong> (ficção do jogo).
+Científicos: musgo, líquen, colêmbolo, ácaro, tardígrado, rotífero, algas, hifas de fungo, bactérias.
+Ficção: "Faisquinha do musgo". Teclas: 1/2/3 trocam a escala, +/− também, Esc volta ao Planeta.</p>
+<h4>§11 Os três mundos, em palavras simples (02/11/2026 — acréscimo)</h4>
+<ul>
+<li><strong>🌍 Planeta</strong> (<code>/planeta.html</code>): o planeta grande em 3D (three.js). É onde se anda, voa de DeLorean e conversa.</li>
+<li><strong>🤖 Meu Robô</strong> (<code>/planeta-godot.html</code>, tecla <strong>U</strong> no Planeta): o jogo Godot de verdade. Fica <strong>separado</strong> do Planeta.
+  A página <code>/meu-robo-planeta.html</code> é a <em>versão de teste (mini-planeta)</em> do Meu Robô — também continua, e aponta para o Godot.</li>
+<li><strong>🌱 Mini Terra</strong> (<code>/terra.html</code>, servidor local <strong>8791</strong>): <strong>não foi apagada nem mudou de lugar</strong>. Ela ficou guardada em
+  "📦 Mais coisas" no Supremo 001, mas continua sendo o <em>motor</em> dos <strong>Acontecimentos do mundo</strong>: o painel "🌍 Acontecimentos"
+  do Planeta e o <code>/ea.html#diario</code> leem <code>/api/terra/eventos</code>, que vem da Mini Terra. Se o 8791 estiver desligado, aparece "😴 cochilando".</li>
+<li>O que mudou (só acréscimo): um cartão visível <strong>"🌱 Mini Terra (continua viva)"</strong> dentro do submenu 🌍 Planeta do Início
+  (o cartão antigo <code>cTerra</code> continua em 📦), a frase "· vem da 🌱 Mini Terra" no cartão Acontecimentos e "vêm da 🌱 Mini Terra"
+  no painel do Planeta.</li>
+</ul>
+<h4>§12 Gerenciador de painéis (02/11/2026 — acréscimo)</h4>
+<p><code>tema/paineis.js</code> (incluído no fim de <code>planeta.html</code>, <code>meu-robo-planeta.html</code> e <code>inicio.html</code>): só <strong>um painel lateral aberto por vez</strong>
+(abrir um fecha os outros usando o próprio botão de fechar de cada painel), <strong>chat "conversar" sempre alcançável</strong> (z 70, nunca é fechado),
+escala de z-index única (30 botões · 40 painéis · 65 janelas centrais · 70 chat), no celular uma gaveta "🧰 mais" guarda os botões
+extras e os painéis do Meu Robô recolhem com "▸ abrir". Nada é apagado: só posição/camada.
+Desligar (rollback na hora): abrir a página com <code>?paineis=0</code> ou rodar <code>localStorage.setItem('carta.paineis','off')</code> — ver cabeçalho do arquivo.</p></article></main><p><a href="suprema2-acervo-086.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-088.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-087-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

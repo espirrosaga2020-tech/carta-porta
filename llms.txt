@@ -70,3 +70,6 @@
 - [Celular sem cabo (app vc20, 03/11/2026)](https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html)
 - [Análise do PR #99 (Olhos Vivos, Copiloto)](https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html)
 - [Mapa de pastas e código](https://espirrosaga2020-tech.github.io/carta-porta/mapa.html)
+
+Porta Suprema 2 — mapa completo (T71U): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+Alternativa texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt

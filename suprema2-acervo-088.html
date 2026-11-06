@@ -1,0 +1,116 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Gráficos no PC (T105U)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Gráficos no PC (T105U)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-087.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-089.html">Próxima →</a></p><main id="public-source"><article id="doc-graficos-pc-t105u"><h3>Gráficos no PC (T105U)</h3><p class="meta">fonte: docs/CARTA20/GRAFICOS_PC_T105U.md</p><h3>Gráficos no PC — o que já foi adotado e se existe ray tracing (T105U, 03/11/2026)</h3>
+<p>Pergunta do Bruno: "o que já foi adotado das pesquisas de código aberto (Google etc.) e se existe ray tracing de verdade ou não".
+Tudo abaixo foi <strong>lido no código</strong>, nos arquivos do projeto, em 03/11/2026 ~19h20 (horário de Brasília). Nada foi ligado nem mudado para escrever isto.</p>
+<h4>Resposta curta</h4>
+<p><strong>Não existe ray tracing de verdade na CARTA.</strong> Nem no Planeta (three.js) nem no Planeta Godot (Porto Parafuso).
+O que existe são efeitos de tela que <em>imitam</em> parte do que o ray tracing faz (sombra de contato, brilho, névoa), calculados de um jeito bem mais barato.
+O Godot 4 não tem ray tracing por hardware (RTX); o que ele tem de iluminação global (SDFGI, VoxelGI, LightmapGI) <strong>não está ligado</strong> no projeto.</p>
+<h4>Planeta (three.js, no navegador do PC)</h4>
+<p>Lido no pacote do Planeta (<code>src/carta/webdist/assets/planeta-*.js</code>):</p>
+<table>
+<thead>
+<tr>
+<th>Efeito</th>
+<th>De onde vem</th>
+<th>Licença</th>
+<th>Situação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sombra de contato nos cantos (<strong>GTAO</strong>, "oclusão de ambiente")</td>
+<td>three.js (<code>GTAOPass</code>)</td>
+<td>MIT</td>
+<td>ligado no preset alto/ultra (g1, <code>?atmosfera=</code>)</td>
+</tr>
+<tr>
+<td>Brilho em volta da luz (<strong>UnrealBloomPass</strong>)</td>
+<td>three.js</td>
+<td>MIT</td>
+<td>ligado no preset alto/ultra</td>
+</tr>
+<tr>
+<td>Cor de cinema (<strong>ACES Filmic tone mapping</strong>)</td>
+<td>three.js</td>
+<td>MIT</td>
+<td>ligado</td>
+</tr>
+<tr>
+<td>Céu físico (<strong>Sky</strong>) + luz do ambiente (<strong>PMREM</strong>)</td>
+<td>three.js</td>
+<td>MIT</td>
+<td>ligado</td>
+</tr>
+<tr>
+<td>Sombras em mapa (<code>shadowMap</code>) e névoa (<code>fog</code>)</td>
+<td>three.js</td>
+<td>MIT</td>
+<td>ligado</td>
+</tr>
+<tr>
+<td>Ray tracing / path tracing</td>
+<td>—</td>
+<td>—</td>
+<td><strong>não existe</strong> (nenhum <code>pathtracer</code>/<code>raytrac</code> no código)</td>
+</tr>
+</tbody>
+</table>
+<p>Medição já registrada (g1, T95U): ~118–120 FPS no PC em todos os presets.</p>
+<h4>Planeta Godot (Porto Parafuso, cópia <code>D:\CARTA\GODOT_WEB_LEVE\proj</code>)</h4>
+<p>Lido em <code>project.godot</code> e <code>mundo3d.gd</code> (a cópia; o <code>D:\MEU ROBO\JOGO</code> não foi aberto):</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Valor no projeto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Motor</td>
+<td>Godot <strong>4.7</strong>, renderizador <strong>Forward+</strong> no PC (Vulkan/D3D12); <strong>gl_compatibility</strong> no celular e na web</td>
+</tr>
+<tr>
+<td>Antisserrilhado</td>
+<td>MSAA 2× + antisserrilhado de tela (PC); MSAA desligado e 3D em 60% na web</td>
+</tr>
+<tr>
+<td><strong>SSAO</strong> (sombra de contato)</td>
+<td>ligado (<code>env.ssao_enabled = true</code>)</td>
+</tr>
+<tr>
+<td><strong>SSIL</strong> (luz rebatida de tela)</td>
+<td><strong>desligado</strong> (<code>env.ssil_enabled = false</code>)</td>
+</tr>
+<tr>
+<td><strong>Glow</strong> (brilho)</td>
+<td>ligado</td>
+</tr>
+<tr>
+<td><strong>Névoa volumétrica</strong></td>
+<td>liga só quando a densidade do bioma passa de 0,012</td>
+</tr>
+<tr>
+<td>SDFGI / VoxelGI / LightmapGI (iluminação global)</td>
+<td><strong>não usados</strong></td>
+</tr>
+<tr>
+<td>SSR (reflexo de tela)</td>
+<td>não usado</td>
+</tr>
+<tr>
+<td>Ray tracing</td>
+<td><strong>não existe</strong> (o Godot 4.7 não tem RTX)</td>
+</tr>
+</tbody>
+</table>
+<h4>O que veio das pesquisas de código aberto (Google e outros)</h4>
+<p>Já está em <code>docs/CARTA20/PESQUISA_T101U.md</code> (adotado e testado): offline-first estilo <strong>Workbox (Google)</strong>, injeção de script antes da página estilo <strong>androidx.webkit (Google)</strong>, freio de repetição, imagem sintética para testar visão, Godot Web sem threads.
+<strong>Candidatos não adotados:</strong> MediaPipe Tasks Vision, Meshopt/KTX2, model-viewer e Filament (Google).
+Nenhum desses é de gráficos com ray tracing.</p>
+<h4>Se um dia quiser ray tracing de verdade (só ideia, nada instalado)</h4>
+<ul>
+<li>three.js: <code>three-gpu-pathtracer</code> (MIT). É um path tracer <strong>parado</strong>: serve para foto bonita, não para jogar a 60 FPS.</li>
+<li>Godot 4.7 no PC: o mais perto é ligar <strong>SDFGI</strong> ou <strong>SSIL</strong> num preset "ultra" do PC, medir o FPS e comparar. Isso <strong>não é</strong> ray tracing por hardware.</li>
+<li>Qualquer um desses é mudança de gráfico: só com teste de FPS antes/depois e por portão desligado por padrão.</li>
+</ul></article></main><p><a href="suprema2-acervo-087.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-089.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-088-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

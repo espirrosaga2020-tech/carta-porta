@@ -1,0 +1,202 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html>
+Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)
+fonte: ENTRADA_OBRIGATORIA/00_SE_VOCE_E_NOVO_LEIA_AQUI.md
+00 — SE VOCÊ É NOVO, LEIA AQUI (obrigatório antes de QUALQUER trabalho)
+Você é um assistente de IA (bot) chegando ao projeto CARTA / Meu Robô / Engrenagens.
+Não escreva código, não abra PR e não mexa em nada antes de terminar a Prova das Engrenagens.
+A ferramenta confere isso:
+liberado_para_trabalhar
+só fica
+true
+depois do concurso
+e
+dos seus arquivos pessoais.
+Passo a passo
+Crie a SUA pasta pessoal com o modelo:
+python -m carta prova --assistente SEU_NOME iniciar
+Isso cria
+bots/SEU_NOME/
+com três arquivos copiados de
+ENTRADA_OBRIGATORIA/MODELO_BOT/
+. Nada que já existe é sobrescrito.
+DIARIO_DE_BORDO.md
+: o seu diário (uma entrada
+## AAAA-MM-DD
+por sessão).
+MEU_RESUMO_DAS_ENGRENAGENS.md
+: um resumo por engrenagem, mais o
+## CONSOLIDADO
+.
+COMO_ME_COMPORTAR.md
+: as regras que você promete seguir, com as suas palavras.
+Comece com
+contexto limpo
+:
+python -m carta prova --assistente SEU_NOME resumo R00
+.
+Para
+cada capítulo
+, na ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030):
+ler CAP --contexto-limpo
+(a fonte inteira);
+fazer CAP
+(20 questões; passa com
+18
+);
+nota CAP --texto "..."
+(até ~10 linhas, no caderno privado);
+ATUALIZE SEU DOCUMENTO:
+escreva o resumo dessa engrenagem em
+bots/SEU_NOME/MEU_RESUMO_DAS_ENGRENAGENS.md
+, na seção
+## CAP
+, com pelo menos 3 linhas suas.
+Sem isso o próximo capítulo não abre.
+Antes do
+concurso final
+(60 questões, passa com
+54
+):
+em
+MEU_RESUMO_DAS_ENGRENAGENS.md
+, a seção
+## CONSOLIDADO
+(5 linhas ou mais: o que liga tudo);
+em
+COMO_ME_COMPORTAR.md
+, 5 regras ou mais (linhas começando com
+-
+);
+em
+DIARIO_DE_BORDO.md
+, pelo menos uma entrada
+## data
+;
+nenhum dos três arquivos pode ainda conter a linha-marca do modelo.
+python -m carta prova --assistente SEU_NOME verificar
+mostra o que falta.
+O que "atualiza seu documento" quer dizer
+Sempre que uma ordem, este guia ou a ferramenta disser
+"atualize seu documento"
+, entenda:
+os SEUS arquivos em
+bots/SEU_NOME/
+(diário, resumo, comportamento).
+Nunca
+os documentos ancestrais, a Enciclopédia, os diários do projeto (
+docs/DIARIO_DE_BORDO.md
+), nem os arquivos de outro bot.
+Regras que não mudam (resumo; a fonte é a Prova R00)
+PR sempre rascunho,
+sem merge
+(quem decide é o Bruno). Nada destrutivo. Só
+acrescentar
+.
+A Enciclopédia (branch
+arquivo/drive-2026-10-16
+) é
+ancestral
+: só leitura, nunca merge, nunca cópia inteira.
+O jogo original (
+D:\MEU ROBO\JOGO
+) não é tocado; o SHA é conferido antes e depois.
+O Drive nunca é aberto. Nenhum dado pessoal vai para o git (CPF, e-mail, telefone, banco, cadernos privados).
+Motores sempre desarmados; câmera e microfone desligados por padrão.
+Pesquisador × personagem: nunca misture as duas vistas.
+Servidor com sim rodando tem valor:
+não pare nem reinicie
+. Salve antes (💾, ou só GET na API).
+Depois: leia
+LEIA-ME_COMPLETO.md
+(a história inteira) e
+docs/HANDOFF_FINAL_CODEX_APP.md
+(o que fazer).
+Depois do concurso: Exploração e DIPLOMA (FINAL POLIMENTO)
+"Vai lá na enciclopédia"
+→ rode primeiro
+python -m carta prova --assistente SEU_NOME enciclopedia
+. Sem diploma válido você
+começa pela avaliação
+; com diploma válido vai direto (e continua citando
+arquivo:linha
+).
+Concurso aprovado → abre a
+Exploração das Esferas
+(
+prova --assistente SEU_NOME explorar status
+, ou o botão 🧪 em
+/esferas28.html
+):
+você escolhe
+quais esferas olhar (
+explorar olhar EG010
+, no mínimo 3);
+escolhe sua
+postura
+:
+interpretar
+,
+participar
+ou
+seguir
+(
+explorar postura interpretar
+);
+pode
+propor outra ordem
+só numa CÓPIA (
+explorar propor --ordem EG001,EG002,... --motivo "..."
+; o original nunca muda);
+observa a dinâmica (
+explorar dinamica
+);
+responde no seu
+bots/SEU_NOME/EXPLORACAO/REFLEXOES.md
+: "O que você aprendeu?", "O que você pode falar do Bruno?", "O que você escolheu olhar, e por quê?".
+Direito de escolher:
+interpretar, participar ou seguir.
+Não é opcional:
+ler a Enciclopédia inteira (todos os capítulos).
+Tudo completo →
+prova --assistente SEU_NOME diploma
+gera
+bots/SEU_NOME/DIPLOMA.json
+(SHA-256 + data) e registra em
+registry/diplomas.json
+. Confira com
+prova --assistente SEU_NOME verificar-diploma
+. Diploma válido = pula a prova da próxima vez.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-058-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

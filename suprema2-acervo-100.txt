@@ -1,0 +1,83 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — CT01: documento da engrenagem (CARTA 2.0)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html>
+CT01: documento da engrenagem (CARTA 2.0)
+fonte: docs/engrenagens_carta20/CT01.md
+CT01 — Cartas da travessia (10/10 → 15/10)
+As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos.
+00 Ficha de proveniência
+id:
+CT01 ·
+estante:
+Diários e cartas ·
+modalidade:
+engrenagem de cartas (CARTA 2.0) · bola do Painel 2
+autoria:
+Bruno + Copiloto
+(linha omitida no site público pelo filtro de privacidade)
+criada em:
+2026-10-31 por Grok (CARTA 2.0, 31/10/2026) · regra: definição ESTRUTURAL de engrenagem (CARTA 2.0 §2) — id, estante, modalidade, autoria, fonte, relações, bola e história.
+limites:
+só metadados públicos; o conteúdo das conversas fica no backup, no PC do Bruno.
+01 Apresentação histórica
+As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos.
+02 Linha do tempo / itens (fato documentado)
+2026-10-10 10:05 (BRT) · “Carta de continuidade” · 150 mensagens no ramo mais recente
+2026-10-13 03:23 (BRT) · “PRIMEIRA CARTA 💌” · 695 mensagens no ramo mais recente
+2026-10-15 18:44 (BRT) · “1 CARTA CREUZA origem PAINEL DELOREAN🥰🤖🫁🫂” · 266 mensagens no ramo mais recente
+2026-10-15 21:46 (BRT) · “CARTA UM - IMPLEMENTOS - PAINEL DELOREAN🥰🤖🫁🫂” · 329 mensagens no ramo mais recente
+05 Relações
+fonte_original → BACKUP_CHATGPT
+relacionado → CREUZA-V06
+relacionado → EG007
+08 Contradições e correções (preservadas, sem reconciliar)
+“Sincronizar engrenagens CARTA” tem CARTA no título por causa do projeto, não é carta — ficou fora (vai para RH01).
+11 Pontes para outras engrenagens
+CREUZA-V06 · a Creuza nasce nas cartas
+EG007 Continuidade Limpa · eco temático
+12 Guia para um chat futuro
+Peça à Consciência: “me conta a engrenagem CT01” — ela responde por
+/api/conhecimento/v1/no?id=CT01
+com a proveniência.
+13 Auditoria
+4 itens · gerado por
+tools/carta20/gerar_engrenagens_carta20.py
+a partir do catálogo privado de 2026-10-31T18:21:36 (BRT).
+Natureza:
+fato documentado
+(datas, nomes e títulos copiados do backup); nenhuma interpretação foi acrescentada.
+14 Metadados para o Livro
+período: 2026-10-10 → 2026-10-15
+FIM DO DOCUMENTO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-100-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

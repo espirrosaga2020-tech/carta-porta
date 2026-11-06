@@ -1,0 +1,56 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-006.html>
+3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)
+PC Bruno (Windows):
+  D:\CARTA\                          → raiz do ecossistema
+  D:\CARTA\CARTA_OFICIAL_ATUALIZADO\ → instalação oficial (painel 8790 + Terra 8791)
+  D:\CARTA\CARTA_OFICIAL_ATUALIZADO\docs\GROK_BORDO\ → diários/blocos do Grok Bot
+  D:\CARTA\ENCICLOPEDIA\             → Enciclopédia local (FATIADA, ROBOTICA_DO_BRUNO)
+  D:\CARTA\CHAVE_MESTRA_CARTA.txt    → chave mestra no PC (aditiva)
+  D:\CARTA\00_COMECE_AQUI\           → manuais de entrada
+  D:\MEU ROBO\JOGO\                  → patrimônio Godot (SÓ LEITURA)
+
+Site público (GitHub Pages) — o que as IAs abrem sem login:
+  https://espirrosaga2020-tech.github.io/carta-porta/
+  tudo.html (clássica intacta) · tudo-suprema2.html (esta) · chave.txt · chave-suprema2.txt
+
+Drive (conta ESPIRRO / Bruno):
+  🧭 NEXUS — ARQUITETURA VIVA
+  🆕 NOVOS ANEXOS v4 — 20261105 (P06/P03/P04/P05/P08 + índice)
+  ENCICLOPEDIA (PDF completo + partes)
+  OURO_PORTA_SUPREMA2_20261105 (esta entrega)
+Assuntos-chave para busca:
+CL01 CL02 CL03 · Atlas V5 · Elemento X · ALMA · Faísca · CapCut/P06 · NEXUS · ESCUDO · Enciclopédia · Portão 1-B · registro.v1 · Jornada · Porta Eureka · Volume Zero.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-006.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#ouro-suprema2
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#ouro-suprema2>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-005-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

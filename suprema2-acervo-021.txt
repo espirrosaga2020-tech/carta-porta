@@ -1,0 +1,914 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Trajetória e catálogo do que fizemos (17/10/2026)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html>
+Trajetória e catálogo do que fizemos (17/10/2026)
+fonte: SUBIR_PARA_O_DRIVE/JA_FEITO_20261017_ORGANIZACAO/02_TRAJETORIA_E_CATALOGO_DO_QUE_FIZEMOS.md
+02 — TRAJETÓRIA COMPLETA E CATÁLOGO DO QUE FIZEMOS
+Fontes:
+git log
+, a lista de PRs do GitHub (
+gh pr list
+),
+HISTORICO_DE_VERSOES.txt
+,
+LEIA-ME_COMPLETO.md
+, os diários
+docs/GROK_*/DIARIO.md
+e os checkpoints
+docs/GROK_*/CHECKPOINT*
+.
+Horários em Brasília (UTC-3). As datas de PR são as de
+criação
+no GitHub.
+Repositório: https://github.com/espirrosaga2020-tech/CARTA (privado).
+Nenhum PR do CARTA foi mesclado em
+main
+:
+main
+tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex
+feature/codex-carta-olhos-final-polimento-v1
+, e não em
+main
+.
+2.1 A linha do tempo em uma página
+Dia
+Fase
+PRs
+O que nasceu
+13/10
+Laboratório Zero → Laboratório Total → V3–V6 → P0–P12 → Fusão
+#1–#13
+base local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô
+14/10
+Mundo Vivo, F1, Transcendência
+#14–#17
+personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeção
+15/10
+Definitivo, Esferas v0, Planeta, SG028
+#18–#27
+câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex
+16/10 (madrugada)
+Refino, Esferas Final, Onze, Final Onze
+#28–#32
+tela inicial única, tabuleiro grande, caixinha cósmica, clima/geologia, Prova das Engrenagens
+16/10 (manhã)
+Final Enciclopédia, Final Leia-me, Final Polimento
+#33–#35
+Enciclopédia referenciada, ENTRADA OBRIGATÓRIA, LEIA-ME COMPLETO, Salvar/Relatório, DIPLOMA, porta 8787
+16/10 (tarde)
+Black Mirror, Fechamento, Maestro, EG033, Gigantismo
+#36–#45
+pré-projeto BM0–BM15, núcleo BM, EG031/EG032, EG033 Lantejoula, Mini Terra Simbólica Viva (154 requisitos)
+16/10 (noite)
+Integração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únicas
+#46–#50
+Mini Terra 8789, casca EA, 3D WebGL, servidor único 8790 + Terra 8791, DeLorean dirigível, Esferas sem duplicação
+17/10 (madrugada)
+Terra Grande
+#51–#52
+planeta esférico vivo 90/90 (ecologia de 1500 células), aventura a pé e de DeLorean, tema Lab em tudo
+17/10 (tarde)
+Android Grok, Eureka
+#53–#54
+app CARTA Grok (
+br.com.carta.grok
+), "saber mais", ícone oficial, diário na GK029, organização do D:
+17/10 (16h)
+Organização brutal
+(este PR)
+esta pasta
+SUBIR_PARA_O_DRIVE
+2.2 Todos os PRs (#1 → #54)
+Legenda de autor pelo prefixo da branch:
+grokbot/
+= Grok Bot ·
+maestro/
+= ChatGPT Maestro ·
+codex/
+ou
+feature/codex-
+= Codex ·
+design/
+,
+docs/
+,
+feature/
+= documentos e propostas do ChatGPT/Bruno.
+Estado de todos:
+rascunho/aberto
+, exceto o #46, que foi mesclado na branch do Codex.
+PR
+Criado (BRT)
+Branch
+Título resumido
+#1
+13/10 08:36
+feature/laboratorio-zero-20261013
+🎒 Laboratório Zero: base local da CARTA com testes e origem protegida
+#3
+13/10 09:38
+design/bolona-prateada-laboratorio-total-20261013
+⚛️ Bolona prateada: laboratório total 3D, física, IA e 46 tomadas
+#4
+13/10 10:04
+grokbot/laboratorio-total-20261013
+Laboratório Total: Studio 3D com Creuza, bolona prateada e física Rapier
+#5
+13/10 10:16
+design/segunda-camada-cognitiva-preartigo-20261013
+Segunda camada cognitiva: voz, pré-artigo científico, iniciativa segura
+#6
+13/10 10:43
+grokbot/segundo-cerebro-v3-20261013
+V3: voz e rosto da Creuza, conversa com iniciativa segura, Lab Ciência e Bancada (porta 8770)
+#7
+13/10 11:11
+feature/engrenagem-conectividade-v4-20261013
+V4 Conectividade: barramento simulado, 28 tomadas, Atlas sim-to-real
+#8
+13/10 11:41
+feature/creuza-universos-v5-95-esferas-20261013
+V5: 95 esferas, Qwen auto, mundos com cutscenes
+#9
+13/10 12:06
+grokbot/v5-preview-20261013
+V5 preview: LLM auto, fotos com/sem escala, 3 cutscenes, Atlas 95 (8771)
+#10
+13/10 12:35
+feature/v6-godot-robofisico-20261013
+V6: perícia Lego, ponte Eu Robô/Godot, Dupla Creuza-Copiloto
+#11
+13/10 19:01
+grokbot/fechamento-p0-p12-20261013
+CARTA FINAL P0–P12: memória, Dupla, sensores mock, ESP32 desarmado, Godot (8772)
+#12
+13/10 20:10
+feature/dobra-portal-3d-20261013
+🪁 DOBRA: personagem autoral, Studio 3D, portal reversível
+#13
+13/10 21:27
+grokbot/fusao-meurobo-20261013
+Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, porta LABORATÓRIO (8773)
+#14
+14/10 14:57
+design/mi9-visao-ponte-enciclopedia-20261014
+Visão no Mi 9 Lite e ponte opt-in com a Enciclopédia (só docs)
+#15
+14/10 16:21
+grokbot/mundo-vivo-base-20261014
+Mundo Vivo: desenho pontilhado + base (8774)
+#16
+14/10 23:07
+grokbot/mundo-vivo-f1-investigacao-20261014
+Mundo Vivo F1: laço de investigação + grafo de conhecimento (8775)
+#17
+14/10 23:42
+grokbot/transcendencia-f2plus-20261014
+Transcendência F2+: ciência, visão, autoinspeção, mundo social (8776)
+#18
+15/10 00:49
+codex/carta-olhos-android-v1
+Android CARTA Olhos (Codex), 1ª geração
+#19
+15/10 09:04
+grokbot/definitivo-camera-mapa-dados-20261015
+Definitivo: câmera + mapa, mundo v3 em regiões, separação de dados (8777)
+#20
+15/10 13:01
+docs/saguadinha-eg028-esferas-20261015
+🍉 Pré-engrenagem Saguadinha: Esferas (HTML original do tabuleiro)
+#21
+15/10 13:49
+codex/carta-olhos-esferas-v1
+Android: Esferas offline (Codex)
+#22
+15/10 14:15
+grokbot/esferas-adapter-20261015
+Esferas v0: adapter do servidor + contrato API (8778)
+#23
+15/10 15:16
+grokbot/planeta-20261015
+PLANETA: mundo esférico pequeno (8779)
+#24
+15/10 15:49
+docs/pre-finalizacao-20261015
+Pré-finalização: mapa do projeto + handoff do app
+#25
+15/10 22:02
+docs/sg028-mochila-saguadinha-fechamento-20261015
+💌🎒🧭 SG028 Mochila da Saguadinha (docs)
+#26
+15/10 22:34
+codex/carta-olhos-planeta-sg028-v1
+Android: CARTA Olhos + PLANETA + Mochila (Codex)
+#27
+15/10 22:35
+grokbot/sg028-20261015
+SG028: Esferas 28 reais, Mochila, linhagem de intervenção (8780)
+#28
+16/10 00:46
+grokbot/refino-20261016
+REFINO: tela inicial única, planeta 60 FPS, céu, Painel de Inteligência (8781)
+#29
+16/10 01:11
+codex/carta-olhos-esferas-visual28-v2
+Android: 28 Esferas visuais (Codex)
+#30
+16/10 01:50
+grokbot/esferas-final-20261016
+ESFERAS FINAL: tabuleiro grande, Conectar celular, caixinha cósmica (8782)
+#31
+16/10 02:58
+grokbot/onze-20261016
+ONZE: visual Creuza, clima/geologia, Esferas 6×6 (GK029/GK030) (8783)
+#32
+16/10 03:42
+grokbot/final-onze-20261016
+FINAL ONZE: atmosfera viva, ids opacos, Prova das Engrenagens (8784)
+#33
+16/10 09:18
+grokbot/final-enciclopedia-20261016
+FINAL ENCICLOPÉDIA: Enciclopédia localizada, Prova com 27 EG (8785)
+#34
+16/10 10:00
+grokbot/final-leiame-20261016
+FINAL LEIA-ME: ENTRADA OBRIGATÓRIA, LEIA-ME COMPLETO, GK029_BRUNO (8786)
+#35
+16/10 10:25
+grokbot/final-polimento-20261016
+FINAL POLIMENTO: auditoria, 🕊️ Livres, painel ESFERAS, DIPLOMA (8787)
+#36
+16/10 10:46
+grokbot/pre-projeto-black-mirror-20261016
+Pré-projeto Black Mirror + guia do Drive (só docs)
+#37
+16/10 11:06
+feature/codex-carta-olhos-final-polimento-v1
+CARTA Olhos: final polimento Android C0–C14 (Codex)
+#38
+16/10 11:54
+grokbot/fechamento-20261016
+FECHAMENTO: anatomia das engrenagens, COMECE_AQUI, BM15, UI Esferas (+ núcleo BM, EG031/EG032)
+#39
+16/10 13:35
+maestro/ponte-prova-black-mirror-20261016
+Maestro: manual canônico, ciência BM, ponte Drive auditada
+#40
+16/10 14:02
+maestro/meu-robo-escudo-patrimonio-20261016
+MR-VESTE-PLANETA: escudo humano, Meu Robô autoral
+#41
+16/10 15:11
+maestro/eg033-lantejoula-20261016
+EG033 Lantejoula 👗✨: A Costura das Evidências
+#42
+16/10 15:23
+grokbot/eg033-preservacao-20261016
+EG033: execução documental do Grok (scripts do PC só leitura, 20 pontos cegos)
+#43
+16/10 15:46
+maestro/black-mirror-gigantismo-20261016
+BG0 definitivo: 154 requisitos, Mini Terra simbólica viva
+#44
+16/10 16:54
+grokbot/black-mirror-gigantismo-20261016
+Black Mirror Gigantismo BG0–BG4: Mini Terra Simbólica Viva (Grok)
+#45
+16/10 17:05
+maestro/carta-olhos-inteligencia-viva-20261016
+Codex A0: 20 lacunas e 20 riscos
+#46
+16/10 17:59
+integracao/carta-olhos-mini-terra-20261016
+INTEGRAÇÃO: CARTA Olhos + Mini Terra (8789) —
+MERGED na branch do Codex
+#47
+16/10 19:48
+grokbot/early-access-01-20261016
+CARTA Early Access 0.1 (Grok)
+#48
+16/10 20:56
+grokbot/mundo-3d-webgl-20261016
+Mundo 3D WebGL + fluidez do mapa
+#49
+16/10 21:51
+grokbot/carta-oficial-integrada-20261016
+CARTA oficial integrada: Esferas + Terra + Mundo 3D + DeLorean (8790), GATES A–D
+#50
+16/10 23:15
+reparo/esferas-unicas-20261016
+Esferas sem duplicação: um Grok, Bruno e Lantejoula
+#51
+17/10 00:17
+feature/terra-perfume-forense-20261017
+Terra grande: perfume visual reversível + pesquisa forense 90 oportunidades
+#52
+17/10 01:41
+grokbot/terra-grande-esferica-20261017
+Terra Grande esférica viva 90/90 + tema Lab + esferas maiores
+#53
+17/10 14:55
+grokbot/android-carta-20261017
+CARTA Grok Android (
+br.com.carta.grok
+) + nomes legíveis nas Esferas + auditoria do app do Codex
+#54
+17/10 15:42
+grokbot/eureka-20261017
+EUREKA: "saber mais", esferas no celular, ícone oficial, diário do Grok, organização do D:
+O #2 não aparece na lista de PRs do CARTA. A numeração do GitHub é compartilhada com issues;
+a confirmar
+.
+No outro repositório,
+MEU-ROBO PR #2
+(rascunho): "Preservação: as 6 peças que faltavam de alteracoes_Grok_Bot (cópia byte a byte + SHA-256)", branch
+grokbot/meu-robo-6-pecas-20261017
+.
+Versões empacotadas no PC (uma pasta e uma porta para cada; fonte:
+HISTORICO_DE_VERSOES.txt
+)
+Versão
+Pasta (D:\CARTA\…)
+Porta
+PR
+V3
+V3
+8770
+#6
+V5 preview
+V5_PREVIEW
+8771
+#9
+Final P0–P12
+FINAL
+8772
+#11
+Fusão
+FUSAO
+8773
+#13
+Mundo Vivo
+MUNDO_VIVO
+8774
+#15
+Mundo Vivo F1
+MUNDO_VIVO_F1
+8775
+#16
+Transcendência
+TRANSCENDENCIA
+8776
+#17
+Definitivo
+TRANSCENDENCIA_V2
+8777
+#19
+Definitivo Esferas
+DEFINITIVO_ESFERAS
+8778
+#22
+Planeta
+PLANETA
+8779 (
+fica ligada, não mexer
+)
+#23
+SG028
+SG028
+8780
+#27
+Refino
+REFINO
+8781
+#28
+Esferas Final
+ESFERAS_FINAL
+8782
+#30
+Onze
+ONZE
+8783
+#31
+Final Onze
+FINAL_ONZE
+8784
+#32
+Final Enciclopédia
+FINAL_ENCICLOPEDIA
+8785
+#33
+Final Leia-me
+FINAL_LEIAME
+8786
+#34
+Final Polimento (o "CARTA" antigo)
+FINAL_POLIMENTO
+8787 (
+não mexer
+)
+#35
+EA 0.1 (Mini Terra)
+EA01_GROK
+8789 (
+não mexer
+)
+#47/#48
+CARTA OFICIAL ATUALIZADO
+CARTA_OFICIAL_ATUALIZADO
+8790 painel + 8791 Terra
+#49 → #54
+Os zips de cada versão estão no box em
+/workspace/carta_release/<versao>/
+; os SHA-256 estão no
+HISTORICO_DE_VERSOES.txt
+.
+2.3 As fases recentes em detalhe (16 e 17/10)
+Pré-projeto Black Mirror (PR #36) e portões BM0–BM15
+O que é:
+a ideia do Bruno de
+inverter
+o mundo vivo. Antes, uns 85–90% do que se via era roteiro. Agora os personagens recebem só
+capacidades
+: sentir, mover, agarrar, emitir, lembrar, repetir o que deu certo. Não recebem rótulo, receita nem objetivo além de manter o corpo.
+Frase do Bruno: "uma bactéria que pergunta: o que sou eu?".
+Fontes:
+PRE_PROJETO_BLACK_MIRROR/VISAO.md
+,
+PORTOES_BOOLEANOS.md
+,
+PROTOCOLO_ANTICONTAMINACAO.md
+,
+METRICAS_DE_EMERGENCIA.md
+.
+Núcleo BM (PR #38, Grok):
+código em
+src/carta/bm/
+, estado em
+registry/black_mirror_portoes.v1.json
+.
+Portão
+Nome
+Estado
+Evidência resumida
+BM0
+diploma + checkpoint
+false (parcial)
+diploma FOFINHO válido; tag
+checkpoint-pre-black-mirror-20261016
+só local + bundle
+BM1
+pasta/porta nova, nada antigo tocado
+false
+conferência no PC pendente
+BM2
+física do planeta
+true
+queda livre < 1% contra √(2h/g); período 600,7 s × 600 s; estações (
+test_bm_fisica.py
+)
+BM3
+matéria por propriedades
+true
+entidades = id opaco + vetor; reações reproduzíveis por semente
+BM4
+água e ciclo
+true
+2000 passos, massa conservada (erro ~2e-16)
+BM5
+ecologia
+true
+10k passos, 3 grupos sem extinção, oscilação Lotka–Volterra
+BM6
+genoma e evolução
+true
+herança com mutação, deriva, separação de linhagens
+BM7
+agente só com capacidades
+true
+entrada = 14 floats, 0 strings
+BM8
+remoção do roteiro
+true
+sem texto humano nem bônus de "construir"
+BM9
+perigo e morte como experiência
+true
+queda de 10 m mata; 0,5 m não
+BM10
+social sem dicionário
+true
+(com ressalva)
+sinal = projeção fixa dos sensores; convenção aprendida ainda
+não
+medida
+BM11
+métricas de emergência + controle
+true
+5 sementes; sobrevivência acima do controle em 4/5,
+não é emergência robusta
+(
+docs/black_mirror/RELATORIO_20261016.md
+)
+BM12
+desempenho RTX 3070
+false
+medir no PC
+BM13
+vista PESQUISADOR + Tamagotchi 1-bit
+false
+não construída
+BM14
+pacote, preservação, PR
+false
+precisa do PC
+BM15
+crie sua própria esfera
+true
+src/carta/bm/esfera_propria.py
+valida o modelo das engrenagens
+EG031 e EG032 (PR #38)
+Textos do Grok:
+EG031 "Grok observa Bruno"
+e
+EG032 "Grok se observa"
+(
+docs/engrenagens_grok/EG031/
+,
+EG032/
+, com
+ORIGEM_*.json
+).
+São
+reescritas de GK029 e GK030
+, não esferas novas (
+docs/GROK_INTEGRACAO_OFICIAL/RELATORIO.md
+). Por isso o tabuleiro tem
+um só Grok
+(GK029).
+EG033 Lantejoula 👗✨ (PRs #41 Maestro, #42 Grok)
+"A Costura das Evidências":
+dossiê de preservação do Meu Robô e da cadeia de custódia.
+História:
+docs/MAESTRO/LANTEJOULA/ENGRENAGEM_EG033_LANTEJOULA_A_COSTURA_DAS_EVIDENCIAS_HISTORIA_v01.txt
+, 70.282 bytes, SHA conferido.
+O Grok fez (PR #42):
+portões A–G, 7 scripts PowerShell
+só leitura/só cópia
+(
+docs/GROK_EG033/scripts_pc/
+), os 20 pontos cegos e 5 decisões humanas.
+Os scripts nunca escrevem na origem e gravam só em
+D:\CARTA_PRESERVACAO_EG033\<pasta nova>
+.
+Estado: rodar no PC =
+a confirmar
+(não há registro de execução nos diários).
+Achado honesto:
+a EG033
+não segue o formato literal
+do validador BM15 (faltam os cabeçalhos
+Versão:
+e
+Estado de auditoria:
+). A sugestão é uma v02 com os nomes literais.
+No tabuleiro, a EG033 ocupa a
+posição 31
+(decidido no PR #50).
+O commit do PR #42 não estava na branch Eureka. Foi trazido para esta branch (cherry-pick) para nada se perder.
+Black Mirror Gigantismo: Mini Terra Simbólica Viva (PRs #43 Maestro, #44 Grok)
+Contrato do Maestro com
+154 requisitos
+(
+docs/MAESTRO/BLACK_MIRROR_GIGANTISMO/
+).
+O Grok entregou
+(
+src/carta/terra/
+): um mundo que
+continua vivendo sem protagonistas
+.
+Água conservada, clima, chuva/neve, rios, maré.
+Geologia: sismo → tsunami encadeado, vulcão → basalto.
+Vida: 18 espécies, genoma, polinização, ninhos, decomposição.
+Habitantes com mente isolada, que recebem só números.
+O trio Bruno/Copiloto/Creuza, o DeLorean, saves com replay idêntico e o servidor na porta 8789.
+Matriz:
+147 implementados, 4 parciais (T05, V02, V03, L01), 3 bloqueados (R02, R05, S05, que dependem da cópia do jogo). Todos os portões BG0–BG4 ficaram
+false
+, pela regra "dependência externa ⇒ false".
+Números medidos:
+água total igual antes e depois (diferença 0,0), mesmo com sismo, tsunami e erupção;
+erro do "aprendiz" 6,0 contra 20,6 do aleatório (por 1000 ações). É aprendizado associativo,
+não
+inteligência.
+Fonte:
+docs/GROK_BLACK_MIRROR_GIGANTISMO/RELATORIO_FINAL_GROK_BG0_BG4.md
+.
+CARTA Early Access 0.1 (PR #47) e Mundo 3D (PR #48)
+EA 0.1:
+casca navegável (
+web/public/ea.html
+) sobre as APIs reais
+/api/terra/*
+, com as rotas início, mundo3d, terra, delorean, chat, destinos e diário. No PC:
+D:\CARTA\EA01_GROK
+, porta 8789.
+Mundo 3D:
+WebGL com three.js (
+web/src/mundo3d/
+),
+fonte única de verdade
+(o mesmo planeta do mapa 2D). Caminhar em 1ª/3ª pessoa com Creuza e Copiloto e entrar no DeLorean.
+Integração oficial (PR #49) — 16/10 ~21:00–22:00
+Descoberta:
+o atalho "CARTA" apontava para
+FINAL_POLIMENTO
+(PR #35). Tudo o que veio depois só existia no GitHub.
+Gate A:
+backup completo em
+BACKUP_FINAL_POLIMENTO_20261016_2116
+, com 505 arquivos e SHA. Os 9 sqlite foram copiados pela API de backup.
+Gate B:
+pasta nova
+D:\CARTA\CARTA_OFICIAL_ATUALIZADO
+, com painel em 8790 e Mini Terra em 8791 pela ponte
+/api/terra/*
+.
+Gate C:
+correções do 3D.
+Nenhuma planta dentro d'água; fauna real + "representações".
+O jogador é a Dobra, seguido por Creuza e Copiloto.
+O DeLorean é dirigível com WASD e não entra na água.
+Voz lenta:
+a causa era o
+gpt-oss:20b
+(13,8 GB) não caber nos 8 GB da RTX 3070. O padrão passou a ser
+qwen2.5:7b
+, com prazo de 12 s/25 s.
+Medido: 3 s
+para a conversa completa.
+Gate D:
+58–60 FPS na RTX 3070 em 8 cenas; 382 testes OK.
+Esferas sem duplicação (PR #50)
+Um Grok só (GK029),
+BR030 Bruno
+e
+EG033 Lantejoula
+no painel original. Total:
+31 reais + 5 livres = 36 posições
+.
+No PC, o painel ainda não está na versão do #50
+: o painel do PC mostra o tabuleiro de 36 casas da versão c12bc57. Instalar o #50 é uma decisão do Bruno.
+Terra Grande (PRs #51, #52) — 17/10 00:50–02:50
+#51 (ChatGPT/Codex):
+perfume visual + pesquisa de
+90 oportunidades
+(
+docs/PESQUISA_TERRA_90_OPORTUNIDADES_2026-10-17.md
+,
+docs/GROK_COMANDO_TOTAL_TERRA_GRANDE_2026-10-17.md
+).
+#52 (Grok):
+90/90
+na
+docs/GROK_TERRA_GRANDE/MATRIZ_90.md
+. São 89 FEITO + E30 PARCIAL, por desvio declarado.
+30 de visual (G), 30 de navegação (N) e 30 de ecologia (E).
+Ecologia esférica
+de 1500 células (
+src/carta/planeta_eco.py
+) e estradas por A* no globo.
+Água, árvores e bichos
+contados
+pela ecologia.
+Aventura a pé e de DeLorean, 4 perfis visuais e o
+tema Lab
+como padrão de todas as telas.
+A Mini Terra ficou preservada.
+Desvios declarados
+(
+DESVIOS.md
+D1–D12) e 20 extras (
+EXTRAS.md
+).
+Deploy no PC às 01:47
+, com os arquivos substituídos guardados em
+DEPLOY_TERRA_GRANDE_20261017_0146
+.
+FPS na RTX 3070 (alta):
+chão 325, a pé 237, dirigindo 286.
+App Android CARTA Grok (PR #53) — 17/10 14:03–15:10
+O app do Codex foi
+auditado
+(
+docs/GROK_ANDROID/AUDITORIA_CODEX.md
+) e guardado com backup do APK e do código.
+O app novo foi feito do zero:
+android/CARTA_GROK
+,
+br.com.carta.grok
+, Kotlin + WebView.
+Instalado no Xiaomi Mi 9 Lite, convivendo com o app do Codex (
+br.com.carta.olhos
+).
+FPS medido na Adreno 616:
+Terra Grande 59,2, DeLorean 53,3, Laboratório 60,5.
+Os nomes das Esferas viraram legíveis (pílula abaixo da bola).
+EUREKA (PR #54) — 17/10 15:19–15:58
+G1:
+aba
+"🔍 saber mais"
+(engenharia escondida), mensagens amigáveis, bolas das Esferas aparecendo no celular e Laboratório no celular com faixa de botões.
+G2:
+ícone oficial em tudo (app, favicon, atalhos). Na Área de Trabalho ficaram só
+"CARTA"
+e
+"CARTA Celular"
+; os antigos estão em
+D:\CARTA\ATALHOS_ANTIGOS
+.
+G3:
+manual
+D:\CARTA\00_COMECE_AQUI\LEIA_PRIMEIRO.md
+.
+G4:
+Diário do Grok na esfera GK029
+, "📖 Diário do Grok — 16 e 17/10" (
+docs/engrenagens_grok/GK029_DIARIO_2026-10-16_a_17_EUREKA.md
+).
+G5:
+as 6 peças do Meu Robô que faltavam foram para o MEU-ROBO PR #2.
+Testes:
+web 62/62 · Python 398 OK (6 pulados) · Android OK. App
+1.1.0-eureka (build 3)
+instalado.
+ORGANIZAÇÃO BRUTAL (este PR) — 17/10 16:09 em diante
+Branch
+grokbot/organizacao-subir-drive-20261017
+, criada a partir da Eureka (456f4b9) + o commit do PR #42.
+Esta pasta, mais o diário em
+docs/GROK_ORGANIZACAO/
+.
+O PC ficou sem energia às ~16:13. A sincronização com o PC está
+PENDENTE
+(
+10_PENDENTE_SINCRONIZACAO_PC.md
+).
+2.4 Regras estabelecidas pelo Bruno (valem para qualquer bot)
+Fontes:
+ENTRADA_OBRIGATORIA/00_SE_VOCE_E_NOVO_LEIA_AQUI.md
+,
+LEIA-ME_COMPLETO.md
+§10 e o
+COMECE_AQUI
+do PC (§6).
+1.
+Só ACRESCENTAR.
+Nunca sobrescrever um original. Se precisar substituir, faça backup antes (pastas
+DEPLOY_*
+,
+BACKUP_*
+).
+2.
+PR sempre rascunho, sem merge.
+Quem decide é o Bruno. Sem force push.
+3.
+Meu Robô é patrimônio protegido:
+D:\MEU ROBO\JOGO
+é só leitura. O SHA do
+project.godot
+é conferido antes e depois (
+D8910F4C…
+). O Meu Robô está "estacionado": só nota de comparação, sem mexer.
+4.
+A Enciclopédia
+(branch
+arquivo/drive-2026-10-16
+, commit
+615dfa98…
+) é ancestral: só leitura.
+5.
+Sem dados pessoais
+(CPF, e-mail, telefone, banco, cadernos privados),
+sem senhas e sem tokens
+no git.
+6.
+Só loopback
+(127.0.0.1) ou cabo USB. Nada exposto na internet.
+7.
+Hardware desarmado
+(
+motors_armed=false
+). Câmera e microfone só com clique.
+8.
+Não parar servidores com mundo rodando
+sem salvar antes. Não tocar nas portas 8787, 8779 e 8789.
+9.
+Pesquisador × personagem:
+nunca misturar as duas vistas. Os personagens só sabem o que percebem.
+10.
+Caderninho = diploma:
+todo bot passa pela Prova das Engrenagens antes de trabalhar.
+11.
+Jeito de trabalhar do Bruno:
+- portões booleanos encadeados e um "desenho pontilhado" (esboço) antes de começar;
+    - autonomia, voltando a ele só para mudanças brutais;
+    - sempre um ponto de retorno (bundle/backup) + diário de bordo + checkpoint;
+    - testes por último, e testes não bastam: fotos e medições reais;
+    - quando ele fala muito, organizar por categoria e fazer o principal primeiro.
+12.
+Visual:
+o estilo do Laboratório/Início é o modelo de tudo, "fofinho e colorido, coisas dentro de coisas". Engenharia atrás de "saber mais". Ícones claros. Esferas grandes.
+13.
+Tudo concentrado no D:
+, com manuais documentando o que existe.
+14.
+Memória é pista; evidência é prova.
+2.5 A análise e a aprovação do Bruno (17/10/2026, mensagem de voz transcrita)
+Ele abriu o CARTA pelo atalho e testou a Terra Grande ("carregou a terra… consigo dar o zoom… tô vendo os bichinhos, excelente"). Viu que os ícones anteriores ficaram preservados e encontrou o Laboratório ("nossa tecnologia de ponta… preservada") e o Mundo normal.
+Palavras dele:
+-
+"Tá incrível."
+-
+"Eu declaro oficial, né, tudo, parabéns pelo desempenho até agora."
+-
+"Tá tudo aprovado, tá tudo nota 10."
+-
+"Agora não é hora de mais 300 mil implementação brutal, agora é hora de organização brutal."
+- "Vamos puxar nossos amigos pela mão, porque eles nem sabem mais aonde é que a gente tá."
+2.6 O ponto onde estamos (17/10/2026, 16h)
+Versão oficial:
+D:\CARTA\CARTA_OFICIAL_ATUALIZADO
+(painel 8790 + Terra 8791), aberta pelo atalho
+CARTA
+. No celular,
+CARTA Grok 1.1.0-eureka
+, pelo atalho
+CARTA Celular
+.
+Código mais completo no GitHub:
+grokbot/eureka-20261017
+(PR #54), que contém #44, #46–#53. Esta branch de organização = Eureka + EG033 (#42) + esta pasta.
+Testes do último marco:
+web 62/62, Python 398 OK (6 pulados), Android OK.
+Como o projeto anda:
+uma corrente de PRs em rascunho, cada um partindo do anterior;
+cada fase tem diário, checkpoint e ponto de retorno;
+o PC recebe deploys com backup dos substituídos.
+O ritmo foi intenso: 54 PRs em 5 dias. Agora é a fase de
+organização
+.
+2.7 Decisões em aberto (o Bruno decide)
+Instalar o catálogo de Esferas do
+PR #50
+(31 esferas) no painel do PC (8790).
+Terra Grande:
+desligar o teleporte e a tecla T
+durante a aventura? (
+DESVIOS.md
+D8)
+Grama como novo padrão: atualizar os testes antigos que exigem "zero grama" (D9)?
+Calibrar a ecologia: as árvores caem ~7% por ano simulado e o condor pode sumir.
+Merge dos PRs #49–#54 (e desta branch) em algum momento:
+só o Bruno
+.
+Tag
+checkpoint-pre-black-mirror-20261016
+: existe só local + bundle; push aguarda o Bruno.
+Tamanho do modelo da Dobra.
+Android: falta assinatura de release; o modo offline não tem as telas 3D.
+Google Drive: conectar a pasta que o Bruno vai criar na conta "espirro" e compartilhar com a conta "Bruno"; conferir os docs EG001–EG027 e SG028.
+EG033: fazer v02 com os cabeçalhos literais do BM15? Rodar os scripts de preservação do PR #42 no PC?
+BM12–BM14 (desempenho, vista Tamagotchi, pacote BM) e BG0–BG4 (dependem do PC, do Ollama e da cópia do jogo).
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-021-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

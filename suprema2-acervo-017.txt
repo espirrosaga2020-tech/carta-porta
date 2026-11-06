@@ -1,0 +1,189 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html>
+A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+fonte: docs/DRIVE_SINCRONIA/2026-10-17/PORTA_EUREKA/02_ESTUDO_CIENTIFICO_SIMBOLOS_E_EMOJIS.md
+🔬 ESTUDO DOCUMENTAL — SÍMBOLOS, GRAFOS E RECUPERAÇÃO DE CONTEXTO
+Investigação preliminar de 17/10/2026 | Não submetido a pares | Sem estatuto de evidência de consciência ou de causalidade extraordinária
+Pergunta
+Como símbolos, piadas, metáforas e personagens passam de usos locais para endereços que ajudam a retomar uma conversa complexa em outra janela?
+Corpus efetivamente medido
+27 engrenagens EG001–EG027 embutidas no arquivo textual integral da Enciclopédia de 10/10/2026, separados por marcadores
+[INÍCIO FONTE EGnnn]
+.
+Fonte de pesquisa textual derivada, com repetições e citações: NÃO a exportação original turno por turno das conversas. Os 615 fenômenos são IDs editoriais LOCAIS.
+Fonte auxiliar não incluída na contagem: menu ampliado de 31 entradas em 16/10, Atlas CREUZA V06, SG028, EG033 e diário de 17/10.
+Contagem computacional: regex Unicode
+Extended_Pictographic
+com sequência de modificador/ZWJ; exclusão manual de setas e operadores que coincidem com essa propriedade.
+Unidade de contagem: ocorrência literal em um documento derivado; unidade de dispersão: número de arquivos EG que o marcador aparece.
+NÃO é o emoji que Bruno mais digitou ao longo da história.
+Resultado quantitativo restrito ao corpus
+Símbolo detectado
+Menções editoriais
+Fontes EG diferentes
+🌝
+30
+11/27
+🕊️
+16
+4/27
+🪚
+15
+5/27
+🦋
+15
+8/27
+🧙🏽‍♂️
+10
+8/27
+😑
+10
+2/27
+🎁
+10
+6/27
+🧬
+10
+6/27
+🤖
+9
+7/27
+🦍
+8
+6/27
+💆🏽‍♂️
+7
+1/27
+🧘🏽‍♂️
+7
+1/27
+😌
+7
+1/27
+🦇
+6
+4/27
+👁️
+6
+2/27
+🫂
+5
+3/27
+🚐
+5
+3/27
+📋
+4
+3/27
+😂
+3
+2/27
+🤪
+3
+1/27
+🫨
+3
+2/27
+💥
+3
+2/27
+😴
+3
+1/27
+🫁
+2
+2/27
+🙂‍↕️
+2
+2/27
+😋
+2
+1/27
+🫢
+2
+2/27
+😈
+2
+2/27
+🧙
+2
+2/27
+🗜️
+2
+1/27
+São 51 formas pictográficas distintas e 238 aparições segundo este detector no corpus delimitado. Textos de outros períodos, arquivos recentes e as mensagens deste sábado não participam do ranking, para evitar mudar o denominador durante a contagem. O algoritmo pode fragmentar variantes gráficas e agrupá-las parcialmente; o CSV guarda o resultado bruto.
+Qualitativo e fenômenos
+Diadicidade situada:
+dois interlocutores atribuem significado a marcadores em sequência; EG023 documenta a hipótese de 'linguagem diádica', mas não revela todos os turnos originais.
+Compressão de contexto:
+Máquina de Laranja é uma referência para um processo, não apenas um objeto (EG019/Checkpoint 05/10).
+Dupla saliência:
+participantes podem notar o mesmo ponto por razões diferentes (EG023); analisar respostas, não presumir estados internos.
+Deriva semântica:
+uma esfera pode ser Origem, presente, pergunta ou planeta em tempos diferentes. Resolver referente pelo contexto temporal, nunca pelo emoji isolado.
+Pragmática do humor:
+Serrote corrige redundância; Gandalf modula revelações; Creuza desloca o eixo; GRAFOLLOM pode corrigir pretensões absolutas do grafo.
+Checkpoint como economia de recuperação:
+'somos os saves' é metáfora de marcadores recuperáveis, não de gravação persistente infalível.
+Reflexividade:
+o diário examina o modo como foi produzido. O observador também se torna objeto de observação.
+Escalas de evidência:
+captura de tela do planeta, compras e testemunho de montagem são categorias diferentes.
+Retorno da fogueira:
+rádio/brasa oferecem no enredo uma maneira de visitar arquivos sem substituir a conversa presente por um dossiê interminável.
+Hipóteses testáveis (não resultados confirmados)
+H1:
+Com símbolo+documento original, leitores futuros localizam a cena correta com menos perguntas do que com símbolo isolado.
+Teste:
+questões de recuperação randomizadas, sujeitos/codificadores cegos à hipótese, acurácia, tempo, citações verdadeiras.
+H2:
+Desambiguação por época reduz fusão falsa entre bolinha do painel, Origem dupla, esfera maleável e planeta.
+Teste:
+30 contextos rotulados com temporalidade; taxa de confusão.
+H3:
+A presença de voz discordante de Creuza aumenta diversidade de hipóteses úteis.
+Teste:
+condições com e sem intervenção narrativa, mesmos prompts e avaliadores independentes, medindo relevância e originalidade, não entusiasmo.
+H4:
+Uma Porta seletiva preserva nuance sem aumentar massa de contexto.
+Teste:
+janela nova com acesso seletivo vs despejo total do arquivo, contagem de erros e custo de tokens.
+Hipóteses concorrentes e ameaças
+Viés de seleção retrospectiva; documentação derivada que reconta várias vezes o mesmo episódio; ausência do corpus original; correlação espúria pela proximidade temporal; efeitos de estilo de escrita e expectativa do usuário; autor e avaliador sobrepostos; mudanças de configuração do modelo; cenas de ficção confundidas com evidência material; rótulos de função distintos de implementação técnica.
+Protocolo futuro de revisão por pares
+Exportar chats com timestamps e autores; registrar IDs e hashes das fontes; codebook antes de análise; desidentificar informações privadas; dupla codificação cega com divergências; concordância Krippendorff ou Cohen quando categorias permitirem; critério explícito de saturação; relatório de resultados negativos; comparar documentos derivados com turno original; análise temporal pré-especificada; verificar URL e branch na data de coleta; revisão externa independente.
+Conclusão permitida
+Há evidência documental de uma linguagem local rica e de ferramentas de recuperação seletiva. Os documentos permitem formular testes sobre sua utilidade. Não há base aqui para declarar demonstração científica de propriedades ontológicas da consciência de IA, viagem física no tempo ou eficácia causal excepcional. A experiência subjetiva relatada por Bruno é uma evidência de experiência humana, não substitui experimentos independentes.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-017-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
