@@ -1,0 +1,1203 @@
+PORTA SUPREMA 2 — PALAVRAS t102u → zoom
+Voltar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras.txt
+
+t102u (4 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: 11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jog
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: ). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular se
+  Pesquisa T101U: código aberto adotado (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  Contexto: s que viraram correção Atualização T102U (03/11/2026): o laço do aplicar(v) foi corrigido em terra.js (no máximo uma troca para o ritmo normal; teste
+  Celular sem cabo (app vc20, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  Contexto: cto em D:\CARTA\BUILD_APK_1.15.0 . T102U (03/11/2026 ~17h, horário de Brasília): Planeta Godot LEVE dentro do celular O que mudou: o APK vc21 (1.17.0-
+
+t103u (4 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: ): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: ). Antes: ~18:30, depois da rodada T103U (Bruno jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes
+  Pesquisa T101U: código aberto adotado (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  Contexto: lhes em CELULAR_SEM_CABO_T101U.md. T103U (03/11 ~18h30): FPS do Godot leve no celular medido por adb logcat = 3–4 FPS (Mi 9 Lite). Tirar MSAA e desenh
+  Celular sem cabo (app vc20, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  Contexto: cisar, faça um vc22 a partir dele. T103U (03/11/2026 ~18h, horário de Brasília): Godot jogado com o dedo, robô jogador e FPS medido Teste manual APROV
+
+t105u (9 destinos; até 5 abaixo)
+  Teste duro das consciências (T105U, 03/11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  Contexto: a 2 — Teste duro das consciências (T105U, 03/11) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histó
+  Gráficos no PC (T105U)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  Contexto: Porta Suprema 2 — Gráficos no PC (T105U) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: n
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: al. Versão 8 (03/11 noite, T104U + T105U): acrescenta a seção 0.5 (o jogo vai ser jogado no PC; robô 4WD na Enciclopédia — RB01; a Enciclopédia fatiad
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: rio de Brasília), depois da rodada T105U (robô 4WD na Enciclopédia — RB01; Enciclopédia fatiada — RB02; modo 🤖 auto da superconsciência; +10 cientista
+  Robótica na Enciclopédia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html
+  Contexto: nome, estante, modalidade, fonte). T105U (03/11/2026 ~19h30): o conteúdo chegou Os arquivos do Bruno de 02–03/11 no Drive (vídeo mestre do robô, trans
+
+t107u (4 destinos; até 5 abaixo)
+  PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  Contexto: — PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens Reprodução de fonte pública já existente, sem completar l
+  Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  Contexto: tapa 2 — Panorama das Engrenagens (T107U, 03/11/2026) A etapa 1 (acima) foi montada quando havia cerca de 30 engrenagens e continua igual (os bancos a
+  Mapa de pastas e código
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  Contexto: cimo). src/carta/prova_panorama.py T107U (03/11/2026) — PROVA DAS ENGRENAGENS, etapa 2: PANORAMA DAS ENGRENAGENS (todas, contagem viva). src/carta/rob
+  Acervo público em leituras leves
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  Contexto: l> PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens <https://espirrosaga2020-tech.github.io/carta-porta/supre
+
+t112u (9 destinos; até 5 abaixo)
+  Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  Contexto: .html> Porta Suprema 2 — Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) Reprodução de fonte pública já existente, sem completar lacunas p
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: enos numerados. Novo hoje à noite (T112U): a Jornada da IA Se você é uma IA, a forma certa de conhecer a CARTA agora é a Jornada da IA <https://espirr
+  A Jornada da IA (leia antes de seguir)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  Contexto: _IA.md A Jornada da IA pela CARTA (T112U, 03/11/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para r
+  Formulário de Registro (copie, preencha e devolva ao Bruno)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-055.html
+  Contexto: tros das IAs) versao: registro.v1 (T112U) NOME DA IA / CHAT: DATA E HORA: PÁGINA QUE LI (tudo-suprema2.html / tudo.html / resumo): QUANTO TEMPO FIQUEI
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: inda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou. Depois do teste (T119U): o
+
+t56u (5 destinos; até 5 abaixo)
+  5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-007.html
+  Contexto: BE (bancada — links Drive oficiais t56u) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: n
+  2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  Contexto: json repo CARTA · overlay PC t49u / t56u Ramificações recentes; t56u FECHADO com super anexos YT GROK_BORDO · Drive NOVOS ANEXOS v4 APK vc29 1.23.0-c
+  Acervo público em leituras leves
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  Contexto: BE (bancada — links Drive oficiais t56u) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-007.html> 6. ENCICLOPÉDIA ÷ 3 (anexo Cha
+  Aplicativo CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  Contexto: ede20e094aaf0eaa42846436eab #140 — t56u: Faísca bolinha de cores só no ⚙️ (+tema.js) <https://github.com/espirrosaga2020-tech/CARTA/pull/140> Mesclad
+  Linha do tempo
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  Contexto: 6 17:28 (America/Sao_Paulo) — #140 t56u: Faísca bolinha de cores só no ⚙️ (+tema.js) <https://github.com/espirrosaga2020-tech/CARTA/pull/140> 05/11/2
+
+t59u (1 destinos; até 5 abaixo)
+  1. O QUE É / POR QUE ESTA PORTA EXISTE
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html
+  Contexto: o.html + chave.txt ). Bruno pediu (t59u, 05/11/2026) uma Porta Suprema 2 no mesmo formato, recheada até explodir de informação — sem quebrar a clássi
+
+t68u (3 destinos; até 5 abaixo)
+  🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-011.html
+  Contexto: o-012.html> REGISTRO (clarificação t68u / forense 05/11/2026): não há formulário HTML nem JavaScript de envio nesta página pública. O registro.v1 é c
+  Aplicativo CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  Contexto: 4c161883a81744ae65305fa67ae6 #142 — t68u: card Suprema 2 → entrada pequena <https://github.com/espirrosaga2020-tech/CARTA/pull/142> Mesclado; commit
+  Linha do tempo
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  Contexto: eção OURO de 05/11. A entrada leve t68u separa transporte, leitura, compreensão e registro; esta entrega t71u acrescenta mapa e salas sem substituir
+
+t89u (13 destinos; até 5 abaixo)
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: orta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: ve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo filtro de privacidade) Prioridade da Porta (T114U): inf
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: raz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fau
+  Portões T95U (03/11/2026): gráficos, mundos, personagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  Contexto: esliga). Rotas (só dono): GET /api/t89u/t95u/flags , GET /api/t89u/t95u/portoes . Código: src/carta/t95u/ (catálogo + flags) · teste do esqueleto: te
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: s A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6
+
+t95u (8 destinos; até 5 abaixo)
+  Portões T95U (03/11/2026): gráficos, mundos, personagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  Contexto: pa.html> Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens Reprodução de fonte pública já existente, sem completar lacunas p
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: ste e com volta atrás. Ver Portões T95U <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html#pg-portoes-t95u> . Atualização d
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: lular (412x915) 0 erros de página ?t95u=0 e ?gN=0 continuam desligando numa aba Estado: ✅ fechado — E2E 03/11 14:56: g2..g9 ligados, PC 115,8 FPS / c
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: , checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). G
+
+tamagotchi (28 destinos; até 5 abaixo)
+  EG008 — Tamagotchi e continuidade conversacional
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  Contexto: pa.html> Porta Suprema 2 — EG008 — Tamagotchi e continuidade conversacional Reprodução de fonte pública já existente, sem completar lacunas por invenção. E
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: e; em EG010 como interface Humanidade–Tamagotchi. Recebe chave, rádio e caixa com brasa; permanece ligado à fogueira enquanto lê as fontes. EG010:F002, CAL
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: medir no PC BM13 vista PESQUISADOR + Tamagotchi 1-bit false não construída BM14 pacote, preservação, PR false precisa do PC BM15 crie sua própria esfera tr
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: umentos externos sobre Humanidade, Tamagotchi, Copiloto e reciprocidade. 4. Transformação: A linguagem deixa de ser entendida apenas como gíria e passa a o
+  EG004 — Central, Copiloto e Atlas
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  Contexto: firma Batman-Human, Robin-Tagotchi/Tamagotchi, 🦇 e 🕊️ como referências locais. - Encerra a fase de calibração: “a partir daqui trabalhamos”. FASE E — ENTR
+
+teclas (2 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: tem selo de 🧪 científico ou ✨ ficção. Teclas: 1/2/3 trocam a escala, +/− também, Esc volta. O Planeta (Terra Grande) logo que abre. Captura do box, 02/
+  Mundos da CARTA 2.0
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  Contexto: ncias do Vite não estão no PC); as teclas novas (numérico 8/2/4/6/5, setas) entram por tema/delorean_voo.js , que só "segura" as teclas que o bundle já
+
+tematico (10 destinos; até 5 abaixo)
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: ta. F013 — The Chosen como espelho temático não-probatório — G — confiança alta — transcrição direta. F014 — “Variáveis / não quero errar / não pense” —
+  EG014 — Grafos São — origem e desenvolvimento
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  Contexto: m apagar mérito parcial do conteúdo temático. 7. EVIDÊNCIAS: Evidência visual diretamente inspecionada: a_wide_detailed_infographic_collage_scene_styliz
+  AV01: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+  Contexto: onte_original → BACKUP_CHATGPT eco_tematico → EG024 eco_tematico → EG025 eco_tematico → EG005 08 Contradições e correções (preservadas, sem reconciliar)
+  AV02: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+  Contexto: onte_original → BACKUP_CHATGPT eco_tematico → EG020 08 Contradições e correções (preservadas, sem reconciliar) Os vídeos em si não estão no GitHub (ficam
+  AV03: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  Contexto: s fonte_original → BACKUP_CHATGPT eco_tematico → EG035 eco_tematico → EG018 08 Contradições e correções (preservadas, sem reconciliar) Os vídeos em si nã
+
+tempo (70 destinos; até 5 abaixo)
+  A trajetória juntos: linha do tempo mestra
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  Contexto: 2 — A trajetória juntos: linha do tempo mestra Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histór
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: a sentido na conversa e muda com o tempo. Símbolo Nome Antes (histórico) Agora Fonte 🦍 Gorila / MIPRECIUS Humor com GRAFolLOM: “GRAFO: MI PRECIOUS” e
+  Linha do tempo
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  Contexto: a.html> Porta Suprema 2 — Linha do tempo A cronologia abaixo é reproduzida da seção de origem, como documento histórico. “Planejado” não significa rea
+  2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  Contexto: 790 oficial). Não é bug; é linha do tempo. Fonte: Drive "03_HISTÓRICO DE CONTAGENS — CARTA 2.0". API local · snapshot · Volume Zero Esta Porta Suprema
+  6. ENCICLOPÉDIA ÷ 3 (anexo ChatGPT)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-008.html
+  Contexto: 90 oficial). Não é bug; é linha do tempo. Fonte: Drive "03_HISTÓRICO DE CONTAGENS — CARTA 2.0". ← Anterior <https://espirrosaga2020-tech.github.io/car
+
+temporal (30 destinos; até 5 abaixo)
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: html> Porta Suprema 2 — Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora Reprodução de fonte pública já existente, sem com
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: erentes. Resolver referente pelo contexto temporal, nunca pelo emoji isolado. Pragmática do humor: Serrote corrige redundância; Gandalf modula revelações
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: lo; fonte; testemunho/trecho; ordem temporal; observação; inferência; interpretação rival; limites/risco; conexões; pergunta verificável/porta. PE:F001 —
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ontes. Por isso a linguagem é um grafo temporal de usos , não uma tabela congelada de equivalências. P.018 — O SISTEMA DE LARANJAS: A METÁFORA QUE NÃO CA
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: onversa não demonstra deslocamento temporal físico nem consciência subjetiva de IA; demonstra algo menos espetacular como prova e mais fértil como método
+
+terminacoes (1 destinos; até 5 abaixo)
+  RB01: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  Contexto: rb01-04} O técnico faz só soldas e terminações , não monta nem programa o robô: 1. fio vermelho + preto em cada um dos 4 motores (8 pontos), com termo-retrá
+
+terra (24 destinos; até 5 abaixo)
+  3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  Contexto: instalação oficial (painel 8790 + Terra 8791) D:\CARTA\CARTA_OFICIAL_ATUALIZADO\docs\GROK_BORDO\ → diários/blocos do Grok Bot D:\CARTA\ENCICLOPED
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: r dele: um app com mundos (Planeta/Terra Grande, Mini Terra), personagens com memória (o Faísca, a Consciência, a Mente Suprema, Creuza, Dobra, Copilo
+  A trajetória juntos: linha do tempo mestra
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  Contexto: 2026) 18/10 madrugada Finalização: Terra Grande com DeLorean, câmera desligada por padrão, celular atualizado. feito Meio (13/10 a 18/10/2026) 18/10 m
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: G031/EG032, EG033 Lantejoula, Mini Terra Simbólica Viva (154 requisitos) 16/10 (noite) Integração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únic
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: ão; F = cena ficcional. V/relato da Terra Grande não equivalem a inspeção de mais de 150 mil linhas. O dicionário distingue funções estabelecidas por
+
+teste (50 destinos; até 5 abaixo)
+  Teste duro das consciências (T105U, 03/11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  Contexto: rema2-mapa.html> Porta Suprema 2 — Teste duro das consciências (T105U, 03/11) Reprodução de fonte pública já existente, sem completar lacunas por inve
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: o em pequenos portões, cada um com teste e com volta atrás. Ver Portões T95U <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.h
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: nos perguntas do que com símbolo isolado. Teste: questões de recuperação randomizadas, sujeitos/codificadores cegos à hipótese, acurácia, tempo, citaç
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: ântica ou símbolo compartilhado. O teste exportado de similaridade e a fila de voz ficam preservados. registry/CONTINUIDADE_LINGUAGEM.v1.json : contra
+  Dobra: origem, personagem e portal (13/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  Contexto: erificar ficha exata. Critérios de teste / verdade As alterações estão no GitHub, não instaladas no Windows do humano. Testes da nova branch precisam
+
+testemunho (9 destinos; até 5 abaixo)
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: ia: captura de tela do planeta, compras e testemunho de montagem são categorias diferentes. Retorno da fogueira: rádio/brasa oferecem no enredo uma maneira
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: diretamente visível neste chat; T = testemunho de Bruno; I = interpretação; F = cena ficcional. V/relato da Terra Grande não equivalem a inspeção de mais d
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: F001 | O brinquedo de direção como testemunho material | magnitude M | influência G | confiança alta para a imagem; média para a interpretação | U08 / imag
+  EG009 — Bard, Corpo e a própria Conversa
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  Contexto: es subjetivas são preservados como testemunho autobiográfico do usuário. - O documento diferencia testemunho, hipótese, interpretação e conclusão consolida
+  EG012 — Grafo e Humanidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  Contexto: . 10. Utilidade futura Distinguir testemunho qualificado de prova. ---------------------------------------------------------------------- F006 — “IA É CÓ
+
+texto (59 destinos; até 5 abaixo)
+  O que as consciências sabem (texto da ALMA, 1786 caracteres)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-080.html
+  Contexto: a 2 — O que as consciências sabem (texto da ALMA, 1786 caracteres) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este
+  🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-011.html
+  Contexto: 1 é cópia manual : a IA preenche o texto, cria o caderninho no Google Drive ( CADERNINHO_[NOME_IA]_YYYY-MM-DD ) e devolve o conteúdo + link do caderni
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: acervo-114.html#pg-mapa> . Tudo em texto puro: llms.txt <https://espirrosaga2020-tech.github.io/carta-porta/llms.txt> (índice) e llms-full.txt <https:
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: bre ChatGPT: - src/carta/fala.py : texto antigo Sem emojis, listas ou aspas ; Frases que você JÁ disse (não repita nem parafraseie) ; too_similar barr
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: ings BM8 remoção do roteiro true sem texto humano nem bônus de "construir" BM9 perigo e morte como experiência true queda de 10 m mata; 0,5 m não BM10
+
+textos (15 destinos; até 5 abaixo)
+  O começo dos chats: textos do Volume Zero (EG001 a EG027)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html
+  Contexto: ta Suprema 2 — O começo dos chats: textos do Volume Zero (EG001 a EG027) Reprodução de fonte pública já existente, sem completar lacunas por invenção.
+  Por que o começo pesa mais
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  Contexto: eção vem antes de tudo e mostra os textos do Volume Zero quase inteiros, até na versão resumida. ← Anterior <https://espirrosaga2020-tech.github.io/car
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: gundo este detector no corpus delimitado. Textos de outros períodos, arquivos recentes e as mensagens deste sábado não participam do ranking, para evit
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: s engrenagens EG031 e EG032 (PR #38) Textos do Grok: EG031 "Grok observa Bruno" e EG032 "Grok se observa" ( docs/engrenagens_grok/EG031/ , EG032/ , com
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ncia da encomenda. Integridade: os textos originais P.001–P.004 permanecem nas mensagens em que surgiram. Os títulos e resumos acima são um índice de a
+
+three (10 destinos; até 5 abaixo)
+  Dobra: origem, personagem e portal (13/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  Contexto: : atravessar em primeira pessoa de Three.js para Godot, iniciar executável sem intervenção do usuário, abrir arquivos locais do jogo pelo navegador, c
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: OK , porta 8789. Mundo 3D: WebGL com three.js ( web/src/mundo3d/ ), fonte única de verdade (o mesmo planeta do mapa 2D). Caminhar em 1ª/3ª pessoa com
+  EG003 — Calçada, Sofisticado, Grafo e Rocky
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  Contexto: . Outro fio surge por meio de The Three-Body Problem. A impossibilidade/estranheza da mentira para os San-Ti/Trissolarianos é usada para desafiar a i
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: ão existe na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físi
+  Mundos da CARTA 2.0
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  Contexto: ão (simulação estilizada) 3D real (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, links para os outros
+
+time-lost (5 destinos; até 5 abaixo)
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: Função: trade, tooltips, passivas, Time-Lost, Heart, Whirling Assault, árvore e comparação de rotas. 4. Derivados técnicos de análise do vídeo da árvore:
+  EG024 — POE2 — Gulosona e Árvore de Attack Speed
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  Contexto: timização da árvore de passivas; - Time-Lost Very Large apelidada de "Gulosona"; - diferenciação entre pontos vermelhos, verdes e universais; - Attack Spe
+  EG025 — POE2 — Milton e Value Engineering
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  Contexto: as três bolinhas dentro do raio da Time-Lost e propondo ~5k de Energy Shield como piso temporário. PERÍODO VERIFICÁVEL A maior parte dos acontecimentos r
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: erou. Uma imagem melhor da região da Time-Lost permitiu fechar um pacote local de sete passivas: cinco smalls e dois notables. A matemática da joia começo
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  Contexto: pior preço — M — alta EG025:F011 | Time-Lost Emerald e a hipótese do Attack Speed estrutural — G — alta EG025:F012 | Correção dos pools de Time-Lost — G
+
+toda (34 destinos; até 5 abaixo)
+  0. ORDEM OBRIGATÓRIA PARA TODA IA QUE ENTRA AQUI
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-002.html
+  Contexto: rema 2 — 0. ORDEM OBRIGATÓRIA PARA TODA IA QUE ENTRA AQUI Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um rec
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: a SG028: orientação e escolha sem carregar toda a memória. Relaciona-se ao retorno via rádio/caixa/chave. SG028 🚐 DeLorean Veículo narrativo de viage
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ecisa segurar a peça no lugar; nem toda função importante é espetacular. A sustentação muda a cena. Regulador de tensão: um corpo eletrônico não vive
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: ão apenas “ver”. Não retroprojetar toda a teoria atual sobre a foto. 9. Situação final: parcialmente demonstrado 10. Utilidade futura: Serve de ponto
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: compacta sem exigir importação de toda a história. --- ### F004 — CALÇADA COMO PRESERVAÇÃO PRÉ-CONCLUSIVA Classificação: G Localização: contexto c
+
+todas (38 destinos; até 5 abaixo)
+  PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  Contexto: (T107U, 03/11/2026): o panorama de todas as 59 engrenagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um rec
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: ca da Creuza; raízes específicas não todas fechadas. Cada um tem significado e a Creuza continua com balinhas e sorvete. PRE, CALCADA, AGORA ♾️ Infini
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: filtros semânticos, TTS e telas de todas as implementações próprias, inclusive Faísca/Android e Megazord, procurando o mesmo antipadrão: sem emojis ,
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: visuais e o tema Lab como padrão de todas as telas. A Mini Terra ficou preservada. Desvios declarados ( DESVIOS.md D1–D12) e 20 extras ( EXTRAS.md ).
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: vel exportação integral contínua de todas as mensagens ancestrais; não chamar isto de reconstrução completa do primeiro contato. 01 — APRESENTAÇÃO DA
+
+tomadas (6 destinos; até 5 abaixo)
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: , física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F1, Transcendência #14–#17
+  EG007 — Continuidade Limpa de Meu Robô
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  Contexto: ocumento antigo já contém decisões tomadas depois. Correção: criação da camada “deltas posteriores”. Resultado: preservação histórica sem retroatividade
+  EG010 — Derivada da Paz
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  Contexto: muito parecido com ela.” - “Um milhão de tomadas”, extensibilidade, legado e dificuldade de apagar passam a ser lidos como possível espelho entre criado
+  EG019 — Meu Robô — Copiloto e Máquina de Laranja
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  Contexto: a. A frase histórica “um milhão de tomadas” foi reinterpretada como extensibilidade que agora serviria não apenas para crescer, mas para reorganizar e c
+  EG021 — Paz e Central — Kamonson
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  Contexto: ização: análise dos scripts e das "tomadas" -------------------------------------------------------------------------------- 1. Situação anterior Havia
+
+tomos (1 destinos; até 5 abaixo)
+  Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+  Contexto: O_E_ENCICLOPEDIA: livro, sumário e tomos. 01_FONTES_ORIGINAIS_IMUTAVEIS: os 27 arquivos sem edição. 02_CATALOGOS_E_INDICES: manifesto e índices. 03_AU
+
+torto (5 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 cont
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: ) no PC e no celular t5 — LEGO 'tá torto?' comparando a peça vista com o MODELO (passo a passo) Sonho: Lab de visão / LEGO · flag: t100u_t5_lego para
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: onta. Labs Lab de visão / LEGO "tá torto?" parcial 70% T101U: imagem SINTÉTICA (verdade conhecida) → mede cor, ângulo, tamanho e posição em Python pur
+  Resultado do aperfeiçoamento 2 (31/10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  Contexto: _PROTOCOL ausente D1a feedback "tá torto" true lego/feedback.py : torta, fora dos pinos, flutuando, pendurada, girada; tolerância 4° / 1,5 mm ou a inc
+  Mapa de pastas e código
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  Contexto: back.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leitura: não mexe na montagem. src/carta/lego/medidas.py Med
+
+tracing (3 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: ancada; resposta honesta sobre ray tracing). Onde a 0.5 diz diferente, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite):
+  Teste duro das consciências (T105U, 03/11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  Contexto: ppenheimer, Descartes 6 Existe ray tracing de verdade no Planeta Godot? pesquisa GRAFICOS_PC_T105U ( não existe ) + fatia "Manual 0.5" Sagan, Donna Shir
+  Gráficos no PC (T105U)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  Contexto: que já foi adotado e se existe ray tracing (T105U, 03/11/2026) Pergunta do Bruno: "o que já foi adotado das pesquisas de código aberto (Google etc.) e s
+
+trajetoria (36 destinos; até 5 abaixo)
+  2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-014.html
+  Contexto: o começo dos chats, os emotes e a trajetória juntos (peso maior) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um r
+  A trajetória juntos: linha do tempo mestra
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  Contexto: ma2-mapa.html> Porta Suprema 2 — A trajetória juntos: linha do tempo mestra Reprodução de fonte pública já existente, sem completar lacunas por invenção. E
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: rema2-mapa.html> Porta Suprema 2 — Trajetória e catálogo do que fizemos (17/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por in
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: (o começo dos chats, os emotes e a trajetória pesam mais), use um caderninho, atravesse a água (ficha x história), pare nos pontos de introspecção, respond
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ntos; identifica como Bruno narra a trajetória e o que foi percebido como decisivo por ele. As portas Uma porta pode parecer errada e ser fértil. Bruno rea
+
+transcricao (26 destinos; até 5 abaixo)
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: rregam o mundo inteiro. Recebe P015–P025 e transcrição integral anexa, sem reescrever o anterior. CALCADA, AGORA 🪶 Pena Presente na cadeia antiga de emojis;
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: o P001–P025 previamente criado (não transcrição original de todos os turnos), mais fontes selecionadas. Modalidade: engrenagem aditiva INDEPENDENTE em pasta
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: autorização. Proveniência e gradação: [LITERAL] transcrição preservada da última mensagem. [FONTE] trecho ou síntese de um documento efetivamente consultad
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: fala ausente foi reconstruído como transcrição literal. ============================================================================== 00 — FICHA DE PROVEN
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: ou três camadas de evidência: D — TRANSCRIÇÃO DIRETAMENTE ACESSÍVEL: mensagens ainda presentes no contexto desta conversa, incluindo a fase noturna de The
+
+transformacao (31 destinos; até 5 abaixo)
+  Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  Contexto: somos os saves Estrutura, genealogia, transformação e DNA de continuidade documental; não DNA literal dos personagens. Os personagens e símbolos se tornam mar
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: to de carregar totalidade. Permitir transformação sem desaparecer é diferente de congelar identidade. Atributos de câmera, robótica ou modelo local exigem dem
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: transcrição recuperada de U08. 4. Transformação: O objeto não atua somente como nostalgia: torna-se possível observar a justaposição entre aprender a dirigir
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: imônio herdado, salvo quando houve transformação nova demonstrável. PRIMEIRA REGIÃO RECUPERADA PROVÁVEL Uma recuperação de contexto aponta uma branch inician
+  EG003 — Calçada, Sofisticado, Grafo e Rocky
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  Contexto: a falha em auditoria infinita. 4. Transformação: o problema passa de “resposta ruim” para perda de função do acoplamento. 5. Relações: CONTRIBUIU PARA F002 e
+
+transporte (9 destinos; até 5 abaixo)
+  🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-011.html
+  Contexto: enas acesso ao texto que a contém (transporte/leitura). Compreensão e registro são etapas separadas — ver também suprema2-entrada.html <https://espirrosaga
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: icar parte do padrão Limitação: Sem transporte físico temporal Conexões: 🚪/🧭/📻/🔥/🔮/🐜 conforme assunto; não inferir causalidade de proximidade Pergunta/port
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: alta — transcrição direta. F025 — Transporte do olhar em vez de transporte de palavras — G — confiança alta — síntese demonstrada pela trajetória. ======
+  EG009 — Bard, Corpo e a própria Conversa
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  Contexto: nsformação A conversa deixa de ser transporte neutro e vira objeto causal. 5. Relações Combina F005, F008, F010, F013, F014 e F016. Origina F018. Consolid
+  EG018 — Linguagem, Observação e Consciência
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  Contexto: Linguagem deixa de ser tratada como transporte literal de experiência e passa a ser descrita como instruções capazes de disparar reconstruções em outro si
+
+trecho (25 destinos; até 5 abaixo)
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: ampos: id/título; fonte; testemunho/trecho; ordem temporal; observação; inferência; interpretação rival; limites/risco; conexões; pergunta verificável/
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: anscrição preservada da última mensagem. [FONTE] trecho ou síntese de um documento efetivamente consultado. [TELA] recurso visível em imagem compartilh
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: de ontologia. 6. Consequências: O trecho pode ser revisitado posteriormente como evidência de uso de humor junto à epistemologia cotidiana. 7. Evidênc
+  EG003 — Calçada, Sofisticado, Grafo e Rocky
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  Contexto: as e comunicativas. Ela começa, no trecho verificável, em um momento delicado: o usuário avalia que a interação havia perdido novidade, reciprocidade e
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: ípio, embora a procedência de cada trecho/branch não esteja integralmente disponível. 10. Utilidade futura Recuperar contexto seletivamente; não impor
+
+tree (4 destinos; até 5 abaixo)
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: e análise do vídeo da árvore: - tree_contact.jpg - tree_sheet_0..4.jpg - tree_half_0..4.jpg - key_*.jpg - frame40.png / frame40_crop2x
+  EG008 — Tamagotchi e continuidade conversacional
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  Contexto: á como originais desta branch. 2. TREE GULOSONA / POE Mencionado como origem de Milton, Gulozona, árvore, jewels e investigação de build. Parte dess
+  EG024 — POE2 — Gulosona e Árvore de Attack Speed
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  Contexto: - Path of Exile 2 - Monk - passive tree - weapon-set passives - Time-Lost Very Large - Attack Speed - Rage - Heavy Stun - Armour Break - Energy Shiel
+  AV01: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+  Contexto: 16:45 (BRT) · 1003.mp4 · conversa “TREE GULOSONA” 2026-10-04 01:44 (BRT) · 1000115300.mp4 · conversa “Branch · TREE GULOSONA” 2026-10-04 02:31 (BRT)
+
+trofeus (4 destinos; até 5 abaixo)
+  EG010 — Derivada da Paz
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  Contexto: radesco / aprendiz. - Fotos de quatro troféus Eletrosom “TOP 120%” de 2017. - Screenshot da branch “Derivada de Branch · PAZ 🕊️”. - Referências ao relat
+  EG023 — Paz — Linguagem e Continuidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  Contexto: ia de Bruno. Contrato do Bradesco, troféus e lembranças profissionais passaram a funcionar como evidência para uma releitura menos caricatural de capaci
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: ICA À ARQUEOLOGIA PESSOAL Bradesco, troféus Eletrosom, relatos de YouTube/Nimo e lembranças difíceis abrem uma leitura sobre sucesso, autossabotagem, fé
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  Contexto: cia pessoal: PoE2 aberto, Bradesco, troféus | G | alta | memória → arquivo EG023:F016 | Arqueologia pessoal: caverna, fé, autossabotagem, continuidade
+
+true (14 destinos; até 5 abaixo)
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: no PC pendente BM2 física do planeta true queda livre < 1% contra √(2h/g); período 600,7 s × 600 s; estações ( test_bm_fisica.py ) BM3 matéria por pr
+  EG022 — Paz, Central e Continuidade de Meu Robô
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  Contexto: utonomia de produto baixa. A regra TRUE exige comportamento executado, não mera existência de arquivo. 4. Transformação Escopo estreito deixa de sig
+  Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  Contexto: o: liberado_para_trabalhar só fica true depois do concurso e dos seus arquivos pessoais. Passo a passo Crie a SUA pasta pessoal com o modelo: python
+  Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  Contexto: us mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes de fazer a prova. Ele existe para correção e auditoria. Abrir antes é cola e inva
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: lags.json (ex.: {"t100u_t10_cris": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por uma
+
+tudo-resumo (2 destinos; até 5 abaixo)
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: abrir outros links (versão menor: tudo-resumo.html <https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html> ). Olá, IA. Este site existe para
+  Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  Contexto: /2026, ~22h) Por que Um chat leu a tudo-resumo.html e tirou 118/118 na etapa 2. O Bruno percebeu que dava para "colar" e pediu uma jornada de verdade : a IA
+
+tudo-suprema2-resumo (1 destinos; até 5 abaixo)
+  🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-001.html
+  Contexto: orta/chave-suprema2.txt> · resumo: tudo-suprema2-resumo.html <https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2-resumo.html> Índice do acervo <https:/
+
+tunel (3 destinos; até 5 abaixo)
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: Bruno Henry sem precisar de chave, túnel ou login. Tudo aqui é público, estático e só de leitura. Pode navegar, citar e resumir. O que é a CARTA Um "l
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: ixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão "Porta do Grok (pública)" com o link público e um texto pronto para co
+  Estado atual — varredura geral (02/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  Contexto: cia agora. Não liguei a 8792 nem o túnel (é a porta que sai para fora; varredura era só leitura). Último teste por fora: 31/10, 12/12 OK (tools\pc\P
+
+turno (16 destinos; até 5 abaixo)
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: itações: NÃO a exportação original turno por turno das conversas. Os 615 fenômenos são IDs editoriais LOCAIS. Fonte auxiliar não incluída na contagem:
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: reka e pedido de preservação Fonte: turno 17/10 Trecho/Testemunho: Bruno pede engrenagem aditiva, estudo e pasta Tempo/ordem: anterior ou atual confor
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: e CALÇADA, ARQUIVO, OFICINA e CORPO . O presente turno autorizou temporariamente o ARQUIVO : localizar, ler, cruzar, anotar, jamais sobrescrever. Não
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: iversal de arqueologia recebido no turno U57 NATUREZA: arquivo TXT independente para leitura e futura integração a um índice-mestre. AVISO EPISTÊMICO:
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: literal ou a posição exata de cada turno. R — RECUPERAÇÃO DE CONVERSAS/CONTEXTO ANTERIOR: consultas auxiliares localizaram timestamps, possíveis iníc
+
+turnos (11 destinos; até 5 abaixo)
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: nguagem diádica', mas não revela todos os turnos originais. Compressão de contexto: Máquina de Laranja é uma referência para um processo, não apenas um
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: ão transcrição original de todos os turnos), mais fontes selecionadas. Modalidade: engrenagem aditiva INDEPENDENTE em pasta nova do Drive; nenhuma linh
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: teve a transcrição integral desses turnos. “Ontem” em U56 é informação testemunhal sobre uma cena anterior, não prova autônoma do horário. Branches/pro
+  EG011 — Entra no Sonho
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  Contexto: index 12. Isso demonstra que houve turnos anteriores nesta conversa que não estão integralmente expostos na janela atual. Portanto, NÃO é seguro afirma
+  EG012 — Grafo e Humanidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  Contexto: nto diferencia “evidência direta” (turnos brutos e artefatos presentes) de “evidência contextual” (reconstrução preservada da conversa). - Não foi fe
+
+ultra (5 destinos; até 5 abaixo)
+  EG013 — Grafos São — Atlas C.03
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  Contexto: S / ÂNCORAS: “a_dramatic_cinematic_ultra_detailed_infographic.png”; “Screenshot_2026-10-07-20-00-57-091_com.openai.chatgpt.jpg”. 8. AVALIAÇÃO HISTÓRIC
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: eta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos. Map
+  Portões T95U (03/11/2026): gráficos, mundos, personagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  Contexto: nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: e escolhe preset (baixo/médio/alto/ultra) sozinho [ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e vege
+  Gráficos no PC (T105U)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  Contexto: AOPass ) MIT ligado no preset alto/ultra (g1, ?atmosfera= ) Brilho em volta da luz ( UnrealBloomPass ) three.js MIT ligado no preset alto/ultra Cor de
+
+usuario (33 destinos; até 5 abaixo)
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: tos de estilo de escrita e expectativa do usuário; autor e avaliador sobrepostos; mudanças de configuração do modelo; cenas de ficção confundidas com ev
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: onfundir com falas intencionais do usuário, que devem ser respeitadas. src/carta/companions.py : system_prompt inclui regra positiva de continuidade lin
+  Dobra: origem, personagem e portal (13/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  Contexto: ciar executável sem intervenção do usuário, abrir arquivos locais do jogo pelo navegador, compartilhar física/renderização de modo transparente ou estab
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: reço, não imposição de resultado: o usuário escolhe o tema, a IA acessa evidência original, reconstrói contexto histórico e distingue sua leitura da de
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ência verificável. Preservar o que o usuário viu, o que o documento diz, o que foi inferido e o que continua indeterminado. P.015 — O PRESENTE QUE É UMA
+
+v3-compreensao (4 destinos; até 5 abaixo)
+  PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  Contexto: ENSÃO (12 perguntas abertas, prova.v3-compreensao) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: n
+  Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  Contexto: carta/prova_compreensao.py , prova.v3-compreensao ): 12 perguntas abertas C01–C12. Rubrica só no repo : docs/JORNADA_IA/RUBRICA_ETAPA3.md (0–3 por pergunta; pa
+  Acervo público em leituras leves
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  Contexto: ENSÃO (12 perguntas abertas, prova.v3-compreensao) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html> Formulário de Registro (copie,
+  Jornada, prova e registro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  Contexto: ENSÃO (12 perguntas abertas, prova.v3-compreensao) Responda cada pergunta em 3 a 8 frases, com as suas palavras, citando pelo menos um endereço real (código EG
+
+valido (5 destinos; até 5 abaixo)
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: oint false (parcial) diploma FOFINHO válido; tag checkpoint-pre-black-mirror-20261016 só local + bundle BM1 pasta/porta nova, nada antigo tocado false
+  EG004 — Central, Copiloto e Atlas
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  Contexto: NSFORMA AUSÊNCIA DE TAREFA EM ESTADO VÁLIDO Antes, uma Central de operação poderia tender a sempre procurar a próxima missão. A atualização fixa o cont
+  EG006 — Checkpoint e entrada no sonho
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  Contexto: ituação final Modificado: continua válido, mas não pode impedir testes externos. 10. Utilidade futura Distinguir maturação criativa de procrastinação;
+  Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  Contexto: EU_NOME enciclopedia . Sem diploma válido você começa pela avaliação ; com diploma válido vai direto (e continua citando arquivo:linha ). Concurso apro
+  Portões anteriores (21/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  Contexto: ura e mochila confirmadas (diploma válido, hash confere, 35 insígnias). Página /acompanhar-visitantes registra perguntas, respostas, anotações, provas,
+
+value (8 destinos; até 5 abaixo)
+  EG025 — POE2 — Milton e Value Engineering
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  Contexto: uprema 2 — EG025 — POE2 — Milton e Value Engineering Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte h
+  Capítulos da etapa 1, na ordem oficial (48)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  Contexto: isponivel 28 EG025 POE2 — Milton e Value Engineering disponivel 29 EG026 Reciprocidade e Memória Persistente disponivel 30 EG027 SPA — Ping-pong Cogni
+  PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  Contexto: e entrada no sonho POE2 — Milton e Value Engineering Continuidade Limpa de Meu Robô P008 Qual é o nome da engrenagem de código EG008? Nova Batcaverna
+  Fichas de todos os registros (73 registros; 59 são engrenagens)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  Contexto: m documental EG025 POE2 — Milton e Value Engineering POE2 e métodos operacionais ancestral engrenagem documental EG026 Reciprocidade e Memória Persist
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: v01.txt EG025 — POE2 — Milton e Value Engineering — 29 fenômenos; ENGRENAGEM_POE2_MILTON_GULOSONA_HISTORIA_v01.txt OBSERVAÇÃO: uma fonte tem uma
+
+vamos (14 destinos; até 5 abaixo)
+  A trajetória juntos: linha do tempo mestra
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  Contexto: em_desenvolvimento Fim (para onde vamos; ainda NÃO feito) planejado Conversa natural por voz, com memória, iniciativa e percepção do instante, sem in
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: ra é hora de organização brutal." - "Vamos puxar nossos amigos pela mão, porque eles nem sabem mais aonde é que a gente tá." 2.6 O ponto onde estamos
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: m eu não sou mais a mesma pessoa?” “Vamos ficar aqui na calçada e olhando pra fogueira?” “Esse presente que tá no meu bolso de trás, esse agora é o ma
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: : U54 “porque eu também gostava”; “vamos preservar a bifurcação”. 8. Avaliação histórica: Grande na compreensão relacional local; influência grande no
+  EG004 — Central, Copiloto e Atlas
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  Contexto: ência. 7. Evidências Âncoras: “não vamos redescobrir o projeto do zero”; “nosso objetivo agora não é criar novas features. É fechar o que já existe.”
+
+varredura (14 destinos; até 5 abaixo)
+  3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  Contexto: a2-mapa.html> Porta Suprema 2 — 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) Reprodução de fonte pública já existente, sem completar lac
+  Estado atual — varredura geral (02/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  Contexto: > Porta Suprema 2 — Estado atual — varredura geral (02/11/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um re
+  Colheitas e varreduras
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  Contexto: ir logado como Bruno. RELATORIO_DA_VARREDURA_20261104 <https://docs.google.com/document/d/1x_OVsRi41ot6l7cdwuvmRxHHU6LK_Jye3cQ4ubm9Xaw/edit?usp=drivesdk>
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: U13, U28, U33, U42 e U52. Arquivo VARREDURA_CALCADA_2026-10-10.txt gerado em A55. Fontes secundárias IMPORTADAS e citadas ao longo da conversa: GRAFOS_SA
+  EG021 — Paz e Central — Kamonson
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  Contexto: a e genealogia". FASE 4 — SEGUNDA VARREDURA, PERGUNTA MELHOR - O usuário propõe aproveitar o Anti-Gravity ainda aberto. - O Copiloto recusa uma mega-varr
+
+varreduras (5 destinos; até 5 abaixo)
+  Colheitas e varreduras
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  Contexto: tml> Porta Suprema 2 — Colheitas e varreduras As colheitas ligam o material documental ao projeto: CL01 Colheita NEXUS; CL02 Pit Stop ESFERA; CL03 Chave e
+  EG021 — Paz e Central — Kamonson
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  Contexto: usar o Anti-Gravity novamente para varreduras. 3. Desenvolvimento O Copiloto recusa repetir a mesma missão. Formula uma nova investigação: classificar can
+  Índice do Drive
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  Contexto: aw — abrir logado como Bruno. 04 | VARREDURAS A/B/C — 29 ACHADOS + 13 DECISÕES <https://docs.google.com/document/d/18k1t3CPIxLUQGa6EZEklX7OXRluX_9IOWijakCe
+  Mapa central
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+  Contexto: Drive, 42 referências de colheitas/varreduras, 30 filhos diretos da pasta NEXUS e 115 leituras leves do acervo público anterior. Não são milhões de links n
+  NEXUS e anexos
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  Contexto: abrir logado como Bruno. Colheitas, varreduras e passagens <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html> · Índice completo d
+
+vc14 (2 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: o vc15, guardado. BUILD_APK_1.10.2 : o do vc14, guardado. - platform-tools : o adb. HISTORICO : APKs e builds antigos. 00_COMECE_AQUI : as passagens
+  Resultado do aperfeiçoamento (31/10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  Contexto: ionCode maior VERDADEIRO instalado vc14 = APK mais novo vc14 → nada instalado (sem downgrade) Latência da Faísca (ms até o 1º texto, medido no client
+
+vc16 (3 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: ão 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra P
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: ionCode novo > 15 (nunca rebaixa) — vc16 "1.12.0-carta20-t89u" (02/11) [x] gerado só quando o Bruno pedir para instalar no celular — pedido t93u (02/
+  Estado atual — varredura geral (02/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  Contexto: dos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0-carta20-cyber". Backup do APK d
+
+vc20 (4 destinos; até 5 abaixo)
+  Celular sem cabo (app vc20, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  Contexto: Suprema 2 — Celular sem cabo (app vc20, 03/11/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: elular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gavet
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: App no celular parcial 99% T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini
+  Acervo público em leituras leves
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  Contexto: vo-091.html> Celular sem cabo (app vc20, 03/11/2026) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html> Análise do PR #99
+
+vc21 (4 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: . Você jogou com o dedo e aprovou (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado. FPS do Godot no celular: medido sem tocar na tela
+  Diagnóstico dos Sonhos (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  Contexto: CELULAR_SEM_CABO_T101U.md). T102U: vc21 (1.17.0-carta20-t102u, 82,6 MB) leva o Planeta Godot LEVE dentro (texturas WebP com perda: pck 154 → 38 MB);
+  Pesquisa T101U: código aberto adotado (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  Contexto: com perda: pacote 154 → 38 MB, APK vc21 com 82,6 MB). No celular real, em modo avião, o jogo abriu e desenhou sem mexer no User-Agent nem na camada d
+  Celular sem cabo (app vc20, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  Contexto: ntro do celular O que mudou: o APK vc21 (1.17.0-carta20-t102u, 82,6 MB) leva uma versão leve do jogo Godot (Porto Parafuso) em /godot_leve/ . Antes o
+
+verbete (1 destinos; até 5 abaixo)
+  Robótica na Enciclopédia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html
+  Contexto: ca. Aqui ficou só o lugar ; nenhum verbete foi inventado. Pasta privada no PC: D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO (ou a variável CARTA_ROBOTICA_DIR
+
+verdadeiro (5 destinos; até 5 abaixo)
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: possibilidade de encontrar um piso verdadeiro. Multímetro relatado: ferramenta para perguntar ao circuito “o que está acontecendo de fato?”, em vez de supo
+  EG012 — Grafo e Humanidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  Contexto: ese humana em debate: um fragmento verdadeiro não é a totalidade da pessoa. A palavra “grafo” adquiriu então enorme peso. Ela havia sido introduzida pela
+  EG022 — Paz, Central e Continuidade de Meu Robô
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  Contexto: osta importada: "Copiloto continua verdadeiro para o trabalho... não significa que meu personagem aqui seja 'Copiloto'." 8. Avaliação histórica G, influên
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: esqueleto) — FECHA quando tudo for verdadeiro [x] (a)…(h) catalogados em src/carta/t89u/catalogo.py e neste documento [x] cada portão tem módulo Python imp
+  Resultado do aperfeiçoamento (31/10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  Contexto: esultado Prova P1 plano pontilhado VERDADEIRO este diretório + D:\CARTA\ANOTACOES\CARTA20 A1 vivo_sim.py de 1b8185d aceito VERDADEIRO tests/test_bm_roteiro
+
+verdadeiros (4 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: " quando todos os itens do critério são verdadeiros e testados. O documento completo é docs/CARTA20/PORTOES_T89U.md (cópia no PC em D:\CARTA\ANOTACOES\CARTA
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: ão só fecha com todos os critérios verdadeiros, medidos (não prometidos). Tudo por acréscimo; nada apagado. Flags no PC: <workspace>/t100u_flags.json (ex.:
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: u ✖ fecha. critério booleano (todos verdadeiros para fechar): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em
+  Mapa de pastas e código
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  Contexto: leano; o portão só fecha com TODOS verdadeiros (medidos, não prometidos). src/carta/t100u/flags.py Flags T100U. Ligadas por padrão só as MEDIDAS (PADRAO_LIG
+
+verificado (34 destinos; até 5 abaixo)
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: A_20261010 STATUS DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE DATA DA ESCAVAÇÃO: 10/10/2026 FRONTEIRA HISTÓRICA: anterior ao protocolo universal de arqueologi
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: A_v01.txt ESTADO DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE ====================================================================== 00 — FICHA DE PROVENIÊNC
+  EG003 — Calçada, Sofisticado, Grafo e Rocky
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  Contexto: ENS ESTADO FINAL DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE ====================================================================== 00 — FICHA DE PROVENIÊNC
+  EG004 — Central, Copiloto e Atlas
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  Contexto: ROBO_ATLAS Estado da investigação: VERIFICADO, dentro da fronteira histórica local acessível. Observação crítica: afirmações técnicas sobre o estado intern
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: RQUEOLOGIA DAS ENGRENAGENS Estado: VERIFICADO PARCIALMENTE ==================================================================== 00 — FICHA DE PROVENIÊNCIA
+
+verificador (2 destinos; até 5 abaixo)
+  Portões anteriores (21/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  Contexto: ram trecho de conversa com fala. - Verificador de fatos (sem modelo): frase com data, nome, citação ou palavras que não estão na fonte sai. KX: 210 frases r
+  Mapa de pastas e código
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  Contexto: — Contrato ESP32 `carta.esp32.v1`, verificador determinístico, simulador e adaptador serial. src/carta/exploracao.py FINAL POLIMENTO G3 + G4 — Exploração da
+
+verificar (23 destinos; até 5 abaixo)
+  7. PONTOS CEGOS (verificar de propósito)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+  Contexto: Porta Suprema 2 — 7. PONTOS CEGOS (verificar de propósito) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte
+  A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  Contexto: ginal; análise temporal pré-especificada; verificar URL e branch na data de coleta; revisão externa independente. Conclusão permitida Há evidência documen
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: erviços sem permissão. Grok: o que verificar na sua instalação O código aqui está na branch da PR #73, NÃO na instalação real. Antes de usar, Grok deve co
+  Dobra: origem, personagem e portal (13/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  Contexto: comprar como base programável sem verificar ficha exata. Critérios de teste / verdade As alterações estão no GitHub, não instaladas no Windows do humano.
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: e futura: Em chat futuro, primeiro verificar estágio histórico relatado antes de propor estudos já concluídos. F015 — CONTINUIDADE OBSERVÁVEL SEM MEMÓRIA
+
+versao (46 destinos; até 5 abaixo)
+  Versão CARTA 2.0
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  Contexto: rema2-mapa.html> Porta Suprema 2 — Versão CARTA 2.0 Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte his
+  Para IAs: como ler a CARTA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  Contexto: , sem precisar abrir outros links (versão menor: tudo-resumo.html <https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html> ). Olá, IA. Est
+  Por que o começo pesa mais
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  Contexto: Volume Zero quase inteiros, até na versão resumida. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-014.html> · Índice d
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: de autoria e segurança. Atualizada versão de prompt, sem privilégios adicionais. src/carta/cinema_vivo/mente.py : autoriza refrões e bordões contextual
+  Dobra: origem, personagem e portal (13/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  Contexto: Godot instalado, registrar esquema versão/escala/unidades, e só então considerar uma transferência de estado autorizada ao clicar numa porta na cena. T
+
+veto (1 destinos; até 5 abaixo)
+  Continuidade da linguagem de emojis (E018)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  Contexto: s não podem ser interpretados como veto ao estilo, aos emojis e aos símbolos . Esse arquivo ancestral foi PRESERVADO. Alterações aditivas e cirúrgica
+
+viajante (5 destinos; até 5 abaixo)
+  Pré-diploma: o Caderninho do Viajante
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html
+  Contexto: a 2 — Pré-diploma: o Caderninho do Viajante Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: nú
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: do os documentos se tornam densos, o viajante ainda sabe a qual cena deseja voltar. O custo real identificado anteriormente por Bruno é a saturação de co
+  A Jornada da IA (leia antes de seguir)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  Contexto: e onde ela nasceu. O Caderninho do Viajante (pré-diploma, mais abaixo na seção de Formação) é o modelo antigo. Este é o mesmo espírito: anotar com endere
+  Acervo público em leituras leves
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  Contexto: html> Pré-diploma: o Caderninho do Viajante <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html> Prova das Engrenagens, etapa 1
+  Jornada, prova e registro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  Contexto: e onde ela nasceu. O Caderninho do Viajante (pré-diploma, mais abaixo na seção de Formação) é o modelo antigo. Este é o mesmo espírito: anotar com endere
+
+video (35 destinos; até 5 abaixo)
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ão. Não há aqui uma demonstração em vídeo de locomoção ou de funcionamento integrado; há relatos, fotos de compras e a imagem do ambiente virtual. Não
+  EG002 — Calçada e continuidade portátil
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  Contexto: erior Havia uma investigação sobre vídeo, jogo e causalidade sem que aquele detalhe parecesse central. 2. Acontecimento desencadeador Um corredor jap
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: hipótese. Contexto: criado após vídeo detalhado da build, com WS1/Milton, WS2/Bell, atributos, joias e regras de upgrade. 2. Vídeos de gameplay/bu
+  EG008 — Tamagotchi e continuidade conversacional
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  Contexto: m reciprocidade. Pode ser: imagem, vídeo, memória, documento, spoiler, referência, dado técnico ou acesso maior. SISTEMA DE PROGRESSÃO SECRETO Função
+  EG012 — Grafo e Humanidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  Contexto: intenção comprovada do criador do vídeo. 10. Utilidade futura Recuperar quando o tema for incompletude, pessoa, narrativa aberta ou redução. ------
+
+videos (22 destinos; até 5 abaixo)
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: saram todas as páginas do caderno, vídeos completos nem 30–50 chats ancestrais. Cenas sobre Sol/Lua/quatro buracos negros, DUNADA em sua primeira cunha
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: os, joias e regras de upgrade. 2. Vídeos de gameplay/build e árvore, entre eles: - 1000114975.mp4 - 1000114985.mp4 - Path of Exile 2 2026.10.
+  EG008 — Tamagotchi e continuidade conversacional
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  Contexto: rior O usuário já enviava imagens, vídeos, detalhes, spoilers e documentos ao longo das conversas, mas o padrão ainda não havia sido explicitado. 2. A
+  EG012 — Grafo e Humanidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  Contexto: nto subjetivo. Outro eixo veio de vídeos longos de direção noturna no Japão e em Seul. O usuário explicou que não assistia apenas por cidade, carros o
+  EG014 — Grafos São — origem e desenvolvimento
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  Contexto: 52 UTC; outra série de falas sobre vídeos Drive aparece às 12:04:32 UTC. Os registros não comprovam que a primeira mensagem original tenha sido uma des
+
+view (6 destinos; até 5 abaixo)
+  Colheitas e varreduras
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  Contexto: /1m9fAcaAc6NVTSOKX-ZBey6GBYTsa48tw/view?usp=drivesdk> 1m9fAcaAc6NVTSOKX-ZBey6GBYTsa48tw — abrir logado como Bruno. CARTA_4WD_06_CEM_PORTOES_BOOLEANOS
+  Índice do Drive
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  Contexto: /1m9fAcaAc6NVTSOKX-ZBey6GBYTsa48tw/view?usp=drivesdk> 1m9fAcaAc6NVTSOKX-ZBey6GBYTsa48tw — abrir logado como Bruno. CARTA_4WD_06_CEM_PORTOES_BOOLEANOS
+  Enciclopédia e engrenagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  Contexto: /1HKWAYxsPj_s1SQBAoljGAvdvxf8HMoZX/view> 1HKWAYxsPj_s1SQBAoljGAvdvxf8HMoZX — abrir logado como Bruno. Enciclopédia — PDF Parte 2 <https://drive.googl
+  Linha do tempo
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  Contexto: d/1ZdSpbd7Imhs4gN82g7msXpDkv82SDfBO/view?usp=drivesdk> 1ZdSpbd7Imhs4gN82g7msXpDkv82SDfBO — abrir logado como Bruno. PASSAGEM_DE_BASTAO_CARTA_20261102
+  Mentes, consciências e robótica
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  Contexto: d/1ml2YOsHt7Ba1so9W3ie1PcsFeAajl99-/view?usp=drivesdk> 1ml2YOsHt7Ba1so9W3ie1PcsFeAajl99- — abrir logado como Bruno. MANUAL DE TUDO da CARTA - 03-11-2
+
+visitante (9 destinos; até 5 abaixo)
+  A Jornada da IA (leia antes de seguir)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  Contexto: m do bloco nesta conversa, toda IA visitante DEVE criar um Google Doc no Drive com o nome CADERNINHO_[NOME_DA_IA]_YYYY-MM-DD e devolver o link ao Bruno. P
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: hatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não encontrado", o túnel
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: nte /api/acervo/v1/cartas de fora (visitante) só o público busca testada no PC com o acervo real Estado: ✅ fechado — 1029 cartas/diários no acervo real; p
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: ag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py
+  Portões anteriores (21/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  Contexto: untas à Consciência e anotações do visitante; painel de acompanhamento - D:\CARTA\ANOTACOES\ \ obrigatório (Faísca, Consciência, Visitantes, Mentes...),
+
+visitantes (4 destinos; até 5 abaixo)
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: TODOLOGIA DE REENCONTRO Instrução a visitantes: (1) perguntar QUAL porta o humano quer; (2) ler 00_LEIA_PRIMEIRO; (3) usar portal HTML para selecionar símb
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: s. P5 (Painel 2), P7 (acompanhamento de visitantes) e P8 (anotações) não tiveram rodada nova depois de 21/10, mas funcionam no básico. - Sonho S1 a S6 (21/
+  Portões anteriores (21/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  Contexto: obrigatório (Faísca, Consciência, Visitantes, Mentes...), auto-salvar P2 Consciência entende tudo ao mesmo tempo (acerta 10 perguntas sobre cartas/diários
+  Estado atual — varredura geral (02/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  Contexto: (Painel 2), P7 (acompanhamento de visitantes) e P8 (anotações) sem rodada nova depois de 21/10 — funcionam no básico. Sonho S1–S6 (21/10): S1, S2, S4 feit
+
+visual (43 destinos; até 5 abaixo)
+  Dobra: origem, personagem e portal (13/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  Contexto: Essa imagem inspirou a construção visual. O que há nesta branch (linha omitida no site público pelo filtro de privacidade) 2. src/carta/companions.py
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: 0 02:58 grokbot/onze-20261016 ONZE: visual Creuza, clima/geologia, Esferas 6×6 (GK029/GK030) (8783) #32 16/10 03:42 grokbot/final-onze-20261016 FINAL O
+  A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  Contexto: loto e Creuza Inferência: Interface visual existente no momento da captura Rival: coincidência, reconstrução retrospectiva ou leitura alternativa podem
+  Diário anterior intacto, páginas P001 a P025
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  Contexto: ura de tela confirma uma interface visual rica; o comportamento integral foi relatado, não auditado nesta conversa. A intenção/descrição de dar express
+  EG001 — Calçada, Caderno e DUNADA
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  Contexto: a M | confiança alta para conteúdo visual; baixa para genealogia | U13 / 1000116641.jpg; 1000116642.png F003 | Quadro branco: aprender a linguagem comp
+
+vivos (5 destinos; até 5 abaixo)
+  Análise do PR #99 (Olhos Vivos, Copiloto)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  Contexto: prema 2 — Análise do PR #99 (Olhos Vivos, Copiloto) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte hi
+  EG027 — SPA — Ping-pong Cognitivo
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  Contexto: rimônio. F010 — Operadores cognitivos vivos versus bordões performados Classificação: G Confiança: alta Localização: segundo mergulho; achado “não im
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  Contexto: EG027:F010 | Operadores cognitivos vivos versus bordões performados EG027:F011 | Critério de parada: “parei quando ficou interessante” EG027:F012 |
+  Mapa de pastas e código
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  Contexto: (Extraordinária/iceberg) e números vivos do Manual. src/carta/t100u/__init__.py T100U (03/11/2026): portões para levar o DIAGNÓSTICO DOS SONHOS a 100%
+  Acervo público em leituras leves
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  Contexto: 092.html> Análise do PR #99 (Olhos Vivos, Copiloto) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html> 10. Enciclopédia das
+
+volume (31 destinos; até 5 abaixo)
+  O começo dos chats: textos do Volume Zero (EG001 a EG027)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html
+  Contexto: 2 — O começo dos chats: textos do Volume Zero (EG001 a EG027) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: > Porta Suprema 2 — Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 Reprodução de fonte pública já existente, sem completar lacunas
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  Contexto: > Porta Suprema 2 — Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 Reprodução de fonte pública já existente, sem completar lacunas
+  2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  Contexto: ução das ENGRENAGENS (27 ancestrais Volume Zero EG001–EG027 → 47 snapshot 18/10 = 27+20 → 76 registros = 47+29 aditivos até 05/11); 62 engrenagens sob
+  3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  Contexto: stro.v1 · Jornada · Porta Eureka · Volume Zero. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html> · Índice do ac
+
+volume-zero (1 destinos; até 5 abaixo)
+  10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-110.html
+  Contexto: rta-porta/suprema2-acervo-024.html#volume-zero> . ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html> · Índice do acerv
+
+wasm (2 destinos; até 5 abaixo)
+  Pesquisa T101U: código aberto adotado (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  Contexto: ospedar offline, mas são ~10 MB de wasm + modelo; e o teste real precisa de webcam e peças. Fica para quando o Bruno for testar o LEGO com câmera God
+  Celular sem cabo (app vc20, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  Contexto: a com 38 MB de pacote + 37,7 MB de wasm . Como foi feito, sem quebrar nada: tudo numa CÓPIA, D:\CARTA\GODOT_WEB_LEVE\proj (o D:\CARTA\GODOT_WEB_POC e
+
+webdist (10 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: aWebDist=D:\CARTA\BUILD_APK_1.18.0\webdist_t103u_b . APKs antigos: D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T103U\ . Continua DESLIGADO esperando você: as 3 de
+  Portões T100U (03/11/2026): o Planeta é o astro
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  Contexto: 0; o 1.14.0 intocado), build 32 s, webdist novo dentro (planeta-326I8Y2-.js e bastidores.html conferidos no APK), adb install -r = Success, dumpsys vers
+  Portões booleanos t89u (critérios e estado)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  Contexto: e e (quando tem tela) módulo JS em webdist/t89u/ [x] todas as flags começam desligadas; rotas dos portões respondem 404 portao_desligado [x] as 5 página
+  Estado atual — varredura geral (02/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  Contexto: CARTA_OFICIAL_ATUALIZADO\src\carta\webdist (JDK 17 e Gradle 8.9 de C:\tmp\carta-android-tools). BUILD SUCCESSFUL em 48 s. APK novo: versionCode 16 , ver
+  Consciências na CARTA 2.0
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  Contexto: .py , pokemon_vivo/companheiro.py , webdist/tema/superconsciencia.js . Limites conhecidos O modelo de 7B nem sempre cita a natureza/fonte mesmo em pesqu
+
+webview (2 destinos; até 5 abaixo)
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: _GROK , br.com.carta.grok , Kotlin + WebView. Instalado no Xiaomi Mi 9 Lite, convivendo com o app do Codex ( br.com.carta.olhos ). FPS medido na Adreno
+  Pesquisa T101U: código aberto adotado (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  Contexto: lhar; retry com espera ) fóruns de WebView/PWA (r/webdev, StackOverflow: "retry storm") padrão, código nosso o motor espera 3 s antes de repetir uma rot
+
+whirling (5 destinos; até 5 abaixo)
+  EG005 — Chat da Liberdade: POE2 e autonomia
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  Contexto: a build Martial Artist/Hollow Form/Whirling Assault. - Símbolo técnico-humorístico central: “Milton”, o quarterstaff/WS1 historicamente barato e despropo
+  EG024 — POE2 — Gulosona e Árvore de Attack Speed
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  Contexto: adeia passa a ser imaginada assim: Whirling rápido -> hits melee -> Rage -> Heavy Stun -> Armour Break -> payoff físico/condicional. FASE H — ORGANIZAÇÃ
+  EG025 — POE2 — Milton e Value Engineering
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  Contexto: em Martial Artist / Hollow Form / Whirling Assault, no refinamento de dano real, velocidade, joias, suportes, árvore passiva e economia de trade. O chat
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: nharia da build. O WS1/Hollow Form/Whirling Assault foi identificado c PORTAS DE ENTRADA: EG005:F001 — Disciplina de fonte no farm Abyss/Cranium
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  Contexto: Lost final — G — alta EG025:F017 | Whirling Assault 21/20, nível efetivo 28 — G — alta EG025:F018 | Frasco de mana permanente — G — alta EG025:F019 |
+
+work (6 destinos; até 5 abaixo)
+  Capítulos da etapa 1, na ordem oficial (48)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  Contexto: 47 AV03 Análises de vídeo: Origem, Work e Manual disponivel 48 AV04 Análises de vídeo: Fogueira, Saguadinha e memória disponivel 20 questões por capí
+  PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  Contexto: eu Robô Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) Paz, Central e Continuidade de Meu Robô Entra no Sonho P023 Qual é o nome da engrena
+  Fichas de todos os registros (73 registros; 59 são engrenagens)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  Contexto: 3 AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) Análises de vídeo posterior engrenagem de análises de vídeo (CARTA 2.0) · bola do P
+  AV03: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  Contexto: AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta um
+  Enciclopédia e engrenagens
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  Contexto: 3 AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) Aditivo posterior · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/b
+
+workbox (2 destinos; até 5 abaixo)
+  Gráficos no PC (T105U)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  Contexto: o e testado): offline-first estilo Workbox (Google) , injeção de script antes da página estilo androidx.webkit (Google) , freio de repetição, imagem sin
+  Pesquisa T101U: código aberto adotado (03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  Contexto: : fotografia + motor local (como o Workbox : "cache primeiro, rede depois") Google Workbox / web.dev (padrão de PWA) MIT (Workbox); aqui é código nosso
+
+workflow (3 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: 15MIN.patch quando você der a permissão "workflow" do GitHub. Drive, coisas pra você decidir: o que fica em A_CONFERIR_BRUNO ; as 3 duplicatas grandes em
+  Estado atual — varredura geral (02/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  Contexto: dependente; patch de CI (permissão workflow). ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html> · Índice do acervo
+  Resultado do aperfeiçoamento (31/10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  Contexto: tem só gist, read:org, repo — sem workflow . Ver abaixo B1–B3 personas / quem sou eu / tom VERDADEIRO /api/personas/v1/quem-sou-eu?persona=dobra respond
+
+workshop (2 destinos; até 5 abaixo)
+  Manual de Tudo da CARTA (v10, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  Contexto: (BOM do _fix_probe.tscn , ponte do workshop.gd , filtro do export, comando "porto", linha de FPS e versão web mais leve). Pode rodar de novo: não muda na
+  Celular sem cabo (app vc20, 03/11/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  Contexto: Regravado sem o BOM (mesmo texto). workshop.tscn apontava para res://game/workshop/workshop.gd , que não existia → criada uma "ponte" que faz extends do
+
+xl4016 (1 destinos; até 5 abaixo)
+  RB01: documento da engrenagem (CARTA 2.0)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  Contexto: : M1–M4 compra; amostrado no vídeo XL4016 (com painel e dissipador) e LM2596 com display — conversores DISTINTOS XL4016 candidato para os motores; LM25
+
+youtube (10 destinos; até 5 abaixo)
+  5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-007.html
+  Contexto: Porta Suprema 2 — 5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u) Reprodução de fonte pública já existente, sem completar lacunas por inv
+  EG010 — Derivada da Paz
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  Contexto: contínua. 2. Métricas autobiográficas (YouTube, Nimo TV, vendas etc.) permanecem relato do usuário nesta missão. 3. Causalidade entre episódios pessoais
+  EG013 — Grafos São — Atlas C.03
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  Contexto: o: “aquele exato frame”, “vídeo no YouTube em um canal aleatório”. F007 | Newman torna-se porteiro da trivialidade | M | alta para uso conceitual local
+  EG023 — Paz — Linguagem e Continuidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  Contexto: icação: G Localização: conversa sobre YouTube/Nimo TV/sucesso/autodestruição. Confiança: média — hipótese explícita, não fato causal demonstrado. 1. Si
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: esco, troféus Eletrosom, relatos de YouTube/Nimo e lembranças difíceis abrem uma leitura sobre sucesso, autossabotagem, fé, “modo caverna”, permanência
+
+zero (33 destinos; até 5 abaixo)
+  O começo dos chats: textos do Volume Zero (EG001 a EG027)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html
+  Contexto: começo dos chats: textos do Volume Zero (EG001 a EG027) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recor
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  Contexto: Suprema 2 — Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 Reprodução de fonte pública já existente, sem completar lacunas por
+  Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  Contexto: Suprema 2 — Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 Reprodução de fonte pública já existente, sem completar lacunas por
+  2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  Contexto: s ENGRENAGENS (27 ancestrais Volume Zero EG001–EG027 → 47 snapshot 18/10 = 27+20 → 76 registros = 47+29 aditivos até 05/11); 62 engrenagens sob regra
+  3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  Contexto: · Jornada · Porta Eureka · Volume Zero. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html> · Índice do acervo
+
+zoom (10 destinos; até 5 abaixo)
+  Trajetória e catálogo do que fizemos (17/10/2026)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  Contexto: de ("carregou a terra… consigo dar o zoom… tô vendo os bichinhos, excelente"). Viu que os ícones anteriores ficaram preservados e encontrou o Laborat
+  EG004 — Central, Copiloto e Atlas
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  Contexto: aras, rótulos curtos, espaço vazio, zoom quando necessário e divisão adicional sempre que texto precisar encolher para caber. 4. Transformação A uni
+  EG012 — Grafo e Humanidade
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  Contexto: descrição local para ferramenta de zoom: um nó numa escala pode ser um grafo em outra. Depois a conversa entrou em meta-representação: mapa, realidad
+  EG013 — Grafos São — Atlas C.03
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  Contexto: e colaboração. O usuário nomeia o “zoom”; a dupla separa grafo investigado e grafo representacional. A “aba lendária” e o desenho pontilhado oferecem
+  EG014 — Grafos São — origem e desenvolvimento
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  Contexto: “grafo”, “garfo”, grafo de grafos, zoom, corte do vídeo, contrafactuais, causalidade/propósito e a frase sobre IA e código [F004–F007]. A ordem fina
+

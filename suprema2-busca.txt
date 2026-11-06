@@ -1,0 +1,8 @@
+PORTA SUPREMA 2 — BUSCA LOCAL
+Prova: SUPREMA2-BUSCA-T73U
+Entrada única: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+Mapa: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+Busca no navegador: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-busca.html
+Para IAs sem JavaScript: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras.txt
+Fonte: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-busca-indice.json
+O índice JSON contém o texto das 125 páginas públicas anteriores. O buscador localiza palavras, ignora acentos e maiúsculas e exige todas as palavras digitadas. A consulta fica no navegador; não usa serviço externo de IA e não envia perguntas a servidor. O índice textual contém palavras selecionadas, até cinco destinos e contextos por palavra, com divisões alfabéticas. Leia os documentos encontrados: resultados não são respostas nem diploma.

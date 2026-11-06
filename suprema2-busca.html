@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Busca local</title><style>body{font:18px/1.5 system-ui;max-width:950px;margin:auto;padding:20px;background:#fffdf7;color:#242020}input{width:70%;padding:12px;font:inherit}button{padding:12px;font:inherit}a{color:#853c00}li{margin:20px 0}small{display:block;overflow-wrap:anywhere}</style></head><body>
+<nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav>
+<h1>Porta Suprema 2 — Busca local</h1>
+<p>Localizador de texto nas 125 páginas. Não é uma IA: encontra documentos e trechos, sem inventar respostas. A busca acontece no seu navegador; nenhuma consulta é enviada a servidor. O índice é baixado uma vez.</p>
+<form id="busca"><label for="termo">O que você procura? Exemplo: serrote</label><br><input id="termo" type="search" maxlength="160" placeholder="serrote" required><button>Buscar</button></form>
+<p id="estado" role="status" aria-live="polite">Carregando índice…</p><ol id="resultados"></ol>
+<h2>Para IAs e navegadores sem JavaScript</h2><p>Abra o <a href="suprema2-indice-palavras.txt">índice de palavras com URLs e contextos</a>. Ele inclui serrote e caminhos alfabéticos. <a href="suprema2-busca.txt">Instruções em texto puro</a>.</p>
+<p>Resultados são pistas para leitura, não compreensão nem diploma. Fontes privadas continuam exigindo autorização: abrir logado como Bruno.</p>
+<footer><h2>Fontes</h2><p><a href="suprema2-acervo.html">Acervo público</a> · <a href="suprema2-mapa.html">Mapa e salas</a> · <a href="suprema2-busca-indice.json">Índice das 125 páginas</a>. Prova de acesso: <code>SUPREMA2-BUSCA-T73U</code>.</p></footer>
+<script>
+'use strict';
+const estado=document.getElementById('estado'),lista=document.getElementById('resultados');
+const normal=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+let indice=[];
+fetch('suprema2-busca-indice.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{indice=d.pages.map(p=>({...p,n:normal(p.text),t:normal(p.title)}));estado.textContent=indice.length+' páginas prontas. Digite uma palavra ou várias; todas precisam aparecer.'}).catch(()=>{estado.textContent='Não foi possível carregar o índice. Use o índice de palavras em texto puro abaixo.'});
+document.getElementById('busca').addEventListener('submit',e=>{e.preventDefault();lista.replaceChildren();const termos=normal(document.getElementById('termo').value).trim().split(/\s+/).filter(Boolean);if(!termos.length||!indice.length)return;const hits=indice.filter(p=>termos.every(t=>p.n.includes(t))).map(p=>({...p,score:termos.reduce((a,t)=>a+(p.t.includes(t)?20:0)+(p.n.split(t).length-1),0)})).sort((a,b)=>b.score-a.score);estado.textContent=hits.length+' páginas encontradas; até 50 exibidas. Abra as fontes para compreender.';for(const p of hits.slice(0,50)){const li=document.createElement('li'),a=document.createElement('a'),url=document.createElement('small'),ctx=document.createElement('p');a.href=p.url;a.textContent=p.title;url.textContent=p.url;const pos=p.n.indexOf(termos[0]);ctx.textContent='… '+p.text.slice(Math.max(0,pos-90),pos+240).replace(/\s+/g,' ')+' …';li.append(a,url,ctx);lista.append(li)}});
+</script></body></html>
