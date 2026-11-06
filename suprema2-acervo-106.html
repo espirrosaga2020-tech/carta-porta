@@ -1,0 +1,29 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — RB02: documento da engrenagem (CARTA 2.0)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — RB02: documento da engrenagem (CARTA 2.0)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-105.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-107.html">Próxima →</a></p><main id="public-source"><article id="doc-rb02"><h3>RB02: documento da engrenagem (CARTA 2.0)</h3><p class="meta">fonte: docs/engrenagens_carta20/RB02.md</p><h3>RB02 — Engrenagem das Engrenagens</h3>
+<blockquote>
+<p>A engrenagem que olha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho certo sem ler tudo.</p>
+</blockquote>
+<h4>00 Ficha de proveniência {#rb02-00}</h4>
+<ul>
+<li><strong>id:</strong> RB02 · <strong>estante:</strong> Robótica do Bruno / Método · <strong>modalidade:</strong> engrenagem de método (índice de índices) · CARTA 2.0</li>
+<li><strong>autoria:</strong> pedido do Bruno (03/11, 19h) + Grok (T105U)</li>
+<li><strong>fontes:</strong> "ENCICLOPÉDIA DAS ENGRENAGENS — livro completo ilustrado", partes 1 a 4 (págs. 1–216, 217–432, 433–648, 649–863, montado em 02/11) + Manual de Tudo v7 (03/11).</li>
+<li><strong>código:</strong> <code>tools/t105u/fatiar_enciclopedia.py</code> (público) · <strong>fatias:</strong> só no PC e no Drive (o texto das engrenagens é privado; nunca no GitHub nem na Porta).</li>
+</ul>
+<h4>01 Como funciona {#rb02-01}</h4>
+<ol>
+<li>O PDF vira texto, uma página por vez.</li>
+<li>Uma <strong>seção</strong> começa quando um título abre a página (EG001 — …, "Estante: …", "Parte …", "Apêndice"). Assim, uma engrenagem que atravessa de uma parte do PDF para a outra continua inteira.</li>
+<li>Dentro da seção, cada subtítulo numerado ("02 — LINHA DO TEMPO") abre uma <strong>fatia</strong>; se passar de ~6.000 caracteres, corta no próximo parágrafo.</li>
+<li>Cada fatia ganha <strong>endereço</strong>, seção, subtítulo, páginas, 12 palavras-chave e um resumo de 280 caracteres.</li>
+<li>O Manual é fatiado pelos títulos <code>##</code>.</li>
+</ol>
+<h4>02 Resultado de 03/11 {#rb02-02}</h4>
+<p>648 fatias (608 da Enciclopédia + 40 do Manual v8 e das fichas RB01/RB02), 76 seções, 863 de 863 páginas cobertas. Arquivos: <code>fatias.jsonl</code>, <code>INDICE_FATIAS.md</code>, <code>mapa.json</code>.</p>
+<h4>03 Como consultar {#rb02-03}</h4>
+<p><code>python tools/t105u/fatiar_enciclopedia.py --consultar &lt;pasta&gt; "pergunta"</code> → as 5 fatias mais próximas (busca por palavras, tipo BM25), com endereço e páginas. No laboratório, só o dono: <code>GET /api/t89u/t105u/fatias?q=...</code>.</p>
+<h4>04 Limites {#rb02-04}</h4>
+<p>A busca é por palavras, não por sentido. O livro é uma cópia de leitura: se houver diferença, vale o original no Drive. As fatias não mudam nem substituem nada.</p>
+<h4>05 Relações {#rb02-05}</h4>
+<ul>
+<li>fatia: <strong>EG001–EG027</strong>, a Parte III (fichas posteriores) e o <strong>Manual</strong> · par: <strong>RB01</strong>.</li>
+</ul></article></main><p><a href="suprema2-acervo-105.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-107.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-106-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

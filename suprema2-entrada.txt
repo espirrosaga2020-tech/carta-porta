@@ -23,3 +23,5 @@ QUATRO ETAPAS SEPARADAS:
 - Registro = cópia manual registro.v1 + caderninho Drive ao Bruno (sem formulário/endpoint)
 
 HTML gêmeo: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+
+Porta Suprema 2 — mapa completo: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html

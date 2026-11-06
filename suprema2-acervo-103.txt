@@ -1,0 +1,85 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — DB02: documento da engrenagem (CARTA 2.0)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-102.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html>
+DB02: documento da engrenagem (CARTA 2.0)
+fonte: docs/engrenagens_carta20/DB02.md
+DB02 — Diários do Grok (GK029 → GK036)
+Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência.
+00 Ficha de proveniência
+id:
+DB02 ·
+estante:
+Diários e cartas ·
+modalidade:
+engrenagem de diários (CARTA 2.0, agrupamento por relação) · bola do Painel 2
+autoria:
+Grok
+fonte original:
+registry/ENCICLOPEDIA_ADITIVOS.v1.json (GK031–GK036) + docs/engrenagens_grok/GK029_DIARIO_*.md
+criada em:
+2026-10-31 por Grok (CARTA 2.0, 31/10/2026) · regra: definição ESTRUTURAL de engrenagem (CARTA 2.0 §2) — id, estante, modalidade, autoria, fonte, relações, bola e história.
+limites:
+só metadados públicos; o conteúdo das conversas fica no backup, no PC do Bruno.
+01 Apresentação histórica
+Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência.
+02 Linha do tempo / itens (fato documentado)
+GK029 diários 16/10–17/10 (Eureka), 17/10–18/10 (Finalização), 20/10 (Convergência)
+GK031–GK036: 18/10/2026, da madrugada à noite
+05 Relações
+agrupa → GK031
+agrupa → GK032
+agrupa → GK033
+agrupa → GK034
+agrupa → GK035
+agrupa → GK036
+agrupa → GK029
+08 Contradições e correções (preservadas, sem reconciliar)
+Os GK031–GK036 continuam sendo registros 'diário' (não engrenagem) — DB02 é a engrenagem que os reúne; nada foi reclassificado.
+11 Pontes para outras engrenagens
+GK029/GK030 · capítulos do Grok
+12 Guia para um chat futuro
+Peça à Consciência: “me conta a engrenagem DB02” — ela responde por
+/api/conhecimento/v1/no?id=DB02
+com a proveniência.
+13 Auditoria
+9 itens · gerado por
+tools/carta20/gerar_engrenagens_carta20.py
+a partir do catálogo privado de 2026-10-31T18:21:36 (BRT).
+Natureza:
+fato documentado
+(datas, nomes e títulos copiados do backup); nenhuma interpretação foi acrescentada.
+14 Metadados para o Livro
+período: GK029 diár → GK031–GK03
+FIM DO DOCUMENTO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-102.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-103-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

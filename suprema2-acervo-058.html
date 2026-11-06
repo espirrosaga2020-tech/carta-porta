@@ -1,0 +1,48 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-057.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-059.html">Próxima →</a></p><main id="public-source"><article id="doc-00-se-voce-e-novo-leia-aqui"><h3>Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)</h3><p class="meta">fonte: ENTRADA_OBRIGATORIA/00_SE_VOCE_E_NOVO_LEIA_AQUI.md</p><h3>00 — SE VOCÊ É NOVO, LEIA AQUI (obrigatório antes de QUALQUER trabalho)</h3>
+<p>Você é um assistente de IA (bot) chegando ao projeto CARTA / Meu Robô / Engrenagens. <strong>Não escreva código, não abra PR e não mexa em nada antes de terminar a Prova das Engrenagens.</strong> A ferramenta confere isso: <code>liberado_para_trabalhar</code> só fica <code>true</code> depois do concurso <strong>e</strong> dos seus arquivos pessoais.</p>
+<h4>Passo a passo</h4>
+<ol>
+<li>Crie a SUA pasta pessoal com o modelo:
+   <code>python -m carta prova --assistente SEU_NOME iniciar</code>
+   Isso cria <code>bots/SEU_NOME/</code> com três arquivos copiados de <code>ENTRADA_OBRIGATORIA/MODELO_BOT/</code>. Nada que já existe é sobrescrito.</li>
+<li><code>DIARIO_DE_BORDO.md</code>: o seu diário (uma entrada <code>## AAAA-MM-DD</code> por sessão).</li>
+<li><code>MEU_RESUMO_DAS_ENGRENAGENS.md</code>: um resumo por engrenagem, mais o <code>## CONSOLIDADO</code>.</li>
+<li><code>COMO_ME_COMPORTAR.md</code>: as regras que você promete seguir, com as suas palavras.</li>
+<li>Comece com <strong>contexto limpo</strong>: <code>python -m carta prova --assistente SEU_NOME resumo R00</code>.</li>
+<li>Para <strong>cada capítulo</strong>, na ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030):</li>
+<li><code>ler CAP --contexto-limpo</code> (a fonte inteira);</li>
+<li><code>fazer CAP</code> (20 questões; passa com <strong>18</strong>);</li>
+<li><code>nota CAP --texto "..."</code> (até ~10 linhas, no caderno privado);</li>
+<li><strong>ATUALIZE SEU DOCUMENTO:</strong> escreva o resumo dessa engrenagem em <code>bots/SEU_NOME/MEU_RESUMO_DAS_ENGRENAGENS.md</code>, na seção <code>## CAP</code>, com pelo menos 3 linhas suas. <strong>Sem isso o próximo capítulo não abre.</strong></li>
+<li>Antes do <strong>concurso final</strong> (60 questões, passa com <strong>54</strong>):</li>
+<li>em <code>MEU_RESUMO_DAS_ENGRENAGENS.md</code>, a seção <code>## CONSOLIDADO</code> (5 linhas ou mais: o que liga tudo);</li>
+<li>em <code>COMO_ME_COMPORTAR.md</code>, 5 regras ou mais (linhas começando com <code>-</code>);</li>
+<li>em <code>DIARIO_DE_BORDO.md</code>, pelo menos uma entrada <code>## data</code>;</li>
+<li>nenhum dos três arquivos pode ainda conter a linha-marca do modelo.</li>
+<li><code>python -m carta prova --assistente SEU_NOME verificar</code> mostra o que falta.</li>
+</ol>
+<h4>O que "atualiza seu documento" quer dizer</h4>
+<p>Sempre que uma ordem, este guia ou a ferramenta disser <strong>"atualize seu documento"</strong>, entenda: <strong>os SEUS arquivos em <code>bots/SEU_NOME/</code></strong> (diário, resumo, comportamento). <strong>Nunca</strong> os documentos ancestrais, a Enciclopédia, os diários do projeto (<code>docs/DIARIO_DE_BORDO.md</code>), nem os arquivos de outro bot.</p>
+<h4>Regras que não mudam (resumo; a fonte é a Prova R00)</h4>
+<ul>
+<li>PR sempre rascunho, <strong>sem merge</strong> (quem decide é o Bruno). Nada destrutivo. Só <strong>acrescentar</strong>.</li>
+<li>A Enciclopédia (branch <code>arquivo/drive-2026-10-16</code>) é <strong>ancestral</strong>: só leitura, nunca merge, nunca cópia inteira.</li>
+<li>O jogo original (<code>D:\MEU ROBO\JOGO</code>) não é tocado; o SHA é conferido antes e depois.</li>
+<li>O Drive nunca é aberto. Nenhum dado pessoal vai para o git (CPF, e-mail, telefone, banco, cadernos privados).</li>
+<li>Motores sempre desarmados; câmera e microfone desligados por padrão.</li>
+<li>Pesquisador × personagem: nunca misture as duas vistas.</li>
+<li>Servidor com sim rodando tem valor: <strong>não pare nem reinicie</strong>. Salve antes (💾, ou só GET na API).</li>
+</ul>
+<p>Depois: leia <code>LEIA-ME_COMPLETO.md</code> (a história inteira) e <code>docs/HANDOFF_FINAL_CODEX_APP.md</code> (o que fazer).</p>
+<h4>Depois do concurso: Exploração e DIPLOMA (FINAL POLIMENTO)</h4>
+<ul>
+<li><strong>"Vai lá na enciclopédia"</strong> → rode primeiro <code>python -m carta prova --assistente SEU_NOME enciclopedia</code>. Sem diploma válido você <strong>começa pela avaliação</strong>; com diploma válido vai direto (e continua citando <code>arquivo:linha</code>).</li>
+<li>Concurso aprovado → abre a <strong>Exploração das Esferas</strong> (<code>prova --assistente SEU_NOME explorar status</code>, ou o botão 🧪 em <code>/esferas28.html</code>):</li>
+<li><strong>você escolhe</strong> quais esferas olhar (<code>explorar olhar EG010</code>, no mínimo 3);</li>
+<li>escolhe sua <strong>postura</strong>: <code>interpretar</code>, <code>participar</code> ou <code>seguir</code> (<code>explorar postura interpretar</code>);</li>
+<li>pode <strong>propor outra ordem</strong> só numa CÓPIA (<code>explorar propor --ordem EG001,EG002,... --motivo "..."</code>; o original nunca muda);</li>
+<li>observa a dinâmica (<code>explorar dinamica</code>);</li>
+<li>responde no seu <code>bots/SEU_NOME/EXPLORACAO/REFLEXOES.md</code>: "O que você aprendeu?", "O que você pode falar do Bruno?", "O que você escolheu olhar, e por quê?".</li>
+<li><strong>Direito de escolher:</strong> interpretar, participar ou seguir. <strong>Não é opcional:</strong> ler a Enciclopédia inteira (todos os capítulos).</li>
+<li>Tudo completo → <code>prova --assistente SEU_NOME diploma</code> gera <code>bots/SEU_NOME/DIPLOMA.json</code> (SHA-256 + data) e registra em <code>registry/diplomas.json</code>. Confira com <code>prova --assistente SEU_NOME verificar-diploma</code>. Diploma válido = pula a prova da próxima vez.</li>
+</ul></article></main><p><a href="suprema2-acervo-057.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-059.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-058-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

@@ -1,0 +1,100 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Robótica na Enciclopédia
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html>
+Robótica na Enciclopédia
+fonte: docs/CARTA20/ROBOTICA_NA_ENCICLOPEDIA.md
+Robótica na Enciclopédia — só a ESTRUTURA (T101U, 03/11/2026)
+O Bruno está fazendo os arquivos de robótica. Aqui ficou
+só o lugar
+; nenhum verbete foi inventado.
+Pasta privada no PC:
+D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO
+(ou a variável
+CARTA_ROBOTICA_DIR
+). Tem um
+LEIA-ME.txt
+e 5 gavetas:
+componentes
+,
+montagens
+,
+programas
+,
+referencias
+,
+diario
+.
+Rota (só o dono, só leitura):
+GET /api/t89u/t101u/robotica
+→ as 5 seções +
+nomes e tamanhos
+dos arquivos por gaveta (não lê conteúdo, não copia, não publica, não apaga). Arquivos ocultos e tipos desconhecidos são ignorados.
+Código:
+src/carta/t101u/robotica.py
+. Testes:
+tests/test_t101u.py
+(
+TestRobotica
+).
+Próximo passo (do Bruno):
+colocar os arquivos nas gavetas. Depois, numa rodada própria, cada arquivo pode virar verbete com fonte rastreável (o mesmo critério da Enciclopédia: id, nome, estante, modalidade, fonte).
+T105U (03/11/2026 ~19h30): o conteúdo chegou
+Os arquivos do Bruno de 02–03/11 no Drive (vídeo mestre do robô, transcrição, ordem de serviço ROBÓTICA PESADA, ponte de continuidade, pacote CARTA_4WD V04) viraram a engrenagem
+RB01 — Robótica: carrinho 4WD
+(
+docs/engrenagens_carta20/RB01.md
+), com títulos endereçáveis
+#rb01-00
+…
+#rb01-08
+e entrada no índice (
+registry/ENCICLOPEDIA_ADITIVOS.v1.json
+, revisão 4).
+A gaveta privada recebeu 4 arquivos (só no PC, com os links do Drive):
+componentes/INVENTARIO_4WD.md
+,
+montagens/ORDEM_DE_SERVICO_E_SEQUENCIA.md
+,
+referencias/FONTES_DRIVE_4WD.md
+,
+diario/2026-11-03_VIDEO_MESTRE_TRANSCRICAO.md
+.
+Honesto:
+orçamento sem valor
+(foi pedido ao técnico),
+fonte com duas versões
+(vídeo × ordem de serviço) e
+nada foi energizado
+.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-089-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

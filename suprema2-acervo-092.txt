@@ -1,0 +1,211 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Celular sem cabo (app vc20, 03/11/2026)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html>
+Celular sem cabo (app vc20, 03/11/2026)
+Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026
+O que mudou:
+o celular abre os mundos principais
+sozinho
+, sem cabo, sem Wi-Fi e com o PC desligado.
+Como foi testado (de verdade)
+PC:
+LIGAR CARTA
+(8790/8791) → fotografia com
+tools/t101u/offline_planeta_snapshot.py
+direto na pasta do build
+(
+D:\CARTA\BUILD_APK_1.16.0\app\src\main\assets\offline_api
+, nunca no repo) → 423 rotas, 3,7 MB.
+Build
+gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist
+→
+adb install -r
+→ versionCode 20.
+DESLIGAR CARTA
+(8790/8791/8795/11434 desligadas), celular em
+modo avião
+,
+adb reverse
+vazio.
+Abertos no app: Planeta (58 FPS, chão perto do sítio), Meu Robô no Planeta, Mini Terra (fotografia + Pesquisador, 51 FPS), DeLorean, Início. Fotos:
+D:\CARTA\ANOTACOES\CARTA20\visual\t101u\vc20_aviao_*.png
+.
+   (O cabo USB só foi usado para abrir as páginas e tirar as fotos; o conteúdo veio todo do próprio celular.)
+O que funciona sem PC
+Planeta: chão guardado em volta do sítio: pedaços finos de 64 m num quadrado de ~640 m e pedaços de 128 m num quadrado de ~2,2 km, clima, céu, regiões.
+Mini Terra: a
+fotografia
+do momento em que foi tirada (não evolui sozinha no celular). Velocidade/pausa ficam guardadas no celular (
+localStorage carta.off.*
+).
+Outros pedidos de escrita ficam numa fila no celular (
+carta.off.fila
+, só rota e hora, sem conteúdo).
+O que continua precisando do PC (honesto)
+Planeta Godot (Porto Parafuso)
+: roda no servidor 8795 do PC; a página mostra o aviso e o botão "voltar ao Planeta". Embutir no APK: ver
+PESQUISA_T101U.md
+.
+Conversa com IA (Ollama/Gemini), mundo vivo da Mini Terra evoluindo, longe da área guardada (503 honesto).
+Backup
+APK vc19:
+D:\CARTA\BACKUPS\BACKUP_APK_ANTES_1.16.0_20261103\app-debug_vc19.apk
+. Build antigo intacto em
+D:\CARTA\BUILD_APK_1.15.0
+.
+T102U (03/11/2026 ~17h, horário de Brasília): Planeta Godot LEVE dentro do celular
+O que mudou:
+o APK
+vc21 (1.17.0-carta20-t102u, 82,6 MB)
+leva uma versão leve do jogo Godot (Porto Parafuso) em
+/godot_leve/
+. Antes o jogo tinha 154 MB de pacote (texturas sem perda); a versão leve usa texturas WebP com perda e fica com
+38 MB de pacote + 37,7 MB de wasm
+.
+Como foi feito, sem quebrar nada:
+tudo numa CÓPIA,
+D:\CARTA\GODOT_WEB_LEVE\proj
+(o
+D:\CARTA\GODOT_WEB_POC
+e o
+D:\MEU ROBO\JOGO
+não foram mexidos). Ferramentas:
+tools/t102u/godot_leve_texturas.py
+(troca só os
+.import
+da cópia) e
+tools/t102u/godot_leve_carta.py
+(faz a
+carta.html
+leve com o tamanho certo dos arquivos). Depois: Godot 4.7.2
+--headless --import
+e
+--export-release "Web"
+.
+Os arquivos do jogo não vão para o GitHub
+(são grandes e o pacote tem notas internas). Eles ficam só no PC (
+D:\CARTA\GODOT_WEB_LEVE\web
+) e dentro do APK. Montagem:
+D:\CARTA\BUILD_APK_1.17.0
+com
+-PcartaWebDist=D:\CARTA\BUILD_APK_1.17.0\webdist_t102u
+.
+Na página:
+planeta_godot.js
+só usa
+/godot_leve/carta.html
+quando o app está em
+https://carta.offline
+(modo viagem). No PC continua o 8795, e
+carta.planetaGodot.url
+ainda ganha de tudo.
+Teste no celular real, em modo avião e sem PC:
+o Planeta Godot recebeu o "jogo pronto" (apareceu a ajuda "Como jogar"), e abrindo direto o Porto Parafuso desenhou (WebGL 2.0, modo Compatibility). O selo mostrou "baixo (sem PC) · 1 FPS" durante a carga (sem "undefined"). Prints no PC:
+C:\Users\bruno\t94u_stage\t102u\vc21_godot_*.png
+.
+Falta (honesto):
+jogar com o dedo por um tempo e medir o FPS do Godot no celular; o adb deste celular não deixa simular toque (
+INJECT_EVENTS
+).
+Volta atrás:
+o vc20 está guardado em
+D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T102U\app-debug_vc20_1.16.0.apk
+. Não instalar por cima do vc21 (Android não volta versão); se precisar, faça um vc22 a partir dele.
+T103U (03/11/2026 ~18h, horário de Brasília): Godot jogado com o dedo, robô jogador e FPS medido
+Teste manual APROVADO:
+o Bruno jogou o Porto Parafuso com o dedo no vc21 ("ficou ótimo, consegui jogar").
+Consertos só na cópia
+D:\CARTA\GODOT_WEB_LEVE\proj
+(nunca em
+D:\MEU ROBO\JOGO
+), com
+tools/t103u/godot_leve_consertos.py
+(aditivo, roda 2 vezes sem mudar nada):
+_fix_probe.tscn
+começava com BOM → "Parse Error: Expected '['". Regravado sem o BOM (mesmo texto).
+workshop.tscn
+apontava para
+res://game/workshop/workshop.gd
+, que não existia → criada uma "ponte" que faz
+extends
+do script de verdade (
+game/workshop/workshop/workshop.gd
+).
+exclude_filter
+do export tira do pacote as pastas de backup antigas e as sondas
+_*.tscn
+(continuam no disco). Export:
+0 erros
+.
+Comando "porto" da ponte chamava
+go_city()
+, que não existe; ganhou um ramo com
+go_city_a()
+(o antigo ficou igual). Achado pelo robô jogador.
+A ponte escreve
+CARTA_GODOT_FPS <n> <cena>
+no console a cada relatório → aparece no
+adb logcat
+do celular.
+Só na versão web (sufixo
+.web
+do Godot): MSAA desligado e 3D em 60% da resolução.
+Robô jogador
+(
+tools/t103u/teste_godot_robo.mjs
+, servidor só em 127.0.0.1, o MESMO export do APK no navegador): pronto, relatório, WASD, arena, vitória (vitorias 1, vit_arena 1) e volta ao porto =
+6/6
+. Não roda no CI (precisa do export, que não vai para o GitHub).
+APKs:
+vc22 (1.18.0, export sem erros), vc23 (1.18.1, com a linha de FPS) e
+vc24 (1.18.2, com o conserto 6) instalado
+. Em modo avião o Porto Parafuso abriu e desenhou.
+FPS do Godot no celular (Mi 9 Lite, Snapdragon 710), medido sem tocar na tela:
+3–4 FPS
+no Porto Parafuso, com vc23 e com vc24 (o conserto 6 não mudou nada → o gargalo não é a resolução; provável CPU/scripts da cena no wasm de uma linha só). O Planeta (three.js) continua a 58 FPS.
+Falta (honesto):
+deixar o Godot rápido no celular (perfilar a cena; ideias em PESQUISA_T101U.md). Prints:
+C:\Users\bruno\t94u_stage\t103u\t103u_fps.png
+e
+t103u_vc24.png
+.
+Volta atrás:
+vc21, vc22 e vc23 guardados em
+D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T103U\
+. O
+project.godot
+antes do conserto 6:
+D:\CARTA\GODOT_WEB_LEVE\project.godot.antes_t103u_web_leve
+. Android não volta versão: para desfazer, faça um vc25.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-092-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

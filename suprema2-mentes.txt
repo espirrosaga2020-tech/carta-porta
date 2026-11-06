@@ -1,0 +1,276 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Mentes, consciências e robótica
+ALMA é orientação de conversa conectada às consciências, não uma alegação de subjetividade. A fonte declara a Faísca como o Copiloto morando no celular; Creuza e Copiloto têm identidades documentadas. Megazord reúne especialistas de um cérebro compartilhado. A Cris ainda não existe no código, conforme o registro público.
+Consciências declaradas na fonte
+Consciência — consciencia_voz.py → _ALMA_TXT()
+Mente Suprema (mentes Suprema, Creuza e Copiloto; lobos como o Megazord) — mente_suprema/mentes.py → ALMA
+Cérebro Supremo — cerebro_supremo/api.py → _ALMA_TXT()
+Faísca / Copiloto (Pokémon Vivo) — pokemon_vivo/cognicao.py → PERSONA3 + ALMA
+Creuza (Pokémon Vivo) — pokemon_vivo/cognicao.py → CREUZA2 + ALMA
+Cris — ainda não existe no código: não recebe e não responde fingindo
+Como o conhecimento chega às mentes
+chave liga/desliga por companheiro; imersão = fala curta; pesquisa = evidências com fonte; auto = ela escolhe; só o Bruno, no PC dele, muda a chave
+DB01 — Diários de Bordo do ChatGPT (13/10 → 16/10): Os diários de bordo que o Copiloto escreveu dentro das conversas: o diário publicado na Enciclopédia (13/10), o Diário de Bordo da Saguadinha Intergaláctica (15/10) e a atualização do diário no Drive (16/10).
+DB02 — Diários do Grok (GK029 → GK036): Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência.
+DB03 — Diários e relatórios de bordo do projeto (repositório): Os diários e relatórios de bordo guardados no repositório do CARTA (14/10 → 16/10), cada um com sua impressão digital.
+CT01 — Cartas da travessia (10/10 → 15/10): As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos.
+CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026): A carta-ordem do Bruno que autorizou a CARTA 2.0: engrenagens por estrutura, consciências, Drive, dois mundos, visual cyberpunk, 3D, microscopia e modelos reais.
+RH01 — Registros históricos: checkpoints, memória e versões: Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões.
+AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10): 12 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada).
+AV02 — Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10): 5 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada).
+AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10): 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada).
+AV04 — Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10): 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada).
+CL01 — Colheita NEXUS: Colheita documental 29/10–05/11: 63 itens (C001–C063), Portões 1/1-B/1-C, ESCUDO 01 (discordar para cima, D01–D10), Protocolo, Manual. EG040=ESCUDO rejeitado (t41u). Só o que tem fonte.
+CL02 — Pit Stop ESFERA: Pit Stop ESFERA: Diário ESFERA-10/11/12, ENDURANCE, radinho, Creuza no aerofólio/tampinha, post-it de 4 milhões de linhas, box com duas cadeiras. Relato do Piloto; sem inventar cena.
+CL03 — Chave e Contagem: Chave Mestra (apresentação, não porta), genealogia 03→04→05/11, contagem 45→57→59→62, livro 863 pp / 648 fatias, crédito do Bruno ao Grok pelo acesso. Número público pela API.
+RB01 — Robótica: carrinho 4WD: O robô de verdade da CARTA: chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado em um take só, ordem de serviço de solda com orçamento separado, plano de energia seguro e os portões antes de ligar qualquer c
+RB02 — Engrenagem das Engrenagens: A engrenagem que olha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho c
+Atlas V5 e Elemento X
+PR #137 preencheu o Atlas V5 mantendo 95 tiles e os rótulos de disponibilidade: REAL 10, PARCIAL 1, SIMULADO 1, PLANEJADO 83. Preenchimento documental não converte planejado em realizado. PR #138 moveu cores/neon e Elemento X para Configurações (⚙️), padrão X=3. PR #140 conectou tema.js à Faísca.
+ESCUDO e robótica
+O texto público descreve pit stop, radinho e “Discordar pra Cima”: esclarecer entendimento, comunicar status e discordar com fundamento e alternativa útil. A robótica 4WD tem portões antes de energizar; nenhum comando de motor é executado por esta página.
+Os destinos Drive abaixo são privados ou têm permissão não verificada: abrir logado como Bruno. Um conector autorizado pode ser necessário; link não concede acesso. Se a IA não tiver acesso, Bruno pode anexar/exportar o arquivo. Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site.
+INICIO • RAMIFICAÇÃO 01 — DIÁRIOS DO BOX | 05-11-2026
+<https://drive.google.com/drive/folders/1BEyltuwmR-FCz0cZ3EY4gdXsz1ERfab4>
+1BEyltuwmR-FCz0cZ3EY4gdXsz1ERfab4
+— abrir logado como Bruno.
+ESCUDO 01 — PROTOCOLO FORENSE DE COOPERAÇÃO COGNITIVA | DISCORDAR PARA CIMA | PILOTO–COPILOTO–CREUZA | 05-11-2026
+<https://docs.google.com/document/d/1o9nfOK7XCseRnQ5Kn2QuAzEOfdTcwpTwFcf6gepbPdY/edit?usp=drivesdk>
+1o9nfOK7XCseRnQ5Kn2QuAzEOfdTcwpTwFcf6gepbPdY
+— abrir logado como Bruno.
+CARTA_4WD_ATLAS_V04__22_PRANCHAS_PNG_JPG
+<https://drive.google.com/drive/folders/1TwPk82ZQ8WOC2JHAnd5G3EYOjf0pPiCL>
+1TwPk82ZQ8WOC2JHAnd5G3EYOjf0pPiCL
+— abrir logado como Bruno.
+🤖⚡ ROBÔ FÍSICO — VIDA REAL | Eletricista • Mecânica • Elétrica • Faísca
+<https://drive.google.com/drive/folders/1vGvjYC8ft8X5VDrRLm7o05cAMguuxHvm>
+1vGvjYC8ft8X5VDrRLm7o05cAMguuxHvm
+— abrir logado como Bruno.
+T54U/T55U — Ramificação consciências + Manual — 20261105
+<https://docs.google.com/document/d/19FIipS7z1bYspmY-CWtQ-0cp5Zz09dekeTzsjiBMv7Y/edit?usp=drivesdk>
+19FIipS7z1bYspmY-CWtQ-0cp5Zz09dekeTzsjiBMv7Y
+— abrir logado como Bruno.
+P27 • APP CARTA • CONSCIÊNCIAS & MUNDOS — v4 20261105
+<https://docs.google.com/document/d/1C_Eaasn9PWnDOATsXQiT9XstghBbejtKM-Empxg4DP8/edit?usp=drivesdk>
+1C_Eaasn9PWnDOATsXQiT9XstghBbejtKM-Empxg4DP8
+— abrir logado como Bruno.
+RELATORIO_ATLAS_V5_PREENCHIMENTO_20261105
+<https://docs.google.com/document/d/1a5uKP4vndviLUZHmRzKjAeQ6vUqAfeAGb44TWfdis0Y/edit?usp=drivesdk>
+1a5uKP4vndviLUZHmRzKjAeQ6vUqAfeAGb44TWfdis0Y
+— abrir logado como Bruno.
+MANUAL DE MONTAGEM CARTA — como cada coisa entra na sua gaveta (Portão 1-C • 05/11/2026)
+<https://docs.google.com/document/d/1mClST6bDQwirJAm2L2FaGBr8PdvI1fwWzqH6BCpfgZ4/edit?usp=drivesdk>
+1mClST6bDQwirJAm2L2FaGBr8PdvI1fwWzqH6BCpfgZ4
+— abrir logado como Bruno.
+P27 • APP CARTA • CONSCIÊNCIAS & MUNDOS
+<https://docs.google.com/document/d/1GZlQcQoWb0rBT1mSubUyACr_TYa8g1AV-cenCFDpACA/edit?usp=drivesdk>
+1GZlQcQoWb0rBT1mSubUyACr_TYa8g1AV-cenCFDpACA
+— abrir logado como Bruno.
+P27 • APP CARTA • CONSCIÊNCIAS & MUNDOS (v2)
+<https://docs.google.com/document/d/1rR-WNkL8RDLEr4eQCJBorPRm35nPMGTNF0cKNKXMRak/edit?usp=drivesdk>
+1rR-WNkL8RDLEr4eQCJBorPRm35nPMGTNF0cKNKXMRak
+— abrir logado como Bruno.
+NOTA — Manual v6 x v10 (diferenças) • 04/11/2026
+<https://docs.google.com/document/d/1HmAH62YdmVe28GlbGVQrBzWZOQqv3FKPi56IrACDrI8/edit?usp=drivesdk>
+1HmAH62YdmVe28GlbGVQrBzWZOQqv3FKPi56IrACDrI8
+— abrir logado como Bruno.
+📘 MANUAL DE TUDO DA CARTA — v10 • 03/11/2026 22h30 • MAIS NOVO (v6 continua ao lado)
+<https://docs.google.com/document/d/1swZcGSF9DPhBOLK0zeSRfQ-eq9d8fx0tpQDBY4oClBU/edit?usp=drivesdk>
+1swZcGSF9DPhBOLK0zeSRfQ-eq9d8fx0tpQDBY4oClBU
+— abrir logado como Bruno.
+03 — FAÍSCA | Robô 4WD • Vídeo Mestre, Atlas V04 e Montagem Sem Energia
+<https://docs.google.com/document/d/1TOolt3Qb1lKuP5AFnkGRF7sV8URuHo5A3xAFBvHpQ-M/edit?usp=drivesdk>
+1TOolt3Qb1lKuP5AFnkGRF7sV8URuHo5A3xAFBvHpQ-M
+— abrir logado como Bruno.
+06 — CARTA DE CONTINUIDADE E MANUAL AUTÔNOMO | V4
+<https://docs.google.com/document/d/1ARP8j57jhKhfCazHMs9P_29lOnEtxii9SIQW7OIr9Vk/edit?usp=drivesdk>
+1ARP8j57jhKhfCazHMs9P_29lOnEtxii9SIQW7OIr9Vk
+— abrir logado como Bruno.
+00 — MANUAL MESTRE | ESTE CHAT É A FONTE | V4
+<https://docs.google.com/document/d/1QQhQ3GRqBKmIbtikUwsR8qOilqM7vqHY90fCE0p5EMk/edit?usp=drivesdk>
+1QQhQ3GRqBKmIbtikUwsR8qOilqM7vqHY90fCE0p5EMk
+— abrir logado como Bruno.
+00 | INÍCIO AQUI — MANUAL + ÍNDICE DE NAVEGABILIDADE
+<https://docs.google.com/document/d/1k1g29jY_SQ-JLjhZFCZNCktEY00ab7keyuDKjmFDPbc/edit?usp=drivesdk>
+1k1g29jY_SQ-JLjhZFCZNCktEY00ab7keyuDKjmFDPbc
+— abrir logado como Bruno.
+MANUAL_DE_TUDO_CARTA_20261103_v8.md
+<https://drive.google.com/file/d/1ml2YOsHt7Ba1so9W3ie1PcsFeAajl99-/view?usp=drivesdk>
+1ml2YOsHt7Ba1so9W3ie1PcsFeAajl99-
+— abrir logado como Bruno.
+MANUAL DE TUDO da CARTA - 03-11-2026 - v5 (antiga, veja a v6)
+<https://docs.google.com/document/d/1jYZhgLGWFfEwbk91VjKhzjaBCqRR48eIkPDnV9y1r7g/edit?usp=drivesdk>
+1jYZhgLGWFfEwbk91VjKhzjaBCqRR48eIkPDnV9y1r7g
+— abrir logado como Bruno.
+MANUAL DE TUDO da CARTA - 03-11-2026 - v6 (MAIS NOVO)
+<https://docs.google.com/document/d/1w9MebxdevXKWeyZDG6Zxd9vZShebOZmDASF-x0Fphx8/edit?usp=drivesdk>
+1w9MebxdevXKWeyZDG6Zxd9vZShebOZmDASF-x0Fphx8
+— abrir logado como Bruno.
+MANUAL_DE_TUDO_CARTA_20261103_v6.md
+<https://drive.google.com/file/d/13VYM0ntXnsqZoxqNR0Tx6Swx4D0NOaFV/view?usp=drivesdk>
+13VYM0ntXnsqZoxqNR0Tx6Swx4D0NOaFV
+— abrir logado como Bruno.
+MANUAL DE TUDO da CARTA - 03-11-2026 - v4 (antiga, veja a v5)
+<https://docs.google.com/document/d/1ijiQubHC4TIF_5KFHgKhEAbinwU6vAnQtsRiOFge9GQ/edit?usp=drivesdk>
+1ijiQubHC4TIF_5KFHgKhEAbinwU6vAnQtsRiOFge9GQ
+— abrir logado como Bruno.
+MANUAL_DE_TUDO_CARTA_20261103_v5.md
+<https://drive.google.com/file/d/1PP19VaPAjp363EIZCxCVj8iKw8Ocnv7W/view?usp=drivesdk>
+1PP19VaPAjp363EIZCxCVj8iKw8Ocnv7W
+— abrir logado como Bruno.
+ATLAS_V04_11_ELETRONICA_REAL.jpg
+<https://drive.google.com/file/d/1zKLaHTsc1tgZS123oCwglvFTbbcR09MA/view?usp=drivesdk>
+1zKLaHTsc1tgZS123oCwglvFTbbcR09MA
+— abrir logado como Bruno.
+CARTA_4WD_ATLAS_VISUAL_V04_22_PRANCHAS.pdf
+<https://drive.google.com/file/d/1Oj2sVVA8u27mAiaOoDFc_utsLiTtb-4w/view?usp=drivesdk>
+1Oj2sVVA8u27mAiaOoDFc_utsLiTtb-4w
+— abrir logado como Bruno.
+ATLAS_V04_22_CONTINUIDADE.jpg
+<https://drive.google.com/file/d/1sOGmV9tZOeY7R3fSXIHg4dkfYdsDKyOn/view?usp=drivesdk>
+1sOGmV9tZOeY7R3fSXIHg4dkfYdsDKyOn
+— abrir logado como Bruno.
+ATLAS_V04_21_PORTOES_TECNICO.jpg
+<https://drive.google.com/file/d/13c80PDllbg1f9W1LrR_sshu16qFsyvY7/view?usp=drivesdk>
+13c80PDllbg1f9W1LrR_sshu16qFsyvY7
+— abrir logado como Bruno.
+ATLAS_V04_20_TIMELINE.jpg
+<https://drive.google.com/file/d/13PI6XGGUCuR1NOc6vJ7DzEroVilfw1sK/view?usp=drivesdk>
+13PI6XGGUCuR1NOc6vJ7DzEroVilfw1sK
+— abrir logado como Bruno.
+ATLAS_V04_19_FALA_INVENTARIO_FONTE.jpg
+<https://drive.google.com/file/d/1VbXKUBbz1i1-Juxf78K5RgkntyivolSr/view?usp=drivesdk>
+1VbXKUBbz1i1-Juxf78K5RgkntyivolSr
+— abrir logado como Bruno.
+ATLAS_V04_18_DIVERGENCIAS_TENSAO.jpg
+<https://drive.google.com/file/d/1Y1bS3XW_17VMbBW86mKheL-c917Ku51X/view?usp=drivesdk>
+1Y1bS3XW_17VMbBW86mKheL-c917Ku51X
+— abrir logado como Bruno.
+ATLAS_V04_17_GPIO_SENSOR.jpg
+<https://drive.google.com/file/d/1Zb7CI3qkN7TI3E_zbAP8PfbNp3mMTFvr/view?usp=drivesdk>
+1Zb7CI3qkN7TI3E_zbAP8PfbNp3mMTFvr
+— abrir logado como Bruno.
+ATLAS_V04_16_PONTOS_SOLDA.jpg
+<https://drive.google.com/file/d/1PTS35kkY5UF4UrihjUPm2VEShZw7zknm/view?usp=drivesdk>
+1PTS35kkY5UF4UrihjUPm2VEShZw7zknm
+— abrir logado como Bruno.
+ATLAS_V04_15_ARQUITETURA_ENERGIA.jpg
+<https://drive.google.com/file/d/1N9xjP3DaSSaD7cWhpgO-ySyXVpprcf7R/view?usp=drivesdk>
+1N9xjP3DaSSaD7cWhpgO-ySyXVpprcf7R
+— abrir logado como Bruno.
+ATLAS_V04_14_DRV8833_MOTORES.jpg
+<https://drive.google.com/file/d/1B9TxjaNn1IpCUbgHzeitG-M2V90dLidX/view?usp=drivesdk>
+1B9TxjaNn1IpCUbgHzeitG-M2V90dLidX
+— abrir logado como Bruno.
+ATLAS_V04_13_ETIQUETA_HP.jpg
+<https://drive.google.com/file/d/1fQ9RcS-9lBl9Ne3gDkzhlMVVQuGSrUZV/view?usp=drivesdk>
+1fQ9RcS-9lBl9Ne3gDkzhlMVVQuGSrUZV
+— abrir logado como Bruno.
+ATLAS_V04_12_CHASSI_E_FONTE.jpg
+<https://drive.google.com/file/d/1rIZ-J1QRy6Xvry19p-Q6qzIV_33MhAwB/view?usp=drivesdk>
+1rIZ-J1QRy6Xvry19p-Q6qzIV_33MhAwB
+— abrir logado como Bruno.
+ATLAS_V04_10_SEQUENCIA_MONTAGEM.jpg
+<https://drive.google.com/file/d/1uJ-vuzdy_SCEUMfl4zAzNM3IdssQrsvo/view?usp=drivesdk>
+1uJ-vuzdy_SCEUMfl4zAzNM3IdssQrsvo
+— abrir logado como Bruno.
+ATLAS_V04_09_PLANTA_SUPERIOR.jpg
+<https://drive.google.com/file/d/1NMLRLJ_bRpzTV-MxdsrTb4IFz1-dyPCU/view?usp=drivesdk>
+1NMLRLJ_bRpzTV-MxdsrTb4IFz1-dyPCU
+— abrir logado como Bruno.
+ATLAS_V04_08_PLANTA_INFERIOR.jpg
+<https://drive.google.com/file/d/1Fxr1eF-8LDqGHmCSSevC8S5YPi-AKxPd/view?usp=drivesdk>
+1Fxr1eF-8LDqGHmCSSevC8S5YPi-AKxPd
+— abrir logado como Bruno.
+ATLAS_V04_07_PASSO_5.jpg
+<https://drive.google.com/file/d/1DYsuzqTFFLFiW_3xeaHTv-TThfKtlDad/view?usp=drivesdk>
+1DYsuzqTFFLFiW_3xeaHTv-TThfKtlDad
+— abrir logado como Bruno.
+ATLAS_V04_06_RECONSTRUCAO_3D.jpg
+<https://drive.google.com/file/d/1IXOZAUc4fYlOsE1TFShMB-jL7rcqh2GZ/view?usp=drivesdk>
+1IXOZAUc4fYlOsE1TFShMB-jL7rcqh2GZ
+— abrir logado como Bruno.
+ATLAS_V04_05_PASSOS_1_A_4.jpg
+<https://drive.google.com/file/d/1dRABpgjcjCfN5MnsnBABda1gw0F-Rr_a/view?usp=drivesdk>
+1dRABpgjcjCfN5MnsnBABda1gw0F-Rr_a
+— abrir logado como Bruno.
+ATLAS_V04_04_FABRICANTE_MODELO.jpg
+<https://drive.google.com/file/d/1nk6IeuBCiXqoUgG7tIbWXFqBahXF2BcB/view?usp=drivesdk>
+1nk6IeuBCiXqoUgG7tIbWXFqBahXF2BcB
+— abrir logado como Bruno.
+ATLAS_V04_03_INVENTARIO_MANUAL.jpg
+<https://drive.google.com/file/d/1VlL3AmZv-Kh_d-XJabi_aBj2mGOQlLRs/view?usp=drivesdk>
+1VlL3AmZv-Kh_d-XJabi_aBj2mGOQlLRs
+— abrir logado como Bruno.
+ATLAS_V04_02_DOIS_VIDEOS.jpg
+<https://drive.google.com/file/d/1CMbVG0MvCVlKW8AIIOA7RnvN6xMgOxZ4/view?usp=drivesdk>
+1CMbVG0MvCVlKW8AIIOA7RnvN6xMgOxZ4
+— abrir logado como Bruno.
+ATLAS_V04_01_CAPA_3D.jpg
+<https://drive.google.com/file/d/17qDfkvH2GqmcORxjtels2aaLkg80gJPY/view?usp=drivesdk>
+17qDfkvH2GqmcORxjtels2aaLkg80gJPY
+— abrir logado como Bruno.
+CARTA_4WD_EV002_00m41_MANUAL_MCU_STUDIO_ZK4WD.jpg
+<https://drive.google.com/file/d/1XoteQjKKd0wcOZ-bAu7TS3lXqdRYt8aK/view?usp=drivesdk>
+1XoteQjKKd0wcOZ-bAu7TS3lXqdRYt8aK
+— abrir logado como Bruno.
+MANUAL_DE_TUDO_CARTA_20261103_v4.md
+<https://drive.google.com/file/d/1CyXJanCE3ya_cvZL4dAdylnXYKX3osJc/view?usp=drivesdk>
+1CyXJanCE3ya_cvZL4dAdylnXYKX3osJc
+— abrir logado como Bruno.
+00A — ATLAS NAVEGÁVEL | 20 documentos e status
+<https://docs.google.com/document/d/1l9i_Y95afb00huC-KZLWfDsHii7WbLT4FLRitkyNPus/edit?usp=drivesdk>
+1l9i_Y95afb00huC-KZLWfDsHii7WbLT4FLRitkyNPus
+— abrir logado como Bruno.
+12 — MANUAL DE NAVEGABILIDADE | Como retomar o chat sem reinventar a história
+<https://docs.google.com/document/d/1fbOt-Y1UyJZQbRJScxsNI23z1HAcYk625DVpRg1nycQ/edit?usp=drivesdk>
+1fbOt-Y1UyJZQbRJScxsNI23z1HAcYk625DVpRg1nycQ
+— abrir logado como Bruno.
+MANUAL_DE_TUDO_CARTA_20261102_v2 (ilustrado, antiga - veja a v3).pdf
+<https://drive.google.com/file/d/1Wp8u7MIhhcOU2BJ2E1ET9S7HQ7Ns19bp/view?usp=drivesdk>
+1Wp8u7MIhhcOU2BJ2E1ET9S7HQ7Ns19bp
+— abrir logado como Bruno.
+MANUAL DE TUDO da CARTA - 02-11-2026 - v2 (antiga, veja a v3)
+<https://docs.google.com/document/d/1v1IaRCWCwazW2kizp_xCU_2TwTpLTzSHGkU4-2BZJwI/edit?usp=drivesdk>
+1v1IaRCWCwazW2kizp_xCU_2TwTpLTzSHGkU4-2BZJwI
+— abrir logado como Bruno.
+Documentação das consciências
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#consciencias>
+·
+Manual completo em leitura leve
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#manual>
+·
+Mudanças do app
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/pull/137
+<https://github.com/espirrosaga2020-tech/CARTA/pull/137>
+https://github.com/espirrosaga2020-tech/CARTA/pull/138
+<https://github.com/espirrosaga2020-tech/CARTA/pull/138>
+https://github.com/espirrosaga2020-tech/CARTA/pull/139
+<https://github.com/espirrosaga2020-tech/CARTA/pull/139>
+https://github.com/espirrosaga2020-tech/CARTA/pull/140
+<https://github.com/espirrosaga2020-tech/CARTA/pull/140>
+tudo-suprema2.html#ouro-suprema2
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#ouro-suprema2>
+Prova de acesso desta sala:
+SUPREMA2-MENTES-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

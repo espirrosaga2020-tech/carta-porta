@@ -1,0 +1,1635 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Manual de Tudo da CARTA (v10, 03/11/2026)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-068.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-070.html>
+Manual de Tudo da CARTA (v10, 03/11/2026)
+📘 MANUAL DE TUDO DA CARTA
+Manual e orientações · versão 10, de 03/11/2026 ~22h30 (horário de Brasília). A versão 9 continua no repositório.
+Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois.
+Regra deste manual:
+nada aqui foi inventado.
+Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito
+"não confirmado"
+. A varredura geral do PC de 02/11 já foi lida e está dentro deste manual.
+Versão 8 (03/11 noite, T104U + T105U):
+acrescenta a seção 0.5 (o jogo vai ser jogado no PC; robô 4WD na Enciclopédia — RB01; a Enciclopédia fatiada — RB02; modo 🤖 auto da superconsciência; +10 cientistas na bancada; resposta honesta sobre ray tracing). Onde a 0.5 diz diferente, vale a 0.5. A versão 7 continua guardada com o nome dela.
+Versão 7 (03/11 noite):
+acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela.
+Versão 6 (03/11 fim da tarde):
+acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Onde a 0.3 diz diferente, vale a 0.3. A versão 5 continua guardada com o nome dela.
+Versão 5 (03/11 tarde):
+acrescenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela.
+Versão 4 (03/11):
+acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1.
+Versão 3:
+a versão 1 (~20h30) foi escrita antes da varredura geral do PC sair. A versão 2 (~20h45) já usou a
+VARREDURA_GERAL_20261102.md
+. Esta versão 3 traz também o passo a passo da Porta IA para um ChatGPT de fora (seção 2.7), o resumo dos portões e a numeração da passagem e dos checkpoints. As versões 1 e 2 continuam guardadas, com os nomes delas.
+0. Bruno, lê isto primeiro
+Mano, este é o mapa de tudo. Você não precisa decorar nada. Se um dia não tiver mais noção de nada, abre aqui e segue na ordem:
+Pra ligar a CARTA:
+clica duas vezes no atalho
+"CARTA"
+da Área de Trabalho. Abre sozinho no navegador.
+Pra saber onde as coisas estão:
+vai na seção 12 (o mapa do Drive, do PC e do GitHub).
+Pra saber o que falta:
+vai na seção 10.
+Pra chamar outro agente
+(se a cota deste acabar): copia o texto da seção 14 e cola no chat novo.
+Pra um ChatGPT de fora conversar com a Consciência:
+segue a seção 2.7, passo a passo.
+Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo:
+Celular no app
+vc16 (1.12.0)
+, instalado por cima,
+com os dados intactos
+.
+A Porta IA (8792) e o Ollama não ligam sozinhos.
+Pra Porta, veja a 2.7; pro Ollama, a 2.6.
+Portões:
+fechados
+1, a, b e g
+; abertos
+c, d, e, f e h
+.
+Testes:
+914 passaram, 0 falhas
+(7 pulados), na caixa de testes.
+Depuração por Wi-Fi do celular: LIGADA
+(a decisão de desligar ou não é sua).
+Numeração:
+na passagem de bastão, o próximo item livre é o
+Q
+(depois do P). O próximo CHECKPOINT é o
+30
+.
+Três coisas que valem pra sempre:
+nada se apaga, tudo só ganha coisa nova.
+Antes de trocar qualquer arquivo, faz backup. E o
+D:\MEU ROBO\JOGO
+nunca
+se mexe.
+0.9 Fechamento de 03/11 às 22h30 — T119U (vale mais que a 0.8)
+O Ollama é a base da CARTA.
+Ele roda só neste PC, com modelos já baixados, sem internet e sem custo. Pode ficar ligado.
+Ligar:
+dois cliques em
+D:\CARTA\LIGAR_OLLAMA_LOCAL.cmd
+(só 127.0.0.1:11434).
+Desligar:
+D:\CARTA\DESLIGAR_OLLAMA.cmd
+. Não está na inicialização do Windows. O modelo sai da placa de vídeo 2 minutos depois do último uso, então o PC não fica pesado.
+Modelos instalados (
+ollama list
+):
+qwen2.5:7b (4,7 GB, conversa), qwen2.5vl:3b (3,2 GB, Olho Local), qwen2.5vl:7b (6,0 GB), gemma3:4b (3,4 GB), gpt-oss:20b (13 GB, pensar fundo), moondream (1,7 GB), nomic-embed-text (274 MB).
+Teste de conversa de verdade (03/11, ~22h25, qwen2.5:7b quente):
+Quem
+Pergunta
+Tempo
+Resultado
+Mente Suprema
+Quantas engrenagens tem a Enciclopédia hoje?
+2,6 s
+"59 engrenagens, espalhadas por 18 estantes" ✓
+Mente Suprema
+O que é a RB02?
+3,5 s
+Nome certo ("Engrenagem das Engrenagens"); enfeitou um pouco
+Creuza
+Creuza, quem é você?
+6,1 s
+Respondeu como ela mesma ✓
+Faísca
+O que é a RB02?
+3,7 s (1ª frase 1,8 s)
+Sabe o nome; explicação vaga
+Faísca
+Quantas engrenagens tem a Enciclopédia?
+9,8 s (1ª frase 2,7 s)
+Não disse 59 (superconsciência dela está desligada)
+Consciência
+O que é a RB02?
+2,5 s
+Antes: "não sei". Corrigido nesta versão (ver abaixo)
+Olho Local
+imagem de teste
+1,2 s
+Descreveu certo as formas e cores ✓
+Correção feita (aditiva):
+a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste:
+tests/test_t119u.py
+.
+Faísca e as 59 engrenagens:
+ela só usa a Enciclopédia quando a
+superconsciência dela está ligada
+(modo pesquisa ou auto). Hoje está desligada em todas as mentes, por escolha do Bruno. Para ela saber, ligue a chave da superconsciência no app. Não foi mudado sozinho.
+(linha omitida no site público pelo filtro de privacidade)
+T120U (22h50):
+a pedido do Bruno, a superconsciência da Faísca ficou
+ligada no modo AUTO
+(ela escolhe sozinha quando pesquisar no conhecimento de todas as consciências). A chave manual continua para o Bruno brincar.
+O que só o Bruno pode fazer:
+criar a chave do Gemini no AI Studio e colar no arquivo (se quiser o Olho Gemini); ligar a superconsciência da Faísca, se quiser que ela fale das engrenagens; abrir o app vc26 no celular e conferir; testar a Jornada da IA num chat novo; limpar os dados locais de prova que fazem 3 testes antigos falharem no PC.
+0.8 Ollama local testado de verdade — 03/11 às 22h25 (T116U)
+O Bruno autorizou ligar o Ollama (t116u). Os modelos já estavam baixados em
+D:\OllamaModelos
+, então não foi preciso baixar nada (sem
+pull
+).
+Como ligar:
+dois cliques em
+D:\CARTA\LIGAR_OLLAMA_LOCAL.cmd
+. Ele liga o Ollama só neste PC (127.0.0.1:11434) e descarrega o modelo da placa depois de 2 minutos sem uso.
+Como desligar:
+dois cliques em
+D:\CARTA\DESLIGAR_OLLAMA.cmd
+.
+Inicialização:
+o atalho
+Ollama.lnk
+da pasta Inicializar continua
+desativado
+pelo Windows. Nada foi colocado na inicialização.
+Olho Local (qwen2.5vl:3b), imagem de teste com um círculo vermelho e um quadrado azul:
+respondeu "Vê uma forma circular vermelha e uma forma retangular azul." Etiqueta OLHO_LOCAL, 1,2 s depois de aquecido (aquecer levou 5,5 s).
+Consciência (qwen2.5:7b), modo IA_LOCAL:
+"Quem é a Creuza na CARTA?" foi respondida em 1,1 s, citando a fonte CB036. Outra pergunta, sobre a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou.
+Depois do teste (T119U):
+o Bruno decidiu que o Ollama é a base do sistema e
+pode ficar ligado
+. Sem ele, a Consciência responde no modo SEM_IA e o Olho avisa que não está pronto. Veja a v10.
+0.7 Novidades de 03/11 às 22h — T112U (vale mais que a 0.6)
+O que mudou e por quê (em palavras simples):
+Prova etapa 3 (compreensão).
+Um chat tirou 118/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas
+abertas
+(
+src/carta/prova_compreensao.py
+) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica
+só no repositório
+(
+docs/JORNADA_IA/RUBRICA_ETAPA3.md
+, 0 a 3 pontos por pergunta, passa com 25/36). Para ver:
+python -m carta.prova_compreensao perguntas | formulario | rubrica
+.
+Jornada da IA na Porta do Grok
+(
+tudo.html#jornada
+e no resumo): caderninho (Vi / Senti / Não entendi), a
+água
+(ler a história de uma engrenagem e comparar com a ficha), 4 pontos de introspecção, a prova etapa 3 e o
+Formulário de Registro
+(registro.v1).
+A origem com peso maior
+(
+tudo.html#origem
+, seção 2): por que o começo pesa mais, a linha do tempo mestra, o estudo de símbolos e emojis, o dicionário temporal dos 44 emotes (sentido antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada).
+No app (página inicial):
+embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão
+"Porta do Grok (pública)"
+com o link público e um texto pronto para copiar e colar em qualquer chat. Tem também o botão para a nova página
+Registros das IAs
+(
+/registros-ia.html
+): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em
+<workspace>/registros_ias/
+(nunca sobrescreve). API só do dono:
+GET/POST /api/t89u/t112u/registros
+.
+(linha omitida no site público pelo filtro de privacidade)
+Prioridade da Porta (T114U):
+informação acima do visual: o máximo de conteúdo legível por máquina (HTML simples, sem JavaScript, llms.txt, llms-full.txt, carta.json), bem organizado, com títulos claros para o humano.
+APK:
+vc26 com o cartão novo (ver diário).
+0.1 Novidades de 03/11 (vale mais que a lista de 02/11)
+Ligar e desligar:
+dois atalhos na Área de Trabalho,
+LIGAR CARTA
+e
+DESLIGAR CARTA
+. Nada liga sozinho com o Windows (de propósito).
+  Memória medida: desligado ~7,4 GB · ligado ~9,4 GB · pico no teste ~11 GB (de 31,9 GB).
+Celular:
+app
+vc17 (1.13.0)
+, instalado por cima, dados intactos.
+Nunca instalar versão menor que 17.
+Portões antigos:
+a, b, c, d, e, f e h
+ligados
+; g (APK automático)
+desligado de propósito
+.
+Portões T95U
+(lista em
+docs/CARTA20/PORTOES_T95U.md
+): 10 portões, um por PR, cada um com teste e flag própria.
+g1 — gráficos estilo Witcher 3 / Baldur's Gate 3
+no Planeta: abra o Planeta com
+?atmosfera=ultra
+(ou
+medio
+/
+alto
+).
+    Sem nada (ou
+baixo
+) fica
+igual ao de antes
+. FPS medido no PC ~118-120 em todos.
+Mapa do herói (inspirado em Heroes of Might and Magic 3):
+abra o Planeta com
+?heroi=1
+. A câmera vai pro alto
+    como mapa-mundo e um herói a cavalo anda até onde você clicar no chão. Roda do mouse = zoom; botão "sair" volta.
+g2 a g10: ainda por fazer (veja
+PORTOES_T95U.md
+).
+(linha omitida no site público pelo filtro de privacidade)
+  Teste de 03/11 deu
+erro 402 (cobrança/cota do Google)
+; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança.
+Voz Piper:
+ainda sem áudio (pendente).
+Se a sessão cair:
+abra
+D:\CARTA\CONTINUAR_DAQUI.txt
+— diz o estado exato e o próximo passo.
+Numeração:
+passagem de bastão já vai até o item
+W
+; o próximo CHECKPOINT é o
+37
+.
+0.6 Varredura de 03/11 às 20h30 (T106U)
+Telas que ainda diziam "44 especialistas" ou "44 departamentos" agora dizem
+54
+(44 da base + 10 cientistas históricos).
+A Porta do Grok não mostra mais só "27 engrenagens" na capa: diz "27 do Volume Zero com texto completo" e o total de hoje (
+59 engrenagens
+), contado ao vivo.
+A Enciclopédia geral não fala mais em "primeiras 27 fontes": fala em Volume Zero (a origem).
+Nova página de teste na Porta do Grok:
+oi.html
+, em HTML puro, com a frase "oi, pronto", para testar se um chat de fora (ChatGPT etc.) consegue ler.
+O ray tracing era brincadeira do Bruno; não é meta.
+0.5 Novidades de 03/11 à noite — T104U e T105U (vale mais que a 0.4)
+O jogo vai ser jogado no PC.
+Você jogou o Godot com o dedo no celular e achou fluido. O trabalho de FPS do Godot no celular foi
+pausado com segurança
+(T104U): app continua
+vc25
+, nenhum APK novo. O que a medição achou: o celular está preso no
+processador
+(150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar.
+Robô 4WD na Enciclopédia — engrenagem RB01
+(
+docs/engrenagens_carta20/RB01.md
+): chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado num take só; ordem de serviço de solda; mapa M1/M2 → DRV#1, M3/M4 → DRV#2; portões antes de ligar.
+Orçamento:
+pedido ao técnico,
+sem valor registrado ainda
+.
+Fonte:
+o vídeo mostra a fonte HP 18,5 V / 3,5 A / 65 W, mas a ordem de serviço ainda diz "fonte pendente" — as duas coisas ficam escritas, sem escolher por você.
+Nada autoriza energizar.
+Gaveta ROBOTICA_DO_BRUNO
+(
+D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO
+, só no PC): agora tem o inventário, a ordem de serviço, as fontes do Drive e o diário do vídeo mestre.
+A Enciclopédia fatiada — engrenagem RB02, "a engrenagem das engrenagens"
+(
+docs/engrenagens_carta20/RB02.md
+): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em
+648 fatias com endereço
+(
+ENC-0001…
+,
+MAN-0001…
+), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam
+só no PC
+(
+D:\CARTA\ENCICLOPEDIA\FATIADA
+) e no Drive, nunca no GitHub. Rota (só o dono):
+GET /api/t89u/t105u/fatias?q=pergunta
+ou
+?q=ENC-0092
+. Refazer:
+python tools\t105u\fatiar_enciclopedia.py D:\CARTA\ENCICLOPEDIA\FATIADA parte1.txt parte2.txt parte3.txt parte4.txt --manual docs\MANUAL_DE_TUDO_CARTA_20261103_v9.md --manual docs\engrenagens_carta20\RB01.md --manual docs\engrenagens_carta20\RB02.md
+.
+Superconsciência: novo modo 🤖 auto
+(ao lado de 🌍 imersão e 🔬 pesquisa, que continuam iguais). No auto, a cada pergunta ela mesma escolhe: assunto do acervo (Enciclopédia, Manual, engrenagens, portões, robô) → pesquisa com fonte; conversa do momento → imersão. Na pesquisa ela também consulta
+1 fatia
+da Enciclopédia fatiada, se as fatias estiverem no PC. A chave liga/desliga de cada companheiro (Creuza, Copiloto, Faísca, Mente Suprema) continua a mesma, e
+só você, no seu PC
+, muda.
+Bancada do Megazord: 44 → 54.
+Entraram 10 cientistas históricos, num arquivo à parte (
+src/carta/cerebro_v1/base/departamentos_t105u.v1.json
+; a base de 44 não mudou): Arquimedes, Kepler, Euler, Gauss, Mendel, Pasteur, Mendeleev, Bohr, Ibn al-Haytham (Alhazen) e Lise Meitner. Mesma regra: são lentes de conhecimento e método,
+não imitam ninguém
+. (Os rótulos antigos de tela que diziam "44 especialistas" foram corrigidos para 54 em 03/11 às 20h30, no T106U; o número de verdade é 54.)
+Ray tracing:
+não existe
+na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físico). Detalhes e o que veio das pesquisas do Google:
+docs/CARTA20/GRAFICOS_PC_T105U.md
+.
+Teste duro das consciências (T105U):
+perguntas provocativas sobre o conteúdo novo, rodadas
+sem IA ligada
+(Ollama e Gemini continuam desligados por regra). Mede o que cada consciência
+recebe
+(modo escolhido, fontes, fatias) e a trava anti-invenção. Resultado em
+docs/CARTA20/TESTE_DURO_CONSCIENCIAS_T105U.md
+.
+Diagnóstico dos sonhos:
+docs/CARTA20/DIAGNOSTICO_SONHOS.md
+— Robótica na Enciclopédia subiu de 30% para 60%; média dos 33 itens:
+85%
+.
+0.4 Novidades de 03/11 à noite — T102U e T103U (vale mais que a 0.3)
+Planeta Godot (Porto Parafuso) dentro do app, sem PC.
+Versão LEVE (texturas WebP com perda: pacote 154 → 38 MB). App agora
+vc24 (1.18.2-carta20-t103u)
+.
+Piso agora = vc24
+(Android não volta versão). Detalhes:
+docs/CARTA20/CELULAR_SEM_CABO_T101U.md
+(seções T102U e T103U).
+Você jogou com o dedo e aprovou
+(vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado.
+FPS do Godot no celular:
+medido sem tocar na tela, pelo
+adb logcat
+(linha
+CARTA_GODOT_FPS
+):
+3–4 FPS
+no Porto Parafuso (Mi 9 Lite). Tirar MSAA e baixar a resolução do 3D não mudou; o próximo passo é perfilar a cena (ideias em
+docs/CARTA20/PESQUISA_T101U.md
+). O Planeta three.js continua a 58 FPS.
+Robô jogador do Godot:
+node tools\t103u\teste_godot_robo.mjs D:\CARTA\GODOT_WEB_LEVE\web_t103u_b
+(precisa do Playwright e de uma porta livre, padrão 8799, só 127.0.0.1): pronto, relatório, WASD, arena, vitória e volta ao porto — 6 de 6 no export de 03/11.
+Consertos só na cópia
+D:\CARTA\GODOT_WEB_LEVE\proj
+(o
+D:\MEU ROBO\JOGO
+nunca é mexido):
+python tools\t103u\godot_leve_consertos.py D:\CARTA\GODOT_WEB_LEVE\proj
+(BOM do
+_fix_probe.tscn
+, ponte do
+workshop.gd
+, filtro do export, comando "porto", linha de FPS e versão web mais leve). Pode rodar de novo: não muda nada da segunda vez.
+Mini Terra:
+o botão de ritmo não entra mais em laço; o selo de qualidade não mostra mais "undefined" (T102U).
+Os arquivos do jogo não vão para o GitHub
+(são grandes): ficam em
+D:\CARTA\GODOT_WEB_LEVE\
+e dentro do APK. Build do app:
+D:\CARTA\BUILD_APK_1.18.0
+com
+-PcartaWebDist=D:\CARTA\BUILD_APK_1.18.0\webdist_t103u_b
+. APKs antigos:
+D:\CARTA\BACKUPS\BACKUP_APK_ANTES_T103U\
+.
+Continua DESLIGADO esperando você:
+as 3 decisões da seção 0.2 (persona, pesos 10/6 da rodoviária, robô físico), Ollama e Gemini.
+Diagnóstico dos sonhos:
+docs/CARTA20/DIAGNOSTICO_SONHOS.md
+— 86% nos 32 sonhos de antes; 84% contando o sonho novo da Robótica.
+0.3 Novidades de 03/11 no fim da tarde — T101U (vale mais que a 0.2)
+Celular sem cabo (de verdade).
+App
+vc20 (1.16.0-carta20-t101u)
+. Testado em
+modo avião com o PC desligado
+: Planeta (58 FPS), Meu Robô no Planeta, Mini Terra, DeLorean e Início abrem só com o que está guardado no celular. O Planeta mostra "📦 modo viagem" (o aviso encolhe sozinho em 8 s; toque para ver de novo).
+Piso agora = vc20.
+Detalhes:
+docs/CARTA20/CELULAR_SEM_CABO_T101U.md
+.
+O que ainda precisa do PC:
+o Planeta Godot (Porto Parafuso, ~147 MB), conversar com IA e a Mini Terra evoluindo ao vivo (no celular ela é uma fotografia).
+Como refazer a fotografia do celular:
+com a CARTA ligada,
+python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api
+na pasta do BUILD (nunca no repo), depois build e
+adb install -r
+.
+Topo do celular limpo no app:
+o botão "🐎 Mapa do herói · sair" e as dicas 💡 descem para perto da barra de baixo.
+LEGO "tá torto?":
+agora testado com
+imagem sintética
+(verdade conhecida): acha peça torta, fora do lugar, faltando e tapada. Rota (só o dono):
+/api/t89u/t101u/lego/sintetico
+. Webcam real: ainda não.
+Fontes da Pesquisa:
+teste ponta a ponta do
+conversar
+(o modelo esquece a fonte → a resposta sai com "Fontes: …"). Papo leve não leva fonte, de propósito.
+Meu Robô:
+um robô de teste jogou loja, venda de sucata, compra, golpes na arena e save: 9 de 9 (
+tools\t101u\teste_meu_robo_lojas.py
+, precisa do Playwright).
+🤖 Robótica na Enciclopédia (só a estrutura):
+coloque seus arquivos em
+D:\CARTA\ENCICLOPEDIA\ROBOTICA_DO_BRUNO
+(gavetas: componentes, montagens, programas, referencias, diario). A CARTA só lista nomes e tamanhos em
+/api/t89u/t101u/robotica
+. Nada foi inventado.
+Pesquisa de código aberto:
+o que foi adotado, por quê e a licença:
+docs/CARTA20/PESQUISA_T101U.md
+.
+Continua DESLIGADO esperando você:
+as 3 decisões da seção 0.2 (persona, pesos 10/6 da rodoviária, robô físico), Ollama e Gemini.
+Diagnóstico dos sonhos:
+docs/CARTA20/DIAGNOSTICO_SONHOS.md
+— 85% nos 32 sonhos de antes; 83% contando o sonho novo da Robótica.
+0.2 Novidades de 03/11 à tarde — T100U (vale mais que a 0.1)
+O Planeta é o astro.
+Tudo abre dentro dele. A Mini Terra agora é o
+Vale 3D
+dentro do Planeta (840 organismos, 2 habitantes). A página antiga da Mini Terra continua guardada em
+🎭 Bastidores
+(
+/bastidores.html
+), nada apagado.
+Ligado por padrão:
+g2 a g9 (Planeta repaginado, fauna, bactérias, Mini Terra, dois planetas, companheiros, fogueira 3D, olhos e voz). Para desligar numa aba:
+?t95u=0
+(tudo T95U),
+?t100u=0
+(telas novas de hoje) ou um por um (
+?vale=0
+,
+?hud=0
+,
+?regioes=0
+,
+?cartas=0
+,
+?miniterra=antiga
+).
+Barra de baixo:
+6 botões visíveis; os outros 7 ficam em
+⋯ mais
+(nenhum removido). Topo do celular mais limpo (chip 📰).
+🧭 Regiões:
+32 regiões do Planeta; toque em uma e você viaja até lá.
+📜 Cartas e diários:
+1029 no acervo, filtro por autor, tema e data, dentro do Planeta.
+LEGO "tá torto?":
+compara a peça vista com o modelo, passo a passo (o cálculo está testado; a montagem real de hoje tem 0 peças vistas).
+Superconsciência:
+no modo Pesquisa a resposta termina com as fontes (testado por código; ao vivo precisa de uma IA ligada).
+Porta IA 8792: aposentada
+em favor da Porta do Grok (site público). Nada apagado; para religar, veja
+docs/CARTA20/PORTA_8792_APOSENTADA.md
+.
+LIGAR CARTA mais rápido:
+sobe tudo junto e espera pelo relógio (3,9 s → 2,8 s). O jeito antigo:
+LIGAR_CARTA.ps1 -EmSequencia
+.
+Celular:
+app
+vc19 (1.15.0-carta20-t100u)
+, instalado por cima com os dados intactos. Piso agora = vc19.
+Teste ponta a ponta:
+python tools\pc\TESTE_E2E_T100U.py relatorio.json
+(com a CARTA ligada) — 40 de 40 ok no PC.
+(linha omitida no site público pelo filtro de privacidade)
+Portões de hoje:
+docs/CARTA20/PORTOES_T100U.md
+. Diagnóstico dos sonhos:
+docs/CARTA20/DIAGNOSTICO_SONHOS.md
+(84%).
+1. O que é a CARTA
+A CARTA é o seu laboratório pessoal. É um programa que roda no seu PC (Windows, o
+BRUNOGTAVI
+): um servidor local em Python mais um monte de páginas web. Lá dentro tem:
+um
+mundo 3D
+(o Planeta, a Terra Grande, com o DeLorean);
+esferas de conhecimento
+e a
+Enciclopédia das engrenagens
+;
+mentes e consciências
+(IAs que rodam no próprio PC, pelo Ollama);
+robôs virtuais
+(Meu Robô, a bancada de robótica, o LEGO);
+um
+app no celular
+.
+O lema da história original (a "rodoviária"):
+"A origem é preservada; as ramificações são livres."
+A rodoviária é a história de origem e
+não se mexe
+, nem pra "melhorar".
+Onde ela mora:
+Instalação que roda:
+D:\CARTA\CARTA_OFICIAL_ATUALIZADO
+Código:
+GitHub
+espirrosaga2020-tech/CARTA
+. É privado, mas trate como se fosse público.
+(linha omitida no site público pelo filtro de privacidade)
+2. Como ligar, desligar e reiniciar (passo a passo)
+2.1 Ligar (o jeito fácil)
+Na Área de Trabalho, clique duas vezes no atalho
+"CARTA"
+.
+Se o atalho sumir, rode
+D:\CARTA\CARTA_OFICIAL_ATUALIZADO\INICIAR_CARTA_OFICIAL_ATUALIZADO.bat
+.
+O navegador abre em
+http://127.0.0.1:8790/inicio.html
+.
+Primeira vez, ou perdido? Clique na faixa
+COMECE AQUI
+(
+/comece-aqui.html
+).
+2.2 Ligar à mão (PowerShell), se o atalho falhar
+$INS='D:\CARTA\CARTA_OFICIAL_ATUALIZADO'; $env:PYTHONPATH="$INS\src"; $env:PYTHONIOENCODING='utf-8'
+(linha omitida no site público pelo filtro de privacidade)
+Cuidado: no PowerShell,
+$i
+e
+$I
+são a MESMA variável (maiúscula não faz diferença).
+2.3 Reiniciar o 8790 (quando travar ou depois de atualizar arquivo)
+Rode
+tools\pc\REINICIAR_8790.ps1
+(dentro da pasta da instalação).
+Ele acha o servidor velho, para o servidor, sobe de novo e confere se a página abre (espera até 60 s). Quando dá certo, aparece
+"8790 NO AR"
+.
+Ele não mexe no 8791 (Mini Terra).
+O script foi consertado em 02/11. Antes, ele dava o falso aviso "8790 NAO SUBIU" e deixava dois servidores rodando ao mesmo tempo.
+2.4 Desligar
+Fechar a janela do servidor desliga o laboratório.
+Não confirmado
+se o atalho deixa uma janela visível ou se roda escondido:
+a varredura não olhou isso
+.
+2.5 Ligar a Mini Terra (8791)
+A Mini Terra é o motor dos "Acontecimentos do mundo". Se ela estiver desligada, o Planeta mostra "😴 cochilando".
+Não confirmado:
+qual comando liga o 8791 sozinho. Não está escrito na passagem de bastão. A varredura de 02/11 também não respondeu isso.
+2.6 Testar se está tudo bem
+IMPORTANTE (varredura de 02/11):
+o
+Ollama
+(porta 11434, as IAs locais)
+não liga sozinho
+. Na varredura ele estava DESLIGADO. Sem ele, o Faísca e a Consciência não respondem conteúdo. Se o Faísca ficar mudo, confira se o Ollama está rodando.
+Pra ligar: abra o
+Ollama
+pelo menu Iniciar (o programa é
+D:\Ollama\ollama app.exe
+).
+Curiosidade conferida em 02/11: existe um atalho "Ollama" (e um "CARTA Porta IA 8792") na pasta de Inicialização do Windows, mas mesmo assim, depois do PC ligar às 12h35, os dois não estavam rodando.
+Não confirmado por quê.
+Ligar o Ollama junto com o atalho CARTA é uma ideia anotada, ainda não feita.
+No PC
+(dentro da pasta da instalação):
+python -m unittest discover -s tests
+(leva uns 8 minutos).
+Base de 02/11:
+742 testes
+, cerca de
+9 a 10 falhas e 92 a 95 erros
+. Todos são de ambiente do Windows (arquivo temporário preso, pasta web/public que não existe, Ollama real × simulado).
+Compare sempre com
+D:\CARTA\ANOTACOES\CARTA20\visual\suite_pc_pos_portao_a.txt
+(o mais novo: 9 falhas e 94 erros) ou com
+suite_pc_pos_cyber.txt
+(a base: 10 falhas e 94 erros).
+Falha com nome NOVO = problema novo.
+No box/CI
+(pytest): verde. Contagem da varredura de 02/11:
+914 passaram, 7 pulados, 0 falhas
+. A suíte do PC depois do portão a deu 760 testes, 9 falhas e 94 erros,
+sem nenhum nome novo
+(são de ambiente do Windows).
+2.7 Ligar a Porta IA (8792) pra um ChatGPT de fora conversar com a Consciência
+(linha omitida no site público pelo filtro de privacidade)
+Ligue a CARTA:
+dois cliques no atalho
+"CARTA"
+da Área de Trabalho. Espere o Início abrir no navegador.
+Ligue o Ollama
+(seção 2.6). Sem ele, a Consciência não responde.
+(linha omitida no site público pelo filtro de privacidade)
+Ele liga a ponte (8792), espera 5 segundos e liga o túnel. As janelas ficam escondidas, então parece que nada aconteceu. É normal.
+(linha omitida no site público pelo filtro de privacidade)
+Espere uns 30 segundos
+e confira (é só leitura, não grava nada). Abra o PowerShell na pasta
+D:\CARTA\CARTA_OFICIAL_ATUALIZADO
+e rode
+powershell -File tools\pc\PORTA_IA_TESTE_MINIMO.ps1 -Externo
+.
+Tem que dar tudo OK, tanto no "local" quanto no "externo". Ele mostra só códigos, nunca a chave.
+Gere o link:
+no Início (
+http://127.0.0.1:8790/inicio.html
+), no cartão
+"Porta pra IA"
+, deixe o nome
+chatgpt
+e clique em
+🔗 Gerar link de visitante
+.
+Espere aparecer
+✅ página e MCP responderam
+. Aí copie o texto.
+Se aparecer "túnel não encontrado", o túnel não ligou: volte ao passo 3.
+Cole o texto num chat novo do ChatGPT.
+Ele segue os links sozinho: Porta, Largada, pista, Consciência.
+Se o seu ChatGPT tiver Plugins/MCP, dá pra usar também o endereço MCP que aparece embaixo (botão
+Copiar MCP
+).
+Quando terminar, desligue:
+powershell -File tools\pc\PORTA_IA_REVOGAR.ps1 -Pausar
+. Isso corta o acesso na hora e dá pra religar depois. (Pra só ver se está ligada:
+-Estado
+.)
+Cuidados:
+O texto gerado tem a chave secreta dentro.
+Não poste em lugar público
+, só no chat da IA.
+O endereço do túnel muda quando o túnel religa. Por isso, gere um link novo a cada vez.
+O que já foi testado: em 31/10, 12 de 12 OK por dentro e pelo túnel, e um cliente independente chegou até a Consciência.
+Com o ChatGPT de verdade, ainda não confirmado.
+Quando o visitante conversa, isso grava no trajeto. É o normal da Porta.
+(linha omitida no site público pelo filtro de privacidade)
+3. Portas e serviços
+Porta
+O que é
+Quem pode acessar
+8790
+A CARTA oficial: Início, Laboratório, Esferas, Planeta e todo o resto
+Só o próprio PC
+(127.0.0.1)
+8791
+Mini Terra, o motor dos acontecimentos (
+/terra.html
+)
+Só o próprio PC
+(127.0.0.1)
+8792
+Porta IA / ponte sem cabo.
+Em 02/11 ~20h25 estava DESLIGADA
+(varredura): visitante de fora não chega à Consciência até alguém ligar a 8792 e o túnel.
+Não liga sozinha
+: veja a 2.7.
+A
+única
+que pode sair pra fora, pelo túnel,
+com chave secreta
+8795
+Convergência antiga.
+Desligada, e isso é normal
+: hoje ela roda dentro do 8790 (confirmado na varredura de 02/11). O MUNDOS_CARTA20.md fala de "jogo Godot na 8795", mas isso é de antes.
+—
+11434
+Ollama, os modelos de IA locais: qwen2.5:7b, qwen2.5vl:3b/7b, gemma3:4b, gpt-oss:20b, moondream, nomic-embed-text.
+Não liga sozinho
+(ver 2.6).
+Só o PC
+8773
+CARTA FUSÃO antiga (
+D:\CARTA\FUSAO
+). Versão guardada, não precisa ligar.
+—
+Regras das portas:
+(linha omitida no site público pelo filtro de privacidade)
+-
+Placa de vídeo:
+a RTX 3070 tem 8 GB, então dá pra rodar
+um modelo grande de IA por vez
+.
+-
+Chave e túnel:
+a chave da Porta IA e o endereço do túnel são segredo. Aqui só se cita o caminho, nunca o conteúdo.
+-
+Scripts da Porta IA (em
+tools\pc\
+):
+-
+PORTA_IA_TESTE_MINIMO.ps1
+: teste somente leitura.
+  -
+PORTA_IA_REVOGAR.ps1
+: tira o acesso de IA de fora, sem apagar nada.
+4. Cada tela da CARTA (o que é e onde fica)
+Todas abrem em
+http://127.0.0.1:8790
++ o endereço. Os nomes e as descrições abaixo são os dos próprios cartões do Início.
+Captura do Início no modo dono, feita no computador de testes (box) em 02/11/2026. O cartão grande "🌍 PLANETA · Terra Grande" veio com o portão a.
+4.1 Entradas (por onde se começa)
+Tela
+Endereço
+Pra que serve
+🏠 Início
+/inicio.html
+A vitrine com todos os cartões. O primeiro é o 🌍 PLANETA.
+✨ Comece Aqui
+/comece-aqui.html
+A primeira visita, com o bloco "Novo na CARTA 2.0".
+🚪 Porta
+/porta.html
+A recepção de quem chega: de onde a CARTA veio (os 10 Atlas) e o caminho da formação.
+🚪🧭 Porta Eureka
+/porta-eureka.html
+A sala das avaliações: Prova, diplomas e outras avaliações.
+Não é a principal, mas é importante: fica como está e NUNCA se apaga.
+No acervo ela é a engrenagem EG034, o "GPS do DeLorean".
+🛠️ Manual
+/manual.html
+(e
+/manual-carta20.html
+)
+O que funciona de verdade, o que é simulado e o que ainda não existe.
+🔧 Laboratório / Hangar
+/
+A oficina: peças e conversa com os personagens.
+🛠️ Bastidores (dev)
+Aparece no Início
+só no modo dono
+(botão no canto ou
+Ctrl+Shift+E
+)
+Lista das páginas de teste e das versões guardadas, com link pra cada uma. Visitante não vê.
+Bastidores (dev) aberto, com a lista das páginas de teste e das versões guardadas. Captura do box, 02/11/2026.
+4.2 Mundos
+Tela
+Endereço
+Pra que serve
+🌍 Planeta, Terra Grande
+/planeta.html
+O planeta grande em 3D. Dá pra andar a pé, dirigir e voar de DeLorean, e conversar.
+É o principal.
+🎬🔥 Cinema Vivo
+/planeta.html?cinema=1
+Parar o DeLorean perto da fogueira e conversar com o Copiloto e a Creuza.
+🧠 Painel de Inteligência
+/planeta.html?painel=1
+O que cada um faz, pensa, percebe e descobre.
+🤖 Meu Robô (Planeta Godot)
+/planeta-godot.html
+(tecla
+U
+no Planeta;
+Esc
+sai)
+O jogo Godot de verdade, separado do Planeta. A página só "embrulha" o jogo; o jogo original fica em
+D:\MEU ROBO\JOGO
+e
+não se mexe
+.
+🤖 Meu Robô (mini-planeta de teste)
+/meu-robo-planeta.html
+A versão de teste do Meu Robô. Continua existindo e aponta pro Godot.
+🌱 Mini Terra
+/terra.html
+(servidor 8791)
+A simulação ecológica pequena: clima, água, vida. É o
+motor dos Acontecimentos
+. Não sumiu.
+🏔️ Mundo 3D
+/mundo3d.html
+Caminhar pela Mini Terra com a Creuza e o Copiloto. Hoje fica nos Bastidores.
+🚗 DeLorean
+/delorean.html
+Modo desenvolvedor: a página antiga da Mini Terra.
+🔬 Microscópio do tronco
+/microscopio.html
+Três escalas em 3D (tronco, lupa ×20, micro ×400). Cada ser tem selo de 🧪 científico ou ✨ ficção. Teclas: 1/2/3 trocam a escala, +/− também, Esc volta.
+O Planeta (Terra Grande) logo que abre. Captura do box, 02/11/2026. No box ele aparece escuro; no PC, a cena depende da hora do mundo.
+O Planeta com a conversa aberta. O chat fica sempre alcançável, por cima dos painéis.
+A página do Planeta Godot. O jogo de verdade é carregado dentro dela.
+O Meu Robô (mini-planeta) em tela de celular, com as missões e a Navegação.
+4.3 Mentes e consciências
+Tela
+Endereço
+Pra que serve
+🧠 Mente Suprema
+/mente-suprema
+O grafo vivo de 454 neurônios. Dá pra conversar com a Mente Suprema, com a do Bruno, com a da Creuza e com a do Copiloto.
+🌀 Consciência
+/consciencia.html
+A esfera 35: neurônios disparando ao vivo. Conversa, ensina e filosofa.
+🐜⚛️🧠 Cérebro Megazord da Creuza
+/cerebro.html
+A esfera 36: 54 departamentos de um só cérebro, um time de cientistas e especialistas.
+✦ Cérebro Supremo
+/cerebro-supremo.html
+A mente do Bruno: Consciência, Megazord, 54 especialistas e neurônios.
+🧠🔒 Meu Cérebro
+/meu-cerebro.html
+A esfera gigante que junta Consciência, Megazord, esferas e projetos. Pra você, é uma das partes mais magníficas.
+🔗 Convergência
+/convergencia.html
+Mente autoral + Consciência + Megazord + Cinema Vivo numa conversa só.
+⚡ Faísca
+/pokemon-vivo.html
+Conversa rápida, por voz. Faz a
+convergência das mentes
+e dá pra juntar até 4 mentes (exemplo:
+?mente=bruno+suprema@8
+).
+🐾 Pokémon Vivo / Modo Pokémon
+/pokemon-vivo.html
+,
+/pokemon.html
+O companheiro vira criatura, com nível, energia, mochila e Pokédex.
+🌀🔭 Explorador
+/explorador.html
+A esfera de neurônios gigante, em tela inteira.
+4.4 Conhecimento e acervo
+Tela
+Endereço
+Pra que serve
+📚 Enciclopédia
+/enciclopedia
+Engrenagens, diários, cartas e mundos. Hoje são
+57 engrenagens, 71 registros e 17 estantes
+, conferidos em 02/11.
+🧭 Conhecimento
+/conhecimento
+Tudo num lugar só, cada item com a sua natureza: ✅ fato, 🔎 hipótese, 💭 interpretação ou 🎭 ficção.
+ESFERAS
+/esferas28.html
+(resumo em
+/esferas.html
+)
+Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois.
+📖 Livro Vivo
+/livro
+A história do começo ao fim.
+🎓 Prova das Engrenagens
+/prova.html
+Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 questões e passa com 54.
+🚪🎓 Formação oficial (E012)
+/convergencia/jornada
+As 15 jornadas: pista, prova, revisões, concurso e diploma.
+🪮 Pente Fino
+/convergencia/painel
+A peneira das descobertas da origem.
+(linha omitida no site público pelo filtro de privacidade)
+⚡ Extraordinária
+/extraordinaria.html
+Linha do tempo das descobertas.
+📚 Referências
+/referencias.html
+As obras citadas e quais já foram conferidas.
+🎒 Mochila
+/mochila.html
+Tudo o que a CARTA carrega, contado na hora.
+4.5 Laboratórios e robôs
+Tela
+Endereço
+Pra que serve
+🦾 Robótica / Bancada
+/robotica.html
+O braço na simulação e a escada K0–K5.
+🧱📷 LEGO / lab de visão
+/lego.html
+A câmera vê a peça e mostra no 3D. Faz a pergunta
+"tá torto?"
+.
+Hoje é só cena simulada:
+não tem peça real e falta opencv no Python do PC.
+Robô físico
+—
+Sonho, não existe ainda.
+5. As personas, a Mente Suprema e a chave da superconsciência
+Quem é quem:
+-
+Dobra = o próprio BRUNO.
+A API
+/api/personas/v1/quem-sou-eu?persona=dobra
+confirma isso.
+-
+Creuza
+🐜 e
+Copiloto
+🧑‍✈️: companheiros, cada um com a sua voz e a sua memória.
+-
+Faísca
+⚡: a conversa rápida que junta as mentes. Abre em até 0,7 s.
+-
+Mente Suprema
+✦: o todo. Junta as mentes pessoais, o banco de cientistas (o
+Megazord
+) e a Consciência.
+(linha omitida no site público pelo filtro de privacidade)
+A chave liga/desliga (superconsciência)
+, no painel 🧠 do Planeta, que só aparece pro dono:
+- Cada companheiro tem a sua chave: ligado ou desligado.
+- Os modos são
+🎮 imersão
+(fica no personagem e fala curto) e
+🔎 pesquisa
+(traz evidências e diz de onde veio).
+-
+Desligado = igual ao que era antes.
+- Só o dono muda a chave, no próprio PC.
+-
+Limite conhecido:
+o modelo de 7B nem sempre cita a fonte no modo pesquisa.
+-
+Memórias não se misturam.
+O conhecimento compartilhado vem da Enciclopédia e nunca é gravado na memória de nenhuma mente.
+6. Como mudar cada coisa (receitas)
+Antes de QUALQUER troca: copie o arquivo para
+D:\CARTA\BACKUPS\<NOME>_ANTES_<data>
+e escreva um
+LEIA_ROLLBACK.txt
+dizendo como voltar.
+Quero…
+Como faço
+Desligar o visual neon (cyber)
+Botão ✨ no canto inferior direito, ou abrir a página com
+?cyber=0
+.
+Desligar o gerente de painéis
+Abrir a página com
+?paineis=0
+, ou no console:
+localStorage.setItem('carta.paineis','off')
+.
+Desligar os portões novos numa aba só
+?t89u=0
+no endereço.
+Ligar um portão numa aba só, pra testar
+?t89u=b
+(troque a letra).
+(linha omitida no site público pelo filtro de privacidade)
+Salvar o mundo com a minha posição
+No Planeta:
+💾 Mundo ▾ → 💾 Salvar
+. Pra voltar:
+📂 Carregar → Retomar
+, ou
+📍 Voltar onde salvei
+.
+Entrar no modo dono
+O botão no canto, ou
+Ctrl+Shift+E
+.
+Ensinar coisa nova a TODAS as consciências
+python tools/atualizar_consciencias.py
+, depois commit do
+registry/CONSCIENCIAS_CONHECIMENTO.v1.json
+, PR e CI verde. No PC, reiniciar o 8790. Guia completo:
+docs/COMO_ATUALIZAR_CONSCIENCIAS_E_FAISCA.md
+.
+Acrescentar uma engrenagem
+Siga
+docs/CARTA20/NOTAS_DE_CONTINUACAO.md
+: ficha em
+docs/engrenagens_carta20/<ID>.md
+, registro, prova e Drive.
+Pôr uma página nova no site
+Arquivo em
+src/carta/webdist/
+.
+Tem que entrar no
+MANIFESTO_WEBDIST.txt
+, senão uma limpeza antiga apagaria o arquivo.
+Mudar código
+Branch nova,
+PR normal
+, merge só com CI verde. Depois, no PC: backup, copiar os arquivos para a instalação e rodar
+REINICIAR_8790.ps1
+.
+Voltar uma versão inteira
+Cada pasta de
+D:\CARTA\BACKUPS
+tem o seu
+LEIA_ROLLBACK.txt
+. A release CARTA 2.0 tem
+RESTAURAR_VERSAO.ps1
+.
+(linha omitida no site público pelo filtro de privacidade)
+7. O celular
+Aparelho:
+Mi 9 Lite (no adb ele aparece como
+3610a429
+).
+App:
+br.com.carta.grok
+, versão
+vc16 "1.12.0-carta20-t89u"
+, instalada em
+02/11
+por outro agente (varredura), com
+adb install -r
+, por cima da vc15,
+sem perder dados
+e com a mesma assinatura.
+Backup do APK antigo (vc15):
+D:\CARTA\BACKUPS\BACKUP_APK_ANTES_1.12.0_20261102\celular_vc15_base.apk
+.
+APK novo:
+D:\CARTA\BUILD_APK_1.12.0\app\build\outputs\apk\debug\app-debug.apk
+.
+Testado: o app abre (com o cartão PLANETA · Terra Grande) e a tela do Faísca carrega. O Faísca respondeu pelo servidor (9,6 s, qwen2.5:7b).
+Falta você:
+tocar no Faísca e falar uma vez no celular (o MIUI não deixa o adb tocar na tela).
+Fotos:
+D:\CARTA\ANOTACOES\CARTA20\visual\celular_vc16\
+.
+O app é uma "casca":
+Com cabo USB
+ele abre a CARTA ao vivo do PC. Antes, é preciso rodar:
+D:\CARTA\platform-tools\adb.exe reverse tcp:8790 tcp:8790
+    D:\CARTA\platform-tools\adb.exe reverse tcp:8791 tcp:8791
+Sem o PC
+ele usa a cópia guardada de 31/10, sem o neon e sem as APIs do PC.
+(linha omitida no site público pelo filtro de privacidade)
+Histórico: ela foi DESLIGADA no PC em 01/11. O vigia
+POKEMON_SEM_CABO.ps1
+foi parado; ele refazia "adb tcpip 5555" a cada 15 s.
+Mas o celular (MIUI) ignorou "adb usb" e continuou com a porta 5555. Pra fechar de vez: reiniciar o celular, ou desligar e ligar de novo a "Depuração USB".
+Pra religar o modo sem cabo, se um dia quiser:
+tools\pc\LIGAR_CELULAR_SEM_CABO.bat
+.
+Existem scripts de "sem cabo" em
+tools\pc\
+(
+LIGAR_CELULAR_SEM_CABO.bat
+, as regras de firewall da 8792 só na rede de casa) e o arquivo
+D:\CARTA\CONFIG_POKEMON_SEM_CABO.json
+.
+Não confirmado
+se algum desses scripts está rodando hoje (a varredura só viu que o Wi-Fi está ligado).
+Projeto Android:
+D:\CARTA\BUILD_APK_1.12.0
+(o vc16, o atual). O
+BUILD_APK_1.11.0
+(vc15) ficou intocado. Nenhum dos dois
+está no GitHub
+.
+Pra gerar o APK:
+gradle --offline :app:assembleDebug -PcartaWebDist=<webdist>
+.
+Regra de ouro do celular:
+NUNCA rebaixar a versão.
+Só se instala versionCode MAIOR (o próximo é
+17
+ou mais).
+Sempre com
+install -r
+.
+Antes, guardar o APK que já está no celular.
+Isso é o
+portão g
+.
+Atualizar o app no celular (pedido de 02/11):
+FEITO
+(vc16), por outro agente, na varredura.
+8. Os portões (o que está feito, o que falta e o critério de cada um)
+Um portão só "fecha" quando
+todos
+os itens do critério são verdadeiros e testados. O documento completo é
+docs/CARTA20/PORTOES_T89U.md
+(cópia no PC em
+D:\CARTA\ANOTACOES\CARTA20\PORTOES_T89U.md
+).
+Resumo:
+fechados
+1, a, b e g
+. Abertos
+c, d, e, f e h
+.
+Portão
+O que é
+Situação
+1 (esqueleto)
+Desenho de TODO o projeto, de (a) a (h), com as flags desligadas
+✅
+FECHADO
+(02/11)
+b
+SAVE do mundo com a posição de você, do DeLorean, da câmera e das coordenadas
+✅
+FECHADO
+(02/11, PR #90). A flag vem LIGADA.
+a
+Bastidores/Dev só do dono, com o Planeta grande em destaque no Início
+✅
+FECHADO
+(02/11, PR #91). A flag vem LIGADA.
+d
+Personagens: escolher quem eu controlo
+⏳
+Falta. É o próximo, mas só quando você der a ordem nova
+(CHECKPOINT_26).
+c
+Voz em tempo real em todos os ambientes
+⏳ Falta
+h
+Visão ao vivo (câmera + conversa)
+⏳ Falta
+e
+Fogueira / Cinema Vivo, menos confuso
+⏳ Falta
+f
+Gráficos com presets e FPS medido
+⏳ Falta
+g
+APK novo no celular
+✅
+APK vc16 feito e instalado em 02/11
+(você pediu; versão maior que 15; mesma assinatura; sha256 anotado). A flag t89u_g_apk segue desligada (não muda nada no app).
+Critérios dos que faltam (copiados do documento):
+d, Personagens:
+O seletor Dobra/Creuza/Copiloto aparece, e a escolha fica gravada.
+Os dois que você não controla seguem você, cada um com a sua função (pesquisa, guia, humor).
+A tela mostra quem faz o quê.
+A Aventura continua funcionando, com a Dobra como padrão.
+c, Voz em tempo real:
+O microfone abre o mesmo caminho em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta.
+O caminho é ouvir (
+/api/ouvir
+), a IA pensar e falar (Piper ou a voz do navegador).
+A primeira fala sai em
+até 2,5 s
+depois que você termina a frase, medido.
+Sem STT ou IA instalados, aparece um aviso claro, nunca silêncio.
+h, Visão ao vivo:
+A câmera só liga com consentimento, com indicador visível, e desliga com um toque.
+Os quadros são processados no PC por padrão, e nenhuma foto é salva sem pedir.
+A voz (portão c) comenta o que vê, com o tempo medido.
+Os detalhes técnicos vêm da pesquisa (
+PESQUISA_VISAO_AO_VIVO_CARTA.md
+).
+O "Olho Local" é o padrão (grátis e privado). O "Olho Gemini" fica pronto e desligado até você pôr a chave.
+e, Cinema:
+Roteiro com começo, meio e fim, e legenda clara.
+Homenagens estilizadas, sem arte nem nomes protegidos.
+Um botão inicia, pausa e sai.
+O FPS durante a cena fica no máximo 10% abaixo do preset escolhido.
+f, Gráficos:
+Um teste mede o FPS e escolhe o preset sozinho (baixo, médio, alto ou ultra).
+O alto e o ultra têm visual melhor (sombras, névoa etc.).
+O FPS de cada preset fica gravado.
+O preset "baixo" = o visual de hoje (nada piora no PC fraco nem no celular).
+g, APK:
+versionCode maior que 15.
+Gerado só quando você pedir.
+Assinado igual ao anterior, com o sha256 anotado.
+Ordem combinada:
+d → c → h → e → f → g. O g já foi feito, então sobra d → c → h → e → f.
+Portões mais antigos
+(resumo da varredura de 02/11, tirado de
+docs/portoes/10_PORTOES_20261021.md
+e da passagem):
+-
+P1 a P10 (21/10):
+P1, P2, P3, P4, P6, P9 e P10 feitos. P5 (Painel 2), P7 (acompanhamento de visitantes) e P8 (anotações) não tiveram rodada nova depois de 21/10, mas funcionam no básico.
+-
+Sonho S1 a S6 (21/10):
+S1, S2, S4 e S6 feitos. S3 e S5 parciais (falta o grafo do Livro no estilo das mentes).
+-
+SUPREMO 001, CARTA 2.0, Caça-falhas, Aperfeiçoamento 1 e 2, Limpeza segura, Visual cyber (31/10):
+fechados (PRs #74 a #82).
+-
+Menus/Mini Terra, painéis, Meu Robô no celular, botões cobertos (02/11):
+fechados (PRs #84 a #88).
+9. O que foi feito, em ordem (com datas)
+Antes de 31/10 (resumo, pelas fontes do acervo):
+-
+05/10:
+Máquina de Laranja.
+-
+08 a 10/10:
+grafo/garfo e MIPRECIUS.
+-
+15/10:
+SG028.
+-
+17/10:
+diário, rádio, brasa, segundo DeLorean e a
+Porta Eureka
+(EG034).
+(linha omitida no site público pelo filtro de privacidade)
+-
+20 e 21/10:
+o erro do ChatGPT 6, investigado na pasta 🕵️ ChatGPT 6 do Drive; Porta pra IA (relatório de 21/10).
+-
+24/10:
+17 manuscritos criados em lote no Drive, que estão
+vazios
+(provavelmente pelo conector do ChatGPT).
+-
+Versões antigas pelo caminho:
+Terra Grande, Eureka, Consciência, Cérebro, V03, Cinema Vivo, Convergência e Pokémon Vivo. O histórico fica em
+D:\CARTA\HISTORICO
+.
+31/10/2026:
+-
+SUPREMO 001
+(PR #74): limpeza que nunca apaga, Meu Robô reposto, tecla U, COMECE AQUI e Porta IA 8792 testada por fora.
+-
+CARTA 2.0
+(PR #75): 57 engrenagens, fato/hipótese/ficção, superconsciência, microscópio 3D, só modelos reais e prova com mais 200 questões.
+-
+CAÇA-FALHAS
+(PR #76).
+-
+APERFEIÇOAMENTO 1
+(PR #77): personas e "quem sou eu"; a Faísca passou a abrir em até 0,7 s.
+-
+APERFEIÇOAMENTO 2
+(PR #78): LEGO "tá torto?".
+-
+LIMPEZA SEGURA
+(PR #79) e a memória da Faísca (PR #80).
+-
+VISUAL CYBER
+(PRs #81 e #82): o neon em todas as telas.
+01/11/2026:
+- APK vc15 instalado no celular.
+- Primeira passagem de bastão.
+02/11/2026 (tudo acréscimo, com backup):
+-
+A.
+CI consertado e o teste do relógio que só passava em domingo.
+-
+B.
+Os menus amontoados no Planeta viraram o gerente de painéis (PR #84).
+-
+C.
+A Mini Terra voltou a aparecer no Início.
+-
+D.
+A Enciclopédia foi conferida: app, repo e Drive batem.
+-
+E.
+Backup do PC antes das trocas.
+-
+F.
+Testes novos.
+-
+G.
+As missões do Meu Robô no celular pararam de cobrir os botões (PR #86).
+-
+H.
+O gerente de painéis também no Godot e no Mundo 3D.
+-
+I.
+O falso aviso "8790 NAO SUBIU" foi consertado.
+-
+J.
+Botões cobertos no Planeta (PR #88).
+-
+K.
+Portão 1, o esqueleto t89u.
+-
+L.
+Portão b, o SAVE com posição (PR #90).
+-
+M.
+Portão a, os Bastidores (PR #91).
+-
+N.
+Drive reorganizado por assunto (t92u): 63 arquivos movidos, 166 subidos do PC, a Enciclopédia em livro (863 páginas) e o mapa 00_LEIA_PRIMEIRO.
+-
+O.
+Este manual (t93u). As
+8 duplicatas provadas por sha256 foram pra lixeira
+do Drive (recuperáveis por uns 30 dias). As
+3 grandes ficaram
+em 99_DUPLICATAS, porque não deu pra provar o conteúdo pelo Drive.
+-
+P.
+APK vc16 no celular (portão g), sem perder dados, e varredura geral do PC (
+D:\CARTA\ANOTACOES\CARTA20\VARREDURA_GERAL_20261102.md
+), feita só lendo, com uma exceção: o Ollama foi ligado (só em 127.0.0.1) pra testar o Faísca. Suíte da caixa: 914 ok, 7 pulados, 0 falhas. Checkpoint:
+CHECKPOINT_29_APK16_VARREDURA_20261102.txt
+.
+Pra quem continuar:
+o próximo item livre da passagem é o
+Q
+, e o próximo CHECKPOINT é o
+30
+.
+10. O que está faltando (lista clara)
+Celular:
+o app vc16 já está instalado. Falta você
+tocar no Faísca e falar uma vez
+no celular, e
+decidir sobre a depuração por Wi-Fi
+, que está ligada de novo.
+Portões d, c, h, e, f
+(seção 8), nessa ordem.
+Meu Robô no celular:
+a caixa de missões ainda encosta 29% na barra de baixo. O ajuste é só CSS, em
+tema/paineis.js
+.
+Teste ponta a ponta (P13):
+rodar
+tools\pc\TESTE_E2E_P13_JOGO.py
+com o 8790 ligado e anotar o que falha.
+Fotos do celular:
+com o cabo, abrir Planeta, Laboratório, Esferas e Faísca e tirar foto de cada uma. Até hoje só o Início foi fotografado no aparelho.
+Consciência citando a fonte:
+no modo pesquisa, o servidor deve anexar a citação quando o modelo esquecer.
+Cartas e diários por autor, tema e data (G9).
+Navegação e escala do Planeta (P7)
+e as lojas e arenas do Meu Robô.
+Porta IA usada por uma IA independente de verdade (P9).
+Precisa da sua autorização para as ações que gravam.
+Sonhos ainda não começados:
+os pesos da rodoviária (começo 10, final 6), e antes é preciso perguntar como você quer;
+(linha omitida no site público pelo filtro de privacidade)
+o robô físico.
+Opcionais:
+neon nas cenas 3D, com cuidado com o FPS;
+opencv no Python do PC, para o lab de visão.
+CI:
+aplicar
+docs/CARTA20/CI_TIMEOUT_15MIN.patch
+quando você der a permissão "workflow" do GitHub.
+Drive, coisas pra você decidir:
+o que fica em
+A_CONFERIR_BRUNO
+;
+as 3 duplicatas grandes em
+99_DUPLICATAS_PARA_CONFERIR
+;
+os 17 manuscritos vazios de 24/10.
+Porta IA (8792) desligada:
+um visitante de fora não chega à Consciência hoje. Como ligar: seção 2.7. Depois, falta a prova com um ChatGPT de verdade (pedir seu ok antes, porque grava).
+Ollama ligar junto com o atalho CARTA
+(hoje ele não liga sozinho).
+Ainda não confirmados depois da varredura:
+se o atalho deixa janela visível, e qual comando liga o 8791 sozinho.
+11. O que NUNCA mexer (leia antes de tudo)
+D:\MEU ROBO\JOGO
+:
+NUNCA. É o jogo Godot original, com 8601 arquivos.
+Originais são só de leitura:
+fontes, bancos antigos, contagens históricas, CP-P01, AT-V4,
+a rodoviária
+e a
+Porta Eureka
+(não apagar).
+Só acréscimo.
+Backup em
+D:\CARTA\BACKUPS\<NOME>_ANTES_<data>
++
+LEIA_ROLLBACK.txt
+antes de trocar qualquer coisa. Nunca sobrescrever: versão nova ganha nome novo.
+Git:
+nada de force push, reset --hard, git clean nem apagar branch. Sempre PR normal + merge com CI verde.
+Portas:
+8790 e 8791 só em 127.0.0.1. Só a 8792 sai, e com chave.
+(linha omitida no site público pelo filtro de privacidade)
+Código que apaga ou move arquivo:
+proibido fora da lista aprovada (
+docs/CARTA20/destrutivo_aprovado.txt
+). O teste
+tests/test_limpeza_segura_20261031.py
+reclama se aparecer.
+Webdist:
+todo arquivo novo entra no
+MANIFESTO_WEBDIST.txt
+.
+Android:
+NUNCA rebaixar a versão.
+Drive:
+Nunca apagar de vez.
+A lixeira só foi usada para duplicatas provadas, com a sua autorização (02/11).
+O resto só se move, e cada movimento é anotado.
+Não dizer "pronto" sem teste.
+Economizar cota.
+Pastas de versões antigas
+(
+FINAL*
+,
+FUSAO
+,
+ONZE
+,
+TRANSCENDENCIA*
+,
+MUNDO_VIVO*
+,
+V3
+,
+V5_PREVIEW
+,
+ESFERAS_FINAL
+etc.): são guardadas. Não abrir pra "limpar".
+12. Mapa: Drive, PC e GitHub
+12.1 Google Drive (conta espirro), na raiz
+00_LEIA_PRIMEIRO, MAPA DO DRIVE:
+o mapa (doc solto na raiz).
+PORTA PRA IA, CARTA:
+o texto que se cola num chat novo (solto na raiz, de propósito).
+📘 MANUAL E ORIENTAÇÕES:
+este manual
+(Doc + PDF).
+ENCICLOPÉDIA DAS ENGRENAGENS, ACERVO MESTRE:
+Dentro dela fica
+⚙️ CARTA 2.0
+(o projeto atual, com a passagem de bastão por versão _v5, _v6, _v7…).
+E o livro da Enciclopédia em PDF (863 páginas).
+🎥 Análises de Vídeos:
+32 análises + 1 índice.
+(linha omitida no site público pelo filtro de privacidade)
+A_CONFERIR_BRUNO:
+o que você decide, incluindo o PRESERVAR A LIBERDADE.
+99_DUPLICATAS_PARA_CONFERIR:
+agora só com as 3 cópias grandes.
+12.2 PC (
+D:\CARTA
+)
+(linha omitida no site público pelo filtro de privacidade)
+-
+PASSAGEM_DE_BASTAO_CARTA_20261102.txt
+: a passagem de bastão.
+Lê sempre primeiro.
+-
+MANUAL_DE_TUDO_CARTA_20261102_v3.md
+e
+.pdf
+: este manual (as versões 1 e
+_v2
+ficam guardadas).
+-
+ANOTACOES\CARTA20
+:
+  - os CHECKPOINTs (até o 28 em 02/11);
+  -
+PORTOES_T89U.md
+;
+  -
+visual\
+(capturas e suítes de teste);
+  -
+menus\
+(capturas antes e depois);
+  -
+ORGANIZACAO_T92U\
+(os logs do Drive).
+-
+BACKUPS
+: pontos de volta, cada um com
+LEIA_ROLLBACK.txt
+.
+-
+SUBIR_PARA_O_DRIVE
+: entregáveis de cada rodada.
+-
+BUILD_APK_1.12.0
+: projeto Android do vc16 (o atual).
+BUILD_APK_1.11.0
+: o do vc15, guardado.
+BUILD_APK_1.10.2
+: o do vc14, guardado.
+-
+platform-tools
+: o adb.
+HISTORICO
+: APKs e builds antigos.
+00_COMECE_AQUI
+: as passagens antigas, de 18/10.
+(linha omitida no site público pelo filtro de privacidade)
+-
+D:\MEU ROBO\JOGO
+:
+NÃO MEXER.
+12.3 GitHub (
+espirrosaga2020-tech/CARTA
+)
+src/carta/
+: o servidor e a lógica.
+src/carta/webdist/
+: todas as páginas.
+tema/
+tem os estilos, e o
+MANIFESTO_WEBDIST.txt
+fica aqui.
+src/carta/t89u/
+e
+webdist/t89u/
+: os portões novos.
+tests/
+: a suíte de testes.
+tools/pc/
+: os scripts do PC (REINICIAR_8790, PORTA_IA_*, TESTE_E2E_P13_JOGO.py).
+docs/CARTA20/
+: manual, versão, portões, notas de continuação e catálogo de falhas.
+docs/PASSAGEM_DE_BASTAO_CARTA_20261102.txt
+: a passagem de bastão.
+docs/MANUAL_DE_TUDO_CARTA_20261102_v3.md
+e
+.pdf
+: este manual (as versões 1 e 2 ficam guardadas).
+DIARIO_DE_BORDO.md
+(na raiz): o diário de bordo.
+13. Se a cota acabar (pra todo mundo ficar na mesma página)
+Nada se perde: o estado está escrito na passagem de bastão, que é atualizada "nos 5 lugares":
+D:\CARTA
+,
+D:\CARTA\SUBIR_PARA_O_DRIVE
+, o
+docs/
+do GitHub, o box e o Drive (versão nova _v5, _v6, _v7…). Além disso tem o último CHECKPOINT e este manual.
+Abra um agente novo (outro Grok Bot, outra IA ou outro chat) e cole o texto da seção 14.
+Peça pra ele
+ler a passagem de bastão e este manual antes de mexer em qualquer coisa
+.
+Peça pra ele deixar um CHECKPOINT novo a cada uns 20 minutos, sempre com número novo, nunca por cima.
+Se ele for mexer no Drive: só mover, anotar no log e nunca apagar.
+14. Texto pronto pra colar num agente novo
+Você vai continuar a CARTA do Bruno (repo privado espirrosaga2020-tech/CARTA; PC BRUNOGTAVI,
+instalação D:\CARTA\CARTA_OFICIAL_ATUALIZADO, abre em http://127.0.0.1:8790/inicio.html).
+ANTES DE QUALQUER COISA leia, nesta ordem:
+ 1) D:\CARTA\MANUAL_DE_TUDO_CARTA_20261102_v3.md (o manual de tudo, versão mais nova; igual a docs/ no GitHub e ao
+    Drive, pasta "📘 MANUAL E ORIENTAÇÕES");
+ 2) D:\CARTA\PASSAGEM_DE_BASTAO_CARTA_20261102.txt (seção 3b = o que mudou em 02/11);
+ 3) o último CHECKPOINT em D:\CARTA\ANOTACOES\CARTA20.
+Regras: só acréscimo; backup + LEIA_ROLLBACK em D:\CARTA\BACKUPS antes de trocar qualquer arquivo;
+nunca sobrescrever (versão nova = nome novo); nunca mexer em D:\MEU ROBO\JOGO nem na rodoviária nem
+na Porta Eureka; portas 8790/8791 só em 127.0.0.1; segredos só por caminho, nada íntimo no GitHub;
+sem force push/reset --hard/git clean/apagar branch; PR normal + merge com CI verde; arquivo novo no
+webdist entra no MANIFESTO_WEBDIST.txt; nada de código que apaga fora da lista aprovada; APK só com
+versionCode maior (hoje 16); no Drive nunca apagar, só mover e anotar; não diga "pronto" sem teste;
+checkpoint novo a cada ~20 min (o próximo é o 30; na passagem o próximo item é o Q); fale com o Bruno em português simples.
+Próximo passo: portão d (personagens), depois c, h, e, f (o g, APK vc16, já foi). Lembrete: o Ollama
+e a Porta IA 8792 não ligam sozinhos (manual, seções 2.6 e 2.7). Portões fechados: 1, a, b, g.
+15. Pra conferir (de onde saiu cada parte)
+D:\CARTA\PASSAGEM_DE_BASTAO_CARTA_20261102.txt
+(igual a
+docs/
+no GitHub).
+docs/CARTA20/PORTOES_T89U.md
+,
+MANUAL_CARTA20.md
+,
+MUNDOS_CARTA20.md
+,
+CONSCIENCIAS_CARTA20.md
+e
+NOTAS_DE_CONTINUACAO.md
+.
+docs/COMO_ATUALIZAR_CONSCIENCIAS_E_FAISCA.md
+,
+docs/porta_ia/PORTA_PARA_IA.txt
+e
+docs/engrenagens_20261017/EG034_PORTA_EUREKA.md
+.
+Os cartões do Início (
+src/carta/webdist/inicio.html
+).
+Os CHECKPOINTs 20 a 29 em
+D:\CARTA\ANOTACOES\CARTA20
+, o catálogo do Drive de 02/11 e o mapa 00_LEIA_PRIMEIRO.
+A varredura geral do PC:
+D:\CARTA\ANOTACOES\CARTA20\VARREDURA_GERAL_20261102.md
+(02/11 ~20h30). Usada nas versões 2 e 3.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-068.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-070.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#manual
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#manual>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-069-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

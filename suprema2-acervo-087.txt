@@ -1,0 +1,165 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Mundos da CARTA 2.0
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html>
+Mundos da CARTA 2.0
+fonte: docs/CARTA20/MUNDOS_CARTA20.md
+Mundos na CARTA 2.0 (§6–§10)
+Mundo
+Onde
+Natureza
+O que tem na 2.0
+🌍 Planeta (Terra Grande)
+/planeta.html
+ficção (simulação estilizada)
+3D real (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, links para os outros mundos no painel 🧠
+🤖 Planeta Godot (Meu Robô)
+/planeta-godot.html
+(U no Planeta)
+ficção
+o jogo Godot de verdade exportado para a web (porta 8795) + mapa neon com as regiões acendendo
+🌱 Mini Terra
+/terra.html
+ficção
+simulação ecológica pequena (servidor local), legado preservado
+🔬 Microscópio do tronco
+/microscopio.html
+ciência × ficção marcadas
+três escalas em 3D (Tronco · Lupa ×20 · Micro ×400), barra de escala, seres clicáveis
+§8 Voo suave (o que já existe e como funciona)
+No bundle do Planeta (
+web/src/terra_grande/aventura.js
+, função
+_voar
+) o voo já é amortecido:
+aceleração e curva entram por interpolação (
+thr
+,
+steer
+com fator
+dt·2
+/
+dt·3
+), a altura alvo é seguida com
+sy += (alvo − sy)·dt·2,5
+(pouso
+dt·4
+), e a inclinação do carro (
+sp
+,
+sr
+) também é suavizada. Por isso não há tranco.
+A CARTA 2.0
+não reconstruiu o bundle
+(as dependências do Vite não estão no PC); as teclas novas (numérico 8/2/4/6/5, setas)
+entram por
+tema/delorean_voo.js
+, que só "segura" as teclas que o bundle já entende.
+§7 Neon legível
+tema/carta20.css
+: brilho neon nos cartões do Início e no painel da Mente Suprema, com contraste alto.
+Desliga com
+html.sem-neon
+e respeita "reduzir movimento" do sistema.
+§10 Microscópio — ciência separada da ficção
+Cada ser tem um selo:
+🧪 científico
+(existe de verdade; forma e escala aproximadas) ou
+✨ estilizado
+(ficção do jogo).
+Científicos: musgo, líquen, colêmbolo, ácaro, tardígrado, rotífero, algas, hifas de fungo, bactérias.
+Ficção: "Faisquinha do musgo". Teclas: 1/2/3 trocam a escala, +/− também, Esc volta ao Planeta.
+§11 Os três mundos, em palavras simples (02/11/2026 — acréscimo)
+🌍 Planeta
+(
+/planeta.html
+): o planeta grande em 3D (three.js). É onde se anda, voa de DeLorean e conversa.
+🤖 Meu Robô
+(
+/planeta-godot.html
+, tecla
+U
+no Planeta): o jogo Godot de verdade. Fica
+separado
+do Planeta.
+  A página
+/meu-robo-planeta.html
+é a
+versão de teste (mini-planeta)
+do Meu Robô — também continua, e aponta para o Godot.
+🌱 Mini Terra
+(
+/terra.html
+, servidor local
+8791
+):
+não foi apagada nem mudou de lugar
+. Ela ficou guardada em
+  "📦 Mais coisas" no Supremo 001, mas continua sendo o
+motor
+dos
+Acontecimentos do mundo
+: o painel "🌍 Acontecimentos"
+  do Planeta e o
+/ea.html#diario
+leem
+/api/terra/eventos
+, que vem da Mini Terra. Se o 8791 estiver desligado, aparece "😴 cochilando".
+O que mudou (só acréscimo): um cartão visível
+"🌱 Mini Terra (continua viva)"
+dentro do submenu 🌍 Planeta do Início
+  (o cartão antigo
+cTerra
+continua em 📦), a frase "· vem da 🌱 Mini Terra" no cartão Acontecimentos e "vêm da 🌱 Mini Terra"
+  no painel do Planeta.
+§12 Gerenciador de painéis (02/11/2026 — acréscimo)
+tema/paineis.js
+(incluído no fim de
+planeta.html
+,
+meu-robo-planeta.html
+e
+inicio.html
+): só
+um painel lateral aberto por vez
+(abrir um fecha os outros usando o próprio botão de fechar de cada painel),
+chat "conversar" sempre alcançável
+(z 70, nunca é fechado),
+escala de z-index única (30 botões · 40 painéis · 65 janelas centrais · 70 chat), no celular uma gaveta "🧰 mais" guarda os botões
+extras e os painéis do Meu Robô recolhem com "▸ abrir". Nada é apagado: só posição/camada.
+Desligar (rollback na hora): abrir a página com
+?paineis=0
+ou rodar
+localStorage.setItem('carta.paineis','off')
+— ver cabeçalho do arquivo.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-087-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

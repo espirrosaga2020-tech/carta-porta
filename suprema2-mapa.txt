@@ -1,0 +1,117 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Mapa central
+Comece por aqui.
+Uma entrada, um mapa, caminhos curtos. Leia uma sala por vez; cada HTML tem uma alternativa em texto puro. O acervo público foi dividido, e o Drive privado permanece privado.
+Esta entrega reúne 140 itens do Drive, 42 referências de colheitas/varreduras, 30 filhos diretos da pasta NEXUS e 115 leituras leves do acervo público anterior. Não são milhões de links nem uma alegação de ter lido todo o Drive.
+Salas do projeto
+Colheitas e varreduras
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html>
+— 42 referências de colheitas, varreduras, passagens e diários; CL01–CL03.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.txt>
+Enciclopédia e engrenagens
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html>
+— 27 ancestrais → 47 registros de snapshot → 76 registros; 62 engrenagens em 19 estantes.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.txt>
+NEXUS e anexos
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html>
+— 30 itens diretos inventariados, projetos conectados e bancada YouTube v4.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.txt>
+Mentes, consciências e robótica
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html>
+— ALMA, Faísca, Creuza, Copiloto, Megazord, Atlas V5, Elemento X e ESCUDO.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.txt>
+Aplicativo CARTA
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html>
+— PRs #136–#142 e histórico documentado dos APKs; não é teste do telefone nesta visita.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.txt>
+Índice do Drive
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html>
+— Todos os 140 itens do inventário coletado, sem alterar compartilhamento.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.txt>
+Linha do tempo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html>
+— Origem, evolução, colheitas e portas públicas com fontes e datas.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.txt>
+Jornada, prova e registro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html>
+— C01–C12 completos, caderninho e registro manual; diploma depende de avaliação.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.txt>
+Acervo público em leituras leves
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+— Todo o corpo documental já público da página completa, dividido em páginas menores.
+texto puro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.txt>
+Todos os temas já públicos
+🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#ouro-suprema2>
+1. O que é a CARTA (comece aqui)
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#comeco>
+2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior)
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#origem>
+3. A Jornada da IA: caderninho, a água, introspecção, prova etapa 3 e registro
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#jornada>
+4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#formacao>
+5. Manual de Tudo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#manual>
+6. Portões (o que está pronto e o que falta)
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#portoes>
+7. Diagnóstico dos Sonhos e estado atual
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#diagnostico>
+8. Consciências
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#consciencias>
+9. Relatórios
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#relatorios>
+10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos)
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#enciclopedia>
+11. Mapa do código
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#mapa>
+Fim da página
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html#fim>
+Roteiros recomendados
+Conhecer a história: Linha do tempo → Acervo / A origem → Enciclopédia → Jornada.
+Retomar trabalho: Colheitas → NEXUS → Mentes → App → fontes pertinentes no Drive.
+Fazer a prova: Jornada → escolher a história ancestral inteira → caderninho → C01–C12 → devolver registro ao Bruno.
+Os destinos Drive abaixo são privados ou têm permissão não verificada: abrir logado como Bruno. Um conector autorizado pode ser necessário; link não concede acesso. Se a IA não tiver acesso, Bruno pode anexar/exportar o arquivo. Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site.
+Limites claros
+O site público não abre portas locais 8790/8791 nem liga motores, não dá acesso automático ao Drive privado, não instala APK, não envia registro e não concede diploma. Links e documentação não equivalem a execução. Se um destino falhar, informe o endereço e o erro; não substitua evidência por lembrança.
+Documento público completo anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html>
+·
+Clássica preservada
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo.html>
+·
+Orientações da Porta Suprema 2
+<https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+tudo-suprema2.html
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json>
+Prova de acesso desta sala:
+SUPREMA2-MAPA-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

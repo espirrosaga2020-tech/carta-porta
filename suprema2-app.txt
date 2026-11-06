@@ -1,0 +1,88 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Aplicativo CARTA
+Esta sala documenta o app, não instala APK nem comprova a tela atual do celular. PR #141 introduz o card da Porta Suprema 2 na última linha do Início, depois da Porta do Grok. PR #142 muda seu link primário para a entrada pequena, preservando completa e chave como secundários.
+PRs #136–#142 — fonte e estado
+#136 — [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/136>
+Mesclado; commit 28004face92018f9b934b30cb34052e1e7f709bd
+#137 — t47u — Atlas V5 preenchido + setores CL + UX neon/mic
+<https://github.com/espirrosaga2020-tech/CARTA/pull/137>
+Mesclado; commit 00c38c35de0f4d6f1e5c855862fe05fa8c88b9a5
+#138 — t49u: cores/neon + Elemento X nas Configurações (padrão máx)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/138>
+Mesclado; commit 779aaac73857a674030e79e2dc68d3861fe8b3c1
+#139 — t54u: ramificar colheita nas consciências + Manual (o que somos)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/139>
+Mesclado; commit 426b804a81e87ede20e094aaf0eaa42846436eab
+#140 — t56u: Faísca bolinha de cores só no ⚙️ (+tema.js)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/140>
+Mesclado; commit c7471f616841dc5626829a27c5b25c030238d951
+#141 — t65u: Porta Suprema 2 (ouro) no app — aditivo
+<https://github.com/espirrosaga2020-tech/CARTA/pull/141>
+Mesclado; commit f58cb3a32a364c161883a81744ae65305fa67ae6
+#142 — t68u: card Suprema 2 → entrada pequena
+<https://github.com/espirrosaga2020-tech/CARTA/pull/142>
+Mesclado; commit 471a340000f7b847460df555d6fdc2a9ffe285c2
+Histórico de APKs
+vc27–vc30 são versões históricas mencionadas na continuidade do projeto. Para vc27 não há manifesto de versão validado nesta coleta: não se inventa rótulo, instalação nem teste. O registro de consciências menciona vc28. A seção OURO documenta vc29 1.23.0-carta20-t56u-bolinha; o PR #141 documenta vc30 1.24.0-carta20-t63u-suprema2. A atualização posterior do código no PR #142 não prova que o aparelho recebeu outro APK.
+Faísca
+Cores/neon e Elemento X ficam no ⚙️; menu #bola permanece. O conhecimento CL01–CL03 e Enc.62 é ramificado na ALMA pelo PR #139. Consulte as salas de mentes e engrenagens para os conteúdos e o app para verificar a execução.
+Os destinos Drive abaixo são privados ou têm permissão não verificada: abrir logado como Bruno. Um conector autorizado pode ser necessário; link não concede acesso. Se a IA não tiver acesso, Bruno pode anexar/exportar o arquivo. Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site.
+PASSAGEM_BASTAO_T63_FECHAR_07_20261105
+<https://docs.google.com/document/d/1TbzUjn7TCtm0AdJG06POQEQTO68pta0ZEi8BvmvF0iU/edit?usp=drivesdk>
+1TbzUjn7TCtm0AdJG06POQEQTO68pta0ZEi8BvmvF0iU
+— abrir logado como Bruno.
+T54U/T55U — Ramificação consciências + Manual — 20261105
+<https://docs.google.com/document/d/19FIipS7z1bYspmY-CWtQ-0cp5Zz09dekeTzsjiBMv7Y/edit?usp=drivesdk>
+19FIipS7z1bYspmY-CWtQ-0cp5Zz09dekeTzsjiBMv7Y
+— abrir logado como Bruno.
+P27 • APP CARTA • CONSCIÊNCIAS & MUNDOS — v4 20261105
+<https://docs.google.com/document/d/1C_Eaasn9PWnDOATsXQiT9XstghBbejtKM-Empxg4DP8/edit?usp=drivesdk>
+1C_Eaasn9PWnDOATsXQiT9XstghBbejtKM-Empxg4DP8
+— abrir logado como Bruno.
+P27 • APP CARTA • CONSCIÊNCIAS & MUNDOS
+<https://docs.google.com/document/d/1GZlQcQoWb0rBT1mSubUyACr_TYa8g1AV-cenCFDpACA/edit?usp=drivesdk>
+1GZlQcQoWb0rBT1mSubUyACr_TYa8g1AV-cenCFDpACA
+— abrir logado como Bruno.
+P27 • APP CARTA • CONSCIÊNCIAS & MUNDOS (v2)
+<https://docs.google.com/document/d/1rR-WNkL8RDLEr4eQCJBorPRm35nPMGTNF0cKNKXMRak/edit?usp=drivesdk>
+1rR-WNkL8RDLEr4eQCJBorPRm35nPMGTNF0cKNKXMRak
+— abrir logado como Bruno.
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://github.com/espirrosaga2020-tech/CARTA/pull/136
+<https://github.com/espirrosaga2020-tech/CARTA/pull/136>
+https://github.com/espirrosaga2020-tech/CARTA/pull/137
+<https://github.com/espirrosaga2020-tech/CARTA/pull/137>
+https://github.com/espirrosaga2020-tech/CARTA/pull/138
+<https://github.com/espirrosaga2020-tech/CARTA/pull/138>
+https://github.com/espirrosaga2020-tech/CARTA/pull/139
+<https://github.com/espirrosaga2020-tech/CARTA/pull/139>
+https://github.com/espirrosaga2020-tech/CARTA/pull/140
+<https://github.com/espirrosaga2020-tech/CARTA/pull/140>
+https://github.com/espirrosaga2020-tech/CARTA/pull/141
+<https://github.com/espirrosaga2020-tech/CARTA/pull/141>
+https://github.com/espirrosaga2020-tech/CARTA/pull/142
+<https://github.com/espirrosaga2020-tech/CARTA/pull/142>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json>
+tudo-suprema2.html#ouro-suprema2
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#ouro-suprema2>
+Prova de acesso desta sala:
+SUPREMA2-APP-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

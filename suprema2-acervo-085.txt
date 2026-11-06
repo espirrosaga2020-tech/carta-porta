@@ -1,0 +1,181 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Resultado do aperfeiçoamento (31/10)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html>
+Resultado do aperfeiçoamento (31/10)
+fonte: docs/CARTA20/RESULTADO_APERFEICOAMENTO_20261031.md
+Resultado — Aperfeiçoamento 31/10/2026 (portões booleanos)
+Plano:
+PORTOES_APERFEICOAMENTO.md
+. Instalado no PC em
+D:\CARTA\CARTA_OFICIAL_ATUALIZADO
+com hash conferido;
+backup + LEIA_ROLLBACK em
+D:\CARTA\BACKUPS\APERFEICOAMENTO_ANTES_20261031_2032
+.
+Portão
+Resultado
+Prova
+P1 plano pontilhado
+VERDADEIRO
+este diretório +
+D:\CARTA\ANOTACOES\CARTA20
+A1
+vivo_sim.py
+de 1b8185d aceito
+VERDADEIRO
+tests/test_bm_roteiro.py
+A2 F7 sem bastidor na Porta Eureka
+VERDADEIRO (testado no PC)
+6 perguntas de
+test_v03
+sem DIÁRIO/GK/checkpoint no PC; achado extra no PC corrigido (F7b: "Regras do projeto e portões — PLANO PONTILHADO" vazava
+checkpoint-…
+)
+A3 F6 sem título repetido
+VERDADEIRO (testado no PC)
+achado extra no PC corrigido (F6b: o mesmo título com emoji diferente virava duas referências)
+A4 CI verde com timeout 15
+VERDADEIRO
+run 41251607433
+A5 resto do patch CI
+DOCUMENTADO (não aplicado)
+token do
+gh
+tem só
+gist, read:org, repo
+— sem
+workflow
+. Ver abaixo
+B1–B3 personas / quem sou eu / tom
+VERDADEIRO
+/api/personas/v1/quem-sou-eu?persona=dobra
+responde "A Dobra é o BRUNO…"; Faísca usa a ferramenta
+quem_sou_eu
+C1 Faísca abre já
+VERDADEIRO
+1º texto ≤ 0,7 s em todas as perguntas
+C2 chaves rápidas (cache)
+VERDADEIRO
+busca_chave
+com TTL; testes
+C3 latência antes/depois
+VERDADEIRO
+tabela abaixo
+D1 laboratório de visão
+FALSO / pendente
+não mexido nesta sessão
+E1 polimento visual neon
+FALSO / pendente
+não mexido nesta sessão
+F1 Android só se versionCode maior
+VERDADEIRO
+instalado vc14 = APK mais novo vc14 → nada instalado (sem downgrade)
+Latência da Faísca (ms até o 1º texto, medido no cliente, PC, 127.0.0.1:8790)
+Pergunta
+Antes R1
+Antes R2
+Depois R1
+Depois R2
+oi Faísca
+4881
+533
+695
+544
+gravidade
+965
+827
+662
+653
+robôs com corpo
+863
+1238
+656
+670
+carta da Creuza
+412
+394
+411
+393
+quem é você
+835
+811
+652
+656
+Wikipédia (frase de espera)
+17
+16
+14
+18
+Honestidade: o "depois" de ~0,65 s é a
+abertura
+("Hmm, vou puxar o fio…") disparada aos 0,65 s quando o modelo
+ainda não falou; a primeira frase de conteúdo do servidor continua na faixa de 0,4–1,5 s (depende do Ollama).
+Pior caso caiu de 4,9 s para 0,7 s até a pessoa ver/ouvir algo. Dados:
+latencia_faisca_antes.json
+/
+latencia_faisca_depois.json
+.
+A5 — passo manual (precisa do Bruno)
+O resto de
+CI_TIMEOUT_15MIN.patch
+(
+pip install -e . pytest
++ passo
+pytest -q tests/test_amigo_futuro.py
+) mexe em
+.github/workflows/
+, e o GitHub só aceita isso com a permissão
+workflow
+. Para aplicar:
+gh auth refresh -s workflow
+(o Bruno confirma no navegador) e PR com o patch — ou editar o
+testes.yml
+direto no site do GitHub.
+Testes no PC
+test_aperfeicoamento_20261031
++
+test_bm_roteiro
++
+test_v03_20261018
+: 44 testes; os únicos erros (4) são de
+web/public/*.html
+que não existem nessa instalação (ambiente, não código).
+Suíte completa no PC: 698 testes, 10 falhas / 95 erros, quase todos de ambiente já conhecidos (PermissionError /
+  WinError 32 do sqlite, FileNotFound de
+web/public
+, REAL≠MOCK porque o Ollama está ligado). Log:
+suite_pc_depois.txt
+.
+No computador do Grok Bot (Linux) e no CI: verde.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-085-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

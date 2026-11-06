@@ -1,0 +1,63 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Consciências na CARTA 2.0</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Consciências na CARTA 2.0</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-078.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-080.html">Próxima →</a></p><main id="public-source"><article id="doc-consciencias-carta20"><h3>Consciências na CARTA 2.0</h3><p class="meta">fonte: docs/CARTA20/CONSCIENCIAS_CARTA20.md</p><h3>Consciências na CARTA 2.0 (§4) — a chave liga/desliga</h3>
+<blockquote>
+<p>Bruno: "eu quero chave de liga e desliga".</p>
+</blockquote>
+<h4>O que é</h4>
+<p>Cada companheiro tem uma <strong>chave</strong> (ligado/desligado) e um <strong>modo</strong>:
+- <strong>🎮 imersão</strong> — fica no personagem, no mundo onde está; observa, brinca, responde curto.
+- <strong>🔎 pesquisa</strong> — pode consultar o <strong>conhecimento compartilhado</strong> da Enciclopédia (o mesmo grafo de <code>/conhecimento</code>) e deve dizer de que tipo é cada coisa (fato documentado, hipótese, interpretação ou ficção) e de onde veio.</p>
+<p><strong>Padrão: desligado</strong> → o comportamento é exatamente o de antes da CARTA 2.0 (sem regressão).
+Só o Bruno, no próprio PC, muda a chave (portões P1 do próprio PC, P2 sem crachá de visitante, P3 não veio pela ponte). Visitante vê, mas não mexe.</p>
+<table>
+<thead>
+<tr>
+<th>Companheiro</th>
+<th>Existe no código?</th>
+<th>O que a chave faz</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🐜 Creuza</td>
+<td>sim</td>
+<td>instrução de modo + (pesquisa) blocos <code>[C#] CONHECIMENTO COMPARTILHADO</code></td>
+</tr>
+<tr>
+<td>🧑‍✈️ Copiloto</td>
+<td>sim</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>🧠 Mente Suprema</td>
+<td>sim</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>⚡ Faísca</td>
+<td>sim (Pokémon Vivo)</td>
+<td>instrução de modo; em pesquisa, perguntas longas usam o modelo "pensado" (gpt-oss na CPU, um por vez) — cuidado especial: desligada, a Faísca é a mesma de sempre</td>
+</tr>
+<tr>
+<td>(linha omitida no site público pelo filtro de privacidade)</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4>Memórias não se misturam</h4>
+<p>O conhecimento compartilhado é da <strong>Enciclopédia</strong>, não de ninguém. Ele entra marcado como <code>CONHECIMENTO COMPARTILHADO</code>
+e nunca é gravado na memória de nenhuma mente. Cada mente continua com a sua voz e a sua memória.
+Guarda de identidade (acrescentada depois de um teste real em que a Creuza disse "eu, o Bruno"): a instrução lembra
+quem ela é e proíbe falar como se fosse o Bruno ou outra mente. Reteste: em pesquisa ela responde como "eu, Creuza".</p>
+<h4>Onde fica</h4>
+<ul>
+<li>Tela: painel 🧠 da Mente Suprema no Planeta (widget <code>#scPainel</code>, só aparece para o dono) e em <code>/conhecimento</code>.</li>
+<li>API: <code>GET /api/superconsciencia/v1/estado</code> (estado + modelos reais) · <code>POST /api/superconsciencia/v1/estado</code> <code>{companheiro, ligado, modo, mundo}</code> (só o dono).
+(linha omitida no site público pelo filtro de privacidade)</li>
+<li>Código: <code>src/carta/superconsciencia.py</code>, <code>mente_suprema/mentes.py</code>, <code>pokemon_vivo/companheiro.py</code>, <code>webdist/tema/superconsciencia.js</code>.</li>
+</ul>
+<h4>Limites conhecidos</h4>
+<ul>
+<li>O modelo de 7B nem sempre cita a natureza/fonte mesmo em pesquisa; a instrução pede, mas não há garantia.</li>
+<li>A Faísca em pesquisa pode demorar (gpt-oss roda na CPU).</li>
+</ul></article></main><p><a href="suprema2-acervo-078.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-080.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#consciencias">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#consciencias</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-079-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

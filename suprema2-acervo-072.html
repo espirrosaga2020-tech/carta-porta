@@ -1,0 +1,168 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-071.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-073.html">Próxima →</a></p><main id="public-source"><article id="pg-portoes-t95u"><h3>Portões T95U (03/11/2026): gráficos, mundos, personagens</h3><h3>PORTÕES T95U — 10 portões de design pontilhado (03/11/2026)</h3>
+<p>Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge
+<code>--merge</code> · flags <strong>desligadas por padrão</strong> até o teste do portão passar · nada na inicialização do Windows.</p>
+<p>Flags: <code>CARTA_T95U="g1,g2"</code> · arquivo <code>&lt;workspace&gt;/t95u_flags.json</code> <code>{"t95u_g1_atmosfera": true}</code> · numa aba <code>?t95u=g1</code>
+(<code>?t95u=0</code> desliga). Rotas (só dono): <code>GET /api/t89u/t95u/flags</code>, <code>GET /api/t89u/t95u/portoes</code>.
+Código: <code>src/carta/t95u/</code> (catálogo + flags) · teste do esqueleto: <code>tests/test_t95u_portoes.py</code>.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>id</th>
+<th>flag</th>
+<th>portão</th>
+<th>critério booleano (todos têm que ser verdade)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>g1</td>
+<td>t95u_g1_atmosfera</td>
+<td><strong>Gráficos estilo The Witcher 3 / Baldur's Gate 3</strong> (prioridade nº 1, t96u)</td>
+<td>baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença anotada; FPS por preset + fotos antes/depois</td>
+</tr>
+<tr>
+<td>2</td>
+<td>g2</td>
+<td>t95u_g2_planeta</td>
+<td>Planeta repaginado</td>
+<td>chegada cinematográfica; HUD ≤ 6 botões; nada removido (vai pro ☰); URLs antigas 200</td>
+</tr>
+<tr>
+<td>3</td>
+<td>g3</td>
+<td>t95u_g3_fauna</td>
+<td>Fauna viva</td>
+<td>≥ 6 espécies; instanciada (≤ 2 ms/quadro no alto); flag off = igual</td>
+</tr>
+<tr>
+<td>4</td>
+<td>g4</td>
+<td>t95u_g4_bacterias</td>
+<td>Bactérias / microscópio</td>
+<td>abre/fecha com 1 botão; crescimento determinístico testado; simulador intacto</td>
+</tr>
+<tr>
+<td>5</td>
+<td>g5</td>
+<td>t95u_g5_miniterra</td>
+<td>Recursos da Mini Terra no Planeta</td>
+<td>cada recurso acessível no Planeta; Mini Terra continua 200; nada apagado/movido</td>
+</tr>
+<tr>
+<td>6</td>
+<td>g6</td>
+<td>t95u_g6_dois_planetas</td>
+<td>Dois planetas (Natural / Jogo do Bruno)</td>
+<td>cópia de <code>D:\MEU ROBO\JOGO</code> com hash conferido, original só leitura; save por planeta</td>
+</tr>
+<tr>
+<td>7</td>
+<td>g7</td>
+<td>t95u_g7_companheiros3d</td>
+<td>Companheiros em 3D</td>
+<td>os 2 não controlados seguem em 3D; evento <code>carta:personagem</code>; Aventura igual</td>
+</tr>
+<tr>
+<td>8</td>
+<td>g8</td>
+<td>t95u_g8_fogueira3d</td>
+<td>Fogueira em 3D</td>
+<td>luz + partículas; ▶/⏸/✖; FPS ≥ preset − 10%</td>
+</tr>
+<tr>
+<td>(linha omitida no site público pelo filtro de privacidade)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>g10</td>
+<td>t95u_g10_celular</td>
+<td>Celular premium + autoteste</td>
+<td>versionCode &gt; 17; instala por cima sem apagar dados; autoteste dos 5 ambientes</td>
+</tr>
+</tbody>
+</table>
+<h4>Portão g1 — o que cada preset liga (presets medidos do portão f: <code>window.CARTA_PRESET</code>)</h4>
+<table>
+<thead>
+<tr>
+<th>recurso</th>
+<th>baixo</th>
+<th>médio</th>
+<th>alto</th>
+<th>ultra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>renderizador / cena</td>
+<td><strong>igual a hoje</strong></td>
+<td>ACES + exposição</td>
+<td>ACES</td>
+<td>ACES</td>
+</tr>
+<tr>
+<td>PBR com HDRI CC0 (reflexos)</td>
+<td>–</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>céu dinâmico (Sky físico, segue o sol do dia/noite)</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>vegetação instanciada (grama densa com LOD por distância)</td>
+<td>–</td>
+<td>–</td>
+<td>12 mil</td>
+<td>40 mil</td>
+</tr>
+<tr>
+<td>água com reflexo (env map + rugosidade baixa)</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>sombras suaves (PCF soft, 4096)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>névoa volumétrica (altura + luz do sol, pós)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>bloom · SSAO · color grading · tone mapping no pós</td>
+<td>–</td>
+<td>–</td>
+<td>bloom</td>
+<td>todos</td>
+</tr>
+</tbody>
+</table>
+<p>Assets: só CC0 — Poly Haven (HDRI) e ambientCG; licença de cada um em <code>web/public/t95u/LICENCAS.md</code>.</p>
+<h4>g1 — inspiração extra: Heroes of Might and Magic 3 (pedido t97u, 03/11/2026)</h4>
+<ul>
+<li>Vista de <strong>mapa-mundo</strong> (câmera alta e inclinada, norte para cima) com um <strong>herói a cavalo</strong> (estandarte e capa).</li>
+<li>Clique no chão = caminho de <strong>setas verdes</strong>; o herói cavalga até lá e o mundo carrega em volta dele. Roda do mouse = zoom.</li>
+<li>Liga só com <code>?heroi=1</code> (ou <code>?t95u=heroi</code>); combina com <code>?atmosfera=alto|ultra</code>. Botão "🐎 Mapa do herói · sair" desliga.</li>
+<li>Desligado = planeta exatamente como hoje. Medido no PC: ~118 FPS (alto e ultra), zero erros JS.</li>
+<li>Código: <code>web/src/t95u/heroi_mapa.js</code>; teste: <code>tests/test_t95u_g1_heroi_homm3.py</code>.</li>
+</ul></article></main><p><a href="suprema2-acervo-071.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-073.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#portoes">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#portoes</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-072-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

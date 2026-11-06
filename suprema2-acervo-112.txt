@@ -1,0 +1,61 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-113.html>
+Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt
+Texto original de 10/10/2026.
+ENCICLOPÉDIA DAS ENGRENAGENS — LEIA PRIMEIRO
+DATA: 10/10/2026 | EDIÇÃO: v01
+
+27 arquivos históricos originais preservados; 615 fenômenos locais indexados.
+
+ORDEM DE LEITURA
+1) ENCICLOPEDIA_DAS_ENGRENAGENS_MESTRE_2026-10-10_v01.txt
+   Comece aqui: estantes, genealogias temáticas, 27 perfis, 615 entradas e limites.
+2) Escolha seu EGnnn:Fnnn.
+3) Abra a fonte ENGRENAGEM_... correspondente no diretório 01_FONTES_ORIGINAIS_IMUTAVEIS.
+4) Se quiser tudo em um texto só, abra ENCICLOPEDIA_DAS_ENGRENAGENS_INTEGRAL_2026-10-10_v01.txt.
+5) Consulte AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt para o que foi ou não verificado.
+
+ESTRUTURA GOOGLE DRIVE
+00_LEIA_PRIMEIRO_E_ENCICLOPEDIA: livro, sumário e tomos.
+01_FONTES_ORIGINAIS_IMUTAVEIS: os 27 arquivos sem edição.
+02_CATALOGOS_E_INDICES: manifesto e índices.
+03_AUDITORIA_E_CONTROLE: hashes, lacunas e critérios.
+04_FUTURAS_EDICOES: reservado; não contém projetos reescritos.
+
+RISCO A EVITAR
+Não confundir 615 fenômenos catalogados localmente com 615 fatos globalmente distintos ou comprovados. Não inferir ancestralidade de branches por títulos.
+
+O livro é a porta; os originais continuam a prova documental. A história verificada de cada fonte depende da abrangência real do chat que a escreveu.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-113.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-112-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

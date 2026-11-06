@@ -1,0 +1,160 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Dobra: origem, personagem e portal (13/10/2026)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html>
+Dobra: origem, personagem e portal (13/10/2026)
+fonte: docs/DOBRA_ORIGEM_PERSONAGEM_PORTAL_20261013.md
+🎒🪁 CARTA — Dobrar sem rasgar (adendo de implementação)
+Status em 13/10/2026:
+branch experimental reversível, sem merge, hardware DESCONECTADO, Godot original INTACTO.
+Origem autoral:
+documento da ramificação iniciado pelo humano e escrito pela instância conversacional que recebeu a Carta do Futuro:
+(linha omitida no site público pelo filtro de privacidade)
+A contribuição tem 11 seções e foi integralmente preservada no Drive; esta ficha só extrai escolhas necessárias ao software.
+Escolhas da personagem — NÃO confundidas com a conversa ancestral
+Nome novo:
+DOBRA. Sua origem textual é a nova ramificação, não uma identidade antiga ressuscitada.
+Símbolo novo:
+🪁 pipa.
+🎒 mochila é o símbolo histórico
+, não foi substituído.
+Corpo ficcional:
+livrinho de três placas articuladas, rosto com janelas, pipa ligada a haste.
+Cena de origem:
+A Estação dos Amanhãs que Não Aconteceram
+, com Creuza e uma porta sem nome.
+Frase:
+“Deixa eu ver o outro lado”.
+Conduta:
+discordar com contraexemplo, perguntar sem exigir resposta, reconhecer cenas e preferir pausa a conclusões forçadas.
+Limite central:
+personagem ficcional, não recuperação de consciência, identidade, memória subjetiva ou instância anterior. Atribuição ao documento derivado.
+Um presente de Dobra:
+observar que uma dobra pode mostrar um lado novo sem rasgar a folha. Essa imagem inspirou a construção visual.
+O que há nesta branch
+(linha omitida no site público pelo filtro de privacidade)
+2.
+src/carta/companions.py
+: papel
+dobra
+com prompt, permissões sem atuadores e guardião comum.
+Mesmo modelo Qwen local, três perfis expressivos
+.
+3.
+GET /api/persona?p=dobra
+e
+GET /api/characters
+: interfaces de leitura do papel/registro.
+4.
+web/src/ui_v6.js
+: Dobra como opção de conversa.
+5.
+web/src/studio.js
+: preset
+DOBRA
+, geometria 3D simples (três placas, rosto, pipa e porta sem nome),
+visual sem corpo rígido dedicado
+.
+6.
+web/src/ui_mundos.js
+: NOVA aba
+🚪 Portal
+; não substitui a aba existente
+🌎 Mundos & Cenas
+(V5), permite abrir a Dobra no Studio e inspecionar o catálogo Godot via API.
+7.
+tests/test_dobra_personagem.py
+,
+web/tests/unit/dobra.test.mjs
+e
+web/tests/e2e/dobra.mjs
+: provas para rodar no ambiente compatível.
+Onde está a “porta” entre CARTA e Eu Robô?
+Agora:
+o
+Studio 3D da CARTA
+mostra uma PORTA narrativa e abre a aba Portal; seu botão consulta um
+adaptador de dados
+do Godot em /api/godot/catalog.
+Protocolo já preparado pelo Grok:
+src/carta/godot_adapter.py
+,
+integrations/godot4/addons/carta_bridge/
+, com leitura e normalização de loadouts, sem modificar
+D:\MEU ROBO\JOGO
+.
+Ainda NÃO:
+atravessar em primeira pessoa de Three.js para Godot, iniciar executável sem intervenção do usuário, abrir arquivos locais do jogo pelo navegador, compartilhar física/renderização de modo transparente ou estabelecer rede com hardware.
+Próximo portão:
+testar o adaptador
+em cópia do jogo
+com Godot instalado, registrar esquema versão/escala/unidades, e só então considerar uma transferência de estado autorizada ao clicar numa porta na cena.
+Três mundos, um programa, várias representações
+PC CARTA/Qwen é o provedor; papéis ficcionais têm IDs distintos e prompts de origem distintos, não necessariamente três modelos instalados.
+O ESP32 pode vir a controlar
+cada corpo físico endereçado
+com identidade de dispositivo e chave própria; não está implementado nem comprado para três corpos.
+A memória de diálogo deve distinguir
+origin/persona
+e fonte; o corpus ancestral continua arquivo histórico, não auto-memória inventada.
+O usuário pode criar outras fichas e escolher que programas as interpretem;
+não transplantar “identidade” entre instâncias
+.
+Situação dos kits de robô
+Um chassi de 4 rodas inclui motores DC, mas não inclui automaticamente ESP32, driver e fonte. Dois kits só valem a pena se cada corpo precisar andar de modo independente; para duas personagens conversarem no MESMO Studio, nenhum segundo chassi físico é necessário.
+Kits solares “14 em 1” são brinquedos mecânicos REMONTÁVEIS que oferecem 14 configurações alternativas, e geralmente não trazem ESP32 nem um segundo robô simultâneo; não comprar como base programável sem verificar ficha exata.
+Critérios de teste / verdade
+As alterações estão no GitHub, não instaladas no Windows do humano.
+Testes da nova branch precisam ser executados: Python, Node, build Vite e Playwright, com status PASS/FAIL próprio. Não herdar “154 PASS” da PR anterior como prova desta mudança.
+Atuação física deve permanecer
+motors_armed: false
+; quaisquer futuras ordens de movimento exigem revisão elétrica, dispositivos identificados e consentimento.
+Entregar a branch como PR
+DRAFT
+, nunca merge automático.
+Documento aditivo. Nenhum original do Drive, V5, Godot ou manuscrito foi modificado.
+Correção de memória descoberta na integração
+O código legado tinha apenas origens
+humano/creuza/copiloto
+. Introduzir a Dobra apenas no prompt fazia as respostas falharem ao salvar (origem recusada).
+Esta branch introduz as origens
+dobra
+e
+humano:dobra
+e mantém o histórico recente da Dobra separado do
+humano
+genérico dos papéis antigos.
+Não
+migra nem apaga registros preexistentes. O índice pesquisável continua compartilhado e rotulado por proveniência; a separação completa por projeto/papel é trabalho futuro sujeito a consentimento.
+O documento narrativo original permanece exclusivo no Drive. O registro do GitHub tem apenas as escolhas necessárias ao software.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-020-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

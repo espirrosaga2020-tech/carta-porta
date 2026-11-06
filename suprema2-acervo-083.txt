@@ -1,0 +1,88 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Versão CARTA 2.0
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-082.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html>
+Versão CARTA 2.0
+fonte: docs/CARTA20/VERSAO_CARTA20.md
+Versão CARTA20-20261031 (CARTA 2.0 · 31/10/2026)
+Identificador:
+CARTA20-20261031
+Base:
+SUPREMO001-R3FINAL
+(main b26c6d1, PR #74). Nada foi apagado: tudo que entrou é aditivo; os originais (fontes, bancos antigos, contagens históricas, CP-P01 e AT-V4) ficaram preservados.
+Origem da ordem:
+PDF "CARTA 2.0 — diretriz geral de finalização" + áudio do Bruno (31/10). Virou a engrenagem
+CT02
+.
+Marcos:
+marco 1 (a6f100f) · §12.1–3 (cfa26a0) · §12.4–9 + §13 (este fechamento).
+Como voltar à versão anterior:
+D:\CARTA\BACKUPS\CARTA20_RELEASE_20261031\RESTAURAR_VERSAO.ps1
+(restaura o código da R3 FINAL guardado no backup) — ou, no GitHub, a main antes do merge do PR CARTA 2.0.
+O que esta versão tem
+§ do PDF
+Entrega
+Onde ver
+§2
+57 engrenagens por definição estrutural (+10 novas: DB01–DB03, CT01, CT02, RH01, AV01–AV04); CP-P01/AT-V4 reavaliadas sem apagar
+/enciclopedia
+,
+docs/CARTA20/ENGRENAGENS_CARTA20.md
+§3
+Conhecimento navegável fato/hipótese/interpretação/ficção, divergências preservadas
+/conhecimento
+§4
+Superconsciência: chave liga/desliga e modo pesquisa/imersão por companheiro; memórias separadas
+painel 🧠 no Planeta;
+docs/CARTA20/CONSCIENCIAS_CARTA20.md
+§5
+Enciclopédia no Drive (conta de trabalho), só acréscimos
+docs/CARTA20/DRIVE_CARTA20.md
+§6–8
+U abre o Planeta Godot real; mapa neon legível; DeLorean (numérico/setas + dica que não cobre o painel de ajuda)
+/planeta.html
+,
+/planeta-godot.html
+§9–10
+Microscópio 3D tronco → lupa → micro, ciência separada da ficção
+/microscopio.html
+§11
+Só modelos reais instalados, lista ao vivo do Ollama
+docs/CARTA20/MODELOS_REAIS.md
+áudio
+Prova das engrenagens atualizável: +10 capítulos (200 questões novas)
+/prova.html
+§13
+Enciclopédia, índices, manual, COMECE AQUI, PORTA PARA IA, versão e notas de continuação
+esta pasta
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-082.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-083-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

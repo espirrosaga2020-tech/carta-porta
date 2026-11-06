@@ -1,0 +1,215 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Pesquisa T101U: código aberto adotado (03/11/2026)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html>
+Pesquisa T101U: código aberto adotado (03/11/2026)
+Pesquisa T101U (03/11/2026) — tecnologias gratuitas e de código aberto
+Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e
+adotar só o que for compatível e testável
+.
+Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy/cv2/PIL).
+O que foi ADOTADO (e testado)
+Ideia
+De onde veio
+Licença
+Como entrou na CARTA
+Teste
+Offline-first: fotografia + motor local
+(como o
+Workbox
+: "cache primeiro, rede depois")
+Google Workbox / web.dev (padrão de PWA)
+MIT (Workbox); aqui é
+código nosso
+, só o padrão
+tools/t101u/offline_planeta_snapshot.py
+fotografa 423 rotas do PC (chão do Planeta perto do sítio, clima, céu, Mini Terra...) e
+android/t101u/offline_motor.js
+responde no celular
+celular em
+modo avião, PC desligado
+: Planeta, Meu Robô, Mini Terra, DeLorean e Início abriram (fotos em
+D:\CARTA\ANOTACOES\CARTA20\visual\t101u
+)
+Injetar o script antes da página
+(como
+WebViewAssetLoader
+/
+addDocumentStartJavaScript
+do androidx.webkit)
+Android Developers / AndroidX (Google)
+Apache-2.0; aqui
+sem a biblioteca
+(o build é "sem bibliotecas extras")
+OfflineAssets.kt
+põe
+<script src="/__carta/offline_motor.js">
+logo depois do
+<head>
+só no modo viagem
+tests/test_t101u.py
++ teste no celular
+Freio de tempestade
+(não repetir pedido que acabou de falhar;
+retry com espera
+)
+fóruns de WebView/PWA (r/webdev, StackOverflow: "retry storm")
+padrão, código nosso
+o motor espera 3 s antes de repetir uma rota que deu 503
+emulação no box (
+offline_motor.js
+, item 4)
+"Imagem sintética = verdade conhecida"
+para testar visão sem câmera
+prática comum em visão computacional (datasets sintéticos; MediaPipe Model Maker)
+código nosso, Python puro
+src/carta/t101u/lego_sintetico.py
+: desenha a montagem, mede com momentos de 2ª ordem, compara com o modelo
+tests/test_t101u.py
+(certa, torta 15°, 12 mm fora, falta, peça tapada)
+Godot Web sem threads
+(
+thread_support=false
+) — confirmado
+docs.godotengine.org (Exporting for the Web, 4.3+)
+MIT (Godot)
+o export do Porto Parafuso já está assim (
+export_presets.cfg
+) — não precisa de SharedArrayBuffer/COOP/COEP
+lido no PC
+O que ficou como CANDIDATO (não adotado agora, e por quê)
+Ideia
+Licença
+Por que não agora
+MediaPipe Tasks Vision
+(
+@mediapipe/tasks-vision
+0.10.x, ObjectDetector) para o LEGO de verdade
+Apache-2.0
+dá para hospedar offline, mas são ~10 MB de wasm + modelo; e o teste real precisa de webcam e peças. Fica para quando o Bruno for testar o LEGO com câmera
+Godot dentro do APK
+(jogo Porto Parafuso sem PC)
+MIT
+o
+index.pck
+tem ~147 MB + 38 MB de wasm: o APK passaria de 220 MB. Fóruns (issue 1429 do
+web-to-app
+) apontam 3 armadilhas no WebView: User-Agent "Version/4.0" faz o Emscripten achar que é Safari velho (tela preta), o
+response.clone()
+do wasm trava, e camada
+LAYER_TYPE_HARDWARE
+pode parar o WebGL. Fica documentado para uma rodada própria
+Meshopt
+(melhor que Draco no celular) e
+KTX2
+com
+detectSupport
++ reserva WebP; texturas até 1–2K; desenhar só quando muda
+MIT (meshoptimizer), Apache-2.0 (Draco/KTX-Software)
+o Planeta usa geometria gerada (não modelos baixados); vale quando entrarem modelos 3D grandes
+model-viewer
+,
+Filament
+(Google)
+Apache-2.0
+bons para ver um objeto 3D; a CARTA já tem three.js
+Achados que viraram correção
+Atualização T102U (03/11/2026):
+o laço do
+aplicar(v)
+foi corrigido em
+terra.js
+(no máximo uma troca para o ritmo normal; teste
+tests/test_t102u.py
+roda o código de verdade no Node). A etiqueta "🎨 undefined · FPS" do app também foi corrigida em
+t89u/graficos.js
+: sem PC mostra "🎨 baixo (sem PC) · N FPS" e não guarda esse valor.
+terra/terra.js
+(linha ~301):
+aplicar(v)
+chama a si mesmo para sempre quando a resposta de
+POST /api/terra/controle
+não traz
+velocidade
+→ 8.033 pedidos em 9 s na emulação.
+No celular
+o motor offline responde com
+{velocidade, pausado}
+e o laço não acontece. O arquivo do PC
+não foi mexido
+(regra: não trocar o que funciona) — fica anotado como pendência.
+No app, o botão
+"🐎 Mapa do herói · sair"
+nascia em
+top: 64px
+e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido).
+T102U (03/11 ~17h):
+o "Godot dentro do APK" saiu na versão LEVE (texturas WebP com perda: pacote 154 → 38 MB, APK vc21 com 82,6 MB). No celular real, em modo avião, o jogo abriu e desenhou sem mexer no User-Agent nem na camada de hardware do app; as 3 armadilhas não apareceram neste aparelho. Detalhes em CELULAR_SEM_CABO_T101U.md.
+T103U (03/11 ~18h30):
+FPS do Godot leve no celular medido por
+adb logcat
+=
+3–4 FPS
+(Mi 9 Lite). Tirar MSAA e desenhar o 3D em 60% (só web) não mudou → não é a placa de vídeo enchendo pixels. Próximas ideias de código aberto (Godot, MIT), em ordem de custo:
+-
+Perfilar primeiro:
+rodar a mesma cena no navegador do PC com
+Engine.get_frames_per_second()
++
+Performance.get_monitor(TIME_PROCESS / TIME_PHYSICS_PROCESS / RENDER_TOTAL_DRAW_CALLS_IN_FRAME)
+escritos na mesma linha
+CARTA_GODOT_FPS
+(só na cópia leve).
+-
+Grama e árvores em MultiMeshInstance3D
+e
+visibility range (HLOD)
+nos objetos longe; sombras direcionais desligadas no
+.web
+.
+-
+physics/common/physics_ticks_per_second.web=30
+e
+max_physics_steps_per_frame
+menor se o tempo de física dominar.
+-
+Export com threads
+(Godot 4.3+ precisa de COOP/COEP; no WebView do app isso exige servir os cabeçalhos pelo
+WebViewAssetLoader
+) — só se o perfil mostrar CPU de uma linha só no limite.
+Nada disso mexe no
+D:\MEU ROBO\JOGO
+; tudo na cópia
+GODOT_WEB_LEVE
+.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-091-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

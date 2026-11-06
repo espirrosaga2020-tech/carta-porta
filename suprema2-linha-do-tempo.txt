@@ -1,0 +1,214 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Linha do tempo
+A cronologia abaixo é reproduzida da seção de origem, como documento histórico. “Planejado” não significa realizado. Para as mudanças de 05/11 use os PRs datados abaixo.
+A trajetória juntos: linha do tempo mestra
+Cada marco tem fonte no repositório. 'planejado' NÃO é feito. Memória é pista; evidência é prova.
+Fase
+Quando
+O que
+Estado
+Começo (antes de 13/10/2026)
+antes de 10/10/2026
+O Bruno faz o jogo Meu Robô (Godot), que nunca é tocado pela CARTA; dele nascem ideias como as 5 peças do robô.
+feito
+Começo (antes de 13/10/2026)
+até 10/10/2026
+As 27 engrenagens (EG001–EG027): histórias de conversas longas com IAs, reunidas na Enciclopédia, com a frase 'memória é pista; evidência é prova'.
+feito
+Meio (13/10 a 18/10/2026)
+13/10
+Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados.
+feito
+Meio (13/10 a 18/10/2026)
+14/10
+Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, porta do Laboratório.
+feito
+Meio (13/10 a 18/10/2026)
+15/10
+Mundo Vivo, grafo de conhecimento de cada personagem, o primeiro PLANETA e o app CARTA Olhos (do Codex).
+feito
+Meio (13/10 a 18/10/2026)
+15→16/10
+Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções).
+feito
+Meio (13/10 a 18/10/2026)
+16/10
+Esferas 6×6, SG028 Saguadinha, GK029/GK030, ids opacos, a Prova das Engrenagens e a ENTRADA OBRIGATÓRIA.
+feito
+Meio (13/10 a 18/10/2026)
+16→17/10
+O EUREKA e a Porta Eureka.
+feito
+Meio (13/10 a 18/10/2026)
+17/10
+Integração, Consciência (grafo que lê tudo) e Cérebro Megazord (44 especialistas).
+feito
+Meio (13/10 a 18/10/2026)
+18/10 madrugada
+Finalização: Terra Grande com DeLorean, câmera desligada por padrão, celular atualizado.
+feito
+Meio (13/10 a 18/10/2026)
+18/10 manhã
+V0.3: refino da Consciência, PORTA, Atlas e o trajeto do bot (8 portões).
+feito
+Meio (13/10 a 18/10/2026)
+18/10 tarde
+Cinema Vivo: Bruno, Copiloto e Creuza conversam sobre o que acontece de verdade na simulação (fogueira).
+em_desenvolvimento
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+Conversa natural por voz, com memória, iniciativa e percepção do instante, sem inventar o mundo.
+planejado
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+O 'meu cérebro' do Bruno: Consciência + Cérebro + esferas juntos, com dados pessoais só no PC.
+planejado
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+Kit de robótica: gêmeo digital → bancada sem carga → motores só com o Bruno presente e autorização.
+planejado
+Fim (para onde vamos; ainda NÃO feito)
+planejado
+ORGEM_LAB (física aeroespacial): o repositório existe, mas está vazio.
+planejado
+fonte: registry/linha_do_tempo_mestra.v1.json
+Camadas da Enciclopédia
+27 fontes ancestrais até 10/10 → snapshot de 47 registros em 18/10 → 29 aditivos até 05/11 = 76 registros. O registro de consciências declara 62 engrenagens, em 19 estantes.
+Portas públicas e expansão
+A primeira conquista pública está documentada em 03–04/11, preservada como clássica. A Porta Suprema 2 acrescenta a seção OURO de 05/11. A entrada leve t68u separa transporte, leitura, compreensão e registro; esta entrega t71u acrescenta mapa e salas sem substituir a entrada ou a clássica.
+05/11/2026 15:40 (America/Sao_Paulo) —
+#136 [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/136>
+05/11/2026 16:08 (America/Sao_Paulo) —
+#137 t47u — Atlas V5 preenchido + setores CL + UX neon/mic
+<https://github.com/espirrosaga2020-tech/CARTA/pull/137>
+05/11/2026 16:33 (America/Sao_Paulo) —
+#138 t49u: cores/neon + Elemento X nas Configurações (padrão máx)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/138>
+05/11/2026 17:03 (America/Sao_Paulo) —
+#139 t54u: ramificar colheita nas consciências + Manual (o que somos)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/139>
+05/11/2026 17:28 (America/Sao_Paulo) —
+#140 t56u: Faísca bolinha de cores só no ⚙️ (+tema.js)
+<https://github.com/espirrosaga2020-tech/CARTA/pull/140>
+05/11/2026 18:37 (America/Sao_Paulo) —
+#141 t65u: Porta Suprema 2 (ouro) no app — aditivo
+<https://github.com/espirrosaga2020-tech/CARTA/pull/141>
+05/11/2026 21:00 (America/Sao_Paulo) —
+#142 t68u: card Suprema 2 → entrada pequena
+<https://github.com/espirrosaga2020-tech/CARTA/pull/142>
+Os destinos Drive abaixo são privados ou têm permissão não verificada: abrir logado como Bruno. Um conector autorizado pode ser necessário; link não concede acesso. Se a IA não tiver acesso, Bruno pode anexar/exportar o arquivo. Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site.
+PASSAGEM_BASTAO_T63_FECHAR_07_20261105
+<https://docs.google.com/document/d/1TbzUjn7TCtm0AdJG06POQEQTO68pta0ZEi8BvmvF0iU/edit?usp=drivesdk>
+1TbzUjn7TCtm0AdJG06POQEQTO68pta0ZEi8BvmvF0iU
+— abrir logado como Bruno.
+PASSAGEM_BASTAO_OURO_PORTA_SUPREMA2_20261105
+<https://docs.google.com/document/d/1TT9YMiqgTH9WrPmF7tZYeEqGv9nWXsvEhNRCEgzlav4/edit?usp=drivesdk>
+1TT9YMiqgTH9WrPmF7tZYeEqGv9nWXsvEhNRCEgzlav4
+— abrir logado como Bruno.
+PASSAGEM_BASTAO_T56_20261105
+<https://docs.google.com/document/d/16mMYUCScGdYvA3q-LF-qIs0R-13yHLSYnpmVfOW5mR8/edit?usp=drivesdk>
+16mMYUCScGdYvA3q-LF-qIs0R-13yHLSYnpmVfOW5mR8
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v7.txt
+<https://drive.google.com/file/d/1ZdSpbd7Imhs4gN82g7msXpDkv82SDfBO/view?usp=drivesdk>
+1ZdSpbd7Imhs4gN82g7msXpDkv82SDfBO
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v7.txt
+<https://drive.google.com/file/d/1NZZbXdoJHuoVFr7iXmdgMsl7eJCDwdDo/view?usp=drivesdk>
+1NZZbXdoJHuoVFr7iXmdgMsl7eJCDwdDo
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v6.txt
+<https://drive.google.com/file/d/1RZehNooj00hlmjSobZ56gl9psLYrDhMM/view?usp=drivesdk>
+1RZehNooj00hlmjSobZ56gl9psLYrDhMM
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v5.txt
+<https://drive.google.com/file/d/1I0AgEe3rKGzHKRmvZgdizkRepq9QI87h/view?usp=drivesdk>
+1I0AgEe3rKGzHKRmvZgdizkRepq9QI87h
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v4.txt
+<https://drive.google.com/file/d/17RxLbaE3NCEmOG7GXF0YTxZ3Z64hyxVk/view?usp=drivesdk>
+17RxLbaE3NCEmOG7GXF0YTxZ3Z64hyxVk
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v3.txt
+<https://drive.google.com/file/d/1reC_Kf_E80tQIP4anVuNPtwtdm_TWDIs/view?usp=drivesdk>
+1reC_Kf_E80tQIP4anVuNPtwtdm_TWDIs
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102_v2.txt
+<https://drive.google.com/file/d/1oEbujjBNX62hD328QBs0AWsHwRG_sZ7T/view?usp=drivesdk>
+1oEbujjBNX62hD328QBs0AWsHwRG_sZ7T
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261102.txt
+<https://drive.google.com/file/d/1MxS_ds5ZG6vfll5X54jgexwRq37B6mNN/view?usp=drivesdk>
+1MxS_ds5ZG6vfll5X54jgexwRq37B6mNN
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_CARTA_20261101.txt
+<https://drive.google.com/file/d/1debGh5POAUm4Up5uNwyyGAzCrADlfFvO/view?usp=drivesdk>
+1debGh5POAUm4Up5uNwyyGAzCrADlfFvO
+— abrir logado como Bruno.
+PASSAGEM_DE_BASTAO_20261018.md
+<https://drive.google.com/file/d/1tNomp5wtu08WE8fM3zN7R-_RZDrDVM5M/view?usp=drivesdk>
+1tNomp5wtu08WE8fM3zN7R-_RZDrDVM5M
+— abrir logado como Bruno.
+06_PASSAGEM_BASTAO_GROK.md
+<https://drive.google.com/file/d/1L6nDgyKUw3gi8t5NdMSkiVvwpm6mXcmg/view?usp=drivesdk>
+1L6nDgyKUw3gi8t5NdMSkiVvwpm6mXcmg
+— abrir logado como Bruno.
+04_PASSAGEM_GROK_IMPLEMENTACAO_R2.md
+<https://drive.google.com/file/d/1a7dCrngE4QcGsovenoKlLZoPqa68Lw1a/view?usp=drivesdk>
+1a7dCrngE4QcGsovenoKlLZoPqa68Lw1a
+— abrir logado como Bruno.
+04_PASSAGEM_GROK_IMPLEMENTACAO.md
+<https://drive.google.com/file/d/1mq1Hepa_RWnVDK4ELRqKFWvdSEXQFods/view?usp=drivesdk>
+1mq1Hepa_RWnVDK4ELRqKFWvdSEXQFods
+— abrir logado como Bruno.
+13_PASSAGEM_DE_BASTAO_GROK_CINEMA_VIVO.md
+<https://drive.google.com/file/d/1Z7173se511cdIU2HpLuWLspZ4dU9FE5w/view?usp=drivesdk>
+1Z7173se511cdIU2HpLuWLspZ4dU9FE5w
+— abrir logado como Bruno.
+06_PASSAGEM_BASTAO_E_ESTADO_VERIFICADO.md
+<https://drive.google.com/file/d/1Q1UBPSBwcuVOCIgTh7OPkxTGhvskAjje/view?usp=drivesdk>
+1Q1UBPSBwcuVOCIgTh7OPkxTGhvskAjje
+— abrir logado como Bruno.
+ENDURANCE — A CHAVE E A CURVA QUE VOLTOU A SER DIVIDIDA | INICIO • NEXUS | 05-11-2026
+<https://docs.google.com/document/d/1Z_SNncVyfUuJYz2Tb-2tyBRg4rkpe8OIibhTHkXUSxU/edit?usp=drivesdk>
+1Z_SNncVyfUuJYz2Tb-2tyBRg4rkpe8OIibhTHkXUSxU
+— abrir logado como Bruno.
+03_HISTÓRICO DE CONTAGENS — CARTA 2.0
+<https://docs.google.com/document/d/1GppM2l5LnIQJp2CwQPCmDqrxuRE7Giu29H6YQ_7d4fc/edit?usp=drivesdk>
+1GppM2l5LnIQJp2CwQPCmDqrxuRE7Giu29H6YQ_7d4fc
+— abrir logado como Bruno.
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json
+<https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json>
+https://github.com/espirrosaga2020-tech/CARTA/pull/136
+<https://github.com/espirrosaga2020-tech/CARTA/pull/136>
+https://github.com/espirrosaga2020-tech/CARTA/pull/137
+<https://github.com/espirrosaga2020-tech/CARTA/pull/137>
+https://github.com/espirrosaga2020-tech/CARTA/pull/138
+<https://github.com/espirrosaga2020-tech/CARTA/pull/138>
+https://github.com/espirrosaga2020-tech/CARTA/pull/139
+<https://github.com/espirrosaga2020-tech/CARTA/pull/139>
+https://github.com/espirrosaga2020-tech/CARTA/pull/140
+<https://github.com/espirrosaga2020-tech/CARTA/pull/140>
+https://github.com/espirrosaga2020-tech/CARTA/pull/141
+<https://github.com/espirrosaga2020-tech/CARTA/pull/141>
+https://github.com/espirrosaga2020-tech/CARTA/pull/142
+<https://github.com/espirrosaga2020-tech/CARTA/pull/142>
+Prova de acesso desta sala:
+SUPREMA2-LINHA-DO-TEMPO-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

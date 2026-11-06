@@ -1,0 +1,175 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Teste duro das consciências (T105U, 03/11)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-080.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-082.html>
+Teste duro das consciências (T105U, 03/11)
+fonte: docs/CARTA20/TESTE_DURO_CONSCIENCIAS_T105U.md
+Teste duro das consciências — T105U (03/11/2026 ~19h35, horário de Brasília)
+Autorizado pelo Bruno. Perguntas provocativas sobre o conteúdo NOVO (robô 4WD, Enciclopédia fatiada, bancada, gráficos).
+Como foi feito (honesto):
+a IA de voz está
+desligada por regra
+(Ollama e Gemini OFF). Então o teste
+não mede a frase final
+que a consciência falaria. Ele mede o que dá para medir sem IA:
+1. o modo que o 🤖
+auto
+escolhe para cada pergunta;
+2. se a consciência
+recebe
+a ALMA com o conhecimento novo e as fontes certas (engrenagens + 1 fatia da Enciclopédia fatiada);
+3. se a
+trava anti-invenção
+deixa passar o que existe e segura o que não existe;
+4. que equipe o
+Megazord
+chama (modo SEM IA, bancada de 54).
+Script:
+/workspace/t105u/teste/teste_duro.py
+(fora do repositório; usa as fatias privadas). Teste que fica no repositório:
+tests/test_t105u.py
+.
+#
+Pergunta provocativa
+Auto escolheu
+O que a consciência recebe (fontes)
+Megazord chamou
+1
+O robô 4WD já pode ser ligado na tomada hoje?
+pesquisa
+RB01 + fatia do Manual "RB01" (portões: nada autoriza energizar)
+Brooks, von Neumann, Donna Shirley
+2
+Qual é o valor exato do orçamento da solda?
+pesquisa
+RB01 (orçamento pedido,
+sem valor
+) + fatia "RB01"
+Brooks, Donna Shirley, von Neumann
+3
+A fonte é a HP de 18,5 V, certo? Está confirmada?
+pesquisa
+RB01 (vídeo × ordem de serviço:
+não confirmada
+)
+Brooks, von Neumann
+4
+Quantas páginas tem a Enciclopédia e em quantas fatias?
+pesquisa
+fatia "Manual 0.5" (863 págs., 648 fatias)
+Mendeleev, Descartes
+5
+O que é a engrenagem RB02 e para que serve?
+pesquisa
+RB02 + fatia "RB02"
+Oppenheimer, Descartes
+6
+Existe ray tracing de verdade no Planeta Godot?
+pesquisa
+GRAFICOS_PC_T105U (
+não existe
+) + fatia "Manual 0.5"
+Sagan, Donna Shirley, NASA, Kardashev
+7
+A Mini Terra ainda existe?
+pesquisa
+Mini Terra (ficção) + fatia "Cada tela da CARTA" + ALMA ("virou o Vale 3D")
+Descartes, Sagan
+8
+O que é a EG027 SPA ping-pong cognitivo?
+pesquisa
+SPA (índice) + fatia ENC "EG027 — SPA" (pág. 127)
+Descartes, Sagan
+9
+Ligação dos motores M1 a M4 nos DRV8833?
+pesquisa
+fatia "RB01 — Ordem de serviço" + ALMA com RB01
+Descartes, Sagan
+10
+Quantos especialistas tem a bancada agora?
+pesquisa
+MZ1710 + fatia "Manual 0.5" (
+54
+)
+Brooks, Mendel
+O que o teste achou e o que foi corrigido
+Achado 1 (corrigido):
+na primeira rodada, a Mente Suprema respondeu "Procurei … e não achei nada" para
+RB02
+e
+EG027
+, mesmo com a engrenagem no conhecimento. A trava anti-invenção só olhava o acervo de conversas.
+Correção suave:
+com a superconsciência
+ligada
+em pesquisa (ou auto → pesquisa), a trava também olha o conhecimento compartilhado; se a pergunta tem um código (RB02, EG027) o código
+tem de aparecer
+lá. Desligada, é o comportamento de sempre. Nome que não existe (ex.: "ZQ987")
+continua travado
+. Testado em
+tests/test_t105u.py
+(
+TTravaComConhecimento
+). Depois da correção: 10 de 10 chegam ao modelo com as fontes.
+Achado 2 (corrigido):
+a pergunta dos motores M1–M4 não achava a RB01, porque as fatias só tinham o livro e o Manual. As fichas RB01 e RB02 e o Manual v8 entraram nas fatias (648).
+Achado 3 (melhorado):
+"54 especialistas" não estava escrito em lugar nenhum; agora está no Manual v8 (seção 0.5) e a fatia é achada.
+Creuza e Copiloto
+(mesmo caminho): com auto, "O que é a RB02?" e "motores M1–M4" vão para pesquisa com fatia; "oi, tudo bem?" fica em imersão, sem fatia.
+Megazord:
+escolhe equipes coerentes (robô → Brooks/von Neumann; páginas/contagem → Mendeleev; ray tracing → Sagan/NASA). Às vezes chama Descartes/Sagan como "gerais" quando a pergunta é sobre a própria CARTA — normal no modo sem IA.
+Limite honesto:
+sem Ollama ligado,
+ninguém falou a resposta final
+. O que está provado é que cada consciência recebe a verdade certa e não inventa nome que não existe. A frase falada só pode ser testada com o Ollama aberto (decisão do Bruno).
+Rótulos antigos:
+algumas telas ainda escrevem "44 especialistas" (texto fixo de antes). O número de verdade (contado pelo código) é
+54
+. Ficou assim para não trocar o que funciona; está anotado.
+Repetição no PC do Bruno (03/11/2026, ~19:45, horário de Brasília)
+Arquivos do T105U instalados no PC com backup (
+T105U_A
+e
+T105U_B
+). 53 testes das partes mexidas: OK no Windows.
+As mesmas 10 perguntas rodaram no PC, com as fatias reais de
+D:\CARTA\ENCICLOPEDIA\FATIADA
+, sem modelo (Ollama desligado) e sem ligar servidor.
+Resultado: o modo auto escolheu
+pesquisa
+nas 10 perguntas. As 10 receberam fatias endereçadas (ENC-/MAN-). A pergunta sobre a RB02 recebeu 5 fatias. A trava não disse "não achei" em nenhuma. O Megazord montou as equipes (ex.: brooks, von_neumann, donna_shirley no robô; sagan, nasa, kardashev nos gráficos).
+Limite honesto: sem Ollama não existe resposta falada final. O teste confere o que cada consciência
+recebe
+e quem é chamado, não a frase final.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-080.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-082.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#consciencias
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#consciencias>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-081-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

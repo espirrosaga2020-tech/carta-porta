@@ -1,0 +1,80 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html>
+2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)
+Item
+Estado / evidência
+Onde
+CL01–CL03 (colheita 29/10–05/11)
+Engrenagens da colheita forense; merge autorizado (PR #136); ALMA vê CL01–03
+CARTA main / CONSCIENCIAS / docs colheita
+Atlas V5
+Atlas de personagens/mundos em evolução (V5 no app/config)
+app CARTA · Config · docs Atlas
+Neon / Elemento X
+Cores neon + Elemento X só em ⚙️ Config; default X=3 (Faísca)
+Faísca UI · PR #140
+ALMA / consciências
+atualizar_consciencias.py
+; PR #139 merged (426b804); CONSCIENCIAS_CONHECIMENTO.v1.json
+repo CARTA · overlay PC
+t49u / t56u
+Ramificações recentes; t56u FECHADO com super anexos YT
+GROK_BORDO · Drive NOVOS ANEXOS v4
+APK vc29
+1.23.0-carta20-t56u-bolinha instalado no Mi 9 Lite
+celular Bruno
+Super anexos YT
+P06 CapCut, P03 Roteiros, P04 Thumbs, P05 SEO, P08 Radar + ÍNDICE bancada
+Drive pasta NOVOS ANEXOS v4
+NEXUS
+Arquitetura viva de projetos interligados; super anexos densos
+Drive pasta NEXUS
+ESCUDO / forma de agir
+Pit stop, radinho, Discordar pra Cima (protocolo de colaboração)
+docs ESCUDO / Manual
+Manual Montagem
+Referência de montagem (robótica / CARTA)
+Drive / ENCICLOPEDIA/ROBOTICA_DO_BRUNO
+Mapas Portão 1-B
+Mapas do portão 1-B na operação de portões
+docs portões / NEXUS
+Enciclopédia — totais medidos
+27→47→76
+camadas de evolução das ENGRENAGENS (27 ancestrais Volume Zero EG001–EG027 → 47 snapshot 18/10 = 27+20 → 76 registros = 47+29 aditivos até 05/11); 62 engrenagens sob regra CARTA 2.0 em 19 estantes (API 8790 oficial). Não é bug; é linha do tempo. Fonte: Drive "03_HISTÓRICO DE CONTAGENS — CARTA 2.0".
+API local · snapshot · Volume Zero
+Esta Porta Suprema 2
+Publicada aditiva no repo carta-porta (Pages)
+tudo-suprema2.html + chave-suprema2.txt
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#ouro-suprema2
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#ouro-suprema2>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-004-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

@@ -1,0 +1,117 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Estado atual — varredura geral (02/11/2026)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Estado atual — varredura geral (02/11/2026)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-076.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-078.html">Próxima →</a></p><main id="public-source"><article id="pg-estado"><h3>Estado atual — varredura geral (02/11/2026)</h3><h3>VARREDURA GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília)</h3>
+<p>Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo.
+Nada foi apagado ou movido. Segredos: só caminhos.</p>
+<h4>1. Celular — APK vc16 (portão g)</h4>
+<ul>
+<li>Aparelho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0-carta20-cyber".</li>
+<li>Backup do APK do celular ANTES: <code>D:\CARTA\BACKUPS\BACKUP_APK_ANTES_1.12.0_20261102\celular_vc15_base.apk</code>
+  (sha256 D0C6C25B…A6CF, 25.055.266 bytes).</li>
+<li>Projeto novo (cópia do 1.11.0, só versão trocada): <code>D:\CARTA\BUILD_APK_1.12.0</code>. O 1.11.0 ficou intocado.
+  Gerado com <code>gradle --offline :app:assembleDebug -PcartaWebDist=D:\CARTA\CARTA_OFICIAL_ATUALIZADO\src\carta\webdist</code>
+  (JDK 17 e Gradle 8.9 de C:\tmp\carta-android-tools). BUILD SUCCESSFUL em 48 s.</li>
+<li>APK novo: versionCode <strong>16</strong>, versionName <strong>1.12.0-carta20-t89u</strong>, <code>D:\CARTA\BUILD_APK_1.12.0\app\build\outputs\apk\debug\app-debug.apk</code>
+  sha256 0A4DAF63554E4863C611BF7BA40E27C9C8B45D35B40E670D5F52D36D34833861 (25.098.520 bytes).</li>
+<li>Assinatura IGUAL à do vc15 (certificado SHA-256 cc075f38…d5d378 nos dois).</li>
+<li>Instalado com <code>adb install -r</code> (sem desinstalar, sem limpar dados): "Success". firstInstallTime continua 17/10/2026 → dados preservados.</li>
+<li>Teste: o app abre (Início com o cartão PLANETA · Terra Grande do portão a) e a tela do Faísca carrega (criatura 3D, "toque para acordar o Faísca").
+  Fotos: <code>D:\CARTA\ANOTACOES\CARTA20\visual\celular_vc16\01_abre.png</code> e <code>02_faisca.png</code>.</li>
+<li>Faísca responde: 1 pergunta de teste ao mesmo servidor que o app usa pelo cabo (8790, /api/pokemon_vivo/v1/turno, sessão
+  <code>teste_agente_vc16_20261102</code>): resposta em 9,6 s com o modelo frio ("Oi brother! … sim, sou vivo e respondendo aqui!"),
+  qwen2.5:7b. Esse teste entrou nas anotações do Faísca/diário do dia (é o comportamento normal do app).</li>
+<li>Limite honesto: o MIUI bloqueia toques injetados pelo adb (INJECT_EVENTS), então o "toque para acordar" dentro do app
+  não foi feito por mim; a conversa foi provada pelo servidor do app. Falta o Bruno tocar e falar uma vez no celular.
+(linha omitida no site público pelo filtro de privacidade)
+  por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide.</li>
+</ul>
+<h4>2. Serviços (02/11, ~20:25)</h4>
+<p>(linha omitida no site público pelo filtro de privacidade)
+|---|---|---|---|
+| 8790 | CARTA oficial | NO AR (200) | recusa ✔ |
+| 8791 | Mini Terra | NO AR (/api/terra/estado 200; "/" dá 404, normal) | recusa ✔ |
+| 8792 | Porta IA (única que pode sair, com chave) | <strong>DESLIGADA</strong> (conexão recusada) | — |
+| 8795 | convergência antiga | desligada (normal: hoje roda dentro do 8790) | — |
+| 11434 | Ollama | estava <strong>DESLIGADO</strong>; liguei só em 127.0.0.1 para o teste do Faísca. Modelos: qwen2.5:7b, qwen2.5vl:3b/7b, gemma3:4b, gpt-oss:20b, moondream, nomic-embed-text | recusa ✔ |
+- Flags t89u no 8790: a=LIGADA, b=LIGADA, c..h=desligadas.</p>
+<h4>3. Porta IA ponta a ponta (visitante → Consciência → resposta)</h4>
+<ul>
+<li><strong>Hoje: NÃO.</strong> A 8792 está desligada, então um visitante de fora não consegue chegar à Consciência agora.</li>
+<li>Não liguei a 8792 nem o túnel (é a porta que sai para fora; varredura era só leitura). Último teste por fora: 31/10, 12/12 OK
+  (tools\pc\PORTA_IA_TESTE_MINIMO.ps1). A parte de dentro (Ollama + 8790) respondeu hoje no teste do Faísca.</li>
+<li>Para provar: ligar 8792 + túnel e rodar <code>PORTA_IA_TESTE_MINIMO.ps1 -Externo</code>, depois uma pergunta real de visitante (P9; pedir ok ao Bruno, grava).</li>
+</ul>
+<h4>4. Portões</h4>
+<h5>t89u (a–h)</h5>
+<table>
+<thead>
+<tr>
+<th>Portão</th>
+<th>Estado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Portão 1 (esqueleto)</td>
+<td>FECHADO (PR #89)</td>
+</tr>
+<tr>
+<td>a Bastidores/Dev + Planeta em destaque</td>
+<td>FECHADO 02/11 (PR #91 b99700a), flag LIGADA, instalado no PC</td>
+</tr>
+<tr>
+<td>b SAVE com posição</td>
+<td>FECHADO 02/11 (PR #90 2f4b4be), flag LIGADA, instalado no PC</td>
+</tr>
+<tr>
+<td>c voz em tempo real</td>
+<td>aberto (só esqueleto, flag desligada)</td>
+</tr>
+<tr>
+<td>d personagens</td>
+<td>aberto (próximo na ordem)</td>
+</tr>
+<tr>
+<td>e Fogueira/Cinema</td>
+<td>aberto</td>
+</tr>
+<tr>
+<td>f gráficos/presets</td>
+<td>aberto</td>
+</tr>
+<tr>
+<td>g APK</td>
+<td><strong>APK vc16 feito e instalado 02/11</strong> (critérios: &gt;15 ✔, só quando o Bruno pediu ✔, mesma assinatura + sha256 ✔). O projeto Android não está no repo; a flag t89u_g_apk segue desligada (não muda nada no app).</td>
+</tr>
+<tr>
+<td>h visão ao vivo</td>
+<td>aberto; Gemini pronto e DESLIGADO (sem chave, sem faturamento)</td>
+</tr>
+</tbody>
+</table>
+<h5>Portões anteriores (resumo honesto, de docs/portoes/10_PORTOES_20261021.md e da passagem)</h5>
+<ul>
+<li>P1–P10 (21/10): P1, P2, P3, P4, P6, P9, P10 feitos; P5 (Painel 2), P7 (acompanhamento de visitantes) e P8 (anotações) sem rodada nova depois de 21/10 — funcionam no básico.</li>
+<li>Sonho S1–S6 (21/10): S1, S2, S4 feitos; S3 e S5 parciais (falta grafo do Livro no estilo das mentes); S6 feito na época.</li>
+<li>SUPREMO 001, CARTA 2.0, Caça-falhas, Aperfeiçoamento 1 e 2, Limpeza segura, Visual cyber (31/10): fechados (PRs #74–#82).</li>
+<li>Menus/Mini Terra, painéis, Meu Robô no celular, botões cobertos (02/11): PRs #84–#88, fechados.</li>
+<li>T92U organização do Drive (02/11): feita por outro trabalho (item N da passagem; resumo em CHECKPOINT_27_T92U_ORGANIZACAO_DRIVE_20261102.txt).</li>
+<li>T93U Manual de tudo (02/11): feito por outro trabalho (item O da passagem, CHECKPOINT_28_T93U_MANUAL_20261102.txt; PR #95). Esta varredura é o item P.</li>
+</ul>
+<h4>5. Testes</h4>
+<ul>
+<li>CI (GitHub, job python): verde em todos os PRs de hoje (#90, #91, #92, #93, #94).</li>
+<li>Suíte na caixa de testes, rodada AGORA (main 45c9acd + este PR): 914 passaram, 7 pulados, 0 falhas.</li>
+<li>Suíte no PC (após portão a): 760 testes, 9 falhas / 94 erros — NENHUM nome novo em relação à base; são de ambiente do Windows.
+  Arquivo: <code>D:\CARTA\ANOTACOES\CARTA20\visual\suite_pc_pos_portao_a.txt</code>.</li>
+<li>Auditoria destrutiva: "ok: nenhum ponto destrutivo novo".</li>
+<li>Teste de navegador do portão a: ok no PC e na caixa.</li>
+</ul>
+<h4>6. Lista honesta</h4>
+<p>PRONTO E TESTADO:
+- Portões a e b ligados e instalados; APK vc16 no celular com dados preservados; Faísca responde (com Ollama ligado).
+- 8790 e 8791 no ar e fechados para a rede; suítes sem falha nova; CI verde.
+FALTA / ATENÇÃO:
+- 8792 (Porta IA) desligada → visitante de fora não chega à Consciência hoje.
+- Ollama não estava ligado sozinho → sem ele o Faísca/Consciência não respondem conteúdo. Avaliar ligar junto com o atalho CARTA.
+- Depuração por Wi-Fi do celular está ligada de novo (decisão do Bruno).
+- Toque real no Faísca dentro do app (o MIUI não deixa o adb tocar).
+- Portões c, d, e, f, h; teste ponta a ponta P13; Meu Robô (caixa de missões 29%); Consciência citando fonte; G9; P7; P9 com IA independente; patch de CI (permissão workflow).</p></article></main><p><a href="suprema2-acervo-076.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-078.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#diagnostico">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#diagnostico</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-077-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

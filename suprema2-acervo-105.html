@@ -1,0 +1,110 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — RB01: documento da engrenagem (CARTA 2.0)</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — RB01: documento da engrenagem (CARTA 2.0)</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-104.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-106.html">Próxima →</a></p><main id="public-source"><article id="doc-rb01"><h3>RB01: documento da engrenagem (CARTA 2.0)</h3><p class="meta">fonte: docs/engrenagens_carta20/RB01.md</p><h3>RB01 — Robótica: carrinho 4WD</h3>
+<blockquote>
+<p>O robô de verdade da CARTA: chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado em um take só, ordem de serviço de solda com orçamento separado, plano de energia seguro e os portões antes de ligar qualquer coisa.</p>
+</blockquote>
+<h4>00 Ficha de proveniência {#rb01-00}</h4>
+<ul>
+<li><strong>id:</strong> RB01 · <strong>estante:</strong> Robótica do Bruno · <strong>modalidade:</strong> engrenagem de robótica física (CARTA 2.0) · gaveta ROBOTICA_DO_BRUNO</li>
+<li><strong>autoria:</strong> Bruno (filmou, comprou, conferiu) + ChatGPT/Copiloto (ordem de serviço, ponte de continuidade, caderno forense V04) + Grok (juntou na Enciclopédia em 03/11)</li>
+<li><strong>fontes (só pelo nome; os originais ficam no Drive do Bruno, pasta "ROBO VÍDEO"):</strong> vídeo mestre <code>lv_0_20261103121754</code> e <code>lv_0_20261103123033</code> (03/11, 12h17/12h30 BRT); "Aqui está a transcrição completa" (legendas do vídeo); "ROBOTICA PESADA — Ordem de serviço e montagem segura do carrinho 4WD — rascunho técnico 2026-11-03"; "CARTA 4WD — PONTE DE CONTINUIDADE E PROTOCOLO FOTOGRÁFICO"; pacote <code>CARTA_4WD_*_V04</code> (00 Começar aqui, 01/02 legendas, 03 inventário visual, 04 engenharia elétrica e ordem de solda, 05 fabricante, 06 cem portões booleanos, 07 varredura de 9.460 quadros, 99 relatório científico, Atlas V04 de 22 pranchas, Caderno forense V04).</li>
+<li><strong>criada em:</strong> 2026-11-03 por Grok (T105U) · regra: definição ESTRUTURAL (id, estante, modalidade, autoria, fonte, relações, história).</li>
+<li><strong>limites:</strong> nada íntimo; sem telefone, endereço ou número de série; sem links privados. Nada aqui autoriza ligar o robô na energia.</li>
+</ul>
+<h4>01 O que é {#rb01-01}</h4>
+<p>O Bruno chama de <strong>Projeto Faísca</strong> o corpo físico da CARTA: um carrinho didático 4WD que vai receber o cérebro (PC/IA) por comunicação local. No vídeo ele diz: "é um vídeo único para ficar registrado, pra daqui pra frente" — listando cada peça e a função dela, até a alimentação.</p>
+<h4>02 Inventário (o que foi filmado e o que a compra confirma) {#rb01-02}</h4>
+<table>
+<thead>
+<tr>
+<th>Peça</th>
+<th>Para que serve</th>
+<th>Grau de certeza</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chassi acrílico 4WD de dois pisos, 4 motores TT amarelos (3–6 V) e 4 rodas — manual impresso ZK-4WD (mcustudio)</td>
+<td>corpo e tração</td>
+<td>filmado + compra</td>
+</tr>
+<tr>
+<td>ESP32 DOIT DevKit 30 pinos (WROOM-32, Wi-Fi e Bluetooth), ainda lacrado no saquinho antiestático</td>
+<td>cérebro embarcado</td>
+<td>filmado + compra</td>
+</tr>
+<tr>
+<td>Base de expansão Keyes para ESP32, com bornes</td>
+<td>distribuir pinos e alimentação</td>
+<td>filmado + compra</td>
+</tr>
+<tr>
+<td>2× DRV8833 (ponte H dupla)</td>
+<td>um canal por motor: M1–M4</td>
+<td>compra; amostrado no vídeo</td>
+</tr>
+<tr>
+<td>XL4016 (com painel e dissipador) e LM2596 com display — conversores DISTINTOS</td>
+<td>XL4016 candidato para os motores; LM2596 para lógica/sensores</td>
+<td>filmado + compra</td>
+</tr>
+<tr>
+<td>Servo MG90S (Tower Pro)</td>
+<td>braço/"trombinha"</td>
+<td>filmado</td>
+</tr>
+<tr>
+<td>Pan-tilt com 2 servos SG90</td>
+<td>mexer a "cabeça" (não aguenta o peso do celular)</td>
+<td>filmado</td>
+</tr>
+<tr>
+<td>HC-SR04 (os "dois olhinhos" ultrassônicos)</td>
+<td>distância</td>
+<td>filmado</td>
+</tr>
+<tr>
+<td>Jumpers (3 tipos), 2 cabos de dados, conectores WAGO 221-413 (10 peças)</td>
+<td>ligações</td>
+<td>filmado</td>
+</tr>
+<tr>
+<td>Kit de solda (caneta, sugador, pasta), multímetro — falta só o arame</td>
+<td>bancada</td>
+<td>filmado</td>
+</tr>
+<tr>
+<td>Celular Xiaomi Mi 9 Lite em suporte próprio</td>
+<td>câmera, voz e rosto</td>
+<td>planejado</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Correção registrada:</strong> L298N aparece em listas antigas, mas <strong>não</strong> está na compra final (auditoria de 14/10). Não instalar dois drivers nos mesmos motores.</p>
+<h4>03 Energia e a divergência da fonte {#rb01-03}</h4>
+<ul>
+<li>Caminho seguro planejado: fonte fechada → adaptador certo (sem abrir nem cortar a fonte) → <strong>chave + fusível DC</strong> → XL4016 (motores) e LM2596 (lógica) → barramentos etiquetados (+5V LÓGICA, +5V SERVOS, +VM MOTORES, GND).</li>
+<li><strong>Nunca</strong> ligar 18,5 V direto em motor, DRV8833, ESP32 ou servo. GPIO do ESP32 é 3,3 V; o ECHO do HC-SR04 (5 V) precisa de adaptação de nível.</li>
+<li><strong>Divergência aberta:</strong> no vídeo (03/11, 12h) o Bruno mostra uma fonte HP fechada de 18,5 V · 3,5 A · 65 W ("já temos um estudo"). A ordem de serviço do mesmo dia diz que essa fonte "era hipótese" e que <strong>fonte e fusível continuam pendentes</strong>. Até o Bruno confirmar, vale o mais seguro: sem ensaio com motor.</li>
+</ul>
+<h4>04 Ordem de serviço e orçamento {#rb01-04}</h4>
+<p>O técnico faz <strong>só soldas e terminações</strong>, não monta nem programa o robô:
+1. fio vermelho + preto em cada um dos 4 motores (8 pontos), com termo-retrátil e alívio de tração;
+2. barras de pinos nos 2 DRV8833, só se vierem soltas;
+3. terminações removíveis (nada soldado direto no driver);
+4. capacitor cerâmico 100 nF entre os terminais de cada motor, se disponível;
+5. teste de continuidade, sem curto, motores etiquetados M1–M4;
+6. entregar separado, <strong>sem energizar</strong>.</p>
+<p><strong>Orçamento:</strong> o documento pede que o técnico "diga o preço só destas soldas e terminações antes de começar". Até 03/11 <strong>não há valor registrado</strong> — o orçamento é separável e está pendente.</p>
+<h4>05 Mapa de ligações (por nome, sem energia) {#rb01-05}</h4>
+<p>M1 (dianteiro esq.) → AOUT1/AOUT2 do DRV8833 #1 · M2 (traseiro esq.) → BOUT1/BOUT2 do #1 · M3 (dianteiro dir.) → AOUT1/AOUT2 do #2 · M4 (traseiro dir.) → BOUT1/BOUT2 do #2. GPIOs do ESP32 → AIN/BIN de cada driver só depois de ler a pinagem real; GND comum; nSLEEP desarmado até autorização.</p>
+<h4>06 Portões antes de andar {#rb01-06}</h4>
+<ol>
+<li>ESP32 só no USB, GPIO desarmados. 2. Reguladores medidos sem carga e com carga. 3. Um DRV8833 desarmado. 4. M1 com rodas suspensas e comando curto; desligar e inspecionar; repetir M2, M3, M4. 5. Pares, depois as quatro. 6. Só então o chão. Firmware sempre começa desarmado e para se perder a comunicação. O pacote V04 traz <strong>100 portões booleanos</strong> com o mesmo espírito.</li>
+</ol>
+<h4>07 Limites do que se sabe {#rb01-07}</h4>
+<p>9.460 quadros do vídeo passaram por análise computacional, o que <strong>não</strong> é leitura de cada quadro. As legendas são aproximadas (marcadas "NÃO VALIDADA"). O Atlas 3D é artístico, não CAD oficial. Nenhum detalhe elétrico está homologado por imagem.</p>
+<h4>08 Relações {#rb01-08}</h4>
+<ul>
+<li>eco: <strong>AV04</strong> (auditoria da compra em vídeo, 14/10) · <strong>EG019</strong> (Meu Robô — Copiloto e Máquina de Laranja) · <strong>EG006</strong> (Checkpoint e entrada no sonho).</li>
+<li>gaveta privada no PC: <code>ROBOTICA_DO_BRUNO</code> (componentes, montagens, programas, referências, diário) — agora com as fichas desta engrenagem.</li>
+</ul></article></main><p><a href="suprema2-acervo-104.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-106.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-105-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>

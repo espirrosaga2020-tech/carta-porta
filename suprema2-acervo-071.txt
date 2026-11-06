@@ -1,0 +1,216 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — Portões T100U (03/11/2026): o Planeta é o astro
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-070.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html>
+Portões T100U (03/11/2026): o Planeta é o astro
+PORTÕES T100U — Diagnóstico dos Sonhos a 100% (03/11/2026)
+Regra: cada portão só fecha com
+todos
+os critérios verdadeiros,
+medidos
+(não prometidos). Tudo por acréscimo; nada apagado.
+Flags no PC:
+<workspace>/t100u_flags.json
+(ex.:
+{"t100u_t10_cris": true}
+). Numa aba:
+?t100u=0
+desliga as telas novas;
+?vale=0
+,
+?hud=0
+,
+?regioes=0
+,
+?cartas=0
+desligam uma por uma;
+?miniterra=antiga
+traz o quadro antigo.
+API:
+GET /api/t89u/t100u/portoes
+(só o dono).
+t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros)
+Sonho: Planeta, fauna, bactérias, Mini Terra, dois planetas, companheiros, fogueira, olhos/voz · flag:
+—
+FPS medido com todos ligados no PC e no celular (412x915)
+0 erros de página
+?t95u=0 e ?gN=0 continuam desligando numa aba
+Estado:
+✅ fechado — E2E 03/11 14:56: g2..g9 ligados, PC 115,8 FPS / celular 118,6 FPS, 0 erros; ?t100u=0 e ?gN=0 desligam
+t2 — Mini Terra DENTRO do Planeta com o visual novo (Vale 3D); a antiga fica nos Bastidores
+Sonho: Mini Terra + recursos no Planeta · flag:
+t100u_t2_vale
+terreno, água, plantas, bichos, habitantes, lava, chuva e sismos da Mini Terra viva aparecem em 3D no Planeta
+o painel 🌱 abre o Vale 3D (não o quadro antigo)
+a página antiga /terra.html continua 200 e aparece nos 🎭 Bastidores
+?vale=0 desliga; ?miniterra=antiga traz o quadro antigo
+FPS com o Vale aberto medido
+Estado:
+✅ fechado — Vale 3D abre no Planeta (840 organismos, 2 habitantes, grade 32×24), FPS com o Vale 117–120, /terra.html 200 e listada em 🎭 Bastidores
+t3 — HUD enxuto: barra de baixo ≤ 6 botões + topo limpo no celular
+Sonho: Planeta repaginado (g2) · flag:
+t100u_t3_hud
+tgDock com no máximo 6 botões visíveis
+nenhum botão removido: os outros ficam na gaveta '⋯ mais'
+celular: 'Meu Robô · Planeta Godot' e 'Acontecimentos' atrás do chip 📰
+?hud=0 volta ao HUD antigo
+Estado:
+✅ fechado — barra de baixo com 6 botões (7 na gaveta ⋯ mais, nenhum removido); celular: chip 📰 no topo; ?hud=0 volta
+t4 — Navegação por regiões (🧭) dentro do Planeta
+Sonho: Navegação/escala por regiões (P7) · flag:
+t100u_t4_regioes
+lista das 32 regiões por bioma, com busca
+clicar viaja até a região (posição muda de verdade)
+'você está perto de' = região mais perta
+?regioes=0 desliga
+Estado:
+✅ fechado — 32 regiões; viagem medida (Bosque Antigo → 'você está perto de' = Bosque Antigo) no PC e no celular
+t5 — LEGO 'tá torto?' comparando a peça vista com o MODELO (passo a passo)
+Sonho: Lab de visão / LEGO · flag:
+t100u_t5_lego
+para cada peça do modelo: certa / torta (quantos graus) / fora do lugar (quantos mm e para onde) / falta
+peças a mais aparecem como 'sobrando'
+testes com cenas sintéticas de verdade conhecida
+só leitura: não mexe na montagem
+Estado:
+✅ fechado (cálculo) — 4 testes com cenas de verdade conhecida (torta 12°, 9 mm fora, falta, sobrando, camada); no PC a montagem real está vazia (0 peças vistas), então a frase real ainda é '0 de 5'
+t6 — Cartas e diários por autor, tema e data — dentro do Planeta (📜)
+Sonho: Cartas e diários (G9) · flag:
+t100u_t6_cartas
+painel 📜 no Planeta com autor, tema e período
+usa a busca já existente /api/acervo/v1/cartas
+de fora (visitante) só o público
+busca testada no PC com o acervo real
+Estado:
+✅ fechado — 1029 cartas/diários no acervo real; por autor (copiloto: 317), por data (617), dentro do Planeta 📜
+t7 — Superconsciência: no modo pesquisa a resposta SEMPRE termina com as fontes
+Sonho: Superconsciência · flag:
+t100u_t7_fontes
+se o modelo esquecer, o servidor anexa 'Fontes: …' das evidências usadas
+se já citou, não duplica
+imersão e modo leve não mudam
+Estado:
+✅ fechado (código) — testes de anexar/não duplicar/não inventar; ao vivo depende de um modelo de IA ligado (Gemini 402, Ollama desligado)
+t8 — Meu Robô: lojas/arenas/jogo testados por API
+Sonho: Meu Robô dentro do Planeta · flag:
+—
+rotas do Meu Robô respondem 200 no PC
+tecla U abre
+resultado no teste ponta a ponta (t13)
+Estado:
+🟡 parcial honesto — página do Meu Robô abre sem erro e o mundo responde; lojas/arenas DENTRO do Godot não são jogadas pelo robô de teste
+t9 — Porta IA 8792: aposentada em favor da Porta do Grok (documentado, NADA apagado)
+Sonho: Porta IA 8792 · flag:
+t100u_t9_porta8792_aposentada
+doc explicando o porquê e como religar
+código da 8792 intacto
+Porta do Grok com filtro (só público)
+Estado:
+✅ fechado — doc PORTA_8792_APOSENTADA.md; código da 8792 intacto; Porta do Grok com filtro
+(linha omitida no site público pelo filtro de privacidade)
+(linha omitida no site público pelo filtro de privacidade)
+código e testes prontos
+nenhum conteúdo íntimo inventado
+(linha omitida no site público pelo filtro de privacidade)
+desligado até o Bruno decidir
+Estado:
+⏸ pronto e DESLIGADO — decisão do Bruno
+t11 — Pesos da rodoviária início 10 / final 6: cálculo pronto, DESLIGADO, só leitura
+Sonho: Pesos da rodoviária 10/6 · flag:
+t100u_t11_rodoviaria
+3 formas de interpolar (linear, degrau, suave) para o Bruno escolher
+rodoviária nunca é mexida (só leitura)
+desligado até o Bruno decidir
+Estado:
+⏸ pronto e DESLIGADO — decisão do Bruno (escolher linear, degrau ou suave)
+t12 — Robô físico (OpenBot/braço): plano de ensaio a seco, DESLIGADO
+Sonho: Robô físico · flag:
+t100u_t12_robo_fisico
+ensaio a seco: nenhum comando sai do PC
+lista de compras/decisões para o Bruno
+desligado até o Bruno decidir
+Estado:
+⏸ pronto e DESLIGADO — decisão do Bruno (comprar/ligar o robô)
+t13 — Teste ponta a ponta automático (navegador de verdade + API) com relatório JSON
+Sonho: Teste ponta a ponta (P13) · flag:
+—
+uma rodada única percorre Planeta, portões, Mini Terra, regiões, cartas, LEGO, Superconsciência, Meu Robô, Porta
+relatório JSON com ok/falha por item
+rodado no PC com tudo ligado
+Estado:
+✅ fechado — tools/pc/TESTE_E2E_T100U.py: 40/40 ok em 110 s no PC (relatório JSON)
+t14 — Aviso de segredo em docs/convergencia/COMO_EXECUTAR.md:10 mascarado (histórico intacto)
+Sonho: Segurança · flag:
+—
+linha 10 sem valor que pareça segredo
+nenhum commit reescrito
+Estado:
+✅ fechado — linha 10 agora gera o token na hora; gitleaks na pasta: 0; histórico não reescrito
+t15 — LIGAR mais rápido
+Sonho: Organização · flag:
+—
+serviços sobem em paralelo
+espera por relógio (não por contagem)
+-EmSequencia volta ao jeito antigo
+tempo medido antes/depois
+Estado:
+✅ fechado — medido no PC: em sequência 3,9 s, em paralelo 2,8 s até o 8790/8791/8795 responderem; a espera agora é por relógio (antes um '60 s' virava ~100 s quando o 8790 travava, como às 12:24 e 12:30 de hoje) e a janela abre assim que o 8790 responde
+t16 — APK vc19 instalado por cima (install -r)
+Sonho: App no celular · flag:
+—
+versionCode ≥ 19
+install -r sem apagar dados
+autoteste no aparelho
+Estado:
+✅ fechado — APK vc19 "1.15.0-carta20-t100u" (projeto novo D:\CARTA\BUILD_APK_1.15.0; o 1.14.0 intocado), build 32 s, webdist novo dentro (planeta-326I8Y2-.js e bastidores.html conferidos no APK),
+adb install -r
+= Success, dumpsys versionCode=19; o Planeta abre no app (foto ...\t100u_depois\cel_apk_planeta.png). PISO AGORA = vc19.
+t17 — Atualização geral (consciências, Mente, menus, Manual v5, o que somos, Porta, Enciclopédia, passagem, diagnóstico)
+Sonho: Organização · flag:
+—
+tudo por acréscimo
+DIAGNOSTICO_SONHOS refeito com % reais
+Estado:
+✅ fechado — consciências regravadas (tools/atualizar_consciencias.py), menu do Início com 🎭 Bastidores, Manual v5 (repo + Drive), 'o que somos hoje' e Porta do Grok regenerada com filtro, Enciclopédia só acrescentada (a Porta regenera), passagem item Z, CHECKPOINT_39 e DIAGNOSTICO_SONHOS refeito (84%).
+O que só o Bruno decide
+(linha omitida no site público pelo filtro de privacidade)
+-
+Rodoviária 10/6 (t11):
+qual forma (linear, degrau, suave) e quantas etapas. A rodoviária não foi tocada.
+-
+Robô físico (t12):
+qual robô (OpenBot com celular velho é o mais barato). Hoje é só ensaio a seco: nada sai do PC.
+-
+Porta 8792 (t9):
+manter aposentada (recomendado) ou religar à mão.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-070.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#portoes
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#portoes>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-071-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

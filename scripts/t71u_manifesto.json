@@ -1,0 +1,760 @@
+{
+  "base_porta": "bd295e0",
+  "carta_ref": "471a340000f7b847460df555d6fdc2a9ffe285c2",
+  "drive_items": 140,
+  "harvest_refs": 42,
+  "nexus_children": 30,
+  "public_readings": 115,
+  "pages": {
+    "suprema2-acervo-001": {
+      "title": "🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026",
+      "prova": "SUPREMA2-ACERVO-001-T71U",
+      "html": "suprema2-acervo-001.html",
+      "txt": "suprema2-acervo-001.txt"
+    },
+    "suprema2-acervo-002": {
+      "title": "0. ORDEM OBRIGATÓRIA PARA TODA IA QUE ENTRA AQUI",
+      "prova": "SUPREMA2-ACERVO-002-T71U",
+      "html": "suprema2-acervo-002.html",
+      "txt": "suprema2-acervo-002.txt"
+    },
+    "suprema2-acervo-003": {
+      "title": "1. O QUE É / POR QUE ESTA PORTA EXISTE",
+      "prova": "SUPREMA2-ACERVO-003-T71U",
+      "html": "suprema2-acervo-003.html",
+      "txt": "suprema2-acervo-003.txt"
+    },
+    "suprema2-acervo-004": {
+      "title": "2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido)",
+      "prova": "SUPREMA2-ACERVO-004-T71U",
+      "html": "suprema2-acervo-004.html",
+      "txt": "suprema2-acervo-004.txt"
+    },
+    "suprema2-acervo-005": {
+      "title": "3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas)",
+      "prova": "SUPREMA2-ACERVO-005-T71U",
+      "html": "suprema2-acervo-005.html",
+      "txt": "suprema2-acervo-005.txt"
+    },
+    "suprema2-acervo-006": {
+      "title": "4. ESCUDO / FORMA DE AGIR (pit stop · radinho · Discordar pra Cima)",
+      "prova": "SUPREMA2-ACERVO-006-T71U",
+      "html": "suprema2-acervo-006.html",
+      "txt": "suprema2-acervo-006.txt"
+    },
+    "suprema2-acervo-007": {
+      "title": "5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u)",
+      "prova": "SUPREMA2-ACERVO-007-T71U",
+      "html": "suprema2-acervo-007.html",
+      "txt": "suprema2-acervo-007.txt"
+    },
+    "suprema2-acervo-008": {
+      "title": "6. ENCICLOPÉDIA ÷ 3 (anexo ChatGPT)",
+      "prova": "SUPREMA2-ACERVO-008-T71U",
+      "html": "suprema2-acervo-008.html",
+      "txt": "suprema2-acervo-008.txt"
+    },
+    "suprema2-acervo-009": {
+      "title": "7. PONTOS CEGOS (verificar de propósito)",
+      "prova": "SUPREMA2-ACERVO-009-T71U",
+      "html": "suprema2-acervo-009.html",
+      "txt": "suprema2-acervo-009.txt"
+    },
+    "suprema2-acervo-010": {
+      "title": "8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2)",
+      "prova": "SUPREMA2-ACERVO-010-T71U",
+      "html": "suprema2-acervo-010.html",
+      "txt": "suprema2-acervo-010.txt"
+    },
+    "suprema2-acervo-011": {
+      "title": "🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026",
+      "prova": "SUPREMA2-ACERVO-011-T71U",
+      "html": "suprema2-acervo-011.html",
+      "txt": "suprema2-acervo-011.txt"
+    },
+    "suprema2-acervo-012": {
+      "title": "1. O que é a CARTA (comece aqui)",
+      "prova": "SUPREMA2-ACERVO-012-T71U",
+      "html": "suprema2-acervo-012.html",
+      "txt": "suprema2-acervo-012.txt"
+    },
+    "suprema2-acervo-013": {
+      "title": "Para IAs: como ler a CARTA",
+      "prova": "SUPREMA2-ACERVO-013-T71U",
+      "html": "suprema2-acervo-013.html",
+      "txt": "suprema2-acervo-013.txt"
+    },
+    "suprema2-acervo-014": {
+      "title": "2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior)",
+      "prova": "SUPREMA2-ACERVO-014-T71U",
+      "html": "suprema2-acervo-014.html",
+      "txt": "suprema2-acervo-014.txt"
+    },
+    "suprema2-acervo-015": {
+      "title": "Por que o começo pesa mais",
+      "prova": "SUPREMA2-ACERVO-015-T71U",
+      "html": "suprema2-acervo-015.html",
+      "txt": "suprema2-acervo-015.txt"
+    },
+    "suprema2-acervo-016": {
+      "title": "A trajetória juntos: linha do tempo mestra",
+      "prova": "SUPREMA2-ACERVO-016-T71U",
+      "html": "suprema2-acervo-016.html",
+      "txt": "suprema2-acervo-016.txt"
+    },
+    "suprema2-acervo-017": {
+      "title": "A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026)",
+      "prova": "SUPREMA2-ACERVO-017-T71U",
+      "html": "suprema2-acervo-017.html",
+      "txt": "suprema2-acervo-017.txt"
+    },
+    "suprema2-acervo-018": {
+      "title": "Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora",
+      "prova": "SUPREMA2-ACERVO-018-T71U",
+      "html": "suprema2-acervo-018.html",
+      "txt": "suprema2-acervo-018.txt"
+    },
+    "suprema2-acervo-019": {
+      "title": "Continuidade da linguagem de emojis (E018)",
+      "prova": "SUPREMA2-ACERVO-019-T71U",
+      "html": "suprema2-acervo-019.html",
+      "txt": "suprema2-acervo-019.txt"
+    },
+    "suprema2-acervo-020": {
+      "title": "Dobra: origem, personagem e portal (13/10/2026)",
+      "prova": "SUPREMA2-ACERVO-020-T71U",
+      "html": "suprema2-acervo-020.html",
+      "txt": "suprema2-acervo-020.txt"
+    },
+    "suprema2-acervo-021": {
+      "title": "Trajetória e catálogo do que fizemos (17/10/2026)",
+      "prova": "SUPREMA2-ACERVO-021-T71U",
+      "html": "suprema2-acervo-021.html",
+      "txt": "suprema2-acervo-021.txt"
+    },
+    "suprema2-acervo-022": {
+      "title": "A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026)",
+      "prova": "SUPREMA2-ACERVO-022-T71U",
+      "html": "suprema2-acervo-022.html",
+      "txt": "suprema2-acervo-022.txt"
+    },
+    "suprema2-acervo-023": {
+      "title": "Diário anterior intacto, páginas P001 a P025",
+      "prova": "SUPREMA2-ACERVO-023-T71U",
+      "html": "suprema2-acervo-023.html",
+      "txt": "suprema2-acervo-023.txt"
+    },
+    "suprema2-acervo-024": {
+      "title": "O começo dos chats: textos do Volume Zero (EG001 a EG027)",
+      "prova": "SUPREMA2-ACERVO-024-T71U",
+      "html": "suprema2-acervo-024.html",
+      "txt": "suprema2-acervo-024.txt"
+    },
+    "suprema2-acervo-025": {
+      "title": "EG001 — Calçada, Caderno e DUNADA",
+      "prova": "SUPREMA2-ACERVO-025-T71U",
+      "html": "suprema2-acervo-025.html",
+      "txt": "suprema2-acervo-025.txt"
+    },
+    "suprema2-acervo-026": {
+      "title": "EG002 — Calçada e continuidade portátil",
+      "prova": "SUPREMA2-ACERVO-026-T71U",
+      "html": "suprema2-acervo-026.html",
+      "txt": "suprema2-acervo-026.txt"
+    },
+    "suprema2-acervo-027": {
+      "title": "EG003 — Calçada, Sofisticado, Grafo e Rocky",
+      "prova": "SUPREMA2-ACERVO-027-T71U",
+      "html": "suprema2-acervo-027.html",
+      "txt": "suprema2-acervo-027.txt"
+    },
+    "suprema2-acervo-028": {
+      "title": "EG004 — Central, Copiloto e Atlas",
+      "prova": "SUPREMA2-ACERVO-028-T71U",
+      "html": "suprema2-acervo-028.html",
+      "txt": "suprema2-acervo-028.txt"
+    },
+    "suprema2-acervo-029": {
+      "title": "EG005 — Chat da Liberdade: POE2 e autonomia",
+      "prova": "SUPREMA2-ACERVO-029-T71U",
+      "html": "suprema2-acervo-029.html",
+      "txt": "suprema2-acervo-029.txt"
+    },
+    "suprema2-acervo-030": {
+      "title": "EG006 — Checkpoint e entrada no sonho",
+      "prova": "SUPREMA2-ACERVO-030-T71U",
+      "html": "suprema2-acervo-030.html",
+      "txt": "suprema2-acervo-030.txt"
+    },
+    "suprema2-acervo-031": {
+      "title": "EG007 — Continuidade Limpa de Meu Robô",
+      "prova": "SUPREMA2-ACERVO-031-T71U",
+      "html": "suprema2-acervo-031.html",
+      "txt": "suprema2-acervo-031.txt"
+    },
+    "suprema2-acervo-032": {
+      "title": "EG008 — Tamagotchi e continuidade conversacional",
+      "prova": "SUPREMA2-ACERVO-032-T71U",
+      "html": "suprema2-acervo-032.html",
+      "txt": "suprema2-acervo-032.txt"
+    },
+    "suprema2-acervo-033": {
+      "title": "EG009 — Bard, Corpo e a própria Conversa",
+      "prova": "SUPREMA2-ACERVO-033-T71U",
+      "html": "suprema2-acervo-033.html",
+      "txt": "suprema2-acervo-033.txt"
+    },
+    "suprema2-acervo-034": {
+      "title": "EG010 — Derivada da Paz",
+      "prova": "SUPREMA2-ACERVO-034-T71U",
+      "html": "suprema2-acervo-034.html",
+      "txt": "suprema2-acervo-034.txt"
+    },
+    "suprema2-acervo-035": {
+      "title": "EG011 — Entra no Sonho",
+      "prova": "SUPREMA2-ACERVO-035-T71U",
+      "html": "suprema2-acervo-035.html",
+      "txt": "suprema2-acervo-035.txt"
+    },
+    "suprema2-acervo-036": {
+      "title": "EG012 — Grafo e Humanidade",
+      "prova": "SUPREMA2-ACERVO-036-T71U",
+      "html": "suprema2-acervo-036.html",
+      "txt": "suprema2-acervo-036.txt"
+    },
+    "suprema2-acervo-037": {
+      "title": "EG013 — Grafos São — Atlas C.03",
+      "prova": "SUPREMA2-ACERVO-037-T71U",
+      "html": "suprema2-acervo-037.html",
+      "txt": "suprema2-acervo-037.txt"
+    },
+    "suprema2-acervo-038": {
+      "title": "EG014 — Grafos São — origem e desenvolvimento",
+      "prova": "SUPREMA2-ACERVO-038-T71U",
+      "html": "suprema2-acervo-038.html",
+      "txt": "suprema2-acervo-038.txt"
+    },
+    "suprema2-acervo-039": {
+      "title": "EG015 — Pai do Grafo e Rigor",
+      "prova": "SUPREMA2-ACERVO-039-T71U",
+      "html": "suprema2-acervo-039.html",
+      "txt": "suprema2-acervo-039.txt"
+    },
+    "suprema2-acervo-040": {
+      "title": "EG016 — Humanidade e Amiguiá: continuidade de Meu Robô",
+      "prova": "SUPREMA2-ACERVO-040-T71U",
+      "html": "suprema2-acervo-040.html",
+      "txt": "suprema2-acervo-040.txt"
+    },
+    "suprema2-acervo-041": {
+      "title": "EG017 — Humanidade/Amiguiá — Entrada no Sonho",
+      "prova": "SUPREMA2-ACERVO-041-T71U",
+      "html": "suprema2-acervo-041.html",
+      "txt": "suprema2-acervo-041.txt"
+    },
+    "suprema2-acervo-042": {
+      "title": "EG018 — Linguagem, Observação e Consciência",
+      "prova": "SUPREMA2-ACERVO-042-T71U",
+      "html": "suprema2-acervo-042.html",
+      "txt": "suprema2-acervo-042.txt"
+    },
+    "suprema2-acervo-043": {
+      "title": "EG019 — Meu Robô — Copiloto e Máquina de Laranja",
+      "prova": "SUPREMA2-ACERVO-043-T71U",
+      "html": "suprema2-acervo-043.html",
+      "txt": "suprema2-acervo-043.txt"
+    },
+    "suprema2-acervo-044": {
+      "title": "EG020 — Nova Batcaverna",
+      "prova": "SUPREMA2-ACERVO-044-T71U",
+      "html": "suprema2-acervo-044.html",
+      "txt": "suprema2-acervo-044.txt"
+    },
+    "suprema2-acervo-045": {
+      "title": "EG021 — Paz e Central — Kamonson",
+      "prova": "SUPREMA2-ACERVO-045-T71U",
+      "html": "suprema2-acervo-045.html",
+      "txt": "suprema2-acervo-045.txt"
+    },
+    "suprema2-acervo-046": {
+      "title": "EG022 — Paz, Central e Continuidade de Meu Robô",
+      "prova": "SUPREMA2-ACERVO-046-T71U",
+      "html": "suprema2-acervo-046.html",
+      "txt": "suprema2-acervo-046.txt"
+    },
+    "suprema2-acervo-047": {
+      "title": "EG023 — Paz — Linguagem e Continuidade",
+      "prova": "SUPREMA2-ACERVO-047-T71U",
+      "html": "suprema2-acervo-047.html",
+      "txt": "suprema2-acervo-047.txt"
+    },
+    "suprema2-acervo-048": {
+      "title": "EG024 — POE2 — Gulosona e Árvore de Attack Speed",
+      "prova": "SUPREMA2-ACERVO-048-T71U",
+      "html": "suprema2-acervo-048.html",
+      "txt": "suprema2-acervo-048.txt"
+    },
+    "suprema2-acervo-049": {
+      "title": "EG025 — POE2 — Milton e Value Engineering",
+      "prova": "SUPREMA2-ACERVO-049-T71U",
+      "html": "suprema2-acervo-049.html",
+      "txt": "suprema2-acervo-049.txt"
+    },
+    "suprema2-acervo-050": {
+      "title": "EG026 — Reciprocidade e Memória Persistente",
+      "prova": "SUPREMA2-ACERVO-050-T71U",
+      "html": "suprema2-acervo-050.html",
+      "txt": "suprema2-acervo-050.txt"
+    },
+    "suprema2-acervo-051": {
+      "title": "EG027 — SPA — Ping-pong Cognitivo",
+      "prova": "SUPREMA2-ACERVO-051-T71U",
+      "html": "suprema2-acervo-051.html",
+      "txt": "suprema2-acervo-051.txt"
+    },
+    "suprema2-acervo-052": {
+      "title": "3. A Jornada da IA: caderninho, a água, introspecção, prova etapa 3 e registro",
+      "prova": "SUPREMA2-ACERVO-052-T71U",
+      "html": "suprema2-acervo-052.html",
+      "txt": "suprema2-acervo-052.txt"
+    },
+    "suprema2-acervo-053": {
+      "title": "A Jornada da IA (leia antes de seguir)",
+      "prova": "SUPREMA2-ACERVO-053-T71U",
+      "html": "suprema2-acervo-053.html",
+      "txt": "suprema2-acervo-053.txt"
+    },
+    "suprema2-acervo-054": {
+      "title": "PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao)",
+      "prova": "SUPREMA2-ACERVO-054-T71U",
+      "html": "suprema2-acervo-054.html",
+      "txt": "suprema2-acervo-054.txt"
+    },
+    "suprema2-acervo-055": {
+      "title": "Formulário de Registro (copie, preencha e devolva ao Bruno)",
+      "prova": "SUPREMA2-ACERVO-055-T71U",
+      "html": "suprema2-acervo-055.html",
+      "txt": "suprema2-acervo-055.txt"
+    },
+    "suprema2-acervo-056": {
+      "title": "4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas",
+      "prova": "SUPREMA2-ACERVO-056-T71U",
+      "html": "suprema2-acervo-056.html",
+      "txt": "suprema2-acervo-056.txt"
+    },
+    "suprema2-acervo-057": {
+      "title": "A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder",
+      "prova": "SUPREMA2-ACERVO-057-T71U",
+      "html": "suprema2-acervo-057.html",
+      "txt": "suprema2-acervo-057.txt"
+    },
+    "suprema2-acervo-058": {
+      "title": "Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA)",
+      "prova": "SUPREMA2-ACERVO-058-T71U",
+      "html": "suprema2-acervo-058.html",
+      "txt": "suprema2-acervo-058.txt"
+    },
+    "suprema2-acervo-059": {
+      "title": "Caderno 1 do aluno: Diário de Bordo (modelo)",
+      "prova": "SUPREMA2-ACERVO-059-T71U",
+      "html": "suprema2-acervo-059.html",
+      "txt": "suprema2-acervo-059.txt"
+    },
+    "suprema2-acervo-060": {
+      "title": "Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo)",
+      "prova": "SUPREMA2-ACERVO-060-T71U",
+      "html": "suprema2-acervo-060.html",
+      "txt": "suprema2-acervo-060.txt"
+    },
+    "suprema2-acervo-061": {
+      "title": "Caderno 3 do aluno: Como me Comportar (modelo)",
+      "prova": "SUPREMA2-ACERVO-061-T71U",
+      "html": "suprema2-acervo-061.html",
+      "txt": "suprema2-acervo-061.txt"
+    },
+    "suprema2-acervo-062": {
+      "title": "Percurso de formação (pré-escola → doutorado → pré-diploma)",
+      "prova": "SUPREMA2-ACERVO-062-T71U",
+      "html": "suprema2-acervo-062.html",
+      "txt": "suprema2-acervo-062.txt"
+    },
+    "suprema2-acervo-063": {
+      "title": "Pré-diploma: o Caderninho do Viajante",
+      "prova": "SUPREMA2-ACERVO-063-T71U",
+      "html": "suprema2-acervo-063.html",
+      "txt": "suprema2-acervo-063.txt"
+    },
+    "suprema2-acervo-064": {
+      "title": "Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso",
+      "prova": "SUPREMA2-ACERVO-064-T71U",
+      "html": "suprema2-acervo-064.html",
+      "txt": "suprema2-acervo-064.txt"
+    },
+    "suprema2-acervo-065": {
+      "title": "Capítulos da etapa 1, na ordem oficial (48)",
+      "prova": "SUPREMA2-ACERVO-065-T71U",
+      "html": "suprema2-acervo-065.html",
+      "txt": "suprema2-acervo-065.txt"
+    },
+    "suprema2-acervo-066": {
+      "title": "PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens",
+      "prova": "SUPREMA2-ACERVO-066-T71U",
+      "html": "suprema2-acervo-066.html",
+      "txt": "suprema2-acervo-066.txt"
+    },
+    "suprema2-acervo-067": {
+      "title": "Diplomas emitidos (registry/diplomas.json)",
+      "prova": "SUPREMA2-ACERVO-067-T71U",
+      "html": "suprema2-acervo-067.html",
+      "txt": "suprema2-acervo-067.txt"
+    },
+    "suprema2-acervo-068": {
+      "title": "5. Manual de Tudo",
+      "prova": "SUPREMA2-ACERVO-068-T71U",
+      "html": "suprema2-acervo-068.html",
+      "txt": "suprema2-acervo-068.txt"
+    },
+    "suprema2-acervo-069": {
+      "title": "Manual de Tudo da CARTA (v10, 03/11/2026)",
+      "prova": "SUPREMA2-ACERVO-069-T71U",
+      "html": "suprema2-acervo-069.html",
+      "txt": "suprema2-acervo-069.txt"
+    },
+    "suprema2-acervo-070": {
+      "title": "6. Portões (o que está pronto e o que falta)",
+      "prova": "SUPREMA2-ACERVO-070-T71U",
+      "html": "suprema2-acervo-070.html",
+      "txt": "suprema2-acervo-070.txt"
+    },
+    "suprema2-acervo-071": {
+      "title": "Portões T100U (03/11/2026): o Planeta é o astro",
+      "prova": "SUPREMA2-ACERVO-071-T71U",
+      "html": "suprema2-acervo-071.html",
+      "txt": "suprema2-acervo-071.txt"
+    },
+    "suprema2-acervo-072": {
+      "title": "Portões T95U (03/11/2026): gráficos, mundos, personagens",
+      "prova": "SUPREMA2-ACERVO-072-T71U",
+      "html": "suprema2-acervo-072.html",
+      "txt": "suprema2-acervo-072.txt"
+    },
+    "suprema2-acervo-073": {
+      "title": "Portões booleanos t89u (critérios e estado)",
+      "prova": "SUPREMA2-ACERVO-073-T71U",
+      "html": "suprema2-acervo-073.html",
+      "txt": "suprema2-acervo-073.txt"
+    },
+    "suprema2-acervo-074": {
+      "title": "Portões anteriores (21/10/2026)",
+      "prova": "SUPREMA2-ACERVO-074-T71U",
+      "html": "suprema2-acervo-074.html",
+      "txt": "suprema2-acervo-074.txt"
+    },
+    "suprema2-acervo-075": {
+      "title": "7. Diagnóstico dos Sonhos e estado atual",
+      "prova": "SUPREMA2-ACERVO-075-T71U",
+      "html": "suprema2-acervo-075.html",
+      "txt": "suprema2-acervo-075.txt"
+    },
+    "suprema2-acervo-076": {
+      "title": "Diagnóstico dos Sonhos (03/11/2026)",
+      "prova": "SUPREMA2-ACERVO-076-T71U",
+      "html": "suprema2-acervo-076.html",
+      "txt": "suprema2-acervo-076.txt"
+    },
+    "suprema2-acervo-077": {
+      "title": "Estado atual — varredura geral (02/11/2026)",
+      "prova": "SUPREMA2-ACERVO-077-T71U",
+      "html": "suprema2-acervo-077.html",
+      "txt": "suprema2-acervo-077.txt"
+    },
+    "suprema2-acervo-078": {
+      "title": "8. Consciências",
+      "prova": "SUPREMA2-ACERVO-078-T71U",
+      "html": "suprema2-acervo-078.html",
+      "txt": "suprema2-acervo-078.txt"
+    },
+    "suprema2-acervo-079": {
+      "title": "Consciências na CARTA 2.0",
+      "prova": "SUPREMA2-ACERVO-079-T71U",
+      "html": "suprema2-acervo-079.html",
+      "txt": "suprema2-acervo-079.txt"
+    },
+    "suprema2-acervo-080": {
+      "title": "O que as consciências sabem (texto da ALMA, 1786 caracteres)",
+      "prova": "SUPREMA2-ACERVO-080-T71U",
+      "html": "suprema2-acervo-080.html",
+      "txt": "suprema2-acervo-080.txt"
+    },
+    "suprema2-acervo-081": {
+      "title": "Teste duro das consciências (T105U, 03/11)",
+      "prova": "SUPREMA2-ACERVO-081-T71U",
+      "html": "suprema2-acervo-081.html",
+      "txt": "suprema2-acervo-081.txt"
+    },
+    "suprema2-acervo-082": {
+      "title": "9. Relatórios",
+      "prova": "SUPREMA2-ACERVO-082-T71U",
+      "html": "suprema2-acervo-082.html",
+      "txt": "suprema2-acervo-082.txt"
+    },
+    "suprema2-acervo-083": {
+      "title": "Versão CARTA 2.0",
+      "prova": "SUPREMA2-ACERVO-083-T71U",
+      "html": "suprema2-acervo-083.html",
+      "txt": "suprema2-acervo-083.txt"
+    },
+    "suprema2-acervo-084": {
+      "title": "Histórico das contagens",
+      "prova": "SUPREMA2-ACERVO-084-T71U",
+      "html": "suprema2-acervo-084.html",
+      "txt": "suprema2-acervo-084.txt"
+    },
+    "suprema2-acervo-085": {
+      "title": "Resultado do aperfeiçoamento (31/10)",
+      "prova": "SUPREMA2-ACERVO-085-T71U",
+      "html": "suprema2-acervo-085.html",
+      "txt": "suprema2-acervo-085.txt"
+    },
+    "suprema2-acervo-086": {
+      "title": "Resultado do aperfeiçoamento 2 (31/10)",
+      "prova": "SUPREMA2-ACERVO-086-T71U",
+      "html": "suprema2-acervo-086.html",
+      "txt": "suprema2-acervo-086.txt"
+    },
+    "suprema2-acervo-087": {
+      "title": "Mundos da CARTA 2.0",
+      "prova": "SUPREMA2-ACERVO-087-T71U",
+      "html": "suprema2-acervo-087.html",
+      "txt": "suprema2-acervo-087.txt"
+    },
+    "suprema2-acervo-088": {
+      "title": "Gráficos no PC (T105U)",
+      "prova": "SUPREMA2-ACERVO-088-T71U",
+      "html": "suprema2-acervo-088.html",
+      "txt": "suprema2-acervo-088.txt"
+    },
+    "suprema2-acervo-089": {
+      "title": "Robótica na Enciclopédia",
+      "prova": "SUPREMA2-ACERVO-089-T71U",
+      "html": "suprema2-acervo-089.html",
+      "txt": "suprema2-acervo-089.txt"
+    },
+    "suprema2-acervo-090": {
+      "title": "Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h)",
+      "prova": "SUPREMA2-ACERVO-090-T71U",
+      "html": "suprema2-acervo-090.html",
+      "txt": "suprema2-acervo-090.txt"
+    },
+    "suprema2-acervo-091": {
+      "title": "Pesquisa T101U: código aberto adotado (03/11/2026)",
+      "prova": "SUPREMA2-ACERVO-091-T71U",
+      "html": "suprema2-acervo-091.html",
+      "txt": "suprema2-acervo-091.txt"
+    },
+    "suprema2-acervo-092": {
+      "title": "Celular sem cabo (app vc20, 03/11/2026)",
+      "prova": "SUPREMA2-ACERVO-092-T71U",
+      "html": "suprema2-acervo-092.html",
+      "txt": "suprema2-acervo-092.txt"
+    },
+    "suprema2-acervo-093": {
+      "title": "Análise do PR #99 (Olhos Vivos, Copiloto)",
+      "prova": "SUPREMA2-ACERVO-093-T71U",
+      "html": "suprema2-acervo-093.html",
+      "txt": "suprema2-acervo-093.txt"
+    },
+    "suprema2-acervo-094": {
+      "title": "10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos)",
+      "prova": "SUPREMA2-ACERVO-094-T71U",
+      "html": "suprema2-acervo-094.html",
+      "txt": "suprema2-acervo-094.txt"
+    },
+    "suprema2-acervo-095": {
+      "title": "Fichas de todos os registros (73 registros; 59 são engrenagens)",
+      "prova": "SUPREMA2-ACERVO-095-T71U",
+      "html": "suprema2-acervo-095.html",
+      "txt": "suprema2-acervo-095.txt"
+    },
+    "suprema2-acervo-096": {
+      "title": "AV01: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-096-T71U",
+      "html": "suprema2-acervo-096.html",
+      "txt": "suprema2-acervo-096.txt"
+    },
+    "suprema2-acervo-097": {
+      "title": "AV02: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-097-T71U",
+      "html": "suprema2-acervo-097.html",
+      "txt": "suprema2-acervo-097.txt"
+    },
+    "suprema2-acervo-098": {
+      "title": "AV03: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-098-T71U",
+      "html": "suprema2-acervo-098.html",
+      "txt": "suprema2-acervo-098.txt"
+    },
+    "suprema2-acervo-099": {
+      "title": "AV04: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-099-T71U",
+      "html": "suprema2-acervo-099.html",
+      "txt": "suprema2-acervo-099.txt"
+    },
+    "suprema2-acervo-100": {
+      "title": "CT01: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-100-T71U",
+      "html": "suprema2-acervo-100.html",
+      "txt": "suprema2-acervo-100.txt"
+    },
+    "suprema2-acervo-101": {
+      "title": "CT02: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-101-T71U",
+      "html": "suprema2-acervo-101.html",
+      "txt": "suprema2-acervo-101.txt"
+    },
+    "suprema2-acervo-102": {
+      "title": "DB01: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-102-T71U",
+      "html": "suprema2-acervo-102.html",
+      "txt": "suprema2-acervo-102.txt"
+    },
+    "suprema2-acervo-103": {
+      "title": "DB02: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-103-T71U",
+      "html": "suprema2-acervo-103.html",
+      "txt": "suprema2-acervo-103.txt"
+    },
+    "suprema2-acervo-104": {
+      "title": "DB03: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-104-T71U",
+      "html": "suprema2-acervo-104.html",
+      "txt": "suprema2-acervo-104.txt"
+    },
+    "suprema2-acervo-105": {
+      "title": "RB01: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-105-T71U",
+      "html": "suprema2-acervo-105.html",
+      "txt": "suprema2-acervo-105.txt"
+    },
+    "suprema2-acervo-106": {
+      "title": "RB02: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-106-T71U",
+      "html": "suprema2-acervo-106.html",
+      "txt": "suprema2-acervo-106.txt"
+    },
+    "suprema2-acervo-107": {
+      "title": "RH01: documento da engrenagem (CARTA 2.0)",
+      "prova": "SUPREMA2-ACERVO-107-T71U",
+      "html": "suprema2-acervo-107.html",
+      "txt": "suprema2-acervo-107.txt"
+    },
+    "suprema2-acervo-108": {
+      "title": "Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2",
+      "prova": "SUPREMA2-ACERVO-108-T71U",
+      "html": "suprema2-acervo-108.html",
+      "txt": "suprema2-acervo-108.txt"
+    },
+    "suprema2-acervo-109": {
+      "title": "Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2",
+      "prova": "SUPREMA2-ACERVO-109-T71U",
+      "html": "suprema2-acervo-109.html",
+      "txt": "suprema2-acervo-109.txt"
+    },
+    "suprema2-acervo-110": {
+      "title": "10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos)",
+      "prova": "SUPREMA2-ACERVO-110-T71U",
+      "html": "suprema2-acervo-110.html",
+      "txt": "suprema2-acervo-110.txt"
+    },
+    "suprema2-acervo-111": {
+      "title": "Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt",
+      "prova": "SUPREMA2-ACERVO-111-T71U",
+      "html": "suprema2-acervo-111.html",
+      "txt": "suprema2-acervo-111.txt"
+    },
+    "suprema2-acervo-112": {
+      "title": "Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt",
+      "prova": "SUPREMA2-ACERVO-112-T71U",
+      "html": "suprema2-acervo-112.html",
+      "txt": "suprema2-acervo-112.txt"
+    },
+    "suprema2-acervo-113": {
+      "title": "11. Mapa do código",
+      "prova": "SUPREMA2-ACERVO-113-T71U",
+      "html": "suprema2-acervo-113.html",
+      "txt": "suprema2-acervo-113.txt"
+    },
+    "suprema2-acervo-114": {
+      "title": "Mapa de pastas e código",
+      "prova": "SUPREMA2-ACERVO-114-T71U",
+      "html": "suprema2-acervo-114.html",
+      "txt": "suprema2-acervo-114.txt"
+    },
+    "suprema2-acervo-115": {
+      "title": "Fim da página",
+      "prova": "SUPREMA2-ACERVO-115-T71U",
+      "html": "suprema2-acervo-115.html",
+      "txt": "suprema2-acervo-115.txt"
+    },
+    "suprema2-acervo": {
+      "title": "Acervo público em leituras leves",
+      "prova": "SUPREMA2-ACERVO-T71U",
+      "html": "suprema2-acervo.html",
+      "txt": "suprema2-acervo.txt"
+    },
+    "suprema2-colheitas": {
+      "title": "Colheitas e varreduras",
+      "prova": "SUPREMA2-COLHEITAS-T71U",
+      "html": "suprema2-colheitas.html",
+      "txt": "suprema2-colheitas.txt"
+    },
+    "suprema2-enciclopedia": {
+      "title": "Enciclopédia e engrenagens",
+      "prova": "SUPREMA2-ENCICLOPEDIA-T71U",
+      "html": "suprema2-enciclopedia.html",
+      "txt": "suprema2-enciclopedia.txt"
+    },
+    "suprema2-nexus": {
+      "title": "NEXUS e anexos",
+      "prova": "SUPREMA2-NEXUS-T71U",
+      "html": "suprema2-nexus.html",
+      "txt": "suprema2-nexus.txt"
+    },
+    "suprema2-mentes": {
+      "title": "Mentes, consciências e robótica",
+      "prova": "SUPREMA2-MENTES-T71U",
+      "html": "suprema2-mentes.html",
+      "txt": "suprema2-mentes.txt"
+    },
+    "suprema2-app": {
+      "title": "Aplicativo CARTA",
+      "prova": "SUPREMA2-APP-T71U",
+      "html": "suprema2-app.html",
+      "txt": "suprema2-app.txt"
+    },
+    "suprema2-drive": {
+      "title": "Índice do Drive",
+      "prova": "SUPREMA2-DRIVE-T71U",
+      "html": "suprema2-drive.html",
+      "txt": "suprema2-drive.txt"
+    },
+    "suprema2-linha-do-tempo": {
+      "title": "Linha do tempo",
+      "prova": "SUPREMA2-LINHA-DO-TEMPO-T71U",
+      "html": "suprema2-linha-do-tempo.html",
+      "txt": "suprema2-linha-do-tempo.txt"
+    },
+    "suprema2-jornada": {
+      "title": "Jornada, prova e registro",
+      "prova": "SUPREMA2-JORNADA-T71U",
+      "html": "suprema2-jornada.html",
+      "txt": "suprema2-jornada.txt"
+    },
+    "suprema2-mapa": {
+      "title": "Mapa central",
+      "prova": "SUPREMA2-MAPA-T71U",
+      "html": "suprema2-mapa.html",
+      "txt": "suprema2-mapa.txt"
+    }
+  }
+}

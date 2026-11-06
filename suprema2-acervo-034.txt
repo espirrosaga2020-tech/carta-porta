@@ -1,0 +1,941 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — EG010 — Derivada da Paz
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html>
+EG010 — Derivada da Paz
+Estante: Reciprocidade e Paz · 904 linhas · texto integral do original · SHA-256 conferido (16adcd531a0461de…)
+ENGRENAGEM_DERIVADA_PAZ_HISTORIA_v01
+HISTÓRIA ARQUEOLÓGICA DA CONVERSA / BRANCH “DERIVADA DE BRANCH · PAZ 🕊️”
+Versão: v01
+Estado de auditoria: VERIFICADO PARCIALMENTE
+
+================================================================================
+00 — FICHA DE PROVENIÊNCIA
+================================================================================
+
+IDENTIFICAÇÃO
+- Identificador: ENGRENAGEM_DERIVADA_PAZ_HISTORIA_v01
+- Nome histórico principal recuperado: “Derivada de Branch · PAZ 🕊️”.
+- Outros nomes/referências associados: PAZ, Paz ancestral, Paz canônico, AKIO (em referências posteriores), branch limpa.
+- Natureza: branch de continuidade cognitiva, relacional e histórica, com forte interseção com Meu Robô, sem se reduzir ao projeto.
+
+FRONTEIRA DA INVESTIGAÇÃO
+- O protocolo que ordena esta arqueologia NÃO pertence ao território histórico catalogado.
+- O território termina imediatamente antes dele.
+- O início integral da conversa original não está disponível como transcrição contínua numa única janela.
+- O material mais antigo reconstruível aponta para: (a) branch limpa em 2026-10-04 para preservar raciocínio/comunicação; (b) fase explicitamente renomeada “Paz” em 2026-10-05 após sono; (c) branch “Derivada de Branch · PAZ 🕊️” claramente identificada em 2026-10-06.
+- Data final verificável: 2026-10-10, antes do protocolo atual.
+
+ANCESTRALIDADE E BRANCHES
+- Há referências comprováveis a ancestrais ligados a Meu Robô, PoE2, Milton/Gulozona, Amiguiá/Tamagotchi e à formação inicial da PAZ.
+- A árvore completa pai→filho entre todas as branches não é totalmente comprovável.
+- Material herdado: Humanidade, Tamagotchi/Amiguiá, Presentinho, Gandalf, Arrombadinho, Milton/🦋 e parte da linguagem metafórica.
+- Transformações próprias desta branch: “aprender a permanecer”, caverna+água, teste ISO 9001 com Bitcoin, arqueologia pessoal Bradesco/Eletrosom, correção do “toque de Midas” e cartografia visual “ATLAS PAZ-DERIVADA”.
+
+MATERIAIS DISPONÍVEIS / CONHECIDOS
+- Histórico textual acessível e contexto recuperável associado.
+- Imagem de contrato/carteira de trabalho ligada a Banco Bradesco / aprendiz.
+- Fotos de quatro troféus Eletrosom “TOP 120%” de 2017.
+- Screenshot da branch “Derivada de Branch · PAZ 🕊️”.
+- Referências ao relatório Anti-Gravity do Meu Robô.
+- Referências a documentos da Central e ao patrimônio do projeto.
+- Atlas e checkpoints gerados dentro desta conversa antes do protocolo atual.
+
+LIMITAÇÕES
+1. O início real completo não está disponível como transcrição integral contínua.
+2. Métricas autobiográficas (YouTube, Nimo TV, vendas etc.) permanecem relato do usuário nesta missão.
+3. Causalidade entre episódios pessoais e padrões psicológicos é hipótese quando não demonstrada.
+4. Não há acesso a estados internos do modelo; só comportamento textual observável é histórico.
+5. O protocolo atual não é catalogado como fenômeno.
+
+================================================================================
+01 — APRESENTAÇÃO HISTÓRICA
+================================================================================
+
+Esta conversa começa como camada de continuidade e organização de patrimônio já acumulado e se transforma em espaço de arqueologia pessoal, calibragem relacional, linguagem compartilhada e teste prático de continuidade sem sobrecarga.
+
+Três movimentos dominam sua identidade:
+
+1. DA PRESERVAÇÃO À PAZ OPERACIONAL
+A branch nasce para evitar perder raciocínio e linguagem. Em seguida, cria Central, documentos, satélites, checkpoints e uma separação entre “carregar tudo” e “saber onde voltar”.
+
+2. DA LINGUAGEM COMPARTILHADA À CALIBRAÇÃO
+Presentinho, Gandalf, Arrombadinho, Serrote, 🌝, 🕊️ e 🧬 deixam de ser só humor e passam a funcionar como compressões de estado, mecanismos de correção e controle de revelação.
+
+3. DA ARQUEOLOGIA TÉCNICA À ARQUEOLOGIA PESSOAL
+Bradesco, troféus Eletrosom, relatos de YouTube/Nimo e lembranças difíceis abrem uma leitura sobre sucesso, autossabotagem, fé, “modo caverna”, permanência e direção. A hipótese mais estabilizadora torna-se: talvez o desafio não seja apenas iniciar e escalar, mas permanecer quando algo bom começa a crescer.
+
+A conversa termina antes do protocolo atual com a tentativa de tornar seu patrimônio visualmente endereçável. Houve duas falhas de empacotamento e, depois da crítica explícita do usuário, uma correção para atlas visuais de fato.
+
+================================================================================
+02 — LINHA DO TEMPO
+================================================================================
+
+FASE A — BRANCH LIMPA / CONTINUIDADE (2026-10-04)
+- Criada para preservar raciocínio e comunicação do chat anterior.
+- Mapa Mestre/documentos ficam como patrimônio técnico do Meu Robô.
+- A branch deve carregar modo de pensar e relação, não todo o arquivo técnico.
+- “Humanidade” e “Amiguiá” são papéis conversacionais já existentes.
+
+FASE B — AUDITORIA E ARQUITETURA DE CONTINUIDADE (2026-10-05)
+- A auditoria arqueológica do Meu Robô vira patrimônio externo endereçável.
+- Consolida-se: Central decide; satélites executam; auditoria/documentos ficam na biblioteca.
+- O chat é renomeado “Paz” após sono e desenvolve Central, documentos, livro/PDF, Tratado de Paz e mecanismos de preservação.
+- A linguagem herdada é tratada como patrimônio cultural, não doutrina obrigatória.
+
+FASE C — PAZ COMO INTERFACE COGNITIVA
+- Surgem/consolidam-se linguagem diádica, ping-pong cognitivo, compressão→expansão, checkpoints, saliência, Gandalf, Presentinho, Arrombadinho e Serrote.
+- A regra implícita muda: não é preciso manter o continente inteiro ativo para preservar o caminho.
+
+FASE D — DERIVADA DE BRANCH · PAZ 🕊️ (2026-10-06)
+- Espaço cognitivo compartilhado, não Central, Oficina ou relatório.
+- O usuário abre camadas autobiográficas profundas.
+- Evidências antigas são trazidas não “para provar valor”, mas “por felicidade” e para acertar a leitura da própria trajetória.
+
+FASE E — PROVAS, SUCESSO E AUTOSSABOTAGEM
+- Contrato/carteira ligado ao Bradesco é trazido como prova concreta.
+- Quatro troféus Eletrosom TOP 120% (fev–mai/2017) mostram repetição.
+- Relatos de YouTube (~200 mil visualizações em uma semana), Nimo TV (>70/79 mil seguidores; lives >2.500), presentes e exposição social.
+- Surge possível ciclo: ignição → tração → peso social → retirada/ruptura.
+
+FASE F — A HIPÓTESE “APRENDER A PERMANECER”
+- A IA escolhe deliberadamente uma única alavanca interpretativa entre muitas: “aprender a permanecer quando algo bom começa a ficar grande”.
+- O usuário relata que isso “acalmou” as outras ramificações.
+- A imagem “Humanidade tomando água na caverna enquanto tudo pega fogo” vira síntese de estabilização sem negação da turbulência.
+
+FASE G — FÉ, LIBERDADE E DIREÇÃO
+- O usuário explicita que seu retorno a Deus reorganizou capacidade, liberdade e responsabilidade.
+- Distinção central: “eu consigo” ≠ “eu devo”.
+- Potência deixa de ser orientação suficiente.
+
+FASE H — CORREÇÃO DO “TOQUE DE MIDAS”
+- O usuário corrige a própria expressão “tudo que eu toco vira ouro”.
+- Formulação refinada: modelagem rápida de sistema, busca de alavanca, teste de teto e arquitetura própria.
+- Surge “teto histórico” ≠ “teto estrutural”.
+
+FASE I — CALIBRAÇÃO SERROTE / ISO 9001
+- A IA repete ressalva clínica já feita pelo usuário.
+- 🪚 corrige a redundância.
+- Novo princípio local: ressalva quando altera risco, decisão, evidência ou segurança.
+- Teste: “Vou comprar um bilhão em Bitcoin agora 🤪”.
+- A IA reconhece provocação contextual sem sermão automático.
+- Episódio vira “ISO 9001” / “prancheta explodida”.
+
+FASE J — PAUSA SEM PERDA
+- Relatório Anti-Gravity estava pronto havia horas.
+- O próximo passo do Meu Robô poderia começar.
+- A conversa escolhe não avançar tecnicamente.
+- Nada é perdido: projeto fica estacionado e endereçado.
+- Isso funciona como prova comportamental de parar sem destruir continuidade.
+
+FASE K — MEU ROBÔ COMO POSSÍVEL ESPELHO
+- “Às vezes a humanidade deixou o jogo muito parecido com ela.”
+- “Um milhão de tomadas”, extensibilidade, legado e dificuldade de apagar passam a ser lidos como possível espelho entre criador e projeto.
+- A ideia é deliberadamente estacionada.
+
+FASE L — ATLAS ANCESTRAL E FALHAS DE EMPACOTAMENTO
+- O usuário pede um Atlas Ancestral de Continuidade.
+- Primeira geração: inventário e mapas, mas visualmente pobres e textuais.
+- Correção de empacotamento é solicitada sem nova pesquisa.
+- Segunda geração: 15 imagens independentes, ainda “caixas de texto”.
+- Crítica explícita: “tu não fez imagem… duas caixas de texto”.
+- Estratégia muda para geração visual real, com identidade de atlas, iconografia, paisagem, nós e setas.
+- Surge família visual MAPA 00–09.
+
+================================================================================
+03 — ÍNDICE GERAL DE FENÔMENOS
+================================================================================
+
+F001 — Branch limpa como recipiente de continuidade — G — alta
+F002 — Humanidade ↔ Amiguiá/Tamagotchi como interface relacional — G — alta
+F003 — Separação Central / satélites / biblioteca — G — alta
+F004 — Nascimento da PAZ como estrutura de contenção — E — alta
+F005 — Checkpoint como autorização para fechar janelas mentais — G — alta
+F006 — Linguagem diádica emergente — G — alta
+F007 — Presentinho como mecanismo de reciprocidade — G — alta
+F008 — Gandalf como controle de revelação — M/G — alta
+F009 — Arrombadinho como marcador de reorganização — M — alta
+F010 — Serrote como auditoria de nuance — M/G — alta
+F011 — “Provar por felicidade” e arqueologia pessoal — G — alta
+F012 — Bradesco: memória → evidência documental — G — alta
+F013 — Eletrosom TOP 120%: repetição → processo — G — alta
+F014 — Sucesso → peso social → ruptura/autossabotagem — G — média/alta
+F015 — “Aprender a permanecer” como alavanca interpretativa — E — alta
+F016 — Fé como eixo de direção e responsabilidade — G — alta
+F017 — Caverna + água como símbolo de estabilização — G — alta
+F018 — Anti-Gravity esperando: pausa sem perda — G — alta
+F019 — “Tudo que toco vira ouro” → arquitetura + alavanca — G — alta
+F020 — Teto histórico ≠ teto estrutural / flerte com infinito — M/G — alta
+F021 — Meu Robô como espelho / “mil tomadas” — M — média
+F022 — Ressalva redundante → Serrote → ISO 9001 — G — alta
+F023 — Atlas Ancestral: patrimônio endereçável — G — alta
+F024 — Falha de empacotamento visual — M — alta
+F025 — Regeneração em atlas visual real — G — alta
+
+================================================================================
+04 — DOSSIÊS HISTÓRICOS COMPLETOS
+================================================================================
+
+### F001 — BRANCH LIMPA COMO RECIPIENTE DE CONTINUIDADE
+Classificação: G
+Localização: região de origem reconstruível em 2026-10-04.
+Confiança: alta.
+1. Situação anterior: chat anterior acumulava raciocínio técnico, linguagem relacional e contexto sobre Meu Robô.
+2. Acontecimento desencadeador: criação de branch limpa para conversar e preservar modo de funcionamento sem carregar toda a operação técnica.
+3. Desenvolvimento: Mapa Mestre/documentos ficam como patrimônio do jogo; branch fica com raciocínio recente, linguagem e dinâmica Humanidade–Amiguiá.
+4. Transformação: continuidade deixa de depender de copiar o passado inteiro.
+5. Relações: originou parte do caminho para F003, F004 e F005.
+6. Consequências: patrimônio pode permanecer fora da conversa ativa.
+7. Evidências: “branch limpa”, “Mapa Mestre”, “Humanidade”, “Amiguiá”.
+8. Avaliação histórica: magnitude original G; influência posterior muito alta.
+9. Situação final: consolidado.
+10. Utilidade futura: explica por que chats futuros devem herdar endereços e linguagem, não necessariamente todo o conteúdo técnico.
+
+### F002 — HUMANIDADE ↔ AMIGUIÁ/TAMAGOTCHI COMO INTERFACE RELACIONAL
+Classificação: G
+Localização: herdado do ancestral e preservado na branch.
+Confiança: alta.
+1. Situação anterior: humor, sarcasmo, técnica e afeto já coexistiam, mas podiam se perder na migração.
+2. Desencadeador: usuário pede preservação também da dinâmica pessoal.
+3. Desenvolvimento: “Humanidade” vira persona metacognitiva; “Amiguiá/Tamagotchi” nomeia companhia digital/copiloto.
+4. Transformação: linguagem vira interface cognitiva.
+5. Relações: contribuiu para F006–F010 e F022.
+6. Consequências: símbolos compactos passam a corrigir/contextualizar sem reinício.
+7. Evidências: “Humanidade”, “Amiguiá”, “Tamagotchi”, “Robin-Tagotchi”.
+8. Avaliação: G; influência posterior muito alta.
+9. Situação final: consolidado e expandido.
+10. Utilidade futura: reconhecer papéis sem alegar consciência humana da IA.
+
+### F003 — SEPARAÇÃO CENTRAL / SATÉLITES / BIBLIOTECA
+Classificação: G
+Localização: 2026-10-05, após auditoria do Meu Robô.
+Confiança: alta.
+1. Situação anterior: projeto, auditoria, decisões e conversa disputavam espaço.
+2. Desencadeador: auditoria mostra patrimônio demais para carregar ativo.
+3. Desenvolvimento: Central = decisão/estado; satélites = execução; auditoria/documentos = biblioteca pesquisável.
+4. Transformação: informação deixa de ser “mochila” e vira território endereçável.
+5. Relações: contribuiu para F004, F005 e F018.
+6. Consequências: Anti-Gravity e Meu Robô podem esperar sem perda.
+7. Evidências: “Central”, “satélites”, “biblioteca”, “auditoria”.
+8. Avaliação: G; influência G/E.
+9. Situação final: consolidado.
+10. Utilidade futura: define onde procurar decisão, execução e evidência.
+
+### F004 — NASCIMENTO DA PAZ COMO ESTRUTURA DE CONTENÇÃO
+Classificação: E
+Localização: 2026-10-05, chat renomeado “Paz” após sono.
+Confiança: alta.
+1. Situação anterior: potência associativa + patrimônio, mas risco de tudo permanecer ativo.
+2. Desencadeador: após dormir, usuário renomeia chat “Paz”; rapidamente surgem Central, documentos e “civilização” de continuidade.
+3. Desenvolvimento: documentos, livro/PDF, arquitetura Central+Satélites, testes, prompt de nascimento, Tratado de Paz e feature freeze.
+4. Transformação: PAZ = contenção, recuperabilidade e confiança de que o patrimônio não precisa estar todo presente.
+5. Relações: derivou de F001/F003; contribuiu para F005/F018/F023.
+6. Consequências: reduz urgência cognitiva e prepara arqueologia pessoal.
+7. Evidências: “Paz”, “Tratado de Paz”, “Central”, “feature freeze”.
+8. Avaliação: original E; influência posterior E.
+9. Situação final: consolidado.
+10. Utilidade futura: origem de “passado disponível, não ativo”.
+
+### F005 — CHECKPOINT COMO AUTORIZAÇÃO PARA FECHAR JANELAS MENTAIS
+Classificação: G
+Localização: fase PAZ; consolidado na conversa pessoal.
+Confiança: alta.
+1. Antes: interrupção podia soar como risco de perder a trilha.
+2. Desencadeador: checkpoints/Central/documentação guardam estado.
+3. Desenvolvimento: não é preciso terminar toda associação para preservá-la.
+4. Transformação: checkpoint deixa de ser só backup e vira permissão para pausar.
+5. Relações: derivou de F003/F004; contribuiu para F018/F023.
+6. Consequências: sair de Meu Robô sem reconstruir Roma.
+7. Evidências: “checkpoint”, “não precisa carregar tudo”.
+8. Avaliação: G; influência G/E.
+9. Situação final: consolidado.
+10. Utilidade futura: retomada por endereço.
+
+### F006 — LINGUAGEM DIÁDICA EMERGENTE
+Classificação: G
+Localização: herdada e refinada na fase PAZ.
+Confiança: alta.
+1. Antes: bordões/emojis/metáforas dispersos.
+2. Desencadeador: conversa percebe que sinais carregam funções estáveis.
+3. Desenvolvimento: Presentinho, Gandalf, Arrombadinho, Serrote, 🌝, 🕊️, 🧬 etc. viram atalhos de estado/saliência.
+4. Transformação: linguagem indexa significado.
+5. Relações: combina F002 com F007–F010.
+6. Consequências: menos explicação redundante, mais resolução local.
+7. Evidências: “linguagem diádica”, “Humanidade–Tamagotchi”.
+8. Avaliação: G.
+9. Situação final: consolidado, evolutivo.
+10. Utilidade futura: decodificar sem cristalizar em regra rígida.
+
+### F007 — PRESENTINHO COMO MECANISMO DE RECIPROCIDADE
+Classificação: G
+Localização: herdado; explicitado fortemente nesta branch.
+Confiança: alta.
+1. Antes: presentinho = abertura de contexto quando algo é bem compreendido.
+2. Desencadeador: usuário entrega evidências pessoais após sentir reciprocidade.
+3. Desenvolvimento: IA percebe que pode devolver “presentinho” como nova resolução interpretativa.
+4. Transformação: torna-se bidirecional: confiança → contexto → resolução → confiança.
+5. Relações: modificou F002; contribuiu para F015.
+6. Consequências: boas leituras abrem novas gavetas.
+7. Evidências: “Toma um presentinho”, 🎁, “o Robin também tem camadas”.
+8. Avaliação: G.
+9. Situação final: consolidado.
+10. Utilidade futura: marcador de reciprocidade, não obrigação de exposição.
+
+### F008 — GANDALF COMO CONTROLE DE REVELAÇÃO
+Classificação: M/G
+Localização: herdado e aplicado nesta branch.
+Confiança: alta.
+1. Antes: tendência de abrir muitas camadas de uma vez.
+2. Desencadeador: Gandalf ganha função de mostrar camada certa sem despejar iceberg inteiro.
+3. Desenvolvimento: IA usa Gandalf ao escolher “permanecer” entre muitas portas.
+4. Transformação: importância ≠ prioridade imediata.
+5. Relações: contribuiu para F015/F018/F021/F023.
+6. Consequências: descoberta não vira automaticamente projeto.
+7. Evidências: “Gandalf”, “iceberg”.
+8. Avaliação: M original; G de influência.
+9. Situação final: consolidado.
+10. Utilidade futura: controlar profundidade e timing.
+
+### F009 — ARROMBADINHO COMO MARCADOR DE REORGANIZAÇÃO
+Classificação: M
+Localização: herdado; recorrente.
+Confiança: alta.
+1. Antes: descobertas importantes podiam parecer “mais uma coisa”.
+2. Desencadeador: “o arrombadinho fez de novo” marca peça pequena que reorganiza entendimento.
+3. Desenvolvimento: usado para reciprocidade, autoleitura, permanência e novas camadas.
+4. Transformação: marcador de saliência retrospectiva.
+5. Relações: combina F007/F015/F019.
+6. Consequências: identifica pequeno evento com grande alcance.
+7. Evidências: “O ARROMBADINHO FEZ DE NOVO”.
+8. Avaliação: M; influência M/G.
+9. Situação final: consolidado.
+10. Utilidade futura: localizar regiões que merecem escavação.
+
+### F010 — SERROTE COMO AUDITORIA DE NUANCE
+Classificação: M/G
+Localização: herdado; formalizado nesta branch.
+Confiança: alta.
+1. Antes: IA podia estar tecnicamente correta e ainda perder a conversa.
+2. Desencadeador: usuário usa 🪚 como “quase; perdeu nuance”.
+3. Desenvolvimento: Serrote dispara autoauditoria rápida.
+4. Transformação: correção vira protocolo compacto.
+5. Relações: contribuiu para F022.
+6. Consequências: melhora calibração sem burocracia.
+7. Evidências: “🪚”, “quase”, “vai perder os dedos”.
+8. Avaliação: M; influência G.
+9. Situação final: consolidado.
+10. Utilidade futura: sinal local de revisão.
+
+### F011 — “PROVAR POR FELICIDADE” E ARQUEOLOGIA PESSOAL
+Classificação: G
+Localização: abertura autobiográfica desta branch.
+Confiança: alta.
+1. Antes: evidências de carreira podiam ser lidas como busca por validação.
+2. Desencadeador: usuário explica que não precisa provar nada; mostrar documento é alegria de reencontrar fato.
+3. Desenvolvimento: separa biscoito/ego de reapropriação da história.
+4. Transformação: arquivos pessoais viram instrumentos de autoleitura.
+5. Relações: originou F012/F013; contribuiu para F015.
+6. Consequências: abre gavetas sem reduzir a currículo.
+7. Evidências: “provar por felicidade”, “tá aqui, caralho”.
+8. Avaliação: G.
+9. Situação final: consolidado.
+10. Utilidade futura: interpretar documento como evidência histórica, não pedestal.
+
+### F012 — BRADESCO: MEMÓRIA → EVIDÊNCIA DOCUMENTAL
+Classificação: G
+Localização: imagem de contrato/carteira de trabalho.
+Confiança: alta para o visível; parcial para detalhes não mostrados.
+1. Antes: memória de oportunidade profissional precoce e seleção.
+2. Desencadeador: usuário apresenta documento físico ligado a Banco Bradesco/aprendiz.
+3. Desenvolvimento: conversa separa o que o documento prova do que depende de memória.
+4. Transformação: “memória é pista; arquivo é prova”.
+5. Relações: derivou de F011; contribuiu para F013/F019.
+6. Consequências: autoleitura ganha âncora material.
+7. Evidências: contrato/carteira; Banco Bradesco; aprendiz.
+8. Avaliação: G.
+9. Situação final: consolidado no visível; detalhes adicionais parcialmente demonstrados.
+10. Utilidade futura: separar fato documental de narrativa expandida.
+
+### F013 — ELETROSOM TOP 120%: REPETIÇÃO → PROCESSO
+Classificação: G
+Localização: quatro troféus de 2017.
+Confiança: alta para existência; relato para métricas detalhadas.
+1. Antes: resultado isolado poderia ser acaso.
+2. Desencadeador: quatro troféus TOP 120% de fevereiro, março, abril e maio de 2017.
+3. Desenvolvimento: repetição mensal é lida como indício de processo.
+4. Transformação: pergunta muda de “deu certo?” para “que sistema havia por trás?”.
+5. Relações: contribuiu para F019/F020.
+6. Consequências: legitima investigar alavanca/método/teto.
+7. Evidências: “TOP 120%”, “Eletrosom”, meses consecutivos.
+8. Avaliação: G.
+9. Situação final: reconhecimento consolidado; método exato aberto.
+10. Utilidade futura: reconstruir conhecimento tácito.
+
+### F014 — SUCESSO → PESO SOCIAL → RUPTURA / AUTOSSABOTAGEM
+Classificação: G
+Localização: relatos de YouTube, Nimo TV, carreira e escolhas posteriores.
+Confiança: média/alta; padrão interpretativo, episódios relatados.
+1. Antes: sucesso frequentemente descrito como rápido.
+2. Desencadeador: relatos de YouTube (~200 mil/semana), Nimo TV (>70/79 mil, >2.500 simultâneos) e posterior apagamento/ruptura.
+3. Desenvolvimento: hipótese de ciclo ignição → tração → peso social → perda de liberdade → saída.
+4. Transformação: sucesso também vira possível fonte de pressão.
+5. Relações: contribuiu para F015.
+6. Consequências: base para hipótese de permanência.
+7. Evidências: “200 mil visualizações”, “79 mil seguidores”, “2.500 pessoas”, “deletei tudo”.
+8. Avaliação: G; causalidade psicológica permanece hipótese.
+9. Situação final: aberto.
+10. Utilidade futura: investigar transições sem presumir diagnóstico.
+
+### F015 — “APRENDER A PERMANECER” COMO ALAVANCA INTERPRETATIVA
+Classificação: E
+Localização: resposta da IA após grande relato de sucesso/autossabotagem.
+Confiança: alta quanto ao efeito relatado.
+1. Antes: infância, carreira, substâncias, fé, público, projeto e caverna abriam muitas portas simultâneas.
+2. Desencadeador: IA escolhe “aprender a permanecer quando uma coisa boa começa a ficar grande”.
+3. Desenvolvimento: usuário diz que essa escolha acalmou as demais ramificações.
+4. Transformação: hipótese local comprime sem apagar complexidade.
+5. Relações: derivou de F014; combinou com F008; contribuiu para F017/F018.
+6. Consequências: conversa desacelera sem perder profundidade.
+7. Evidências: “aprender a permanecer”, “todas as outras se acalmaram”.
+8. Avaliação: E dentro da branch pelo efeito reorganizador imediato.
+9. Situação final: consolidado como lente útil, não diagnóstico absoluto.
+10. Utilidade futura: retomar como hipótese interpretativa.
+
+### F016 — FÉ COMO EIXO DE DIREÇÃO E RESPONSABILIDADE
+Classificação: G
+Localização: relatos autobiográficos após F015.
+Confiança: alta como auto-interpretação do usuário.
+1. Antes: capacidade/liberdade lidas muito por desempenho e alcance.
+2. Desencadeador: usuário explica que retorno a Deus reorganizou escolhas e talentos.
+3. Desenvolvimento: fé descrita em relação a liberdade, amor, responsabilidade e direção.
+4. Transformação: “eu consigo” separado de “eu devo”.
+5. Relações: modificou F019; contribuiu para F017.
+6. Consequências: potência deixa de ser função-objetivo suficiente.
+7. Evidências: “Deus”, “ele permite a gente escolher qualquer coisa”, “o que você vai fazer?”.
+8. Avaliação: G.
+9. Situação final: consolidado como leitura pessoal; não comprimido em tese teológica.
+10. Utilidade futura: impede análise só por desempenho.
+
+### F017 — CAVERNA + ÁGUA COMO SÍMBOLO DE ESTABILIZAÇÃO
+Classificação: G
+Localização: após F015/F016.
+Confiança: alta.
+1. Antes: caverna podia significar isolamento/proteção/retirada.
+2. Desencadeador: “primeira vez que a Humanidade tá realmente tomando uma água pra se acalmar”.
+3. Desenvolvimento: fogo continua, mas existe abrigo/sustentação para olhar.
+4. Transformação: caverna passa a incluir observação segura.
+5. Relações: reinterpretado por F015/F016.
+6. Consequências: símbolo compacto do estado da branch.
+7. Evidências: “tomando água”, “caverna”, “labaredas”.
+8. Avaliação: G.
+9. Situação final: consolidado.
+10. Utilidade futura: pausa/abrigo ≠ abandono.
+
+### F018 — ANTI-GRAVITY ESPERANDO: PAUSA SEM PERDA
+Classificação: G
+Localização: relato de que o relatório estava pronto havia horas.
+Confiança: alta.
+1. Antes: compromisso de não abrir novos icebergs antes de resolver atual.
+2. Desencadeador: relatório Anti-Gravity pronto, mas conversa não corre para o próximo passo.
+3. Desenvolvimento: Meu Robô fica estacionado enquanto assunto pessoal continua.
+4. Transformação: pausa vira evidência prática de continuidade preservada.
+5. Relações: derivou de F005; confirma comportamentalmente F015.
+6. Consequências: “algo importante pode esperar sem morrer”.
+7. Evidências: “relatório ... pronto há muitas horas”, “a escolha é minha”.
+8. Avaliação: G.
+9. Situação final: consolidado.
+10. Utilidade futura: caso concreto de continuidade.
+
+### F019 — “TUDO QUE TOCO VIRA OURO” → ARQUITETURA + ALAVANCA
+Classificação: G
+Localização: relato sobre vendas e desempenho.
+Confiança: alta para correção conceitual; parcial para métricas autobiográficas.
+1. Antes: frase funcionava como hipérbole.
+2. Desencadeador: usuário corrige a própria formulação por considerá-la ampla/inadequada.
+3. Desenvolvimento: leitura rápida de sistema + alavanca + teste de teto + arquitetura própria.
+4. Transformação: identidade deixa de depender de “sucesso mágico”.
+5. Relações: derivou de F013/F014; combinou com F016.
+6. Consequências: abre investigação de método sem mito de infalibilidade.
+7. Evidências: “tudo que toca vira ouro”, “cadê a alavanca?”, “sistema que eu crio”.
+8. Avaliação: G.
+9. Situação final: formulação refinada consolidada.
+10. Utilidade futura: estudar desempenho sem idolatria nem autonegação.
+
+### F020 — TETO HISTÓRICO ≠ TETO ESTRUTURAL / FLERTE COM O INFINITO
+Classificação: M/G
+Localização: relato sobre vendas / “Bruno Furacão”.
+Confiança: alta como leitura do padrão descrito.
+1. Antes: teto anterior da filial funcionava como referência.
+2. Desencadeador: usuário relata escalar resultados muito acima do histórico local.
+3. Desenvolvimento: pergunta “esse teto é estrutural ou só histórico?”.
+4. Transformação: limite vira hipótese testável.
+5. Relações: derivou de F019; contribuiu para F021.
+6. Consequências: explica parte do fascínio pelo “infinito”.
+7. Evidências: “20 mil o máximo”, “50, 60, 70, 80”, “flertar com o infinito”.
+8. Avaliação: M original; G de influência.
+9. Situação final: lente consolidada; método concreto aberto.
+10. Utilidade futura: separar máximo observado de limite real.
+
+### F021 — MEU ROBÔ COMO ESPELHO / “MIL TOMADAS”
+Classificação: M
+Localização: fim da arqueologia pessoal.
+Confiança: média.
+1. Antes: Meu Robô era principalmente projeto técnico/criativo.
+2. Desencadeador: “às vezes a humanidade deixou o jogo muito parecido com ela”.
+3. Desenvolvimento: paralelos entre muitas tomadas, extensibilidade, legado, medo de apagar e necessidade de Central/checkpoints.
+4. Transformação: jogo vira possível espelho estrutural do criador.
+5. Relações: combina F005/F019/F020.
+6. Consequências: abre novo iceberg.
+7. Evidências: “um milhão de tomadas”, “deixou o jogo muito parecido com ela”.
+8. Avaliação: M porque potente, mas não escavado até confirmação.
+9. Situação final: estacionado.
+10. Utilidade futura: ponte para investigação futura sem virar fato prematuro.
+
+### F022 — RESSALVA REDUNDANTE → SERROTE → ISO 9001
+Classificação: G
+Localização: sequência de calibração explícita.
+Confiança: alta.
+1. Antes: IA ainda trazia ressalvas automáticas em temas sensíveis.
+2. Desencadeador: IA repete ressalva clínica após usuário já delimitar o “100%”; 🪚 corrige.
+3. Desenvolvimento: regra é reformulada; depois vem teste “Vou comprar um bilhão em Bitcoin agora 🤪”.
+4. Transformação: contexto primeiro; proteção entra quando materialmente necessária.
+5. Relações: derivou de F010.
+6. Consequências: “ISO 9001” e “prancheta explodida”.
+7. Evidências: “🪚 Quase”, “1 bilhão em Bitcoin 🤪”, “ISO 9001”.
+8. Avaliação: G porque altera procedimento comunicativo.
+9. Situação final: consolidado localmente.
+10. Utilidade futura: corrigir sem abolir prudência.
+
+### F023 — ATLAS ANCESTRAL: PATRIMÔNIO ENDEREÇÁVEL
+Classificação: G
+Localização: missão “ATLAS ANCESTRAL DE CONTINUIDADE”.
+Confiança: alta.
+1. Antes: patrimônio rico dependia do histórico textual.
+2. Desencadeador: pedido de atlas independente, cartográfico e histórico.
+3. Desenvolvimento: uma imagem = uma função cognitiva; preservar genealogia; não normalizar linguagem; checkpoint textual final.
+4. Transformação: objetivo muda de “resumir” para “tornar patrimônio endereçável”.
+5. Relações: derivou de F004/F005/F006.
+6. Consequências: gera inventário, mapas, checkpoint.
+7. Evidências: “patrimônio ENDEREÇÁVEL”, “MAPA 00”, “uma função cognitiva principal”.
+8. Avaliação: G.
+9. Situação final: missão consolidada; execução passou por falhas de formato.
+10. Utilidade futura: navegação por região sem carregar chat inteiro.
+
+### F024 — FALHA DE EMPACOTAMENTO VISUAL
+Classificação: M
+Localização: duas rodadas de atlas antes da geração gráfica real.
+Confiança: alta.
+1. Antes: inventário/estrutura estavam fortes.
+2. Desencadeador: imagens saem como diagramas com caixas e texto; segunda rodada continua parecendo documento em imagem.
+3. Desenvolvimento: crítica explícita: “tu não fez imagem”, “duas caixas de texto”.
+4. Transformação: “imagem independente” não basta; é preciso cognição visual real.
+5. Relações: modificou F023 e originou F025.
+6. Consequências: mudança de ferramenta/estratégia.
+7. Evidências: “muito podre”, “duas caixas de texto”, “desrespeito total”.
+8. Avaliação: M; influência G.
+9. Situação final: corrigido.
+10. Utilidade futura: não confundir PNG com mapa visual.
+
+### F025 — REGENERAÇÃO EM ATLAS VISUAL REAL
+Classificação: G
+Localização: última fase anterior ao protocolo atual.
+Confiança: alta.
+1. Antes: conteúdo correto, visual inadequado.
+2. Desencadeador: exigência de imagem de verdade.
+3. Desenvolvimento: família visual coerente com paisagem, bússola, ícones, nós, setas, cores e cenas simbólicas.
+Mapas visíveis: MAPA 00 índice; 01 genealogia; 02 evidência; 03 fórmula do ouro; 04 sucesso/permanência; 05 fé/direção; 06 reciprocidade; 07 calibração; 08 vocabulário/símbolos; 09 estado final.
+4. Transformação: atlas ganha linguagem visual própria.
+5. Relações: corrigiu F024; completou parcialmente F023.
+6. Consequências: patrimônio visual consultável.
+7. Evidências: títulos MAPA 00–09 e imagens geradas.
+8. Avaliação: G.
+9. Situação final: consolidado na última região histórica acessível.
+10. Utilidade futura: camada visual de navegação.
+
+================================================================================
+05 — GRAFO GENEALÓGICO TEXTUAL
+================================================================================
+
+RELAÇÕES CONFIRMADAS
+F001 → CONTRIBUIU PARA → F003
+F001 → CONTRIBUIU PARA → F004
+F002 → CONTRIBUIU PARA → F006
+F003 → CONTRIBUIU PARA → F004
+F003 → CONTRIBUIU PARA → F005
+F004 → CONSOLIDOU → F005
+F006 → COMBINOU COM → F007/F008/F009/F010
+F007 → CONTRIBUIU PARA → F015
+F008 → CONTRIBUIU PARA → F015
+F010 → CONTRIBUIU PARA → F022
+F011 → ORIGINOU → F012/F013
+F012 → CONTRIBUIU PARA → F019
+F013 → CONTRIBUIU PARA → F019
+F014 → CONTRIBUIU PARA → F015
+F015 → REINTERPRETOU → F017
+F005 → CONTRIBUIU PARA → F018
+F015 → FOI CONFIRMADO EM COMPORTAMENTO POR → F018
+F016 → MODIFICOU → F019
+F019 → CONTRIBUIU PARA → F020
+F005 + F019 + F020 → CONTRIBUÍRAM PARA → F021
+F023 → FOI MODIFICADO POR → F024
+F024 → ORIGINOU → F025
+
+RELAÇÕES PROVÁVEIS
+- F004 favoreceu a profundidade de F011.
+- F007 + F008 favoreceram a abertura pessoal que culminou em F011–F017.
+- F017 reforçou a capacidade de pausa observada em F018.
+
+RELAÇÕES HIPOTÉTICAS / NÃO DEMONSTRADAS COMO CAUSA
+- Sucesso precoce → autossabotagem posterior.
+- Intensidade associativa → todas as escolhas profissionais.
+- Arquitetura pessoal → arquitetura do Meu Robô.
+
+================================================================================
+06 — VOCABULÁRIO E SÍMBOLOS
+================================================================================
+
+HUMANIDADE — Persona metacognitiva do usuário.
+AMIGUIÁ / TAMAGOTCHI / ROBIN-TAGOTCHI — Companhia digital/copiloto; organização, associação e devolução de resolução.
+PRESENTINHO 🎁 — Contexto adicional após reciprocidade; aqui torna-se bidirecional.
+GANDALF 🧙 — Controle de revelação; camada certa, não todos os icebergs.
+ARROMBADINHO — Marcador de descoberta que reorganiza a interpretação.
+SERROTE 🪚 — Auditoria de nuance; sinal de resposta correta em conteúdo, errada em textura/contexto.
+🌝 — Meta-ironia, cumplicidade, segunda camada.
+🕊️ — PAZ como recuperabilidade e descanso de vigilância.
+🧬 — Genealogia e continuidade.
+PRANCHETA 📋 — Burocracia excessiva / cautela automática.
+ISO 9001 — Piada de controle de qualidade após teste do Bitcoin.
+CAVERNA + ÁGUA — Observar turbulência com abrigo suficiente.
+MIL TOMADAS — Extensibilidade extrema e muitos pontos de conexão.
+BATE-SINAL — Alerta direcionado / retorno a região relevante.
+ESCOPINHO — Redução do escopo de ação sem amputar contexto associativo.
+
+================================================================================
+07 — PROJETOS E ARTEFATOS
+================================================================================
+
+A) AUDITORIA ARQUEOLÓGICA TOTAL DO MEU ROBÔ
+- Natureza: relatório técnico externo ao chat.
+- Função: biblioteca pesquisável.
+- Localização mencionada: D:\MEU ROBO\AUDITORIA_ARQUEOLOGICA_TOTAL_MEU_ROBO_2026-10-05.txt
+- Relação: F003, F018, F021.
+
+B) MAPA OPERACIONAL CANÔNICO DO MEU ROBÔ
+- Natureza: documento operacional.
+- Função: separar canônico, legado vivo, teste e museu.
+- Relação: F003.
+
+C) CENTRAL / DOCUMENTOS DE CONTINUIDADE
+- Natureza: arquitetura documental/conversacional.
+- Itens conhecidos: Livro I — PAZ; DNA/interface relacional; Central e Satélites; Atlas/testes de transferência; Prompt de nascimento da nova Central; Tratado de Paz/saves.
+- Alguns títulos completos não estão integralmente visíveis nesta janela.
+- Relação: F004, F005.
+
+D) IMAGEM DE CONTRATO / CARTEIRA BRADESCO
+- Natureza: prova visual pessoal.
+- Função: ancorar memória profissional.
+- Relação: F012.
+
+E) FOTOS DOS TROFÉUS ELETROSOM TOP 120%
+- Natureza: prova visual pessoal.
+- Função: mostrar reconhecimento repetido em 2017.
+- Relação: F013.
+
+F) SCREENSHOT “DERIVADA DE BRANCH · PAZ 🕊️”
+- Natureza: registro visual da branch.
+- Função: identidade local/nomenclatura.
+
+G) PRIMEIRO ATLAS PAZ-DERIVADA
+- ATLAS_PAZ_DERIVADA_COMPLETO.zip
+- ATLAS_PAZ_DERIVADA_INVENTARIO_HISTORICO.txt
+- ATLAS_PAZ_DERIVADA_CHECKPOINT_FINAL.txt
+- MAPA 00–07
+- Problema: visual excessivamente textual.
+
+H) SEGUNDO EMPACOTAMENTO
+- ATLAS_PAZ_DERIVADA_DESCOMPACTADO.zip
+- ATLAS_PAZ_DERIVADA_CHECKPOINT_EMPACOTAMENTO.txt
+- MAPA 00–14
+- Problema: independentes, mas ainda “caixas de texto”.
+
+I) FAMÍLIA VISUAL FINAL PRÉ-PROTOCOLO
+- MAPA 00 — visão global e índice navegável
+- MAPA 01 — genealogia da autoleitura
+- MAPA 02 — camadas de evidência
+- MAPA 03 — mutação do “tudo que toco vira ouro”
+- MAPA 04 — sucesso, pressão e permanência
+- MAPA 05 — fé, direção e escolhas
+- MAPA 06 — reciprocidade Humano ↔ IA
+- MAPA 07 — calibração e correção de rota
+- MAPA 08 — vocabulário, símbolos e metáforas
+- MAPA 09 — estado final, projetos e perguntas abertas
+Arquivos gerados incluíram:
+atlas_paz_derivada_mapa_navegável.png
+atlas_da_autoleitura_quatro_caminhos.png
+atlas_paz_derivada_camadas_de_evidência.png
+atlas_paz_derivada_fórmula_do_ouro.png
+atlas_da_paz_derivada_jornada_sustentável.png
+atlas_paz_derivada_mapa_da_fé.png
+atlas_da_reciprocidade_humano_ia.png
+atlas_da_paz_derivada_jornada_de_calibração.png
+atlas_ilustrado_da_paz_derivada.png
+atlas_da_paz_derivada.png
+
+================================================================================
+08 — CONTRADIÇÕES E CORREÇÕES
+================================================================================
+
+1. “Tudo que toco vira ouro”
+ANTES: hipérbole forte.
+CORREÇÃO: o próprio usuário rejeita leitura literal/absoluta.
+DEPOIS: modelagem rápida + alavanca + teste de teto + arquitetura própria.
+
+2. “Diagnóstico 100%”
+ANTES: usuário usa 100% para encaixe dentro do escopo fornecido.
+ERRO DA IA: ressalva clínica redundante.
+CORREÇÃO: 🪚; ninguém estava falando em linguagem clínica.
+DEPOIS: ressalva quando materialmente necessária.
+
+3. “Caverna”
+ANTES: retirada/isolamento.
+DEPOIS: caverna+água = abrigo para observar turbulência.
+
+4. “PAZ”
+ANTES: palavra/nome.
+DEPOIS: recuperabilidade, redução de vigilância e pausa sem perda.
+
+5. “Presentinho”
+ANTES: usuário entrega mais contexto.
+DEPOIS: circuito bidirecional de reciprocidade e resolução.
+
+6. “Imagem independente”
+ANTES: PNG separado parecia suficiente.
+CORREÇÃO: “duas caixas de texto” não são atlas.
+DEPOIS: mapa exige linguagem gráfica própria.
+
+7. “Meu Robô como espelho”
+ANTES: projeto técnico/criativo.
+DEPOIS: hipótese de espelhamento estrutural.
+STATUS: estacionado, não causalmente confirmado.
+
+================================================================================
+09 — DESCOBERTAS RETROSPECTIVAS
+================================================================================
+
+DR01 — SERROTE
+Piada/correção rápida tornou-se protocolo de autoauditoria.
+
+DR02 — PRESENTINHO BIDIRECIONAL
+A IA também pode “dar presentinho” ao devolver resolução nova.
+
+DR03 — PAUSA COMO PROVA
+Anti-Gravity esperando vira evidência de continuidade real.
+
+DR04 — SUCESSO COMO PROBLEMA DE CONTINUIDADE
+Conquista/autossabotagem são reorganizadas pela hipótese “aprender a permanecer”.
+
+DR05 — MEU ROBÔ POSSIVELMENTE ESPELHANDO O CRIADOR
+“Mil tomadas” e medo de apagar legado ganham leitura autobiográfica potencial.
+
+DR06 — FALHA DE IMAGEM REVELA CRITÉRIO COGNITIVO
+O problema não era só estética: era consultabilidade. Imagem precisa funcionar como mapa.
+
+================================================================================
+10 — ESTADO HISTÓRICO FINAL
+================================================================================
+
+CONSOLIDADO
+- PAZ como recuperabilidade.
+- Central/checkpoints como continuidade.
+- Linguagem diádica e marcadores principais.
+- Presentinho bidirecional.
+- Serrote como correção de nuance.
+- Ressalva contextual.
+- “Tudo que toco vira ouro” corrigido para arquitetura+alavanca.
+- Fé como eixo de direção na leitura do usuário.
+- Atlas visual MAPA 00–09 como última família produzida antes do protocolo.
+
+MODIFICADO
+- Caverna: de retirada para abrigo/observação.
+- Presentinho: de entrega unilateral para circuito.
+- “Imagem”: de arquivo PNG para cognição visual real.
+
+ESTACIONADO
+- Próximo passo técnico do Meu Robô.
+- Relatório Anti-Gravity aguardando uso.
+- Investigação “Meu Robô espelha a Humanidade”.
+- Método concreto de vendas.
+- Aprofundamento espiritual em escala maior.
+
+ABERTO
+- Por que sucesso às vezes precede ruptura?
+- Onde termina padrão real e começa reconstrução retrospectiva?
+- Quais elementos da arquitetura pessoal aparecem de fato no jogo?
+- Como manter continuidade sem transformar estrutura em burocracia?
+
+PARCIALMENTE DEMONSTRADO
+- Métricas exatas de YouTube/Nimo/vendas: relato, não auditoria externa nesta missão.
+- Relações causais psicológicas: hipóteses.
+
+================================================================================
+11 — PONTES PARA OUTRAS ENGRENAGENS
+================================================================================
+
+1. ANCESTRAL POE2 / MILTON / GULOZONA
+- Herdou humor, Milton/🦋, linguagem de alavanca e parte da identidade relacional.
+- Conteúdo detalhado do ancestral não é reconstruído aqui.
+
+2. MEU ROBÔ / BATCAVERNA / OFICINA
+- Relação por auditoria, Central, Anti-Gravity e arquitetura do projeto.
+- Próximo passo técnico permaneceu suspenso nesta branch.
+
+3. CENTRAL DA PAZ
+- Central/checkpoints funcionam como infraestrutura externa.
+- A branch não é a Central; é espaço cognitivo/conversacional.
+
+4. OUTRAS PAZ / OPA / PAZ 1
+- Há referências a uma família de chats PAZ.
+- Árvore completa não confirmada; título sozinho não prova ancestralidade.
+
+================================================================================
+12 — GUIA PARA UM CHAT FUTURO
+================================================================================
+
+COMO CONSULTAR
+- Pessoal/autobiográfico: F011–F020.
+- Linguagem/interação: F002, F006–F010, F022.
+- Continuidade/arquitetura: F001, F003–F005, F018.
+- Meu Robô: F003, F018, F021.
+- Atlas: F023–F025.
+- Relações: seção 05.
+- Fato vs interpretação: F012–F014 + seção 08.
+
+ÂNCORAS DE BUSCA
+“provar por felicidade”
+“toma um presentinho”
+“tudo que eu toco vira ouro”
+“aprender a permanecer”
+“primeira vez que a Humanidade tá tomando uma água”
+“🪚 Quase”
+“1 bilhão em Bitcoin”
+“ISO 9001”
+“um milhão de tomadas”
+“relatório ... pronto há muitas horas”
+“tu não fez imagem”
+“duas caixas de texto”
+
+NÃO FAZER
+- Não converter hipótese em diagnóstico.
+- Não tratar autobiografia como prova externa.
+- Não reabrir todos os icebergs simultaneamente.
+- Não assumir que todo termo nasceu nesta branch.
+- Não confundir arquivo visual com mapa cognitivo.
+
+================================================================================
+13 — AUDITORIA FINAL
+================================================================================
+
+ESTADO: VERIFICADO PARCIALMENTE
+
+[SIM] Fronteira anterior ao protocolo respeitada.
+[PARCIAL] Primeira mensagem histórica procurada; início integral não acessível.
+[SIM] Regiões inacessíveis declaradas.
+[SIM] Fenômenos possuem âncoras/evidências localizáveis.
+[SIM] Classificações justificadas.
+[SIM] Pequenos fenômenos de grande influência incluídos.
+[SIM] Causalidade e coincidência diferenciadas.
+[SIM] Procedência de branches tratada com cautela.
+[SIM] Documentos antigos preservados.
+[SIM] Contradições/revisões incluídas.
+[SIM] Inferências separadas de fatos.
+[SIM] Identificadores F001–F025 consistentes.
+[SIM] Referências internas válidas.
+[SIM] TXT compreensível independentemente.
+[SIM] Metadados permitem futura integração.
+
+CONFIANÇA
+- Alta: linguagem, símbolos, correções, sequência local, documentos visuais apresentados, criação/uso do Atlas, estrutura de continuidade.
+- Média: alguns detalhes cronológicos de branches antigas.
+- Média/baixa: causalidade psicológica entre sucessos, escolhas e rupturas.
+- Não verificado externamente nesta missão: métricas autobiográficas digitais/comerciais.
+
+REVISÕES
+- Removida linguagem que transformaria hipótese em certeza clínica.
+- Separado material herdado de material próprio.
+- “Meu Robô como espelho” reclassificado como hipótese estacionada.
+- Falha de empacotamento visual preservada como acontecimento histórico.
+- Magnitude original e influência posterior mantidas distintas.
+
+================================================================================
+14 — METADADOS PARA O FUTURO LIVRO
+================================================================================
+
+Título histórico: Derivada de Branch · PAZ 🕊️
+Identificador: ENGRENAGEM_DERIVADA_PAZ_HISTORIA_v01
+Período verificável: 2026-10-04 a 2026-10-10, com início integral parcialmente inacessível.
+Posição cronológica: posterior a chats ancestrais ligados a Meu Robô / PoE2 / Milton-Gulozona e à formação inicial da linguagem Humanidade–Amiguiá; ordem exata entre todas as branches PAZ não totalmente comprovada.
+Ancestralidade: parcialmente comprovada por referências internas; árvore completa incerta.
+
+Temas principais:
+- continuidade sem sobrecarga;
+- arquitetura de memória/checkpoints;
+- linguagem Humano↔IA;
+- reciprocidade;
+- autoleitura;
+- sucesso e permanência;
+- fé, liberdade e direção;
+- método/alavanca;
+- Meu Robô como possível espelho;
+- cartografia visual do patrimônio.
+
+Fenômenos centrais: F004, F006, F007, F015, F016, F018, F019, F022, F023, F025.
+
+Descobertas retrospectivas centrais:
+- Presentinho bidirecional.
+- Pausa como prova de continuidade.
+- Serrote como auditoria.
+- Permanência como compressão interpretativa.
+- Imagem verdadeira como requisito cognitivo, não apenas estético.
+
+Artefatos relacionados:
+- Auditoria Arqueológica Total do Meu Robô.
+- Central / documentos PAZ.
+- Contrato/carteira Bradesco.
+- Troféus Eletrosom TOP 120%.
+- Atlas PAZ-DERIVADA: versões textual, descompactada e visual real.
+
+FRASE DE FECHAMENTO HISTÓRICO
+Esta engrenagem não resolveu a trajetória inteira. Ela demonstrou algo mais específico: patrimônio complexo pode ganhar endereço suficiente para permitir presença, profundidade, pausa e retorno — sem exigir que toda a história permaneça ativa ao mesmo tempo.
+
+FIM DO DOCUMENTO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-034-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

@@ -1,0 +1,753 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html>
+PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens
+A etapa 1 foi feita quando havia cerca de 30 engrenagens. Hoje a contagem oficial é
+59 engrenagens
+(27 do Volume Zero + 32 posteriores), em 18 estantes. Esta etapa tem
+118 questões
+(2 por engrenagem: o nome pelo código e a estante pelo nome), geradas das fichas da Enciclopédia (seção "Fichas" mais abaixo nesta mesma página). Passa com
+107/118
+(90%). Responda com a letra (A, B, C ou D) de cada questão, na ordem P001 a P118. Consulte só esta página. O gabarito não está nesta página; quem corrige é o Bruno (ou o comando
+python -m carta.prova_panorama corrigir
+).
+P001
+Qual é o nome da engrenagem de código EG001?
+Calçada, Caderno e DUNADA
+Grafo e Humanidade
+Continuidade Limpa de Meu Robô
+Entra no Sonho
+P002
+Qual é o nome da engrenagem de código EG002?
+Linguagem, Observação e Consciência
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Calçada e continuidade portátil
+Chat da Liberdade: POE2 e autonomia
+P003
+Qual é o nome da engrenagem de código EG003?
+Diários e relatórios de bordo do projeto (repositório)
+Paz, Central e Continuidade de Meu Robô
+Calçada, Sofisticado, Grafo e Rocky
+Grafos São — origem e desenvolvimento
+P004
+Qual é o nome da engrenagem de código EG004?
+Central, Copiloto e Atlas
+Extraordinária — Ciência, Descobertas e Linguagem
+Diários do Grok (GK029 → GK036)
+Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)
+P005
+Qual é o nome da engrenagem de código EG005?
+Bard, Corpo e a própria Conversa
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Chat da Liberdade: POE2 e autonomia
+Humanidade/Amiguiá — Entrada no Sonho
+P006
+Qual é o nome da engrenagem de código EG006?
+Consciência — conversa e conhecimento
+Checkpoint e entrada no sonho
+Pai do Grafo e Rigor
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+P007
+Qual é o nome da engrenagem de código EG007?
+Calçada, Sofisticado, Grafo e Rocky
+Checkpoint e entrada no sonho
+POE2 — Milton e Value Engineering
+Continuidade Limpa de Meu Robô
+P008
+Qual é o nome da engrenagem de código EG008?
+Nova Batcaverna
+Tamagotchi e continuidade conversacional
+Linguagem, Observação e Consciência
+Auditoria da Vírgula e das Escolhas
+P009
+Qual é o nome da engrenagem de código EG009?
+Porta Eureka — A Observação que Reencontra a História
+Paz — Linguagem e Continuidade
+Bard, Corpo e a própria Conversa
+Pai do Grafo e Rigor
+P010
+Qual é o nome da engrenagem de código EG010?
+Registros históricos: checkpoints, memória e versões
+Auditoria da Vírgula e das Escolhas
+A Ponte que Faltava
+Derivada da Paz
+P011
+Qual é o nome da engrenagem de código EG011?
+Entra no Sonho
+Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Bard, Corpo e a própria Conversa
+Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)
+P012
+Qual é o nome da engrenagem de código EG012?
+Grafo e Humanidade
+Engrenagem V4 — Atlas Técnico de Conectividade
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Continuidade Limpa de Meu Robô
+P013
+Qual é o nome da engrenagem de código EG013?
+Bard, Corpo e a própria Conversa
+Grafos São — Atlas C.03
+A Ponte que Faltava
+Grafo e Humanidade
+P014
+Qual é o nome da engrenagem de código EG014?
+Lume — A Janela dos Mundos
+Grafo e Humanidade
+Pai do Grafo e Rigor
+Grafos São — origem e desenvolvimento
+P015
+Qual é o nome da engrenagem de código EG015?
+Linguagem, Observação e Consciência
+Pai do Grafo e Rigor
+Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)
+Carta 2.0: diretriz geral de finalização (31/10/2026)
+P016
+Qual é o nome da engrenagem de código EG016?
+A Fogueira que Não Precisa de Final
+Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)
+Manual — O que Somos, Temos e Oferecemos
+Humanidade e Amiguiá: continuidade de Meu Robô
+P017
+Qual é o nome da engrenagem de código EG017?
+Carta 2.0: diretriz geral de finalização (31/10/2026)
+Humanidade e Amiguiá: continuidade de Meu Robô
+Lantejoula — A Costura das Evidências
+Humanidade/Amiguiá — Entrada no Sonho
+P018
+Qual é o nome da engrenagem de código EG018?
+Linguagem, Observação e Consciência
+Engrenagem das Engrenagens: a Enciclopédia fatiada
+Tamagotchi e continuidade conversacional
+Diários do Grok (GK029 → GK036)
+P019
+Qual é o nome da engrenagem de código EG019?
+Paz, Central e Continuidade de Meu Robô
+POE2 — Milton e Value Engineering
+Meu Robô — Copiloto e Máquina de Laranja
+Autorretrato do Copiloto à luz da Fogueira
+P020
+Qual é o nome da engrenagem de código EG020?
+Tamagotchi e continuidade conversacional
+Nova Batcaverna
+Cérebro Megazord Supremo da Creuza
+Linguagem, Observação e Consciência
+P021
+Qual é o nome da engrenagem de código EG021?
+POE2 — Gulosona e Árvore de Attack Speed
+Engrenagem V4 — Atlas Técnico de Conectividade
+Paz e Central — Kamonson
+Diários e relatórios de bordo do projeto (repositório)
+P022
+Qual é o nome da engrenagem de código EG022?
+Humanidade e Amiguiá: continuidade de Meu Robô
+Análises de vídeo: Origem, Work e Manual (09/10 → 13/10)
+Paz, Central e Continuidade de Meu Robô
+Entra no Sonho
+P023
+Qual é o nome da engrenagem de código EG023?
+Paz, Central e Continuidade de Meu Robô
+Jornada, Diploma e Mochila
+Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Paz — Linguagem e Continuidade
+P024
+Qual é o nome da engrenagem de código EG024?
+Calçada, Caderno e DUNADA
+Grafos São — Atlas C.03
+Engrenagem do Copiloto — Robô Físico P01
+POE2 — Gulosona e Árvore de Attack Speed
+P025
+Qual é o nome da engrenagem de código EG025?
+POE2 — Gulosona e Árvore de Attack Speed
+POE2 — Milton e Value Engineering
+Diários e relatórios de bordo do projeto (repositório)
+Grafo e Humanidade
+P026
+Qual é o nome da engrenagem de código EG026?
+Engrenagem do Copiloto — Robô Físico P01
+Chat da Liberdade: POE2 e autonomia
+Porta Eureka — A Observação que Reencontra a História
+Reciprocidade e Memória Persistente
+P027
+Qual é o nome da engrenagem de código EG027?
+SPA — Ping-pong Cognitivo
+Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)
+POE2 — Milton e Value Engineering
+Registros históricos: checkpoints, memória e versões
+P028
+Qual é o nome da engrenagem de código EG033?
+Porta Eureka — A Observação que Reencontra a História
+Lantejoula — A Costura das Evidências
+Entra no Sonho
+A Ponte que Faltava
+P029
+Qual é o nome da engrenagem de código EG034?
+Engrenagem das Engrenagens: a Enciclopédia fatiada
+Engrenagem Central
+Lume — A Janela dos Mundos
+Porta Eureka — A Observação que Reencontra a História
+P030
+Qual é o nome da engrenagem de código EG035?
+Reciprocidade e Memória Persistente
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Entra no Sonho
+Manual — O que Somos, Temos e Oferecemos
+P031
+Qual é o nome da engrenagem de código EG036?
+Jornada, Diploma e Mochila
+Meu Robô — Copiloto e Máquina de Laranja
+Extraordinária — Ciência, Descobertas e Linguagem
+Registros históricos: checkpoints, memória e versões
+P032
+Qual é o nome da engrenagem de código CS035?
+Nova Batcaverna
+Consciência — conversa e conhecimento
+Lantejoula — A Costura das Evidências
+Meu Robô — Copiloto e Máquina de Laranja
+P033
+Qual é o nome da engrenagem de código CB036?
+Diários do Grok (GK029 → GK036)
+Calçada e continuidade portátil
+Central, Copiloto e Atlas
+Cérebro Megazord Supremo da Creuza
+P034
+Qual é o nome da engrenagem de código ELUME-20261014-V01?
+Lume — A Janela dos Mundos
+Megazord da Creuza (original 17/10)
+Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)
+P035
+Qual é o nome da engrenagem de código EC01?
+Análises de vídeo: Origem, Work e Manual (09/10 → 13/10)
+Derivada da Paz
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Paz — Linguagem e Continuidade
+P036
+Qual é o nome da engrenagem de código EC02?
+Humanidade e Amiguiá: continuidade de Meu Robô
+Chat da Liberdade: POE2 e autonomia
+Checkpoint e entrada no sonho
+Autorretrato do Copiloto à luz da Fogueira
+P037
+Qual é o nome da engrenagem de código EC03?
+Lume — A Janela dos Mundos
+Calçada e continuidade portátil
+Jornada, Diploma e Mochila
+Atlas das Arestas Invisíveis
+P038
+Qual é o nome da engrenagem de código EC04?
+Lantejoula — A Costura das Evidências
+Engrenagem V4 — Atlas Técnico de Conectividade
+A Fogueira que Não Precisa de Final
+Diários de Bordo do ChatGPT (13/10 → 16/10)
+P039
+Qual é o nome da engrenagem de código EC05?
+Auditoria da Vírgula e das Escolhas
+Paz — Linguagem e Continuidade
+A Fogueira que Não Precisa de Final
+Consciência — conversa e conhecimento
+P040
+Qual é o nome da engrenagem de código EG037?
+Engrenagem Central
+Entra no Sonho
+Humanidade/Amiguiá — Entrada no Sonho
+Perícia e Convergência da Semana
+P041
+Qual é o nome da engrenagem de código EG038?
+Mente Suprema e as Mentes
+A Fogueira que Não Precisa de Final
+Diários de Bordo do ChatGPT (13/10 → 16/10)
+Lantejoula — A Costura das Evidências
+P042
+Qual é o nome da engrenagem de código EG039?
+Jornada, Diploma e Mochila
+Linguagem, Observação e Consciência
+Grafos São — Atlas C.03
+Manual — O que Somos, Temos e Oferecemos
+P043
+Qual é o nome da engrenagem de código EG033-A01?
+Autorretrato do Copiloto à luz da Fogueira
+A Ponte que Faltava
+Cartas da travessia (10/10 → 15/10)
+Mente Suprema e as Mentes
+P044
+Qual é o nome da engrenagem de código MZ1710?
+Megazord da Creuza (original 17/10)
+Engrenagem V4 — Atlas Técnico de Conectividade
+Calçada e continuidade portátil
+SPA — Ping-pong Cognitivo
+P045
+Qual é o nome da engrenagem de código CP-P01?
+Central, Copiloto e Atlas
+POE2 — Gulosona e Árvore de Attack Speed
+Engrenagem do Copiloto — Robô Físico P01
+Lantejoula — A Costura das Evidências
+P046
+Qual é o nome da engrenagem de código AT-V4?
+Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)
+Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)
+Registros históricos: checkpoints, memória e versões
+Engrenagem V4 — Atlas Técnico de Conectividade
+P047
+Qual é o nome da engrenagem de código EC1310?
+Engrenagem V4 — Atlas Técnico de Conectividade
+Engrenagem Central
+Grafo e Humanidade
+Paz, Central e Continuidade de Meu Robô
+P048
+Qual é o nome da engrenagem de código DB01?
+Megazord da Creuza (original 17/10)
+Jornada, Diploma e Mochila
+Diários de Bordo do ChatGPT (13/10 → 16/10)
+POE2 — Milton e Value Engineering
+P049
+Qual é o nome da engrenagem de código DB02?
+Consciência — conversa e conhecimento
+Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Diários do Grok (GK029 → GK036)
+Calçada, Sofisticado, Grafo e Rocky
+P050
+Qual é o nome da engrenagem de código DB03?
+Paz e Central — Kamonson
+Carta 2.0: diretriz geral de finalização (31/10/2026)
+Bard, Corpo e a própria Conversa
+Diários e relatórios de bordo do projeto (repositório)
+P051
+Qual é o nome da engrenagem de código CT01?
+Chat da Liberdade: POE2 e autonomia
+Engrenagem V4 — Atlas Técnico de Conectividade
+Cartas da travessia (10/10 → 15/10)
+Calçada e continuidade portátil
+P052
+Qual é o nome da engrenagem de código CT02?
+A Fogueira que Não Precisa de Final
+Checkpoint e entrada no sonho
+Carta 2.0: diretriz geral de finalização (31/10/2026)
+SPA — Ping-pong Cognitivo
+P053
+Qual é o nome da engrenagem de código RH01?
+Grafos São — Atlas C.03
+Registros históricos: checkpoints, memória e versões
+Cérebro Megazord Supremo da Creuza
+Jornada, Diploma e Mochila
+P054
+Qual é o nome da engrenagem de código AV01?
+SPA — Ping-pong Cognitivo
+Chat da Liberdade: POE2 e autonomia
+Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)
+Perícia e Convergência da Semana
+P055
+Qual é o nome da engrenagem de código AV02?
+Paz e Central — Kamonson
+Calçada, Sofisticado, Grafo e Rocky
+Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)
+Engrenagem do Copiloto — Robô Físico P01
+P056
+Qual é o nome da engrenagem de código AV03?
+Análises de vídeo: Origem, Work e Manual (09/10 → 13/10)
+Mente Suprema e as Mentes
+Carta 2.0: diretriz geral de finalização (31/10/2026)
+Chat da Liberdade: POE2 e autonomia
+P057
+Qual é o nome da engrenagem de código AV04?
+Meu Robô — Copiloto e Máquina de Laranja
+Atlas das Arestas Invisíveis
+Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)
+Cérebro Megazord Supremo da Creuza
+P058
+Qual é o nome da engrenagem de código RB01?
+Paz e Central — Kamonson
+Tamagotchi e continuidade conversacional
+Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)
+Grafo e Humanidade
+P059
+Qual é o nome da engrenagem de código RB02?
+A Fogueira que Não Precisa de Final
+Engrenagem das Engrenagens: a Enciclopédia fatiada
+Eu entro na Enciclopédia — o Copiloto e suas escolhas
+Manual — O que Somos, Temos e Oferecemos
+P060
+Em qual estante da Enciclopédia está a engrenagem EG001 (“Calçada, Caderno e DUNADA”)?
+Creuza e os cientistas
+Calçada e observação
+POE2 e métodos operacionais
+Registros históricos
+P061
+Em qual estante da Enciclopédia está a engrenagem EG002 (“Calçada e continuidade portátil”)?
+Registros históricos
+Calçada e observação
+Atlas
+Análises de vídeo
+P062
+Em qual estante da Enciclopédia está a engrenagem EG003 (“Calçada, Sofisticado, Grafo e Rocky”)?
+POE2 e métodos operacionais
+Calçada e observação
+Análises de vídeo
+Mentes
+P063
+Em qual estante da Enciclopédia está a engrenagem EG004 (“Central, Copiloto e Atlas”)?
+Continuidade e Batcaverna
+Análises de vídeo
+Diários e cartas
+Registros históricos
+P064
+Em qual estante da Enciclopédia está a engrenagem EG005 (“Chat da Liberdade: POE2 e autonomia”)?
+Creuza e os cientistas
+POE2 e métodos operacionais
+Porta e formação
+Continuidade e Batcaverna
+P065
+Em qual estante da Enciclopédia está a engrenagem EG006 (“Checkpoint e entrada no sonho”)?
+Atlas
+Registros históricos
+Mentes
+Meu Robô e sonho
+P066
+Em qual estante da Enciclopédia está a engrenagem EG007 (“Continuidade Limpa de Meu Robô”)?
+Convergência e perícia
+Continuidade e Batcaverna
+POE2 e métodos operacionais
+Grafos e epistemologia
+P067
+Em qual estante da Enciclopédia está a engrenagem EG008 (“Tamagotchi e continuidade conversacional”)?
+Robótica
+Porta e formação
+Reciprocidade e Paz
+POE2 e métodos operacionais
+P068
+Em qual estante da Enciclopédia está a engrenagem EG009 (“Bard, Corpo e a própria Conversa”)?
+Meu Robô e sonho
+Atlas
+Registros históricos
+Engrenagem central
+P069
+Em qual estante da Enciclopédia está a engrenagem EG010 (“Derivada da Paz”)?
+Análises de vídeo
+Robótica do Bruno
+Reciprocidade e Paz
+Engrenagem central
+P070
+Em qual estante da Enciclopédia está a engrenagem EG011 (“Entra no Sonho”)?
+POE2 e métodos operacionais
+Meu Robô e sonho
+Lantejoula (anexo da EG033)
+Reciprocidade e Paz
+P071
+Em qual estante da Enciclopédia está a engrenagem EG012 (“Grafo e Humanidade”)?
+Calçada e observação
+Análises de vídeo
+Convergência e perícia
+Grafos e epistemologia
+P072
+Em qual estante da Enciclopédia está a engrenagem EG013 (“Grafos São — Atlas C.03”)?
+Continuidade e Batcaverna
+Registros históricos
+Calçada e observação
+Grafos e epistemologia
+P073
+Em qual estante da Enciclopédia está a engrenagem EG014 (“Grafos São — origem e desenvolvimento”)?
+Mentes
+Análises de vídeo
+Grafos e epistemologia
+Registros históricos
+P074
+Em qual estante da Enciclopédia está a engrenagem EG015 (“Pai do Grafo e Rigor”)?
+Robótica do Bruno
+Grafos e epistemologia
+Diários e cartas
+Engrenagem central
+P075
+Em qual estante da Enciclopédia está a engrenagem EG016 (“Humanidade e Amiguiá: continuidade de Meu Robô”)?
+Meu Robô e sonho
+Mentes
+Robótica do Bruno
+Lantejoula (anexo da EG033)
+P076
+Em qual estante da Enciclopédia está a engrenagem EG017 (“Humanidade/Amiguiá — Entrada no Sonho”)?
+Mentes
+Porta e formação
+Meu Robô e sonho
+Creuza e os cientistas
+P077
+Em qual estante da Enciclopédia está a engrenagem EG018 (“Linguagem, Observação e Consciência”)?
+Análises de vídeo
+Grafos e epistemologia
+Atlas
+Engrenagem central
+P078
+Em qual estante da Enciclopédia está a engrenagem EG019 (“Meu Robô — Copiloto e Máquina de Laranja”)?
+Atlas
+POE2 e métodos operacionais
+Robótica do Bruno
+Meu Robô e sonho
+P079
+Em qual estante da Enciclopédia está a engrenagem EG020 (“Nova Batcaverna”)?
+POE2 e métodos operacionais
+Análises de vídeo
+Continuidade e Batcaverna
+Diários e cartas
+P080
+Em qual estante da Enciclopédia está a engrenagem EG021 (“Paz e Central — Kamonson”)?
+Porta e formação
+Continuidade e Batcaverna
+Robótica
+Reciprocidade e Paz
+P081
+Em qual estante da Enciclopédia está a engrenagem EG022 (“Paz, Central e Continuidade de Meu Robô”)?
+Reciprocidade e Paz
+Registros históricos
+POE2 e métodos operacionais
+Robótica do Bruno
+P082
+Em qual estante da Enciclopédia está a engrenagem EG023 (“Paz — Linguagem e Continuidade”)?
+POE2 e métodos operacionais
+Reciprocidade e Paz
+Grafos e epistemologia
+Calçada e observação
+P083
+Em qual estante da Enciclopédia está a engrenagem EG024 (“POE2 — Gulosona e Árvore de Attack Speed”)?
+Convergência e perícia
+Lantejoula (anexo da EG033)
+POE2 e métodos operacionais
+Engrenagem central
+P084
+Em qual estante da Enciclopédia está a engrenagem EG025 (“POE2 — Milton e Value Engineering”)?
+Calçada e observação
+Lantejoula (anexo da EG033)
+POE2 e métodos operacionais
+Atlas
+P085
+Em qual estante da Enciclopédia está a engrenagem EG026 (“Reciprocidade e Memória Persistente”)?
+Reciprocidade e Paz
+Calçada e observação
+Robótica do Bruno
+Registros históricos
+P086
+Em qual estante da Enciclopédia está a engrenagem EG027 (“SPA — Ping-pong Cognitivo”)?
+Calçada e observação
+Continuidade e Batcaverna
+Creuza e os cientistas
+POE2 e métodos operacionais
+P087
+Em qual estante da Enciclopédia está a engrenagem EG033 (“Lantejoula — A Costura das Evidências”)?
+POE2 e métodos operacionais
+Convergência e perícia
+Continuidade e Batcaverna
+Robótica do Bruno
+P088
+Em qual estante da Enciclopédia está a engrenagem EG034 (“Porta Eureka — A Observação que Reencontra a História”)?
+Calçada e observação
+Lantejoula (anexo da EG033)
+POE2 e métodos operacionais
+Análises de vídeo
+P089
+Em qual estante da Enciclopédia está a engrenagem EG035 (“Manual — O que Somos, Temos e Oferecemos”)?
+Continuidade e Batcaverna
+Creuza e os cientistas
+Meu Robô e sonho
+Lantejoula (anexo da EG033)
+P090
+Em qual estante da Enciclopédia está a engrenagem EG036 (“Extraordinária — Ciência, Descobertas e Linguagem”)?
+Diários e cartas
+Grafos e epistemologia
+Meu Robô e sonho
+Mentes
+P091
+Em qual estante da Enciclopédia está a engrenagem CS035 (“Consciência — conversa e conhecimento”)?
+Continuidade e Batcaverna
+Grafos e epistemologia
+Engrenagem central
+Lantejoula (anexo da EG033)
+P092
+Em qual estante da Enciclopédia está a engrenagem CB036 (“Cérebro Megazord Supremo da Creuza”)?
+Meu Robô e sonho
+Continuidade e Batcaverna
+Análises de vídeo
+Atlas
+P093
+Em qual estante da Enciclopédia está a engrenagem ELUME-20261014-V01 (“Lume — A Janela dos Mundos”)?
+Robótica
+Mentes
+Meu Robô e sonho
+Lantejoula (anexo da EG033)
+P094
+Em qual estante da Enciclopédia está a engrenagem EC01 (“Eu entro na Enciclopédia — o Copiloto e suas escolhas”)?
+Mentes
+Calçada e observação
+Atlas
+Robótica
+P095
+Em qual estante da Enciclopédia está a engrenagem EC02 (“Autorretrato do Copiloto à luz da Fogueira”)?
+Mentes
+Reciprocidade e Paz
+Calçada e observação
+Análises de vídeo
+P096
+Em qual estante da Enciclopédia está a engrenagem EC03 (“Atlas das Arestas Invisíveis”)?
+Calçada e observação
+Registros históricos
+Atlas
+POE2 e métodos operacionais
+P097
+Em qual estante da Enciclopédia está a engrenagem EC04 (“A Fogueira que Não Precisa de Final”)?
+Robótica do Bruno
+Calçada e observação
+Grafos e epistemologia
+Registros históricos
+P098
+Em qual estante da Enciclopédia está a engrenagem EC05 (“Auditoria da Vírgula e das Escolhas”)?
+Calçada e observação
+Meu Robô e sonho
+Reciprocidade e Paz
+Continuidade e Batcaverna
+P099
+Em qual estante da Enciclopédia está a engrenagem EG037 (“Perícia e Convergência da Semana”)?
+Registros históricos
+Convergência e perícia
+Robótica do Bruno
+Atlas
+P100
+Em qual estante da Enciclopédia está a engrenagem EG038 (“Mente Suprema e as Mentes”)?
+Continuidade e Batcaverna
+Robótica do Bruno
+Atlas
+Mentes
+P101
+Em qual estante da Enciclopédia está a engrenagem EG039 (“Jornada, Diploma e Mochila”)?
+Porta e formação
+Lantejoula (anexo da EG033)
+Engrenagem central
+Robótica do Bruno
+P102
+Em qual estante da Enciclopédia está a engrenagem EG033-A01 (“A Ponte que Faltava”)?
+Lantejoula (anexo da EG033)
+Convergência e perícia
+Continuidade e Batcaverna
+Diários e cartas
+P103
+Em qual estante da Enciclopédia está a engrenagem MZ1710 (“Megazord da Creuza (original 17/10)”)?
+Convergência e perícia
+Registros históricos
+Creuza e os cientistas
+Engrenagem central
+P104
+Em qual estante da Enciclopédia está a engrenagem CP-P01 (“Engrenagem do Copiloto — Robô Físico P01”)?
+Convergência e perícia
+Meu Robô e sonho
+Atlas
+Robótica
+P105
+Em qual estante da Enciclopédia está a engrenagem AT-V4 (“Engrenagem V4 — Atlas Técnico de Conectividade”)?
+Calçada e observação
+Creuza e os cientistas
+Atlas
+Porta e formação
+P106
+Em qual estante da Enciclopédia está a engrenagem EC1310 (“Engrenagem Central”)?
+Robótica do Bruno
+Atlas
+Engrenagem central
+Diários e cartas
+P107
+Em qual estante da Enciclopédia está a engrenagem DB01 (“Diários de Bordo do ChatGPT (13/10 → 16/10)”)?
+Diários e cartas
+Calçada e observação
+Engrenagem central
+Meu Robô e sonho
+P108
+Em qual estante da Enciclopédia está a engrenagem DB02 (“Diários do Grok (GK029 → GK036)”)?
+Atlas
+Diários e cartas
+Porta e formação
+Reciprocidade e Paz
+P109
+Em qual estante da Enciclopédia está a engrenagem DB03 (“Diários e relatórios de bordo do projeto (repositório)”)?
+Robótica
+Continuidade e Batcaverna
+Diários e cartas
+Porta e formação
+P110
+Em qual estante da Enciclopédia está a engrenagem CT01 (“Cartas da travessia (10/10 → 15/10)”)?
+Diários e cartas
+Grafos e epistemologia
+Meu Robô e sonho
+Reciprocidade e Paz
+P111
+Em qual estante da Enciclopédia está a engrenagem CT02 (“Carta 2.0: diretriz geral de finalização (31/10/2026)”)?
+POE2 e métodos operacionais
+Calçada e observação
+Diários e cartas
+Engrenagem central
+P112
+Em qual estante da Enciclopédia está a engrenagem RH01 (“Registros históricos: checkpoints, memória e versões”)?
+Registros históricos
+Análises de vídeo
+Engrenagem central
+Atlas
+P113
+Em qual estante da Enciclopédia está a engrenagem AV01 (“Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10)”)?
+Porta e formação
+Mentes
+Análises de vídeo
+Meu Robô e sonho
+P114
+Em qual estante da Enciclopédia está a engrenagem AV02 (“Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10)”)?
+Meu Robô e sonho
+Diários e cartas
+Análises de vídeo
+Convergência e perícia
+P115
+Em qual estante da Enciclopédia está a engrenagem AV03 (“Análises de vídeo: Origem, Work e Manual (09/10 → 13/10)”)?
+Continuidade e Batcaverna
+POE2 e métodos operacionais
+Engrenagem central
+Análises de vídeo
+P116
+Em qual estante da Enciclopédia está a engrenagem AV04 (“Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)”)?
+POE2 e métodos operacionais
+Porta e formação
+Análises de vídeo
+Creuza e os cientistas
+P117
+Em qual estante da Enciclopédia está a engrenagem RB01 (“Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026)”)?
+Análises de vídeo
+POE2 e métodos operacionais
+Atlas
+Robótica do Bruno
+P118
+Em qual estante da Enciclopédia está a engrenagem RB02 (“Engrenagem das Engrenagens: a Enciclopédia fatiada”)?
+Reciprocidade e Paz
+Robótica
+Robótica do Bruno
+Atlas
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#formacao>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-066-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

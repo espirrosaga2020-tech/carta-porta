@@ -1,0 +1,92 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — AV04: documento da engrenagem (CARTA 2.0)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html>
+AV04: documento da engrenagem (CARTA 2.0)
+fonte: docs/engrenagens_carta20/AV04.md
+AV04 — Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10)
+10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada).
+00 Ficha de proveniência
+id:
+AV04 ·
+estante:
+Análises de vídeo ·
+modalidade:
+engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2
+autoria:
+Bruno (gravou) + ChatGPT/Copiloto (analisou)
+(linha omitida no site público pelo filtro de privacidade)
+criada em:
+2026-10-31 por Grok (CARTA 2.0, 31/10/2026) · regra: definição ESTRUTURAL de engrenagem (CARTA 2.0 §2) — id, estante, modalidade, autoria, fonte, relações, bola e história.
+limites:
+só metadados públicos; o conteúdo das conversas fica no backup, no PC do Bruno.
+01 Apresentação histórica
+10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada).
+02 Linha do tempo / itens (fato documentado)
+2026-10-14 15:28 (BRT) · Desktop 2026.10.14 - 15.22.15.01.mp4 · conversa “3 Conversar na fogueira”
+2026-10-14 15:45 (BRT) · Desktop 2026.10.14 - 15.38.47.02.mp4 · conversa “3 Conversar na fogueira”
+2026-10-14 16:40 (BRT) · Desktop 2026.10.14 - 16.38.04.03(1).mp4 · conversa “4 Conversar na fogueira”
+2026-10-14 21:38 (BRT) · Desktop 2026.10.14 - 21.34.35.04.mp4 · conversa “Comprei”
+2026-10-14 21:52 (BRT) · 1000118041.mp4 · conversa “Comprei”
+2026-10-15 10:25 (BRT) · 1000118153.mp4 · conversa “Conversa descontraída”
+2026-10-15 10:58 (BRT) · 1000110213.mp4 · conversa “Conversa descontraída”
+2026-10-16 02:12 (BRT) · Desktop 2026.10.16 - 02.01.04.02.mp4 · conversa “Atualizar memória persistente”
+2026-10-16 23:52 (BRT) · Desktop 2026.10.16 - 23.43.36.03.mp4 · conversa “Sincronizar engrenagens CARTA”
+2026-10-16 23:52 (BRT) · Desktop 2026.10.16 - 23.46.58.04.mp4 · conversa “Sincronizar engrenagens CARTA”
+05 Relações
+fonte_original → BACKUP_CHATGPT
+eco_tematico → EC04
+eco_tematico → SG028
+eco_tematico → EG026
+08 Contradições e correções (preservadas, sem reconciliar)
+Os vídeos em si não estão no GitHub (ficam no backup, no PC). Aqui só o nome do arquivo, a data e a conversa.
+Uma conversa nova costuma carregar os vídeos da anterior: a conta usa só a 1ª aparição.
+11 Pontes para outras engrenagens
+EC04 · eco temático (não é descendência)
+SG028 · eco temático (não é descendência)
+EG026 · eco temático (não é descendência)
+12 Guia para um chat futuro
+Peça à Consciência: “me conta a engrenagem AV04” — ela responde por
+/api/conhecimento/v1/no?id=AV04
+com a proveniência.
+13 Auditoria
+10 itens · gerado por
+tools/carta20/gerar_engrenagens_carta20.py
+a partir do catálogo privado de 2026-10-31T18:21:36 (BRT).
+Natureza:
+fato documentado
+(datas, nomes e títulos copiados do backup); nenhuma interpretação foi acrescentada.
+14 Metadados para o Livro
+período: 2026-10-14 → 2026-10-16
+FIM DO DOCUMENTO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-099-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

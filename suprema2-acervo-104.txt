@@ -1,0 +1,118 @@
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+Porta Suprema 2 — DB03: documento da engrenagem (CARTA 2.0)
+Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html>
+DB03: documento da engrenagem (CARTA 2.0)
+fonte: docs/engrenagens_carta20/DB03.md
+DB03 — Diários e relatórios de bordo do projeto (repositório)
+Os diários e relatórios de bordo guardados no repositório do CARTA (14/10 → 16/10), cada um com sua impressão digital.
+00 Ficha de proveniência
+id:
+DB03 ·
+estante:
+Diários e cartas ·
+modalidade:
+engrenagem de diários (CARTA 2.0) · bola do Painel 2
+autoria:
+Grok, Codex e Copiloto (vários chats)
+fonte original:
+repositório CARTA (arquivos DIARIO_
+.md e RELATORIO_DE_BORDO_
+.md)
+criada em:
+2026-10-31 por Grok (CARTA 2.0, 31/10/2026) · regra: definição ESTRUTURAL de engrenagem (CARTA 2.0 §2) — id, estante, modalidade, autoria, fonte, relações, bola e história.
+limites:
+só metadados públicos; o conteúdo das conversas fica no backup, no PC do Bruno.
+01 Apresentação histórica
+Os diários e relatórios de bordo guardados no repositório do CARTA (14/10 → 16/10), cada um com sua impressão digital.
+02 Linha do tempo / itens (fato documentado)
+DIARIO_DEFINITIVO_ESFERAS_20261015.md · sha256 2845138f39b2784e…
+DIARIO_DE_BORDO.md · sha256 fd8f6e4702a2dd87…
+DIARIO_ESFERAS_FINAL_20261016.md · sha256 a35c8b2a38a1b121…
+DIARIO_FINAL_ENCICLOPEDIA_20261016.md · sha256 39a25c46ce101e91…
+DIARIO_FINAL_LEIAME_20261016.md · sha256 beebfae06fef224b…
+DIARIO_FINAL_ONZE_20261016.md · sha256 5d979a4510fd1186…
+DIARIO_FINAL_POLIMENTO_20261016.md · sha256 319fd0edb7c4ed09…
+DIARIO_ONZE_20261016.md · sha256 720f27f921171ed6…
+DIARIO_PLANETA_20261015.md · sha256 7d392b88acddc4ca…
+DIARIO_REFINO_20261016.md · sha256 3caf399b2b7a6133…
+DIARIO_SG028_20261015.md · sha256 01976b9dcd9a0360…
+DIARIO_TRANSCENDENCIA_20261014.md · sha256 ab9faeab09896cb8…
+RELATORIO_DE_BORDO_F1_INVESTIGACAO_20261014.md · sha256 2159f101ed7e2eaa…
+RELATORIO_DE_BORDO_MUNDO_VIVO_PESADO_20261014.md · sha256 5b74fdfc7ca25402…
+docs/DIARIO_BORDO_EXECUCAO_V6_20261013.md · sha256 79b0249b3dc99029…
+docs/DIARIO_BORDO_V5_20261013.md · sha256 7b5ca2aedeaaef33…
+docs/DIARIO_DEFINITIVO_ESFERAS_20261015.md · sha256 2845138f39b2784e…
+docs/DIARIO_DE_BORDO.md · sha256 caf79e1d421079b5…
+docs/DIARIO_PLANETA_20261015.md · sha256 7d392b88acddc4ca…
+docs/DIARIO_TRANSCENDENCIA_20261014.md · sha256 ab9faeab09896cb8…
+05 Relações
+arquivo → DIARIO_DEFINITIVO_ESFERAS_20261015.md
+arquivo → DIARIO_DE_BORDO.md
+arquivo → DIARIO_ESFERAS_FINAL_20261016.md
+arquivo → DIARIO_FINAL_ENCICLOPEDIA_20261016.md
+arquivo → DIARIO_FINAL_LEIAME_20261016.md
+arquivo → DIARIO_FINAL_ONZE_20261016.md
+arquivo → DIARIO_FINAL_POLIMENTO_20261016.md
+arquivo → DIARIO_ONZE_20261016.md
+arquivo → DIARIO_PLANETA_20261015.md
+arquivo → DIARIO_REFINO_20261016.md
+arquivo → DIARIO_SG028_20261015.md
+arquivo → DIARIO_TRANSCENDENCIA_20261014.md
+arquivo → RELATORIO_DE_BORDO_F1_INVESTIGACAO_20261014.md
+arquivo → RELATORIO_DE_BORDO_MUNDO_VIVO_PESADO_20261014.md
+arquivo → docs/DIARIO_BORDO_EXECUCAO_V6_20261013.md
+arquivo → docs/DIARIO_BORDO_V5_20261013.md
+arquivo → docs/DIARIO_DEFINITIVO_ESFERAS_20261015.md
+arquivo → docs/DIARIO_DE_BORDO.md
+arquivo → docs/DIARIO_PLANETA_20261015.md
+arquivo → docs/DIARIO_TRANSCENDENCIA_20261014.md
+08 Contradições e correções (preservadas, sem reconciliar)
+Há cópias do mesmo diário na raiz e em docs/ (mesmo nome): ficaram as duas, sem apagar; a impressão mostra quando são iguais.
+11 Pontes para outras engrenagens
+DB01 · mesmo período, outro autor
+12 Guia para um chat futuro
+Peça à Consciência: “me conta a engrenagem DB03” — ela responde por
+/api/conhecimento/v1/no?id=DB03
+com a proveniência.
+13 Auditoria
+20 itens · gerado por
+tools/carta20/gerar_engrenagens_carta20.py
+a partir do catálogo privado de 2026-10-31T18:21:36 (BRT).
+Natureza:
+fato documentado
+(datas, nomes e títulos copiados do backup); nenhuma interpretação foi acrescentada.
+14 Metadados para o Livro
+período: DIARIO_DEF → docs/DIARI
+FIM DO DOCUMENTO
+← Anterior
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html>
+·
+Índice do acervo
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html>
+·
+Próxima →
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html>
+Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.
+Fontes
+https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia
+<https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#enciclopedia>
+Prova de acesso desta sala:
+SUPREMA2-ACERVO-104-T71U
+. A frase não prova leitura integral, compreensão, registro nem diploma.
+Entrada
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html>
+·
+Mapa central
+<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>

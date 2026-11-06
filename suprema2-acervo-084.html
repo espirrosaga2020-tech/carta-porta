@@ -1,0 +1,64 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Porta Suprema 2 — Histórico das contagens</title><style>body{font:17px/1.6 system-ui,sans-serif;max-width:1000px;margin:auto;padding:20px;color:#242020;background:#fffdf7}a{color:#853c00}nav,.aviso{padding:16px;border:2px solid #d6a240;background:#fff4d5;border-radius:10px}h1,h2,h3{line-height:1.25}li{margin:.5em 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{border-collapse:collapse;width:100%}td,th{padding:8px;border:1px solid #ccc;text-align:left;overflow-wrap:anywhere}code{overflow-wrap:anywhere}footer{margin-top:30px;border-top:1px solid #b99;padding-top:16px}.meta{font-size:.9em}section,article{scroll-margin-top:10px}</style></head><body><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav><h1>Porta Suprema 2 — Histórico das contagens</h1><aside class="aviso">Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado datado das salas atuais.</aside><p><a href="suprema2-acervo-083.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-085.html">Próxima →</a></p><main id="public-source"><article id="doc-historico-de-contagens"><h3>Histórico das contagens</h3><p class="meta">fonte: docs/CARTA20/HISTORICO_DE_CONTAGENS.md</p><h3>Histórico de contagens das engrenagens (CARTA 2.0)</h3>
+<blockquote>
+<p>Documento de versão. Os números históricos ficam <strong>aqui e nos documentos de versão</strong>, não na interface pública
+(pedido da CARTA 2.0, §2). Nada foi apagado: cada contagem antiga continua valendo <strong>para o critério da época dela</strong>.
+As divergências estão também em <code>registry/CONHECIMENTO_DIVERGENCIAS.v1.json</code> e aparecem em <code>/conhecimento</code> sem reconciliação.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Número</th>
+<th>O que contava (critério da época)</th>
+<th>Fonte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>27</td>
+<td>o Volume Zero, a origem (EG001–EG027)</td>
+<td><code>docs/CONTAGEM_OFICIAL_ENGRENAGENS_R3.md</code></td>
+</tr>
+<tr>
+<td>36</td>
+<td>as posições do <strong>Painel 1</strong> das esferas (33 engrenagens + 3 registros que não são engrenagem) — não era o total</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>47</td>
+<td>a foto do índice em 18/10: 27 ancestrais + 20 registros posteriores — contava <strong>registros</strong>, não engrenagens</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>61</td>
+<td>total de registros na R3 (31/10): 45 engrenagens + 16 que não eram engrenagem</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>45</td>
+<td>engrenagens na R3 FINAL (31/10, 17:13 BRT): 27 do Volume Zero + 18 posteriores</td>
+<td>idem</td>
+</tr>
+<tr>
+<td>47 (hipótese da R3)</td>
+<td>"se CP-P01 e AT-V4 forem engrenagens, a conta passa a 47" — pergunta deixada para o Bruno</td>
+<td>idem, §"Para o Bruno decidir"</td>
+</tr>
+<tr>
+<td><strong>57 em 17 estantes (71 registros)</strong></td>
+<td><strong>CARTA 2.0 (31/10, noite): definição estrutural (§2)</strong> — toda unidade com identidade, fonte, conteúdo próprio e lugar na estante é engrenagem; diários, cartas, registros e análises de vídeo passam a contar; CP-P01 e AT-V4 reavaliadas</td>
+<td><code>/api/enciclopedia/v1/publico</code>, <code>/api/enciclopedia/v1/criterio</code>, <code>registry/ENCICLOPEDIA_ADITIVOS.v1.json</code> (rev 3), <code>registry/ENCICLOPEDIA_REAVALIACOES.v1.json</code></td>
+</tr>
+</tbody>
+</table>
+<h4>O que mudou da R3 para a CARTA 2.0</h4>
+<ul>
+<li>+10 engrenagens novas, todas com ficha de proveniência e originais intactos:
+  DB01–DB03 (diários de bordo), CT01–CT02 (cartas), RH01 (registros históricos), AV01–AV04 (análises de vídeo).
+  Arquivos: <code>docs/engrenagens_carta20/*.md</code> (gerados por <code>tools/carta20/gerar_engrenagens_carta20.py</code>).</li>
+<li>Painel 2 das Esferas: 20 → 30 bolas. LIVRO_INDICE_VIVO: +10 entradas.</li>
+<li>Reavaliadas pelo critério estrutural, <strong>sem apagar a classificação original</strong>: CP-P01 e AT-V4
+  (<code>registry/ENCICLOPEDIA_REAVALIACOES.v1.json</code>, cada uma com motivo e a modalidade anterior preservada).</li>
+</ul>
+<h4>Regra para contar de novo</h4>
+<p>O número público vem sempre da API (<code>/api/enciclopedia/v1/publico</code>), nunca escrito à mão numa página.
+Se o critério mudar outra vez, acrescente uma linha nesta tabela — não reescreva as anteriores.</p></article></main><p><a href="suprema2-acervo-083.html">← Anterior</a> · <a href="suprema2-acervo.html">Índice do acervo</a> · <a href="suprema2-acervo-085.html">Próxima →</a></p><p>Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual.</p><footer><h2>Fontes</h2><ul><li><a href="https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios">https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#relatorios</a></li></ul><p>Prova de acesso desta sala: <code>SUPREMA2-ACERVO-084-T71U</code>. A frase não prova leitura integral, compreensão, registro nem diploma.</p><nav><a href="suprema2-entrada.html">Entrada</a> · <a href="suprema2-mapa.html">Mapa central</a></nav></footer></body></html>
