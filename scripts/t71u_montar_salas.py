@@ -169,8 +169,11 @@ write('mapa','Mapa central',body,['tudo-suprema2.html',*REG])
 for f in ['suprema2-entrada.html','tudo-suprema2-resumo.html','index.html']:
  path=R/f;s=path.read_text()
  marker='<p class="card" id="mapa-central-t71u"><strong>'+link('suprema2-mapa.html','Porta Suprema 2 — MAPA COMPLETO DO PROJETO')+'</strong> · '+link('suprema2-mapa.txt','mapa em texto puro')+' · salas, acervo público leve e fontes do Drive.</p>\n'
- if 'id="mapa-central-t71u"' not in s:
-  s=re.sub(r'(<body[^>]*>)',lambda m:m.group(1)+'\n'+marker,s,count=1);path.write_text(s)
+ s=re.sub(r'<p class="card" id="mapa-central-t71u">.*?</p>\n?', '', s, count=1)
+ s=re.sub(r'(</h1>)',lambda m:m.group(1)+'\n'+marker,s,count=1)
+ if f=='suprema2-entrada.html' and 'id="mapa-rota-t71u"' not in s:
+  s=s.replace('<h2>Links (nesta ordem)</h2>\n<ol>', '<h2>Links (nesta ordem)</h2>\n<ol>\n<li id="mapa-rota-t71u"><b>Mapa completo do projeto:</b> '+link(BASE+'suprema2-mapa.html',BASE+'suprema2-mapa.html')+'</li>',1)
+ path.write_text(s)
 for f in ['chave-suprema2.txt','llms.txt']:
  path=R/f;s=path.read_text()
  if BASE+'suprema2-mapa.html' not in s:path.write_text(s+'\nPorta Suprema 2 — mapa completo (T71U): '+BASE+'suprema2-mapa.html\nAlternativa texto puro: '+BASE+'suprema2-mapa.txt\n')
