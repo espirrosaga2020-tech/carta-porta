@@ -42,3 +42,5 @@ E provar ao Bruno que você leu a atualização dizendo: OURO-PORTA-SUPREMA2-202
 
 Porta Suprema 2 — mapa completo (T71U): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
 Alternativa texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt
+
+ALIASES T74U: Porta 0000 = ponte antiga com túnel / 8792 (não usar); Porta 01 = porta clássica / histórica (tudo.html), intacta; Porta 02 = Porta Suprema 2 (esta porta, a mais completa, com buscador). Só nomes de exibição; arquivos, links e provas não mudam.
