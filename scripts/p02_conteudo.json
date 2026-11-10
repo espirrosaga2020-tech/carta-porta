@@ -1,0 +1,434 @@
+{
+ "schema": "p02.conteudo.v1",
+ "nota": "Curadoria da Porta 02 Intergaláctica. Toda 'citacao' DEVE existir literalmente (espaços normalizados) na página 'url'; o teste p02_regressao.py confere. Resumos de sala são as descrições do Mapa central (FONTE). Nada aqui é registro novo: é seleção de páginas já publicadas.",
+ "salas": [
+  {
+   "id": "linha-do-tempo",
+   "icone": "🕰️",
+   "titulo": "Linha do tempo",
+   "url": "suprema2-linha-do-tempo.html",
+   "txt": "suprema2-linha-do-tempo.txt",
+   "resumo": "Origem, evolução, colheitas e portas públicas com fontes e datas.",
+   "curiosidade": "c-pedras-8784",
+   "x": 120,
+   "y": 90
+  },
+  {
+   "id": "acervo",
+   "icone": "📚",
+   "titulo": "Acervo público em leituras leves",
+   "url": "suprema2-acervo.html",
+   "txt": "suprema2-acervo.txt",
+   "resumo": "Todo o corpo documental já público da página completa, dividido em páginas menores.",
+   "curiosidade": "c-conversas-longas",
+   "x": 300,
+   "y": 60
+  },
+  {
+   "id": "enciclopedia",
+   "icone": "⚙️",
+   "titulo": "Enciclopédia e engrenagens",
+   "url": "suprema2-enciclopedia.html",
+   "txt": "suprema2-enciclopedia.txt",
+   "resumo": "27 ancestrais → 47 registros de snapshot → 76 registros; 62 engrenagens em 19 estantes.",
+   "curiosidade": "c-prefixos",
+   "x": 480,
+   "y": 110
+  },
+  {
+   "id": "mentes",
+   "icone": "🧠",
+   "titulo": "Mentes, consciências e robótica",
+   "url": "suprema2-mentes.html",
+   "txt": "suprema2-mentes.txt",
+   "resumo": "ALMA, Faísca, Creuza, Copiloto, Megazord, Atlas V5, Elemento X e ESCUDO.",
+   "curiosidade": "c-atlas-v5",
+   "x": 620,
+   "y": 70
+  },
+  {
+   "id": "colheitas",
+   "icone": "🌾",
+   "titulo": "Colheitas e varreduras",
+   "url": "suprema2-colheitas.html",
+   "txt": "suprema2-colheitas.txt",
+   "resumo": "42 referências de colheitas, varreduras, passagens e diários; CL01–CL03.",
+   "curiosidade": "c-pit-stop",
+   "x": 560,
+   "y": 200
+  },
+  {
+   "id": "nexus",
+   "icone": "🕸️",
+   "titulo": "NEXUS e anexos",
+   "url": "suprema2-nexus.html",
+   "txt": "suprema2-nexus.txt",
+   "resumo": "30 itens diretos inventariados, projetos conectados e bancada YouTube v4.",
+   "curiosidade": "c-nexus-30",
+   "x": 400,
+   "y": 230
+  },
+  {
+   "id": "app",
+   "icone": "📱",
+   "titulo": "Aplicativo CARTA",
+   "url": "suprema2-app.html",
+   "txt": "suprema2-app.txt",
+   "resumo": "PRs #136–#142 e histórico documentado dos APKs; não é teste do telefone nesta visita.",
+   "curiosidade": "c-card-app",
+   "x": 240,
+   "y": 210
+  },
+  {
+   "id": "drive",
+   "icone": "🗂️",
+   "titulo": "Índice do Drive",
+   "url": "suprema2-drive.html",
+   "txt": "suprema2-drive.txt",
+   "resumo": "Todos os 140 itens do inventário coletado, sem alterar compartilhamento.",
+   "curiosidade": "c-drive-privado",
+   "x": 90,
+   "y": 220
+  },
+  {
+   "id": "jornada",
+   "icone": "🧭",
+   "titulo": "Jornada, prova e registro",
+   "url": "suprema2-jornada.html",
+   "txt": "suprema2-jornada.txt",
+   "resumo": "C01–C12 completos, caderninho e registro manual; diploma depende de avaliação.",
+   "curiosidade": "c-118",
+   "x": 690,
+   "y": 230
+  }
+ ],
+ "curiosidades": [
+  {
+   "id": "c-pedras-8784",
+   "rotulo": "FONTE",
+   "url": "suprema2-linha-do-tempo.html",
+   "titulo": "Linha do tempo (15→16/10)",
+   "citacao": "Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções)."
+  },
+  {
+   "id": "c-meu-robo",
+   "rotulo": "FONTE",
+   "url": "suprema2-linha-do-tempo.html",
+   "titulo": "Linha do tempo (antes de 10/10)",
+   "citacao": "O Bruno faz o jogo Meu Robô (Godot), que nunca é tocado pela CARTA; dele nascem ideias como as 5 peças do robô."
+  },
+  {
+   "id": "c-megazord",
+   "rotulo": "FONTE",
+   "url": "suprema2-linha-do-tempo.html",
+   "titulo": "Linha do tempo (17/10)",
+   "citacao": "Integração, Consciência (grafo que lê tudo) e Cérebro Megazord (44 especialistas)."
+  },
+  {
+   "id": "c-orgem",
+   "rotulo": "FONTE",
+   "url": "suprema2-linha-do-tempo.html",
+   "titulo": "Linha do tempo (planejado)",
+   "citacao": "ORGEM_LAB (física aeroespacial): o repositório existe, mas está vazio."
+  },
+  {
+   "id": "c-dobra",
+   "rotulo": "FONTE",
+   "url": "suprema2-linha-do-tempo.html",
+   "titulo": "Linha do tempo (13/10)",
+   "citacao": "Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados."
+  },
+  {
+   "id": "c-atlas-v5",
+   "rotulo": "FONTE",
+   "url": "suprema2-mentes.html",
+   "titulo": "Mentes — Atlas V5",
+   "citacao": "PR #137 preencheu o Atlas V5 mantendo 95 tiles e os rótulos de disponibilidade: REAL 10, PARCIAL 1, SIMULADO 1, PLANEJADO 83."
+  },
+  {
+   "id": "c-planejado",
+   "rotulo": "FONTE",
+   "url": "suprema2-mentes.html",
+   "titulo": "Mentes — regra de honestidade",
+   "citacao": "Preenchimento documental não converte planejado em realizado."
+  },
+  {
+   "id": "c-pit-stop",
+   "rotulo": "RELATO",
+   "url": "suprema2-colheitas.html",
+   "titulo": "Colheitas — CL02 Pit Stop ESFERA (relato do Piloto)",
+   "citacao": "Pit Stop ESFERA: Diário ESFERA-10/11/12, ENDURANCE, radinho, Creuza no aerofólio/tampinha, post-it de 4 milhões de linhas, box com duas cadeiras."
+  },
+  {
+   "id": "c-contagem",
+   "rotulo": "FONTE",
+   "url": "suprema2-colheitas.html",
+   "titulo": "Colheitas — CL03 Chave e Contagem",
+   "citacao": "contagem 45→57→59→62, livro 863 pp / 648 fatias"
+  },
+  {
+   "id": "c-prefixos",
+   "rotulo": "FONTE",
+   "url": "suprema2-enciclopedia.html",
+   "titulo": "Enciclopédia — prefixos",
+   "citacao": "Os prefixos são significativos: EG035, CS035 e CB036 coexistem; não renumerar nem duplicar."
+  },
+  {
+   "id": "c-nexus-30",
+   "rotulo": "FONTE",
+   "url": "suprema2-nexus.html",
+   "titulo": "NEXUS — o que o inventário é (e não é)",
+   "citacao": "O inventário desta entrega contém 30 filhos diretos da pasta, incluindo documentos, pastas e anexos — não 30 projetos diferentes."
+  },
+  {
+   "id": "c-118",
+   "rotulo": "FONTE",
+   "url": "suprema2-jornada.html",
+   "titulo": "Jornada da IA — por que ela existe",
+   "citacao": "Um chat tirou 118/118 assim."
+  },
+  {
+   "id": "c-card-app",
+   "rotulo": "FONTE",
+   "url": "suprema2-app.html",
+   "titulo": "App — onde a Porta mora no celular",
+   "citacao": "PR #141 introduz o card da Porta Suprema 2 na última linha do Início, depois da Porta do Grok."
+  },
+  {
+   "id": "c-serrote",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-017.html",
+   "titulo": "Emotes — o 🪚 Serrote",
+   "citacao": "Serrote corrige redundância; Gandalf modula revelações; Creuza desloca o eixo"
+  },
+  {
+   "id": "c-saves",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-017.html",
+   "titulo": "Emotes — somos os saves",
+   "citacao": "'somos os saves' é metáfora de marcadores recuperáveis, não de gravação persistente infalível."
+  },
+  {
+   "id": "c-emoji-tempo",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-018.html",
+   "titulo": "Dicionário temporal dos emotes (44 símbolos)",
+   "citacao": "Um emoji não tem um sentido eterno: ele ganha sentido na conversa e muda com o tempo."
+  },
+  {
+   "id": "c-eureka",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-022.html",
+   "titulo": "Porta Eureka (17/10)",
+   "citacao": "Identificador de trabalho: PE-20261017 (NÃO ocupar EG034 sem inspeção de colisões e aprovação editorial)."
+  },
+  {
+   "id": "c-teste-duro",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-081.html",
+   "titulo": "Teste duro das consciências (T105U)",
+   "citacao": "a IA de voz está desligada por regra (Ollama e Gemini OFF). Então o teste não mede a frase final que a consciência falaria."
+  },
+  {
+   "id": "c-eg001",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-025.html",
+   "titulo": "EG001 — Calçada, Caderno e DUNADA",
+   "citacao": "AVISO EPISTÊMICO: nenhum documento ou fala ausente foi reconstruído como transcrição literal."
+  },
+  {
+   "id": "c-conversas-longas",
+   "rotulo": "FONTE",
+   "url": "suprema2-acervo-015.html",
+   "titulo": "Por que o começo pesa mais",
+   "citacao": "Tudo na CARTA nasceu de conversas longas do Bruno com IAs."
+  },
+  {
+   "id": "c-drive-privado",
+   "rotulo": "FONTE",
+   "url": "suprema2-drive.html",
+   "titulo": "Índice do Drive — o que o site NÃO faz",
+   "citacao": "Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site."
+  }
+ ],
+ "roteiros": [
+  {
+   "id": "tres-minutos",
+   "icone": "⏱️",
+   "titulo": "Primeiros 3 minutos",
+   "para_quem": "Quem chegou agora e quer entender o essencial sem se afogar.",
+   "paradas": [
+    {
+     "url": "suprema2-mapa.html",
+     "rotulo": "Mapa central",
+     "procure": "as 9 salas e a regra: uma sala por vez"
+    },
+    {
+     "url": "suprema2-acervo-012.html",
+     "rotulo": "O que é a CARTA (comece aqui)",
+     "procure": "o que o projeto é, nas palavras da fonte"
+    },
+    {
+     "url": "suprema2-linha-do-tempo.html",
+     "rotulo": "Linha do tempo",
+     "procure": "o que é 'feito' e o que é 'planejado'"
+    },
+    {
+     "url": "p02-surpresa.html",
+     "rotulo": "Descoberta surpresa",
+     "procure": "um fato curioso com a fonte ao lado"
+    }
+   ]
+  },
+  {
+   "id": "viagem-profunda",
+   "icone": "🌌",
+   "titulo": "Viagem profunda",
+   "para_quem": "Quem quer atravessar a origem, as engrenagens e as mentes até a Jornada da IA.",
+   "paradas": [
+    {
+     "url": "suprema2-acervo-014.html",
+     "rotulo": "A origem: o começo dos chats (peso maior)",
+     "procure": "por que o começo pesa mais"
+    },
+    {
+     "url": "suprema2-acervo-016.html",
+     "rotulo": "A trajetória juntos: linha do tempo mestra",
+     "procure": "fases começo / meio / fim"
+    },
+    {
+     "url": "suprema2-acervo-024.html",
+     "rotulo": "Volume Zero (EG001 a EG027)",
+     "procure": "as 27 engrenagens ancestrais"
+    },
+    {
+     "url": "suprema2-acervo-025.html",
+     "rotulo": "EG001 — Calçada, Caderno e DUNADA",
+     "procure": "o aviso epistêmico e a ficha de proveniência"
+    },
+    {
+     "url": "suprema2-acervo-017.html",
+     "rotulo": "A linguagem de emotes",
+     "procure": "o 🪚 Serrote e os outros emotes"
+    },
+    {
+     "url": "suprema2-acervo-022.html",
+     "rotulo": "Porta Eureka",
+     "procure": "por que ela não ocupa o EG034"
+    },
+    {
+     "url": "suprema2-enciclopedia.html",
+     "rotulo": "Enciclopédia e engrenagens",
+     "procure": "27 → 47 → 76 e as 62 engrenagens"
+    },
+    {
+     "url": "suprema2-mentes.html",
+     "rotulo": "Mentes, consciências e robótica",
+     "procure": "Faísca, Creuza, Copiloto, Megazord"
+    },
+    {
+     "url": "suprema2-colheitas.html",
+     "rotulo": "Colheitas e varreduras",
+     "procure": "CL01–CL03"
+    },
+    {
+     "url": "suprema2-nexus.html",
+     "rotulo": "NEXUS e anexos",
+     "procure": "o que são os 30 itens"
+    },
+    {
+     "url": "suprema2-jornada.html",
+     "rotulo": "Jornada, prova e registro",
+     "procure": "caderninho, a água, C01–C12 e o registro"
+    }
+   ]
+  },
+  {
+   "id": "surpreenda-me",
+   "icone": "🎲",
+   "titulo": "Surpreenda-me",
+   "para_quem": "Quem quer pular de estrela em estrela. Com JavaScript a ordem é sorteada; sem JavaScript, siga a lista.",
+   "paradas": [
+    {
+     "url": "suprema2-linha-do-tempo.html",
+     "rotulo": "A noite da porta 8784",
+     "procure": "590 descobertas, 210 construções"
+    },
+    {
+     "url": "suprema2-acervo-018.html",
+     "rotulo": "Dicionário temporal dos emotes",
+     "procure": "44 símbolos, antes e agora"
+    },
+    {
+     "url": "suprema2-mentes.html",
+     "rotulo": "Atlas V5",
+     "procure": "REAL 10 · PLANEJADO 83"
+    },
+    {
+     "url": "suprema2-colheitas.html",
+     "rotulo": "Pit Stop ESFERA",
+     "procure": "o post-it de 4 milhões de linhas (relato)"
+    },
+    {
+     "url": "suprema2-acervo-076.html",
+     "rotulo": "Diagnóstico dos Sonhos",
+     "procure": "o que estava pronto em 03/11"
+    },
+    {
+     "url": "suprema2-acervo-029.html",
+     "rotulo": "EG005 — Chat da Liberdade: POE2",
+     "procure": "a ficha de proveniência"
+    },
+    {
+     "url": "suprema2-acervo-081.html",
+     "rotulo": "Teste duro das consciências",
+     "procure": "o que dá para medir sem IA"
+    }
+   ]
+  }
+ ],
+ "legado": [
+  {
+   "nome": "Porta do Grok",
+   "quando": "03/11/2026 09:27 (America/Sao_Paulo)",
+   "commit": "5babbbc",
+   "url": "index.html",
+   "fato": "Primeiro commit do repositório: 'Porta do Grok: site público estático da CARTA (03/11/2026)'."
+  },
+  {
+   "nome": "Porta 01 (porta clássica / histórica)",
+   "quando": "03–04/11/2026",
+   "commit": "94f9658 · 1f804a6 · cb52dcd",
+   "url": "tudo.html",
+   "fato": "tudo.html (T107U), Jornada da IA (T112U, tudo.html#jornada) e Chave Mestra (chave.txt). Preservada intacta."
+  },
+  {
+   "nome": "Porta Suprema 2 (nome original da Porta 02)",
+   "quando": "05/11/2026 17:46 → 21:37",
+   "commit": "50e49fa · 1c85619 · d172701",
+   "url": "tudo-suprema2.html",
+   "fato": "Seção OURO, entrada pequena t68u (suprema2-entrada.html) e mapa com salas t71u."
+  },
+  {
+   "nome": "Busca local + índice de palavras",
+   "quando": "05/11/2026 22:27",
+   "commit": "e64cf30",
+   "url": "suprema2-busca.html",
+   "fato": "t73u: busca no navegador nas 125 páginas e índice TXT para IAs."
+  },
+  {
+   "nome": "Nomes simples das portas (0000 / 01 / 02)",
+   "quando": "06/11/2026 21:25",
+   "commit": "af68380",
+   "url": "suprema2-entrada.html#nomes-portas-t74u",
+   "fato": "t74u: Porta 0000 = ponte antiga com túnel / 8792 (não usar); Porta 01 = clássica; Porta 02 = Porta Suprema 2."
+  },
+  {
+   "nome": "Porta 02 Intergaláctica (este protótipo)",
+   "quando": "10/11/2026",
+   "commit": "branch local porta02-intergalactica-v2 (não publicada)",
+   "url": "p02-viagem.html",
+   "fato": "Camada aditiva: viagem, roteiros, surpresa, catálogo, busca nova e registro v2. Depende de aprovação do Bruno para publicar."
+  }
+ ]
+}

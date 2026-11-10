@@ -1,5 +1,15 @@
 PORTA SUPREMA 2 — ENTRADA PEQUENA (texto puro) · CARTA · t68u · 05/11/2026
 
+=== P02-INICIO (bloco aditivo Porta 02 Intergaláctica, protótipo 10/11/2026) ===
+PORTA 02 — nome atual desta porta (nome original: Porta Suprema 2). O resto deste arquivo continua igual.
+COMEÇAR A VIAGEM: https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html (texto: https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.txt)
+EXPLORAR O MAPA: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt
+VER O ÍNDICE TEXTUAL: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.txt (A–Z: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-a-z.txt)
+DESCOBERTA SURPRESA: https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+BUSCA: https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html?q=serrote · clássica: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-busca.html · sem JS: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras.txt
+COMECE AQUI, CHATGPT: https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.txt
+=== P02-FIM ===
+
 FRASE DE TESTE DE TRANSPORTE:
 ENTRADA-SUPREMA2-PROVA-T68U-20261105
 

@@ -1,0 +1,210 @@
+PORTA 02 — CRONOLOGIA (data da fonte quando conhecida; senão, data de publicação no site) (gerado do catálogo p02-catalogo.json) · 10/11/2026
+Prova de acesso: PORTA02-CRONOLOGIA-P02-20261110 (só acesso).
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html · Comece aqui: https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.txt
+205 publicações no catálogo aprovado.
+
+2026-10-10 (fonte) · Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+2026-10-10 (fonte) · Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+2026-10-10 (fonte) · Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+2026-10-13 (fonte) · Dobra: origem, personagem e portal (13/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+2026-10-17 (fonte) · A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+2026-10-17 (fonte) · Trajetória e catálogo do que fizemos (17/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+2026-10-17 (fonte) · A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+2026-10-17 (fonte) · A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+2026-10-21 (fonte) · Portões anteriores (21/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+2026-10-21 (fonte) · Portões anteriores (21/10/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+2026-11-02 (fonte) · Estado atual — varredura geral (02/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+2026-11-02 (fonte) · Estado atual — varredura geral (02/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+2026-11-03 (fonte) · Celular sem cabo (app vc20, 03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+2026-11-03 (fonte) · Diagnóstico dos Sonhos (03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+2026-11-03 (fonte) · Manual de Tudo da CARTA (v10, 03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+2026-11-03 (fonte) · Pesquisa T101U: código aberto adotado (03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+2026-11-03 (fonte) · Portões T100U (03/11/2026): o Planeta é o astro — https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+2026-11-03 (fonte) · Portões T95U (03/11/2026): gráficos, mundos, personagens — https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+2026-11-03 (fonte) · PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+2026-11-03 (fonte) · Manual de Tudo da CARTA (v10, 03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+2026-11-03 (fonte) · Portões T100U (03/11/2026): o Planeta é o astro — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+2026-11-03 (fonte) · Portões T95U (03/11/2026): gráficos, mundos, personagens — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+2026-11-03 (fonte) · Diagnóstico dos Sonhos (03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+2026-11-03 (fonte) · Pesquisa T101U: código aberto adotado (03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+2026-11-03 (fonte) · Celular sem cabo (app vc20, 03/11/2026) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+2026-11-03 (publicação) · Análise do PR #99 (Olhos Vivos, Copiloto) — https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+2026-11-03 (publicação) · { — https://espirrosaga2020-tech.github.io/carta-porta/carta.json
+2026-11-03 (publicação) · EG001 — Calçada, Caderno e DUNADA — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG001.html
+2026-11-03 (publicação) · EG002 — Calçada e continuidade portátil — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG002.html
+2026-11-03 (publicação) · EG003 — Calçada, Sofisticado, Grafo e Rocky — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG003.html
+2026-11-03 (publicação) · EG004 — Central, Copiloto e Atlas — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG004.html
+2026-11-03 (publicação) · EG005 — Chat da Liberdade: POE2 e autonomia — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG005.html
+2026-11-03 (publicação) · EG006 — Checkpoint e entrada no sonho — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG006.html
+2026-11-03 (publicação) · EG007 — Continuidade Limpa de Meu Robô — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG007.html
+2026-11-03 (publicação) · EG008 — Tamagotchi e continuidade conversacional — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG008.html
+2026-11-03 (publicação) · EG009 — Bard, Corpo e a própria Conversa — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG009.html
+2026-11-03 (publicação) · EG010 — Derivada da Paz — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG010.html
+2026-11-03 (publicação) · EG011 — Entra no Sonho — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG011.html
+2026-11-03 (publicação) · EG012 — Grafo e Humanidade — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG012.html
+2026-11-03 (publicação) · EG013 — Grafos São — Atlas C.03 — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG013.html
+2026-11-03 (publicação) · EG014 — Grafos São — origem e desenvolvimento — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG014.html
+2026-11-03 (publicação) · EG015 — Pai do Grafo e Rigor — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG015.html
+2026-11-03 (publicação) · EG016 — Humanidade e Amiguiá: continuidade de Meu Robô — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG016.html
+2026-11-03 (publicação) · EG017 — Humanidade/Amiguiá — Entrada no Sonho — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG017.html
+2026-11-03 (publicação) · EG018 — Linguagem, Observação e Consciência — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG018.html
+2026-11-03 (publicação) · EG019 — Meu Robô — Copiloto e Máquina de Laranja — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG019.html
+2026-11-03 (publicação) · EG020 — Nova Batcaverna — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG020.html
+2026-11-03 (publicação) · EG021 — Paz e Central — Kamonson — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG021.html
+2026-11-03 (publicação) · EG022 — Paz, Central e Continuidade de Meu Robô — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG022.html
+2026-11-03 (publicação) · EG023 — Paz — Linguagem e Continuidade — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG023.html
+2026-11-03 (publicação) · EG024 — POE2 — Gulosona e Árvore de Attack Speed — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG024.html
+2026-11-03 (publicação) · EG025 — POE2 — Milton e Value Engineering — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG025.html
+2026-11-03 (publicação) · EG026 — Reciprocidade e Memória Persistente — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG026.html
+2026-11-03 (publicação) · EG027 — SPA — Ping-pong Cognitivo — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/EG027.html
+2026-11-03 (publicação) · Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+2026-11-03 (publicação) · Fichas de todos os registros (Índice Único + Aditivos) — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+2026-11-03 (publicação) · Enciclopédia das Engrenagens — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+2026-11-03 (publicação) · Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt — https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/leia-primeiro.html
+2026-11-03 (publicação) · CARTA — Porta do Grok — https://espirrosaga2020-tech.github.io/carta-porta/index.html
+2026-11-03 (publicação) · # CARTA — Porta do Grok — texto completo — https://espirrosaga2020-tech.github.io/carta-porta/llms-full.txt
+2026-11-03 (publicação) · # CARTA — Porta do Grok — https://espirrosaga2020-tech.github.io/carta-porta/llms.txt
+2026-11-03 (publicação) · Mapa de pastas e código — https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+2026-11-03 (publicação) · O que entrou neste site — https://espirrosaga2020-tech.github.io/carta-porta/o-que-entrou.html
+2026-11-03 (publicação) · oi, pronto — https://espirrosaga2020-tech.github.io/carta-porta/oi.html
+2026-11-03 (publicação) · Para IAs: como ler a CARTA — https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+2026-11-03 (publicação) · Portões booleanos t89u (critérios e estado) — https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+2026-11-03 (publicação) · User-agent: * — https://espirrosaga2020-tech.github.io/carta-porta/robots.txt
+2026-11-03 (publicação) · CARTA — tudo numa página só (resumo) — https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html
+2026-11-03 (publicação) · CARTA — tudo numa página só — https://espirrosaga2020-tech.github.io/carta-porta/tudo.html
+2026-11-04 (publicação) · 🗝️ CHAVE MESTRA DA CARTA — leia antes de responder — https://espirrosaga2020-tech.github.io/carta-porta/chave.txt
+2026-11-05 (fonte) · 🗝️ CHAVE MESTRA — PORTA SUPREMA 2 (RECHEADA) · ouro 05/11/2026 — https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt
+2026-11-05 (fonte) · 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-001.html
+2026-11-05 (fonte) · 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+2026-11-05 (fonte) · 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-011.html
+2026-11-05 (fonte) · CARTA — PORTA SUPREMA 2 (RECHEADA) · ouro 05/11/2026 — https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html
+2026-11-05 (publicação) · 0. ORDEM OBRIGATÓRIA PARA TODA IA QUE ENTRA AQUI — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-002.html
+2026-11-05 (publicação) · 1. O QUE É / POR QUE ESTA PORTA EXISTE — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html
+2026-11-05 (publicação) · 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+2026-11-05 (publicação) · 4. ESCUDO / FORMA DE AGIR (pit stop · radinho · Discordar pra Cima) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-006.html
+2026-11-05 (publicação) · 5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-007.html
+2026-11-05 (publicação) · 6. ENCICLOPÉDIA ÷ 3 (anexo ChatGPT) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-008.html
+2026-11-05 (publicação) · 7. PONTOS CEGOS (verificar de propósito) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+2026-11-05 (publicação) · 8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-010.html
+2026-11-05 (publicação) · 1. O que é a CARTA (comece aqui) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-012.html
+2026-11-05 (publicação) · Para IAs: como ler a CARTA — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+2026-11-05 (publicação) · 2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-014.html
+2026-11-05 (publicação) · Por que o começo pesa mais — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+2026-11-05 (publicação) · A trajetória juntos: linha do tempo mestra — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+2026-11-05 (publicação) · Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+2026-11-05 (publicação) · Continuidade da linguagem de emojis (E018) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+2026-11-05 (publicação) · Diário anterior intacto, páginas P001 a P025 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+2026-11-05 (publicação) · O começo dos chats: textos do Volume Zero (EG001 a EG027) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html
+2026-11-05 (publicação) · EG001 — Calçada, Caderno e DUNADA — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+2026-11-05 (publicação) · EG002 — Calçada e continuidade portátil — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+2026-11-05 (publicação) · EG003 — Calçada, Sofisticado, Grafo e Rocky — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+2026-11-05 (publicação) · EG004 — Central, Copiloto e Atlas — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+2026-11-05 (publicação) · EG005 — Chat da Liberdade: POE2 e autonomia — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+2026-11-05 (publicação) · EG006 — Checkpoint e entrada no sonho — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+2026-11-05 (publicação) · EG007 — Continuidade Limpa de Meu Robô — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+2026-11-05 (publicação) · EG008 — Tamagotchi e continuidade conversacional — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+2026-11-05 (publicação) · EG009 — Bard, Corpo e a própria Conversa — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+2026-11-05 (publicação) · EG010 — Derivada da Paz — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+2026-11-05 (publicação) · EG011 — Entra no Sonho — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+2026-11-05 (publicação) · EG012 — Grafo e Humanidade — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+2026-11-05 (publicação) · EG013 — Grafos São — Atlas C.03 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+2026-11-05 (publicação) · EG014 — Grafos São — origem e desenvolvimento — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+2026-11-05 (publicação) · EG015 — Pai do Grafo e Rigor — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+2026-11-05 (publicação) · EG016 — Humanidade e Amiguiá: continuidade de Meu Robô — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+2026-11-05 (publicação) · EG017 — Humanidade/Amiguiá — Entrada no Sonho — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+2026-11-05 (publicação) · EG018 — Linguagem, Observação e Consciência — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+2026-11-05 (publicação) · EG019 — Meu Robô — Copiloto e Máquina de Laranja — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+2026-11-05 (publicação) · EG020 — Nova Batcaverna — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+2026-11-05 (publicação) · EG021 — Paz e Central — Kamonson — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+2026-11-05 (publicação) · EG022 — Paz, Central e Continuidade de Meu Robô — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+2026-11-05 (publicação) · EG023 — Paz — Linguagem e Continuidade — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+2026-11-05 (publicação) · EG024 — POE2 — Gulosona e Árvore de Attack Speed — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+2026-11-05 (publicação) · EG025 — POE2 — Milton e Value Engineering — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+2026-11-05 (publicação) · EG026 — Reciprocidade e Memória Persistente — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+2026-11-05 (publicação) · EG027 — SPA — Ping-pong Cognitivo — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+2026-11-05 (publicação) · 3. A Jornada da IA: caderninho, a água, introspecção, prova etapa 3 e registro — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-052.html
+2026-11-05 (publicação) · A Jornada da IA (leia antes de seguir) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+2026-11-05 (publicação) · PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+2026-11-05 (publicação) · Formulário de Registro (copie, preencha e devolva ao Bruno) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-055.html
+2026-11-05 (publicação) · 4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-056.html
+2026-11-05 (publicação) · Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+2026-11-05 (publicação) · Caderno 1 do aluno: Diário de Bordo (modelo) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html
+2026-11-05 (publicação) · Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html
+2026-11-05 (publicação) · Caderno 3 do aluno: Como me Comportar (modelo) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html
+2026-11-05 (publicação) · Percurso de formação (pré-escola → doutorado → pré-diploma) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+2026-11-05 (publicação) · Pré-diploma: o Caderninho do Viajante — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html
+2026-11-05 (publicação) · Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+2026-11-05 (publicação) · Capítulos da etapa 1, na ordem oficial (48) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+2026-11-05 (publicação) · Diplomas emitidos (registry/diplomas.json) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+2026-11-05 (publicação) · 5. Manual de Tudo — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-068.html
+2026-11-05 (publicação) · 6. Portões (o que está pronto e o que falta) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-070.html
+2026-11-05 (publicação) · Portões booleanos t89u (critérios e estado) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+2026-11-05 (publicação) · 7. Diagnóstico dos Sonhos e estado atual — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-075.html
+2026-11-05 (publicação) · 8. Consciências — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-078.html
+2026-11-05 (publicação) · Consciências na CARTA 2.0 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+2026-11-05 (publicação) · O que as consciências sabem (texto da ALMA, 1786 caracteres) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-080.html
+2026-11-05 (publicação) · Teste duro das consciências (T105U, 03/11) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+2026-11-05 (publicação) · 9. Relatórios — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-082.html
+2026-11-05 (publicação) · Versão CARTA 2.0 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+2026-11-05 (publicação) · Histórico das contagens — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+2026-11-05 (publicação) · Resultado do aperfeiçoamento (31/10) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+2026-11-05 (publicação) · Resultado do aperfeiçoamento 2 (31/10) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+2026-11-05 (publicação) · Mundos da CARTA 2.0 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+2026-11-05 (publicação) · Gráficos no PC (T105U) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+2026-11-05 (publicação) · Robótica na Enciclopédia — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html
+2026-11-05 (publicação) · Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+2026-11-05 (publicação) · Análise do PR #99 (Olhos Vivos, Copiloto) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+2026-11-05 (publicação) · 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html
+2026-11-05 (publicação) · Fichas de todos os registros (73 registros; 59 são engrenagens) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+2026-11-05 (publicação) · AV01: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+2026-11-05 (publicação) · AV02: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+2026-11-05 (publicação) · AV03: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+2026-11-05 (publicação) · AV04: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html
+2026-11-05 (publicação) · CT01: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+2026-11-05 (publicação) · CT02: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html
+2026-11-05 (publicação) · DB01: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-102.html
+2026-11-05 (publicação) · DB02: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html
+2026-11-05 (publicação) · DB03: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+2026-11-05 (publicação) · RB01: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+2026-11-05 (publicação) · RB02: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+2026-11-05 (publicação) · RH01: documento da engrenagem (CARTA 2.0) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+2026-11-05 (publicação) · 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-110.html
+2026-11-05 (publicação) · Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+2026-11-05 (publicação) · Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+2026-11-05 (publicação) · 11. Mapa do código — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-113.html
+2026-11-05 (publicação) · Mapa de pastas e código — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+2026-11-05 (publicação) · Fim da página — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-115.html
+2026-11-05 (publicação) · Acervo público em leituras leves — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+2026-11-05 (publicação) · Aplicativo CARTA — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+2026-11-05 (publicação) · Busca local — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-busca.html
+2026-11-05 (publicação) · Colheitas e varreduras — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+2026-11-05 (publicação) · Índice do Drive — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+2026-11-05 (publicação) · Enciclopédia e engrenagens — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+2026-11-05 (publicação) · Entrada pequena · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS ab9faeab09896cb8 → bundle — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-01.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS byte → coordenadas — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-02.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS copie → eg031 — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-03.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS eg033 → grafo — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-04.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS grafos → mochila — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-05.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS modelo → prancheta — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-06.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS pre-diploma → stun — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-07.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS substituem → t101u — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-08.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — PALAVRAS t102u → zoom — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras-09.txt
+2026-11-05 (publicação) · PORTA SUPREMA 2 — ÍNDICE DE PALAVRAS (T73U) — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras.txt
+2026-11-05 (publicação) · Jornada, prova e registro — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+2026-11-05 (publicação) · Linha do tempo — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+2026-11-05 (publicação) · Mapa central — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+2026-11-05 (publicação) · Mentes, consciências e robótica — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+2026-11-05 (publicação) · NEXUS e anexos — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+2026-11-05 (publicação) · CARTA — PORTA SUPREMA 2 RESUMO (resumo) — https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2-resumo.html
+2026-11-10 (fonte) · PORTA 02 — ÍNDICE A–Z (gerado do catálogo p02-catalogo.json) · 10/11/2026 — https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-a-z.txt
+2026-11-10 (fonte) · PORTA 02 — NOVIDADES / ÚLTIMAS DESCOBERTAS (gerado do catálogo p02-catalogo.json) · 10/11/2026 — https://espirrosaga2020-tech.github.io/carta-porta/p02-novidades.txt
+9999 (publicação) · Página não encontrada · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/404.html
+9999 (publicação) · Busca · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html
+9999 (publicação) · Comece aqui, ChatGPT · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.html
+9999 (publicação) · PORTA 02 — CRONOLOGIA (data da fonte quando conhecida; senão, data de publicação no site) (gerado do catálogo p02-catalo — https://espirrosaga2020-tech.github.io/carta-porta/p02-cronologia.txt
+9999 (publicação) · Índice por tema · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.html
+9999 (publicação) · Legado das portas · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/p02-legado.html
+9999 (publicação) · REGISTRO DE VIAGEM DA IA — CARTA (cole e envie ao Bruno + link do caderninho) — https://espirrosaga2020-tech.github.io/carta-porta/p02-registro-v2.txt
+9999 (publicação) · Descoberta surpresa · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+9999 (publicação) · Começar a viagem · Porta 02 · CARTA — https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html

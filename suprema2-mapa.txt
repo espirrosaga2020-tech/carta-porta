@@ -3,6 +3,10 @@ Entrada
 ·
 Mapa central
 <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html>
+=== P02-INICIO (bloco aditivo Porta 02 Intergaláctica, protótipo 10/11/2026) ===
+Porta 02 (camada nova): viagem guiada https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.txt · índice por tema https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.txt · A–Z https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-a-z.txt · Comece aqui, ChatGPT https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.txt
+=== P02-FIM ===
+
 Porta Suprema 2 — Mapa central
 Comece por aqui.
 Uma entrada, um mapa, caminhos curtos. Leia uma sala por vez; cada HTML tem uma alternativa em texto puro. O acervo público foi dividido, e o Drive privado permanece privado.

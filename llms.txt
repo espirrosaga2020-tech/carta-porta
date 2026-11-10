@@ -1,4 +1,11 @@
 # CARTA — Porta do Grok
+<!-- P02-INICIO -->
+## Porta 02 Intergaláctica (camada aditiva sobre a Porta Suprema 2)
+- Comece aqui, ChatGPT: https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.txt
+- Viagem guiada (roteiros, salas, curiosidades com fonte): https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html · texto: https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.txt
+- Índice por tema: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.txt · A–Z: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-a-z.txt · cronologia: https://espirrosaga2020-tech.github.io/carta-porta/p02-cronologia.txt
+- Mapa: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt · Busca (JS): https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html · Registro v2: https://espirrosaga2020-tech.github.io/carta-porta/p02-registro-v2.txt
+<!-- P02-FIM -->
 
 ## Porta Suprema 2 — entrada pequena (t68u)
 - Entrada HTML: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html

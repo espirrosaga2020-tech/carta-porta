@@ -1,0 +1,99 @@
+PORTA 02 — COMEÇAR A VIAGEM (texto puro) · protótipo 10/11/2026
+Prova de acesso: PORTA02-VIAGEM-P02-20261110 (só acesso).
+
+HTML gêmeo: https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+Mapa TXT: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt
+
+TRÊS ROTEIROS (seleções de páginas existentes):
+
+## Primeiros 3 minutos — Quem chegou agora e quer entender o essencial sem se afogar.
+  1. Mapa central: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html  (procure: as 9 salas e a regra: uma sala por vez)
+  2. O que é a CARTA (comece aqui): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-012.html  (procure: o que o projeto é, nas palavras da fonte)
+  3. Linha do tempo: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html  (procure: o que é 'feito' e o que é 'planejado')
+  4. Descoberta surpresa: https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html  (procure: um fato curioso com a fonte ao lado)
+
+## Viagem profunda — Quem quer atravessar a origem, as engrenagens e as mentes até a Jornada da IA.
+  1. A origem: o começo dos chats (peso maior): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-014.html  (procure: por que o começo pesa mais)
+  2. A trajetória juntos: linha do tempo mestra: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html  (procure: fases começo / meio / fim)
+  3. Volume Zero (EG001 a EG027): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html  (procure: as 27 engrenagens ancestrais)
+  4. EG001 — Calçada, Caderno e DUNADA: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html  (procure: o aviso epistêmico e a ficha de proveniência)
+  5. A linguagem de emotes: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html  (procure: o 🪚 Serrote e os outros emotes)
+  6. Porta Eureka: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html  (procure: por que ela não ocupa o EG034)
+  7. Enciclopédia e engrenagens: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html  (procure: 27 → 47 → 76 e as 62 engrenagens)
+  8. Mentes, consciências e robótica: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html  (procure: Faísca, Creuza, Copiloto, Megazord)
+  9. Colheitas e varreduras: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html  (procure: CL01–CL03)
+  10. NEXUS e anexos: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html  (procure: o que são os 30 itens)
+  11. Jornada, prova e registro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html  (procure: caderninho, a água, C01–C12 e o registro)
+
+## Surpreenda-me — Quem quer pular de estrela em estrela. Com JavaScript a ordem é sorteada; sem JavaScript, siga a lista.
+  1. A noite da porta 8784: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html  (procure: 590 descobertas, 210 construções)
+  2. Dicionário temporal dos emotes: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html  (procure: 44 símbolos, antes e agora)
+  3. Atlas V5: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html  (procure: REAL 10 · PLANEJADO 83)
+  4. Pit Stop ESFERA: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html  (procure: o post-it de 4 milhões de linhas (relato))
+  5. Diagnóstico dos Sonhos: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html  (procure: o que estava pronto em 03/11)
+  6. EG005 — Chat da Liberdade: POE2: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html  (procure: a ficha de proveniência)
+  7. Teste duro das consciências: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html  (procure: o que dá para medir sem IA)
+
+AS 9 SALAS (resumo [FONTE] = descrição do Mapa central; curiosidade = citação literal da fonte):
+
+## Linha do tempo
+  [FONTE] Origem, evolução, colheitas e portas públicas com fontes e datas.
+  Curiosidade [FONTE]: “Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções).” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.txt
+
+## Acervo público em leituras leves
+  [FONTE] Todo o corpo documental já público da página completa, dividido em páginas menores.
+  Curiosidade [FONTE]: “Tudo na CARTA nasceu de conversas longas do Bruno com IAs.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.txt
+
+## Enciclopédia e engrenagens
+  [FONTE] 27 ancestrais → 47 registros de snapshot → 76 registros; 62 engrenagens em 19 estantes.
+  Curiosidade [FONTE]: “Os prefixos são significativos: EG035, CS035 e CB036 coexistem; não renumerar nem duplicar.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.txt
+
+## Mentes, consciências e robótica
+  [FONTE] ALMA, Faísca, Creuza, Copiloto, Megazord, Atlas V5, Elemento X e ESCUDO.
+  Curiosidade [FONTE]: “PR #137 preencheu o Atlas V5 mantendo 95 tiles e os rótulos de disponibilidade: REAL 10, PARCIAL 1, SIMULADO 1, PLANEJADO 83.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.txt
+
+## Colheitas e varreduras
+  [FONTE] 42 referências de colheitas, varreduras, passagens e diários; CL01–CL03.
+  Curiosidade [RELATO]: “Pit Stop ESFERA: Diário ESFERA-10/11/12, ENDURANCE, radinho, Creuza no aerofólio/tampinha, post-it de 4 milhões de linhas, box com duas cadeiras.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.txt
+
+## NEXUS e anexos
+  [FONTE] 30 itens diretos inventariados, projetos conectados e bancada YouTube v4.
+  Curiosidade [FONTE]: “O inventário desta entrega contém 30 filhos diretos da pasta, incluindo documentos, pastas e anexos — não 30 projetos diferentes.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.txt
+
+## Aplicativo CARTA
+  [FONTE] PRs #136–#142 e histórico documentado dos APKs; não é teste do telefone nesta visita.
+  Curiosidade [FONTE]: “PR #141 introduz o card da Porta Suprema 2 na última linha do Início, depois da Porta do Grok.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.txt
+
+## Índice do Drive
+  [FONTE] Todos os 140 itens do inventário coletado, sem alterar compartilhamento.
+  Curiosidade [FONTE]: “Nenhuma permissão foi alterada, nenhum conteúdo privado foi copiado para este site.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.txt
+
+## Jornada, prova e registro
+  [FONTE] C01–C12 completos, caderninho e registro manual; diploma depende de avaliação.
+  Curiosidade [FONTE]: “Um chat tirou 118/118 assim.” — https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  Aprofundar: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html  ·  texto puro: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.txt
+
+REGISTRO DE VIAGEM v2 (compatível com v1): https://espirrosaga2020-tech.github.io/carta-porta/p02-registro-v2.txt
+
+CONTINUAR NO CHATGPT (copie):
+Quero continuar uma viagem pela Porta 02 da CARTA (site público, só leitura).
+Regras: memória é pista; evidência é prova. Só afirme o que estiver numa página que você abriu; cite a URL.
+Marque cada frase como [FONTE], [RELATO], [OBSERVAÇÃO], [HIPÓTESE] ou [IDEIA]. Se uma página não abrir, diga qual e o erro.
+
+1) Abra a entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+2) Leia o guia para IAs: https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.txt
+3) Escolha um assunto no índice por tema: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.txt
+4) Abra 2 ou 3 fontes desse assunto e me explique com suas palavras, com as URLs.
+5) No fim, preencha o REGISTRO DE VIAGEM v2: https://espirrosaga2020-tech.github.io/carta-porta/p02-registro-v2.txt
+
+Onde eu parei (cole aqui sua rota ou o cartão de viagem):
+
