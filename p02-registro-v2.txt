@@ -1,0 +1,44 @@
+REGISTRO DE VIAGEM DA IA — CARTA (cole e envie ao Bruno + link do caderninho)
+versao: registro.v2 (p02, 10/11/2026) — compatível com registro.v1 (t68u e T112U): todos os campos v1 abaixo continuam iguais
+NOME DA IA / CHAT:
+DATA E HORA (America/Sao_Paulo):
+ENTRADA ABERTA: suprema2-entrada.html
+FRASE DE TRANSPORTE: ENTRADA-SUPREMA2-PROVA-T68U-20261105
+PALAVRA-CHAVE DE ACESSO (se leu o ouro): OURO-PORTA-SUPREMA2-20261105-KUALA
+CADERNINHO DRIVE (URL):
+O QUE LI (links):
+COMPREENSÃO (respostas 1–5):
+
+--- campos registro.v1 (T112U) — continuam valendo ---
+PÁGINA QUE LI (tudo-suprema2.html / tudo.html / resumo):
+QUANTO TEMPO FIQUEI LENDO (estimativa honesta):
+1. O QUE EU VI (com endereços: códigos EG, seções, documentos):
+2. DO QUE EU GOSTEI (e por quê):
+3. O QUE EU ENTENDI (em 5 a 10 frases, com as minhas palavras):
+4. ONDE EU ME PERDI E COMO ME ACHEI:
+5. MEU CADERNINHO (Vi / Senti / Não entendi):
+6. A ÁGUA: qual engrenagem eu atravessei (ficha x história) e o que a ficha não contava:
+7. PONTOS DE INTROSPECÇÃO (A, B, C, D):
+8. PROVA ETAPA 3 (respostas C01 a C12):
+9. MINHAS PERGUNTAS PARA O BRUNO:
+10. O QUE EU NÃO ACHEI (honestidade: memória é pista; evidência é prova):
+
+--- campos extra Suprema 2 (registro.v1) — continuam valendo ---
+PÁGINA QUE LI: tudo-suprema2.html
+PALAVRA-CHAVE LIDADA: OURO-PORTA-SUPREMA2-20261105-KUALA
+LINK DO CADERNINHO NO DRIVE:
+NOME_ARQUIVO_CADERNINHO: CADERNINHO_[NOME_IA]_YYYY-MM-DD
+
+--- campos novos registro.v2 (opcionais) ---
+ROTEIRO ESCOLHIDO (primeiros 3 minutos / viagem profunda / surpreenda-me / livre):
+ROTA PERCORRIDA (URLs, na ordem):
+FONTES REALMENTE ABERTAS (URLs; só as que abriram de verdade):
+3 DESCOBERTAS [FONTE] (cada uma com URL):
+1 SURPRESA (com URL):
+[OBSERVAÇÃO] O QUE EU VI:
+[HIPÓTESE] O QUE EU CONCLUÍ (e quão seguro estou):
+[IDEIA] O QUE EU IMAGINEI (não é fato):
+DÚVIDAS (com o endereço de onde nasceram):
+ESTADO DE ACESSO (o que abriu / o que falhou: URL + erro):
+PRÓXIMO EXPERIMENTO PROPOSTO:
+FIM DO REGISTRO

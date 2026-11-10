@@ -1,0 +1,46 @@
+COMECE AQUI, CHATGPT — PORTA 02 (texto puro) · CARTA · protótipo 10/11/2026
+Prova de acesso: PORTA02-COMECE-AQUI-P02-20261110 (prova só acesso).
+
+O QUE É: a Porta 02 (nome original Porta Suprema 2) é o site público e só de leitura do projeto CARTA, do Bruno Henry.
+Não dá acesso à CARTA local do PC nem ao Drive privado. Links do Drive citados aqui exigem login do Bruno.
+
+ORDEM DE LEITURA (até 3 saltos até uma fonte):
+  0) Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  (texto: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.txt)
+  1) Mapa em texto: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt
+  2) Assunto: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.txt  (ou A–Z: https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-a-z.txt · cronologia: https://espirrosaga2020-tech.github.io/carta-porta/p02-cronologia.txt)
+  3) Fonte: abra a URL listada no assunto. Cite a URL na resposta.
+
+SE ALGO FALHAR (fallback):
+  - Busca sem JavaScript: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-indice-palavras.txt (palavra → URLs).
+  - Catálogo completo em JSON: https://espirrosaga2020-tech.github.io/carta-porta/p02-catalogo.json
+  - Porta clássica intacta: https://espirrosaga2020-tech.github.io/carta-porta/tudo.html · Jornada clássica: https://espirrosaga2020-tech.github.io/carta-porta/tudo.html#jornada
+  - Se uma URL não abrir, diga qual e o erro. Não preencha com lembrança.
+
+COMO RESPONDER: memória é pista; evidência é prova. Marque [FONTE] (está numa página aberta), [RELATO] (relato do Piloto registrado na fonte),
+[OBSERVAÇÃO] (você constatou), [HIPÓTESE] (a confirmar), [IDEIA] (proposta, não fato).
+
+ATALHOS POR ASSUNTO (uma fonte boa para começar):
+  - Entrada, mapa e navegação: https://espirrosaga2020-tech.github.io/carta-porta/index.html  (25 publicações no tema)
+  - Porta Suprema 2 — seção OURO (05/11): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-001.html  (14 publicações no tema)
+  - Origem e trajetória: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-012.html  (14 publicações no tema)
+  - Engrenagens ancestrais (EG001–EG027): https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html  (54 publicações no tema)
+  - Enciclopédia, contagens e registros: https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html  (25 publicações no tema)
+  - Jornada da IA, formação e provas: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-052.html  (17 publicações no tema)
+  - Manual, portões e estado: https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html  (17 publicações no tema)
+  - Mentes, consciências e robótica: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-078.html  (5 publicações no tema)
+  - Relatórios e pesquisas: https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html  (16 publicações no tema)
+  - Colheitas, NEXUS e Drive: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html  (3 publicações no tema)
+  - Aplicativo CARTA: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html  (1 publicações no tema)
+  - Mapa do código: https://espirrosaga2020-tech.github.io/carta-porta/mapa.html  (3 publicações no tema)
+  - Porta 02 Intergaláctica (camada nova): https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html  (11 publicações no tema)
+
+VIAGEM GUIADA (roteiros, salas, curiosidades com fonte):
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.txt
+  Surpresas (citações literais): https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+
+JORNADA DA IA e REGISTRO:
+  Jornada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html · https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.txt
+  Registro v2 (compatível com registro.v1): https://espirrosaga2020-tech.github.io/carta-porta/p02-registro-v2.txt
+  O registro é texto copiado e entregue ao Bruno; o site não recebe envios.
+
+FRASES DE PROVA DE TRANSPORTE (só acesso): ENTRADA-SUPREMA2-PROVA-T68U-20261105 (entrada) · OURO-PORTA-SUPREMA2-20261105-KUALA (ouro).

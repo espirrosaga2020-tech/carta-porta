@@ -1,0 +1,31 @@
+PORTA 02 — NOVIDADES / ÚLTIMAS DESCOBERTAS (gerado do catálogo p02-catalogo.json) · 10/11/2026
+Prova de acesso: PORTA02-NOVIDADES-P02-20261110 (só acesso).
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html · Comece aqui: https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.txt
+205 publicações no catálogo aprovado.
+
+Regra: só entra aqui o que está na lista branca aprovada (scripts/p02_lista_branca.json). Novidades da CARTA no PC NÃO entram sozinhas.
+Cada item mostra a DATA DA FONTE e a DATA DA PUBLICAÇÃO, separadas: snapshot antigo não é estado atual.
+
+- Começar a viagem · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+- Descoberta surpresa · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+- Legado das portas · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-legado.html
+- Busca · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html
+- Página não encontrada · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/404.html
+- REGISTRO DE VIAGEM DA IA — CARTA (cole e envie ao Bruno + link do caderninho) · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-registro-v2.txt
+- Comece aqui, ChatGPT · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.html
+- Índice por tema · Porta 02 · CARTA · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-temas.html
+- PORTA 02 — ÍNDICE A–Z (gerado do catálogo p02-catalogo.json) · 10/11/2026 · fonte: 10/11/2026 · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-indice-a-z.txt
+- PORTA 02 — CRONOLOGIA (data da fonte quando conhecida; senão, data de publicação no site) (gerado do catálogo p02-catalo · fonte: não informada · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-cronologia.txt
+- PORTA 02 — NOVIDADES / ÚLTIMAS DESCOBERTAS (gerado do catálogo p02-catalogo.json) · 10/11/2026 · fonte: 10/11/2026 · publicação: protótipo 10/11/2026 (não publicado) · protótipo — aguarda aprovação do Bruno
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-novidades.txt
+(nenhuma publicação adicional aprovada ainda além da camada Porta 02)

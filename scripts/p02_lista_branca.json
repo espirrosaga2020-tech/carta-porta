@@ -1,0 +1,6 @@
+{
+ "schema": "p02.lista_branca.v1",
+ "regra": "Para publicar algo NOVO na Porta 02: o arquivo precisa existir neste repositório, passar no filtro de privacidade e ter 'aprovado_por' preenchido pelo Bruno. Depois rode: python3 scripts/p02_construir.py. Catálogo, índices TXT, busca, sitemap e changelog se atualizam juntos.",
+ "modelo_de_item": {"arquivo": "exemplo-nova-sala.html", "titulo": "Título", "resumo": "Resumo factual curto", "assunto": "origem", "tags": ["..."], "data_fonte": "dd/mm/aaaa", "data_publicacao": "dd/mm/aaaa", "aprovado_por": "Bruno (dd/mm/aaaa)"},
+ "adicionais": []
+}

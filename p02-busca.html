@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Busca · Porta 02 · CARTA</title>
+<meta name="description" content="Busca nova da Porta 02, em paralelo à busca clássica.">
+<link rel="stylesheet" href="p02-estilo.css">
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<div class="ceu" aria-hidden="true"></div>
+<header class="topo"><nav class="trilha" aria-label="Trilha"><a href="suprema2-entrada.html">Entrada (Porta 02)</a> · <a href="suprema2-mapa.html">Mapa central</a> · <a href="p02-viagem.html">Viagem</a> · <a href="p02-busca.html">Busca</a> · <a href="p02-indice-temas.html">Índice por tema</a> · <a href="p02-comece-aqui-chatgpt.html">Comece aqui, ChatGPT</a></nav></header>
+<main id="conteudo">
+<h1>🔭 Busca da Porta 02 <small style="font-size:.5em">(nova, em teste)</small></h1>
+<p class="cartao">Localizador de texto no catálogo aprovado (salas, acervo, engrenagens originais e páginas da Porta). Não é uma IA: mostra trecho e link,
+não inventa resposta. Roda no seu navegador; nenhuma consulta sai daqui. A <a href="suprema2-busca.html">busca clássica</a> continua valendo.</p>
+<form id="busca" action="p02-busca.html" method="get" role="search"><label for="q">O que você procura? (ex.: serrote, EG001, Faísca, NEXUS, “Jornada da IA”)</label>
+<input id="q" name="q" type="search" maxlength="160" autocomplete="off"> <button>Buscar</button></form>
+<p id="estado" role="status" aria-live="polite">Carregando índice…</p><div id="resultados"></div>
+<noscript><p class="cartao">Sem JavaScript: use o <a href="p02-indice-temas.txt">índice por tema</a>, o <a href="p02-indice-a-z.txt">índice A–Z</a>
+ou o <a href="suprema2-indice-palavras.txt">índice de palavras</a> (texto puro).</p></noscript>
+<section class="cartao"><h2>Dicas</h2><ul><li>Acentos não importam: <i>faisca</i> = <i>Faísca</i>.</li><li>Use aspas para frase exata: <i>"memória é pista"</i>.</li>
+<li>Várias palavras: aparecem primeiro as páginas com todas elas.</li><li>Códigos como EG001, RB01, CL02 vão direto para a ficha.</li></ul>
+<p>Índices em texto: <a href="p02-indice-temas.txt">tema</a> · <a href="p02-indice-a-z.txt">A–Z</a> · <a href="p02-cronologia.txt">cronologia</a> · <a href="p02-novidades.txt">novidades</a>.</p></section>
+</main>
+<footer><p>Porta 02 Intergaláctica · camada aditiva sobre a Porta Suprema 2 · protótipo 10/11/2026 (America/Sao_Paulo). Site público e só de leitura: não abre a CARTA local do PC nem o Drive privado. Rótulos: <span class="tag fonte">[FONTE]</span>documento publicado · <span class="tag relato">[RELATO]</span>relato do Piloto registrado na fonte · <span class="tag obs">[OBSERVAÇÃO]</span>constatação da curadoria · <span class="tag hip">[HIPÓTESE]</span>a confirmar · <span class="tag ideia">[IDEIA]</span>proposta, não fato · <span class="tag visual">experiência visual</span>arte, não registro histórico.</p><p>Prova de acesso desta página: <code>PORTA02-BUSCA-P02-20261110</code>. Prova só acesso, não leitura integral nem diploma.</p></footer>
+<script src="p02-busca-motor.js"></script>
+<script>
+'use strict';
+(function(){var estado=document.getElementById('estado'),res=document.getElementById('resultados'),campo=document.getElementById('q'),idx=null;
+function marcar(el,txt,termos){var n=P02Busca.normal(txt),pos=[];termos.forEach(function(t){if(t.length<2)return;var i=0;while((i=n.indexOf(t,i))>-1){pos.push([i,i+t.length]);i+=t.length}});
+pos.sort(function(a,b){return a[0]-b[0]});var c=0;pos.forEach(function(p){if(p[0]<c)return;el.append(txt.slice(c,p[0]));var m=document.createElement('mark');m.textContent=txt.slice(p[0],p[1]);el.append(m);c=p[1]});el.append(txt.slice(c));}
+function buscar(q){res.replaceChildren();if(!q.trim()){estado.textContent=idx.paginas.length+' publicações prontas para busca.';return}
+var r=P02Busca.buscar(idx,q,30);
+if(!r.itens.length){estado.textContent='Nada encontrado para “'+q+'”. Tente outra palavra, o índice A–Z ou a busca clássica.';
+var p=document.createElement('p');p.className='cartao';var a1=document.createElement('a');a1.href='p02-indice-a-z.txt';a1.textContent='Índice A–Z';var a2=document.createElement('a');a2.href='suprema2-busca.html';a2.textContent='Busca clássica';p.append(a1,' · ',a2);res.append(p);return}
+estado.textContent=r.total+' publicações encontradas'+(r.modo==='qualquer'?' (nenhuma tinha todos os termos; mostrando as que têm algum)':'')+'. Abra a fonte para ler.';
+r.itens.forEach(function(it){var d=document.createElement('div');d.className='resultado';var h=document.createElement('h3');var a=document.createElement('a');a.href=it.p.u;a.textContent=it.p.t;h.append(a);
+var s=document.createElement('small');s.textContent=it.p.a+' · '+it.p.k+(it.p.d?' · data da fonte: '+it.p.d:'')+' · '+it.p.u;var pr=document.createElement('p');marcar(pr,'… '+it.trecho+' …',r.termos);d.append(h,s,pr);
+if(it.p.x||(it.p.al&&it.p.al.length)){var o=document.createElement('small');if(it.p.x){var tx=document.createElement('a');tx.href=it.p.x;tx.textContent='texto puro';o.append(tx)}
+(it.p.al||[]).forEach(function(u){o.append(' · também em ');var z=document.createElement('a');z.href=u;z.textContent=u;o.append(z)});d.append(o)}res.append(d)});}
+fetch('p02-busca-indice.json').then(function(r){if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(function(d){idx=P02Busca.preparar(d);
+var q=new URLSearchParams(location.search).get('q')||'';campo.value=q;buscar(q)}).catch(function(){estado.textContent='Não foi possível carregar o índice novo. Use a busca clássica: suprema2-busca.html';
+var a=document.createElement('a');a.href='suprema2-busca.html';a.textContent='Abrir a busca clássica';res.append(a)});
+document.getElementById('busca').addEventListener('submit',function(e){if(!idx)return;e.preventDefault();var q=campo.value;history.replaceState(null,'','?q='+encodeURIComponent(q));buscar(q)});})();
+</script>
+</body>
+</html>

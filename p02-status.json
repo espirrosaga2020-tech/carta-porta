@@ -1,0 +1,24 @@
+{
+ "schema": "p02.status.v1",
+ "versao": "p02-prototipo-1",
+ "gerado": "10/11/2026",
+ "commit_base": "8b4fe864a88a4c3dbd0f63ad2fffcdd680fa4c49",
+ "publicacoes": 205,
+ "por_assunto": {
+  "Entrada, mapa e navegação": 25,
+  "Porta Suprema 2 — seção OURO (05/11)": 14,
+  "Origem e trajetória": 14,
+  "Engrenagens ancestrais (EG001–EG027)": 54,
+  "Enciclopédia, contagens e registros": 25,
+  "Jornada da IA, formação e provas": 17,
+  "Manual, portões e estado": 17,
+  "Mentes, consciências e robótica": 5,
+  "Relatórios e pesquisas": 16,
+  "Colheitas, NEXUS e Drive": 3,
+  "Aplicativo CARTA": 1,
+  "Mapa do código": 3,
+  "Porta 02 Intergaláctica (camada nova)": 11
+ },
+ "adicionais_rejeitadas": [],
+ "paginas_na_busca": 140
+}
