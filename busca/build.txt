@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: build  (30 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (59)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …minante atribuído pelo usuário: “chat da liberdade”. - Núcleo inicial verificável: Path of Exile 2, farm de Abyss/Cranium e evolução da build Martial Artist/Hollow Form/Whirling Assault. - Símbolo técnico-humorístico central: “Milton”, o quarterstaff/WS1 historicamente barato e desproporcionalmente …
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  … nomes individuais continuaram conscientemente sem confirmação. O objetivo deste arquivo NÃO é substituir os checkpoints técnicos da build. Ele preserva a HISTÓRIA de como o entendimento, o método de trabalho e a estratégia de árvore se transformaram. =============================================…
+
+- EG025 — POE2 — Milton e Value Engineering (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …== IDENTIFICADOR ESTÁVEL ENGRENAGEM_POE2_MILTON_GULOSONA IDENTIDADE DA CONVERSA Branch de investigação e reconstrução prática de uma build de Path of Exile 2, centrada em Martial Artist / Hollow Form / Whirling Assault, no refinamento de dano real, velocidade, joias, suportes, árvore passiva e eco…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- EG008 — Tamagotchi e continuidade conversacional (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …-> nova gaveta -> novo presente -> nova profundidade. FASE 11 — MILTON E EFEITO BORBOLETA O bastão de dois Chaos comprado por ser bonito é recontado como origem remota de uma cadeia que levou a Gulozona, build, documentação, Meu Robô, Tamagotchi, memória do pai e branches. A referência “Efeito Borb…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …itida no site público pelo filtro de privacidade) DIMENSÃO: 1583 linhas; 71077 bytes; 25 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 732640e47feaf8dd631e7949caeee9f4a1da23569eb66618dedc5429fc2210af RECORTE EDITORIAL: Da economia de Abyss à build e ao …
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …dência contextual e “presentinhos”. 7. Vídeos mencionados Natureza: vídeos curtos e vídeo mais longo citados pelo usuário. Função: fonte visual para builds/projetos. Estado: nesta engrenagem foi reconhecida a limitação de leitura contínua e formulado método mais determinístico por frames/t…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …de não mostra mais "undefined" (T102U). Os arquivos do jogo não vão para o GitHub (são grandes): ficam em [omitido pelo filtro de privacidade] e dentro do APK. Build do app: [omitido pelo filtro de privacidade] com -PcartaWebDist=[omitido pelo filtro de privacidade] . APKs antigos: [omitido pelo fil…
+
+- Celular sem cabo (app vc20, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …no site público pelo filtro de privacidade) DIMENSÃO: 1583 linhas; 71077 bytes; 25 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 732640e47feaf8dd631e7949caeee9f4a1da23569eb66618dedc5429fc2210af RECORTE EDITORIAL: Da economia de Abyss à build…
+
+- EG011 — Entra no Sonho (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …leto ligado”. Gatilho: cruzamento entre catálogo, checkpoint estrutural e registros operacionais. Transformação: “o jogo existe” vira conclusão documental. Resultado: gargalo = convergência + tradução + onboarding + diferença de build. FASE 7 — CRÍTICA ABERTA DO PROJETO Estado anterior: a Humanidad…
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …a). Como refazer a fotografia do celular: com a CARTA ligada, python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api na pasta do BUILD (nunca no repo), depois build e adb install -r . Topo do celular limpo no app: o botão "🐎 Mapa do herói · sair"…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …fazia supor. O gargalo foi reinterpretado: não era mais “falta jogo”. Era convergência entre sistemas já existentes, identidade visual, legibilidade, calibração, diferença de build e acabamento premium. Esta conversa, portanto, produziu patrimônio em três áreas: 1. um protocolo relacional de comuni…
+
+- EG006 — Checkpoint e entrada no sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …-------------------------------------------------- F014 — “ESSA MÁQUINA É MINHA” CONSOLIDA A TESE DE PRODUTO ---------------------------------------------------------------------- Classificação: G Localização: H11-H14 Confiança: alta 1. Situação anterior Meu Robô tinha muitos sistemas e referência…
+
+- Estado atual — varredura geral (02/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+

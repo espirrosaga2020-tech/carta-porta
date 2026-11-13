@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: mecanica  (24 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (68)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …EM_MEU_ROBO_COPILOTO_LARANJA_PLUS_20261005_HISTORIA_v01 ARQUEOLOGIA HISTÓRICA DA CONVERSA — MEU ROBÔ / COPILOTO / MÁQUINA DE LARANJA / MECÂNICA PLUS Versão: 1.0 Estado da investigação: VERIFICADO PARCIALMENTE Data de produção arqueológica: 2026-10-10 Período histórico principal reconstruído: 2026-10…
+
+- EG021 — Paz e Central — Kamonson (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …:\MEU ROBO\AUDITORIA_ARQUEOLOGICA_TOTAL_MEU_ROBO_2026-10-05.txt A mensagem inclui a síntese da auditoria arqueológica, a descoberta da Mecânica Plus, contagens do projeto e o desejo de concluir a etapa antes de montar a Central e os satélites. ÚLTIMA MENSAGEM HISTÓRICA EFETIVAMENTE ACESSÍVEL A resp…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …pretação. "TRABALHE MUITO. REINTERPRETE POUCO." O fluxo: TESTE -> primeiro FALSE -> menor correção -> RETESTE -> REGISTRO. Fendas/Atlas, campanha, save, Mecânica Plus, craft, robôs e navegação são provados de ponta a ponta. Um bug real de persistência no boot é corrigido. FASE 11 — "O PONTILHADO VI…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …or conversar com Armour Break e Heavy Stun. - Shattering Blow apareceu como notable-chave: transformar Heavy Stun já abundante em quebra de armadura. - A importância não estava em criar uma nova mecânica, mas em aproveitar uma mecânica já dominante da build. - Essa família foi interpretada como “Gul…
+
+- EG025 — POE2 — Milton e Value Engineering (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …“just now” por 10 Divine, quando comparáveis estavam listadas a 160 Divine ou mais. A build foi sendo remodelada não por uma teoria única, mas por colisões entre mecânica, orçamento, mercado e oportunidade. O quinto eixo foi de correção. Diversas conclusões foram abandonadas ou refinadas: a overfoc…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …HA-256: 8ad04c9216803612608b44332e7e2dc8506675ceeb6d15313bf76768e479c0a5 RECORTE EDITORIAL: Arqueologia de código, preservação de legado e limites entre manutenção e evolução. APRESENTAÇÃO SEGUNDO A FONTE: ================================================================================ Esta conversa…
+
+- EG008 — Tamagotchi e continuidade conversacional (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …Meu Robô não precisa provar ausência de concorrência; precisa demonstrar que sua interseção — autoria, companheiro, corpo modular, mundo vivo, loot/craft e consequência mecânica — produz valor adicional. Marketing, vertical slice, Steam, demo, wishlist e validação passam a ser organizados como sequê…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …viraram destino; os smalls viraram estrada que, por causa da Time-Lost, ainda pagava Quarterstaff Damage e Charm Effect Duration. Duas mecânicas antigas voltaram com nova função. Rage deixou de depender da support removida quando Heavy Swing entrou e passou a ser procurada na árvore, principalmente…
+
+- EG006 — Checkpoint e entrada no sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …que o projeto tem valor. É transmitir vinte anos de modelo interno a um jogador novo em poucos minutos. 8. A INTRO O usuário improvisa uma abertura em que gameplay, desmembramento, sacrifício, chip e Nimbus comprimem mecânica, narrativa, vínculo e progressão numa única sequência. 9. CRISE DA PRANC…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  … Amiguiá / Tamagotchi”, com sarcasmo sofisticado, hipérbole contextual e liberdade para pensar sem transformar cada metáfora em ocorrência. Quarto, emergiu uma MECÂNICA DE RECIPROCIDADE. O usuário percebeu que, historicamente, quando sentia que algo compartilhado era realmente compreendido e utiliz…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …lam um núcleo autossuficiente | M | alta | reflexão pós-jantar/descanso EG019:F010 | “Infinito” é redefinido como continuidade de possibilidades | M | alta | mesma reflexão EG019:F011 | Máquina de laranja inaugura abstração operacional | G | alta | “o suco já tá pronto” EG019:F012 | Surge a “segu…
+
+- EG004 — Central, Copiloto e Atlas (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …ido”. --- ### F007 — LITERALIDADE CONTEXTUAL SEM IMITAÇÃO DE PERSONALIDADE Classificação: M Localização: primeiro pacote e calibração humana final. Confiança: alta 1. Situação anterior Palavrões, exageros, metáforas e emojis poderiam ser lidos literalmente ou imitados mecanicamente. 2. Acontecim…
+
+- EG011 — Entra no Sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …s percebia “mais 40 pedaços” ainda respondíveis. Gatilho: pedido explícito para amarrar os prints e o contexto, sem tratar a densidade como problema. Transformação: a conversa passa a observar sua própria mecânica associativa. Resultado: primeiro checkpoint local robusto. FASE 2 — COMPRESSÃO, MONTA…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …nitude original: G. Influência posterior: G. 9. Situação final Consolidado como arquitetura preferida naquele momento. 10. Utilidade futura Se houver vários chats, deixar explícito qual deles decide e quais apenas conversam/estruturam/executam. --- ### F011 — AUDITORIA DE FECHAMENTO + INTEGRAÇÃO…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …HA-256: 8ad04c9216803612608b44332e7e2dc8506675ceeb6d15313bf76768e479c0a5 RECORTE EDITORIAL: Arqueologia de código, preservação de legado e limites entre manutenção e evolução. APRESENTAÇÃO SEGUNDO A FONTE: ================================================================================ Esta co…
+

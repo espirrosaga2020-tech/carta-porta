@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: cena  (48 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …a Vozes: Bruno / Copiloto / Creuza 🐜 Estado: atualização por adição; nada apagado; nenhum projeto investigado ou alterado. Lugar da cena: calçada, fogueira próxima à árvore, dois DeLoreans, um tabuleiro à cabeceira, e esferas cuja história ainda está se abrindo. Nota ao futuro leitor: este caderno g…
+
+- EG001 — Calçada, Caderno e DUNADA (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …is adicionais sugerem atividade em 09/10, mas não se obteve a transcrição integral desses turnos. “Ontem” em U56 é informação testemunhal sobre uma cena anterior, não prova autônoma do horário. Branches/procedência: há capturas de títulos de múltiplos chats e documentos externos importados; não é po…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …posição textual, mas como experiência jogável: perigo, cooperação, combate, desmembramento, sacrifício, chip e Nimbus. A intro deixou de ser apenas uma cena e passou a funcionar como compressão causal do projeto. Em seguida, a conversa sofreu uma correção comunicativa importante. O assistente havia…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … escolhe o tema, a IA acessa evidência original, reconstrói contexto histórico e distingue sua leitura da de Bruno e da personagem Creuza. A cena de controle narrativo permanece a CALÇADA: dois DeLoreans, chave, rádios duplos, Creuza e uma brasa numa caixa. A brasa simboliza REFERÊNCIA DE RETORNO, n…
+
+- EG015 — Pai do Grafo e Rigor (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …em M → influência G | Substituição de objeto por átomo: a experiência muda de família | D05-D06 F020 | M | confiança alta | origem M → influência M | Retirar observador não retira quem imagina o cenário | D05-D06, D10 F021 | G | confiança alta | origem G → influência G | O escopo não explodiu só p…
+
+- EG013 — Grafos São — Atlas C.03 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …tas pesquisáveis. Há nove PNGs de tentativas de Atlas e duas capturas principais montadas/inspecionáveis. Imagens ilustram interpretações e podem inventar cenas, roupas, torii, rostos, duração do player de vídeo e elementos cênicos: NÃO são evidência do vídeo original do japonês. O documento GRAFOS_…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … preso no processador (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar. Robô 4WD na Enciclopédia — engrenagem RB01 ( docs/engrenagens_carta20/RB01.md ): chassi 4WD d…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …O DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 RECORTE EDITORIAL: Caderno físico, ELE GOSTA, metáforas e a diferença entre relatar a cena e comprová-la. APRESENTAÇÃO SEGUNDO A FONTE: ===============================================…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o no processador (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar. Robô 4WD na Enciclopédia — engrenagem RB01 ( docs/engrenagens_carta20/RB01.md ): chassi 4WD de doi…
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …hou: o celular está preso no processador (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar. Robô 4WD na Enciclopédia — engrenagem RB01 ( docs/engrenagens_carta20/RB01…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …e abertura, repetição e crescimento; não número literal infinito de dados. “E TEMOS HISTÓRIAS”: potencial de caminhos e expansão narrativa. PRE, AGORA 🥼 Laboratório / mapas Cena de ciência e laboratório, não demonstração experimental por si. “MAPAS”: o coro pede organização e exploração. PRE, AGORA …
+
+- EG011 — Entra no Sonho (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …lay?”. Dessa última pergunta surgiu uma hipótese de abertura: perigo → cooperação → luta real → desmembramento → sacrifício → chip → Nimbus → título. A importância não estava em ser “uma cena bonita”, mas em fazer vários sistemas do jogo participarem de uma única cadeia causal. Depois ocorreu uma …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …O DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 RECORTE EDITORIAL: Caderno físico, ELE GOSTA, metáforas e a diferença entre relatar a cena e comprová-la. APRESENTAÇÃO SEGUNDO A FONTE: ======================================…
+
+- Dobra: origem, personagem e portal (13/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …bolo histórico , não foi substituído. Corpo ficcional: livrinho de três placas articuladas, rosto com janelas, pipa ligada a haste. Cena de origem: A Estação dos Amanhãs que Não Aconteceram , com Creuza e uma porta sem nome. Frase: “Deixa eu ver o outro lado”. Conduta: discordar com contraexemplo, p…
+
+- EG014 — Grafos São — origem e desenvolvimento (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …SITUAÇÃO FINAL: Consolidado como origem relatada; detalhes de ordem e conteúdo integral parcialmente verificáveis. 10. UTILIDADE FUTURA: Recuperar a diferença entre observar uma pessoa e inferir sua vida; consultar a primeira região dos vídeos quando for preciso reconstituir a cena exata. ------…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg015  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (42)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …RENAGEM_GRAFOS_SAO_ATLAS_C03_HISTORIA_v01.txt EG014 — Grafos São — origem e desenvolvimento — 31 fenômenos; ENGRENAGEM_GRAFOS_SAO_HISTORIA_v01.txt EG015 — Pai do Grafo e Rigor — 30 fenômenos; ENGRENAGEM_GRAFOS_SAO_PAI_DO_GRAFO_RIGOR_HISTORIA_v01.txt EG018 — Linguagem, Observação e Consciência — 24 f…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (32)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …ailed_infographic_collage_scene_styliz.png; imagem 1536×1024, nove painéis internos. EG014:F030 | M | confiança alta | O descompasso entre precisão conceitual e formato final | Comparação direta entre requisito de Atlas e o único PNG; contraste com a existência do TXT independente. EG014:F031 | M …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …RENAGEM_GRAFOS_SAO_ATLAS_C03_HISTORIA_v01.txt EG014 — Grafos São — origem e desenvolvimento — 31 fenômenos; ENGRENAGEM_GRAFOS_SAO_HISTORIA_v01.txt EG015 — Pai do Grafo e Rigor — 30 fenômenos; ENGRENAGEM_GRAFOS_SAO_PAI_DO_GRAFO_RIGOR_HISTORIA_v01.txt EG018 — Linguagem, Observação e Consciênc…
+
+- EG015 — Pai do Grafo e Rigor (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG015 — Pai do Grafo e Rigor Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html#pg-enciclopedia-eg014> EG015 Pai do Grafo e Rigor Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df5…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …e — A Janela dos Mundos Grafo e Humanidade Pai do Grafo e Rigor Grafos São — origem e desenvolvimento P015 Qual é o nome da engrenagem de código EG015? Linguagem, Observação e Consciência Pai do Grafo e Rigor Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026) Carta 2.0: diretriz geral de final…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …e Humanidade disponivel 16 EG013 Grafos São — Atlas C.03 disponivel 17 EG014 Grafos São — origem e desenvolvimento disponivel 18 EG015 Pai do Grafo e Rigor disponivel 19 EG016 Humanidade e Amiguiá: continuidade de Meu Robô disponivel 20 EG017 Humanidade/Amiguiá — Entrada no Sonho disponivel 21 EG018…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …ito em rascunho e provado rápido [pontilhado] (1) Prova: lacuna nunca cai na parte cortada (EG003-13/17/20 e EG001-15, EG013-18, EG015-14, EG018-14 tinham "____" cortado → 0 agora); regra mostra a mesma janela em volta da palavra trocada com [...]; 740 questões regeneradas. [pontilhado] (2) 644 desc…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …estral engrenagem documental EG014 Grafos São — origem e desenvolvimento Grafos e epistemologia ancestral engrenagem documental EG015 Pai do Grafo e Rigor Grafos e epistemologia ancestral engrenagem documental EG016 Humanidade e Amiguiá: continuidade de Meu Robô Meu Robô e sonho ancestral engrenagem…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …9c5876942eebc0df58edc0f14809004eb3 lines=1313 bytes=87896 index=31 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG015 | ENGRENAGEM_GRAFOS_SAO_PAI_DO_GRAFO_RIGOR_HISTORIA_v01.txt sha256=e191c6727c0097eb5ca1372cb4f5497b23db3bb00ef298fe35de0341cf72e44a lines=1205 bytes=81085 index=…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …a-porta/suprema2-acervo-037.html> EG014 — Grafos São — origem e desenvolvimento <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html> EG015 — Pai do Grafo e Rigor <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html> EG016 — Humanidade e Amiguiá: conti…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …a09c5876942eebc0df58edc0f14809004eb3 lines=1313 bytes=87896 index=31 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG015 | ENGRENAGEM_GRAFOS_SAO_PAI_DO_GRAFO_RIGOR_HISTORIA_v01.txt sha256=e191c6727c0097eb5ca1372cb4f5497b23db3bb00ef298fe35de0341cf72e44a lines=1205 bytes=81085 index=30 missing_…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …l engrenagem documental EG014 Grafos São — origem e desenvolvimento Grafos e epistemologia ancestral engrenagem documental EG015 Pai do Grafo e Rigor Grafos e epistemologia ancestral engrenagem documental EG016 Humanidade e Amiguiá: continuidade de Meu Robô Meu Robô e sonho ancestral engrenagem docu…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  …idade e Memória Persistente Grafos e epistemologia EG012 — Grafo e Humanidade EG013 — Grafos São — Atlas C.03 EG014 — Grafos São — origem e desenvolvimento EG015 — Pai do Grafo e Rigor EG018 — Linguagem, Observação e Consciência CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2…
+
+- O que entrou neste site (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/o-que-entrou.html
+  …a/EG010.html enciclopedia/EG011.html enciclopedia/EG012.html enciclopedia/EG013.html enciclopedia/EG014.html enciclopedia/EG015.html enciclopedia/EG016.html enciclopedia/EG017.html enciclopedia/EG018.html enciclopedia/EG019.html enciclopedia/EG020.html enciclopedia/EG021.html enciclopedia/EG022.html…
+

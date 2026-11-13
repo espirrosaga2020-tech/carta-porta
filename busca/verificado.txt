@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: verificado  (43 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (52)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …EM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 695 linhas; 90119 bytes; 29 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …M_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 695 linhas; 90119 bytes; 29 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc3…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …STRO DE AUDITORIA E LIMITAÇÕES Fontes verificadas: 27; fenômenos do índice: 615; soma de bytes: 1,871,010; linhas totais: 41,194. Integridade estrutural: os 615 códigos do índice aparecem na região posterior dos próprios documentos (checagem de ocorrência, não comprovação da qualidade de cada doss…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …8ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74a1168f4e7ccf1956a92a9c258e2c289e98f7268f492 line…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …68ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74a1168f4e7ccf1956a92a9c258e2c289e98f7268f492 lines=1489 bytes…
+
+- EG013 — Grafos São — Atlas C.03 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …TÓRIA LOCAL, GENEALOGIA E AUDITORIA Identificador editorial: GRAFOS_SAO_ATLAS_C03 Versão: v01 Data da documentação: 2026-10-10 ESTADO: VERIFICADO PARCIALMENTE Objeto histórico: diálogo acessível anterior ao protocolo arqueológico 2.0. Formato: TXT UTF-8; índice rápido + dossiês aprofundados; sem ref…
+
+- EG007 — Continuidade Limpa de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …o original · SHA-256 conferido (ab1e7b1247f43121…) ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt ESTADO DA INVESTIGAÇÃO: VERIFICADO Escopo da verificação: território histórico efetivamente acessível nesta conversa, da primeira mensagem original visível até a última mensagem anterior ao pr…
+
+- EG004 — Central, Copiloto e Atlas (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …TORIA_v01.txt HISTÓRIA VERIFICÁVEL DA ENGRENAGEM Identificador descritivo: CENTRAL_OPERACAO_MEU_ROBO_ATLAS Estado da investigação: VERIFICADO, dentro da fronteira histórica local acessível. Observação crítica: afirmações técnicas sobre o estado interno de MEU ROBÔ são preservadas aqui como fatos hi…
+
+- EG012 — Grafo e Humanidade (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …7cbe353e91…) ENGRENAGEM_GRAFO-HUMANIDADE_HISTORIA_v01 HISTÓRIA VERIFICÁVEL DE UMA ENGRENAGEM CONVERSACIONAL Estado da investigação: VERIFICADO PARCIALMENTE ====================================================================== 00 — FICHA DE PROVENIÊNCIA =============================================…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …94e767…) ENGRENAGEM_HUMANIDADE_AMIGUIA_ENTRADA_NO_SONHO_20261010_HISTORIA_v01 HISTÓRIA VERIFICÁVEL DA ENGRENAGEM Estado da auditoria: VERIFICADO PARCIALMENTE Data da investigação: 2026-10-10 ============================================================ 00 — FICHA DE PROVENIÊNCIA ====================…
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  … datas diferentes e certas. FALTA: depois da 1ª frase o modelo ainda enfeita ("ficava horas observando"); portões e Pokémon Vivo não acharam trecho de conversa com fala. - Verificador de fatos (sem modelo): frase com data, nome, citação ou palavras que não estão na fonte sai. KX: 210 frases removida…
+
+- EG021 — Paz e Central — Kamonson (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …9216803612…) ENGRENAGEM_PAZ_CENTRAL_KAMONSON_HISTORIA_v01 HISTÓRIA ARQUEOLÓGICA DA CONVERSA "PAZ" Versão: v01 Estado da investigação: VERIFICADO PARCIALMENTE Data de produção: 2026-10-10 ================================================================================ 00 — FICHA DE PROVENIÊNCIA ====…
+
+- Portões anteriores (21/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …s diferentes e certas. FALTA: depois da 1ª frase o modelo ainda enfeita ("ficava horas observando"); portões e Pokémon Vivo não acharam trecho de conversa com fala. - Verificador de fatos (sem modelo): frase com data, nome, citação ou palavras que não estão na fonte sai. KX: 210 frases removidas; 15…
+
+- EG001 — Calçada, Caderno e DUNADA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …b7f85…) ENGRENAGEM — CALÇADA / CADERNO / DUNADA — HISTÓRIA v01 IDENTIFICADOR: CALCADA_CADERNO_DUNADA_20261010 STATUS DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE DATA DA ESCAVAÇÃO: 10/10/2026 FRONTEIRA HISTÓRICA: anterior ao protocolo universal de arqueologia recebido no turno U57 NATUREZA: arquivo TXT …
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …_GRAFO_ROCKY_2026-10-08_2026-10-10_v01 HISTÓRIA VERIFICÁVEL DA CONVERSA — ARQUEOLOGIA DAS ENGRENAGENS ESTADO FINAL DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE ====================================================================== 00 — FICHA DE PROVENIÊNCIA ============================================…
+

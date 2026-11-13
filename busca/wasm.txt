@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: wasm  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …on ( @mediapipe/tasks-vision 0.10.x, ObjectDetector) para o LEGO de verdade Apache-2.0 dá para hospedar offline, mas são ~10 MB de wasm + modelo; e o teste real precisa de webcam e peças. Fica para quando o Bruno for testar o LEGO com câmera Godot dentro do APK (jogo Porto Parafuso sem PC) MIT o ind…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …@mediapipe/tasks-vision 0.10.x, ObjectDetector) para o LEGO de verdade Apache-2.0 dá para hospedar offline, mas são ~10 MB de wasm + modelo; e o teste real precisa de webcam e peças. Fica para quando o Bruno for testar o LEGO com câmera Godot dentro do APK (jogo Porto Parafuso sem PC) MIT o index.pc…
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …tinha 154 MB de pacote (texturas sem perda); a versão leve usa texturas WebP com perda e fica com 38 MB de pacote + 37,7 MB de wasm . Como foi feito, sem quebrar nada: tudo numa CÓPIA, [omitido pelo filtro de privacidade] (o [omitido pelo filtro de privacidade] e o [omitido pelo filtro de privacidad…
+

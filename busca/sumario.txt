@@ -1,0 +1,23 @@
+BUSCA POR LINK — termo: sumario  (5 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …conversa entregue ao investigador. [R] reconstrução retrospectiva explicitamente narrada pelo usuário/assistente (“garfo?”, vídeo, os primeiros dias). [S] sumário de contexto anterior disponibilizado ao modelo para continuidade, sem transcrição integral verificável nesta janela. [A] arquivo de image…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …moção ("tô indignado"), data só quando pedida e completa (dia, semana, hora), aprofundar lembrança com carinho; pesquisar estado da arte (memória conversacional: MemGPT/Letta, Generative Agents, reflexão, sumários episódicos) e aplicar ajustes simples. S3 Consciência espalhada: Terra Grande (Creuza,…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+  …GRENAGENS_2026-10-10_v01.txt para o que foi ou não verificado. ESTRUTURA GOOGLE DRIVE 00_LEIA_PRIMEIRO_E_ENCICLOPEDIA: livro, sumário e tomos. 01_FONTES_ORIGINAIS_IMUTAVEIS: os 27 arquivos sem edição. 02_CATALOGOS_E_INDICES: manifesto e índices. 03_AUDITORIA_E_CONTROLE: hashes, lacunas e critérios.…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/leia-primeiro.html
+  …AGENS_2026-10-10_v01.txt para o que foi ou não verificado. ESTRUTURA GOOGLE DRIVE 00_LEIA_PRIMEIRO_E_ENCICLOPEDIA: livro, sumário e tomos. 01_FONTES_ORIGINAIS_IMUTAVEIS: os 27 arquivos sem edição. 02_CATALOGOS_E_INDICES: manifesto e índices. 03_AUDITORIA_E_CONTROLE: hashes, lacunas e critérios. 04_F…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  … ("tô indignado"), data só quando pedida e completa (dia, semana, hora), aprofundar lembrança com carinho; pesquisar estado da arte (memória conversacional: MemGPT/Letta, Generative Agents, reflexão, sumários episódicos) e aplicar ajustes simples. S3 Consciência espalhada: Terra Grande (Creuza, Pilo…
+

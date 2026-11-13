@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: instalado  (21 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …eção 2.7, passo a passo. Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; a…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …seção 2.7, passo a passo. Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … 2.7, passo a passo. Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abert…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …E27C9C8B45D35B40E670D5F52D36D34833861 (25.098.520 bytes). Assinatura IGUAL à do vc15 (certificado SHA-256 cc075f38…d5d378 nos dois). Instalado com adb install -r (sem desinstalar, sem limpar dados): "Success". firstInstallTime continua 17/10/2026 → dados preservados. Teste: o app abre (Início com o …
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …C8B45D35B40E670D5F52D36D34833861 (25.098.520 bytes). Assinatura IGUAL à do vc15 (certificado SHA-256 cc075f38…d5d378 nos dois). Instalado com adb install -r (sem desinstalar, sem limpar dados): "Success". firstInstallTime continua 17/10/2026 → dados preservados. Teste: o app abre (Início com o cartã…
+
+- Resultado do aperfeiçoamento (31/10) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …(trecho omitido pelo filtro)…
+
+- Dobra: origem, personagem e portal (13/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  … física/renderização de modo transparente ou estabelecer rede com hardware. Próximo portão: testar o adaptador em cópia do jogo com Godot instalado, registrar esquema versão/escala/unidades, e só então considerar uma transferência de estado autorizada ao clicar numa porta na cena. Três mundos, um pr…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … Codex foi auditado ( docs/GROK_ANDROID/AUDITORIA_CODEX.md ) e guardado com backup do APK e do código. O app novo foi feito do zero: android/CARTA_GROK , br.com.carta.grok , Kotlin + WebView. Instalado no Xiaomi Mi 9 Lite, convivendo com o app do Codex ( br.com.carta.olhos ). FPS medido na Adreno 61…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …A (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde [ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (medido e registrado) [ ] sem STT/IA instalados: aviso claro e resposta de reserva, nunca silêncio Portão d — Personagens: seletor de quem eu controlo; os outros…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …la.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde [ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (medido e registrado) [ ] sem STT/IA instalados: aviso claro e resposta de reserva, nunca silêncio Portão d — Personagens: seletor de quem eu controlo; os outros são …
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …9u / t56u Ramificações recentes; t56u FECHADO com super anexos YT GROK_BORDO · Drive NOVOS ANEXOS v4 APK vc29 1.23.0-carta20-t56u-bolinha instalado no Mi 9 Lite celular Bruno Super anexos YT P06 CapCut, P03 Roteiros, P04 Thumbs, P05 SEO, P08 Radar + ÍNDICE bancada Drive pasta NOVOS ANEXOS v4 NEXUS A…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …,8 s até o 8790/8791/8795 responderem; a espera agora é por relógio (antes um '60 s' virava ~100 s quando o 8790 travava, como às 12:24 e 12:30 de hoje) e a janela abre assim que o 8790 responde t16 — APK vc19 instalado por cima (install -r) Sonho: App no celular · flag: — versionCode ≥ 19 install -…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar. Celular App no celular parcial 99% T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/…
+
+- Teste duro das consciências (T105U, 03/11) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …(trecho omitido pelo filtro)…
+
+- Versão CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …uda) /planeta.html , /planeta-godot.html §9–10 Microscópio 3D tronco → lupa → micro, ciência separada da ficção /microscopio.html §11 Só modelos reais instalados, lista ao vivo do Ollama docs/CARTA20/MODELOS_REAIS.md áudio Prova das engrenagens atualizável: +10 capítulos (200 questões novas) /prova.…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: luta  (24 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … conseguiu nem fazer um xixi” Nela, o usuário pede análise minuciosa de sua estratégia e improvisa a abertura do jogo envolvendo perigo, robô, luta jogável, desmembramento, sacrifício, chip e Nimbus. O último acontecimento histórico acessível antes do protocolo é o encerramento da madrugada de 2026…
+
+- EG001 — Calçada, Caderno e DUNADA (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …rno com “DELOREAN”, “ELE GOSTA” e “LINHAS TEMPORAIS”, acompanhado do relato de observação ao longo de semanas. Isso NÃO é a primeira mensagem absoluta do chat: a listagem da própria conversa mostra anexos em U08, U13, U28, U33 e U42. A primeira mensagem absoluta permanece inacessível nesta escavação…
+
+- EG011 — Entra no Sonho (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …onversa que não estão integralmente expostos na janela atual. Portanto, NÃO é seguro afirmar que a mensagem acima tenha sido a primeira mensagem absoluta da branch. Ela é a primeira mensagem original diretamente acessível nesta execução. ÚLTIMO ACONTECIMENTO HISTÓRICO ACESSÍVEL ANTES DO PROTOCOLO O…
+
+- EG006 — Checkpoint e entrada no sonho (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …ECE EM ALTA RESOLUÇÃO Âncoras: H07-H08 O usuário entrega: - COMECE_POR_AQUI.txt; - CHECKPOINT_ESTRUTURAL.txt; - LEIA_ME(1).txt; - CATALOGO_POR_ASSUNTO.txt; - project.godot. A leitura muda. Não é mais “um esqueleto com algumas coisas”. Há: - luta com gramática própria; - 11 terras; - NPCs; - duplas…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …a formulação: “estrutura relacional” é o pai/fundamento; grafo é formalização/tradução humana dessa estrutura. - Foi mantida a ressalva de que isso não prova “universo = grafo” como fato físico. - A pergunta aberta se tornou: é concebível ausência absoluta de estrutura relacional? - Esse fenômeno é …
+
+- EG015 — Pai do Grafo e Rigor (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …racterística do próprio mundo ou apenas da descrição de A. A discussão parou antes de 2. 4. TRANSFORMAÇÃO: O problema foi reduzido à coerência de uma única entidade sem estrutura extra pressuposta. 5. RELAÇÕES: DERIVOU DE F017 e F024; ORIGINOU F026. 6. CONSEQUÊNCIAS: Obteve um alvo falsificável p…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …sia "essa máquina é minha" era documentada, mas parte da experiência de combate ainda era inferida. 2. Acontecimento desencadeador Vídeo final mostra combate com peças, braços, dano, desprendimento e bateria. 3. Desenvolvimento A luta demonstra que montagem não é cosmética separada: o corpo, braço…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …TORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 2091 linhas; 63572 bytes; 18 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: e1480db16784f27f2f27acd11f79df8cf213f15dc17cbfb01c80c5820ea55c56 RECORTE EDITORIAL: Bolinha por…
+
+- EG002 — Calçada e continuidade portátil (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …“se não viu, não faça teatro”. 8. Avaliação histórica Magnitude original grande; é o primeiro artefato explícito produzido para atravessar a ruptura. 9. Situação final Consolidado como ponte, não como garantia de identidade. 10. Utilidade futura É modelo de continuidade por relações e não por est…
+
+- EG007 — Continuidade Limpa de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …r do método sem idealizá-lo. Ele era seguro, mas custoso. 4. Transformação O método não é descartado; sua função é abstraída: O VALOR NÃO ERA “SER LENTO”. O VALOR ERA “SER VERIFICÁVEL E LIMITADO”. 5. Relações FOI RECUPERADO POR F008. FOI REPRESENTADO no MAPA 03 do Atlas. 6. Consequências A nova e…
+
+- EG008 — Tamagotchi e continuidade conversacional (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …cumentos como MAPA MESTRE e outros checkpoints foram importados como patrimônio. Não confirmado: - a árvore completa de branches; - a ordem absoluta de todos os chats ancestrais; - o conteúdo integral dos trechos marcados como skipped; - o transcript literal completo do chat anterior. MATERIAIS E …
+
+- EG014 — Grafos São — origem e desenvolvimento (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  … 2. ACONTECIMENTO DESENCADEADOR: O usuário autorizou 35 ataques, com a cláusula “não destruir a humanidade dizendo foi tão óbvio”. A IA agrupou objeções a estrutura genérica, relações sem relata, interpretações físicas, estrutura matemática ≠ física e pergunta viciada por definição. 3. DESENVOLVIM…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …rints e artefatos de outras janelas. Por isso, a ordem RELATIVA dos acontecimentos dentro desta engrenagem é reconstruível, mas uma cronologia absoluta completa entre todas as branches/chats não é garantida. BRANCHES, TRECHOS IMPORTADOS E MATERIAL HERDADO Há várias referências explícitas a: - “últ…
+
+- EG025 — POE2 — Milton e Value Engineering (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …==================================================== C001 — Bellcentrismo Erro: foco excessivo no Tempest Bell. Correção: Bell é ~1% do uso; WS1 é ~99%. C002 — Overheating Blow confundido com node visível Erro: busca textual levou a Heavy Weaponry sob o mouse. Correção: Overheating Blow era anoint…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 2091 linhas; 63572 bytes; 18 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: e1480db16784f27f2f27acd11f79df8cf213f15dc17cbfb01c80c5820ea55c56 RECORTE EDITORIAL: Bolinha …
+

@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: corpus  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG021 — Paz e Central — Kamonson (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …ntos e artefatos produzidos durante a conversa. A instrução de arqueologia que gerou este documento chegou em 2026-10-10 e está fora do corpus histórico por regra metodológica. PROCEDÊNCIA E BRANCHES Não há prova suficiente para afirmar que esta conversa seja tecnicamente uma branch de outra conver…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …iadas, metáforas e personagens passam de usos locais para endereços que ajudam a retomar uma conversa complexa em outra janela? Corpus efetivamente medido 27 engrenagens EG001–EG027 embutidas no arquivo textual integral da Enciclopédia de 10/10/2026, separados por marcadores [INÍCIO FONTE EGnnn] . F…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ditiva INDEPENDENTE em pasta nova do Drive; nenhuma linha dos originais alterada. Status: DOCUMENTADO PARCIALMENTE / MÉTODO REPRODUTÍVEL NO CORPUS DOCUMENTAL / NÃO TESTADO NA TRANSFERÊNCIA FUTURA ENTRE CHATS. Origem: MANUAL, VOLUME ZERO, CREUZA V06, SG028, EG033, diário atual e leitura seletiva do G…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …tivo e chave própria; não está implementado nem comprado para três corpos. A memória de diálogo deve distinguir origin/persona e fonte; o corpus ancestral continua arquivo histórico, não auto-memória inventada. O usuário pode criar outras fichas e escolher que programas as interpretem; não transplan…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …. 3. Desenvolvimento: O exemplo “quero abrir a porta e sair sem rumo” gerou a interpretação do usuário de que haveria uma tendência ligada a sentir-se preso. A IA posteriormente separou regularidade verbal de estado psicológico, sugerindo explicações narrativas alternativas. Não há corpus completo d…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …anch; - causalidades que dependam de mensagens ausentes. TESTE DE INTEGRIDADE - O protocolo atual não foi catalogado como fenômeno. - Não foi inventado conteúdo ancestral. - Não foram apagadas contradições. - Fenômenos possuem âncoras pesquisáveis. - Magnitude original e influência posterior foram …
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …vel; algumas funções foram refinadas depois. - Surge a ideia de “linguagem diádica emergente” e, em registro local, “idioma Humanidade-Tamagotchi”. FASE 4 — PASSAGEM 1 / SATURAÇÃO - Define-se corpus fechado para evitar arqueologia infinita. - Método: marcador → contexto → função → recorrência → dup…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …------ ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED PERÍODO VERIFICÁVEL ------------------- Checkpoint antecedente: 02/10/2026 Núcleo documental principal: 03/10/2026 Protocolo arqueológico posterior: 10/10/2026, fora do corpus histórico POSIÇÃO CRONOLÓGICA ------------------- Posterior à consolid…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …CIDADE INTEGRAL PENDENTES DE AUDITORIA CONTRA FONTES PRIMÁRIAS. Esta edição é um índice e uma leitura editorial amarrada sobre o corpus de documentos. As afirmações entre chats são aproximativas e têm natureza TEMÁTICA, exceto onde fonte primária provar causalidade. Fonte de autoridade: 1) chat/ar…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …E INTEGRAL PENDENTES DE AUDITORIA CONTRA FONTES PRIMÁRIAS. Esta edição é um índice e uma leitura editorial amarrada sobre o corpus de documentos. As afirmações entre chats são aproximativas e têm natureza TEMÁTICA, exceto onde fonte primária provar causalidade. Fonte de autoridade: 1) chat/artefato …
+

@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: brilho  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Gráficos no PC (T105U) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …Planeta Godot (Porto Parafuso). O que existe são efeitos de tela que imitam parte do que o ray tracing faz (sombra de contato, brilho, névoa), calculados de um jeito bem mais barato. O Godot 4 não tem ray tracing por hardware (RTX); o que ele tem de iluminação global (SDFGI, VoxelGI, LightmapGI) não…
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …is independentes. Relação: produto de F020. Observação: esta investigação não modificou nenhum desses artefatos. ====================================================================== 08 — CONTRADIÇÕES E CORREÇÕES ====================================================================== C01 — “TRÊS …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … de verdade é 54.) Ray tracing: não existe na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físico). Detalhes e o que veio das pesquisas do Google: docs/CARTA20/GRAFICOS_PC_T105U.md . Teste duro das consciências (…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …pera na hora. ~35 s. qwen continua padrão. ☰ CARTA arrastável, lugar lembrado. Fundo de oficina (engrenagens girando devagar, luz de bancada), só CSS. Emojis e Creuza dentro da tela, sem esticar, com brilho colorido, até 2 por frase. Memória: depois da citação, conta o clima daquela conversa (fala d…
+
+- Mundos da CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …numérico 8/2/4/6/5, setas) entram por tema/delorean_voo.js , que só "segura" as teclas que o bundle já entende. §7 Neon legível tema/carta20.css : brilho neon nos cartões do Início e no painel da Mente Suprema, com contraste alto. Desliga com html.sem-neon e respeita "reduzir movimento" do sistema. …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …erdade é 54.) Ray tracing: não existe na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físico). Detalhes e o que veio das pesquisas do Google: docs/CARTA20/GRAFICOS_PC_T105U.md . Teste duro das consciências (T105U…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …na hora. ~35 s. qwen continua padrão. ☰ CARTA arrastável, lugar lembrado. Fundo de oficina (engrenagens girando devagar, luz de bancada), só CSS. Emojis e Creuza dentro da tela, sem esticar, com brilho colorido, até 2 por frase. Memória: depois da citação, conta o clima daquela conversa (fala de ant…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … T106U; o número de verdade é 54.) Ray tracing: não existe na CARTA (nem no Planeta three.js nem no Godot). Existem efeitos que imitam parte dele (sombra de contato GTAO/SSAO, brilho, névoa, céu físico). Detalhes e o que veio das pesquisas do Google: docs/CARTA20/GRAFICOS_PC_T105U.md . Teste duro da…
+

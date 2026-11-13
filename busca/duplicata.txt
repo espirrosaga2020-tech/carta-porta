@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: duplicata  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … Portão 1, o esqueleto t89u. - L. Portão b, o SAVE com posição (PR #90). - M. Portão a, os Bastidores (PR #91). - N. Drive reorganizado por assunto (t92u): 63 arquivos movidos, 166 subidos do PC, a Enciclopédia em livro (863 páginas) e o mapa 00_LEIA_PRIMEIRO. - O. Este manual (t93u). As 8 duplicata…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ão 1, o esqueleto t89u. - L. Portão b, o SAVE com posição (PR #90). - M. Portão a, os Bastidores (PR #91). - N. Drive reorganizado por assunto (t92u): 63 arquivos movidos, 166 subidos do PC, a Enciclopédia em livro (863 páginas) e o mapa 00_LEIA_PRIMEIRO. - O. Este manual (t93u). As 8 duplicatas pro…
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …R #88). - K. Portão 1, o esqueleto t89u. - L. Portão b, o SAVE com posição (PR #90). - M. Portão a, os Bastidores (PR #91). - N. Drive reorganizado por assunto (t92u): 63 arquivos movidos, 166 subidos do PC, a Enciclopédia em livro (863 páginas) e o mapa 00_LEIA_PRIMEIRO. - O. Este manual (t93u). As…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …ante da cultura narrativa. - web/src/fusao/brain.js : a curiosidade descartava como repetida uma fala semelhante, não apenas uma duplicata literal. - registry/personagens_ficcionais.v1.json : copies_identity=false e não identidade transferida entre chats têm função de honestidade sobre execução/iden…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … parada: “parei quando ficou interessante” EG027:F012 | Recuperação minimalista de “ping-pong cognitivo” EG027:F013 | Não persistir regras cedo demais EG027:F014 | Descoberta de que a nova dinâmica já estava acontecendo EG027:F015 | Tamanho do chat deixa de ser gatilho automático de organização …
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …da5e2e13079d8383de679fa7fbc12ba211 lines=1511 bytes=61184 index=16 missing_post_index=[] status=VERIFICADO PARCIALMENTE DUPLICATAS BYTE-A-BYTE ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01(1).txt = ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt : True ENGRENAGEM_GRAFOS_…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …15da5e2e13079d8383de679fa7fbc12ba211 lines=1511 bytes=61184 index=16 missing_post_index=[] status=VERIFICADO PARCIALMENTE DUPLICATAS BYTE-A-BYTE ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01(1).txt = ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt : True ENGRENAGEM_GRAFOS_SAO_H…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ria persistente” EG026:F005 | Personalização como redundância opcional EG026:F006 | Separação entre reciprocidade e bajulação [EG027] SPA — Ping-pong Cognitivo — 16 fenômenos EG027:F001 | Desacoplamento entre continuidade e peso EG027:F002 | Branch como save point e espaço para “bagunçar com liberda…
+

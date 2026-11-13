@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg009  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ORIA_v01.txt MEU ROBÔ E SONHO EG006 — Checkpoint e entrada no sonho — 27 fenômenos; ENGRENAGEM_CHECKPOINT_ENTRA_NO_SONHO_COPILOTO_20261004_05_HISTORIA_v01.txt EG009 — Bard, Corpo e a própria Conversa — 20 fenômenos; ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt EG011 — Entra no Sonho — 18 …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …G008:F018 | Pesquisa central de mercado, concorrência, marketing e validação EG008:F019 | Catálogo como fonte de verdade precisa de versionamento semântico [EG009] Bard, Corpo e a própria Conversa — 20 fenômenos EG009:F001 | Embodiment já começou; o futuro está distribuído EG009:F002 | Humanos …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …IA_v01.txt MEU ROBÔ E SONHO EG006 — Checkpoint e entrada no sonho — 27 fenômenos; ENGRENAGEM_CHECKPOINT_ENTRA_NO_SONHO_COPILOTO_20261004_05_HISTORIA_v01.txt EG009 — Bard, Corpo e a própria Conversa — 20 fenômenos; ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt EG011 — Entra no So…
+
+- EG009 — Bard, Corpo e a própria Conversa (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG009 — Bard, Corpo e a própria Conversa Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no d…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html#pg-enciclopedia-eg008> EG009 Bard, Corpo e a própria Conversa Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …idade conversacional Linguagem, Observação e Consciência Auditoria da Vírgula e das Escolhas P009 Qual é o nome da engrenagem de código EG009? Porta Eureka — A Observação que Reencontra a História Paz — Linguagem e Continuidade Bard, Corpo e a própria Conversa Pai do Grafo e Rigor P010 Qual é o nome…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …GRENAGENS — ACERVO MESTRE/01_FONTES_ORIGINAIS_IMUTAVEIS/ (23 arquivos em texto) e o zip de 03_AUDITORIA_E_CONTROLE (os 4 restantes: EG009, EG020, EG024, EG026). Ponteiro com SHA-256: registry/enciclopedia.v1.json . Lidos pelo caminho ( git show ou CARTA_ENCICLOPEDIA=<checkout> ), sem cópia com prova…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  … disponivel 10 EG007 Continuidade Limpa de Meu Robô disponivel 11 EG008 Tamagotchi e continuidade conversacional disponivel 12 EG009 Bard, Corpo e a própria Conversa disponivel 13 EG010 Derivada da Paz disponivel 14 EG011 Entra no Sonho disponivel 15 EG012 Grafo e Humanidade disponivel 16 EG013 Graf…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …tral engrenagem documental EG008 Tamagotchi e continuidade conversacional Reciprocidade e Paz ancestral engrenagem documental EG009 Bard, Corpo e a própria Conversa Meu Robô e sonho ancestral engrenagem documental EG010 Derivada da Paz Reciprocidade e Paz ancestral engrenagem documental EG011 Entra …
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …3d381e793034fba37862f118d91c7b03d6 lines=2034 bytes=76702 index=19 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG009 | ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt sha256=b541e6039213802556c8757770a646bea23412abe2d9451fa1724eb6875e1b72 lines=1878 bytes=72676 index=20…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …rema2-acervo-031.html> EG008 — Tamagotchi e continuidade conversacional <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html> EG009 — Bard, Corpo e a própria Conversa <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html> EG010 — Derivada da Paz <https:…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …fc3d381e793034fba37862f118d91c7b03d6 lines=2034 bytes=76702 index=19 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG009 | ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt sha256=b541e6039213802556c8757770a646bea23412abe2d9451fa1724eb6875e1b72 lines=1878 bytes=72676 index=20 missing_po…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …engrenagem documental EG008 Tamagotchi e continuidade conversacional Reciprocidade e Paz ancestral engrenagem documental EG009 Bard, Corpo e a própria Conversa Meu Robô e sonho ancestral engrenagem documental EG010 Derivada da Paz Reciprocidade e Paz ancestral engrenagem documental EG011 Entra no So…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  …E2 — Gulosona e Árvore de Attack Speed EG025 — POE2 — Milton e Value Engineering Meu Robô e sonho EG006 — Checkpoint e entrada no sonho EG009 — Bard, Corpo e a própria Conversa EG011 — Entra no Sonho EG016 — Humanidade e Amiguiá: continuidade de Meu Robô EG017 — Humanidade/Amiguiá — Entrada no Sonho…
+
+- O que entrou neste site (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/o-que-entrou.html
+  …a/EG004.html enciclopedia/EG005.html enciclopedia/EG006.html enciclopedia/EG007.html enciclopedia/EG008.html enciclopedia/EG009.html enciclopedia/EG010.html enciclopedia/EG011.html enciclopedia/EG012.html enciclopedia/EG013.html enciclopedia/EG014.html enciclopedia/EG015.html enciclopedia/EG016.html…
+

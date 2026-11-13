@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: t107u  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e est…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …ualize seu documento" = esses arquivos. A pasta pode ser trocada com --pasta-bot ou CARTA_BOTS . Etapa 2 — Panorama das Engrenagens (T107U, 03/11/2026) A etapa 1 (acima) foi montada quando havia cerca de 30 engrenagens e continua igual (os bancos antigos não mudam). A etapa 2 cobre todas as engrenag…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …AGENS: prova de entrada (booleana) para qualquer assistente de IA que chegue ao projeto. src/carta/prova_compreensao.py Prova das Engrenagens, etapa 3: COMPREENSÃO (T112U, 03/11/2026, acréscimo). src/carta/prova_panorama.py T107U (03/11/2026) — PROVA DAS ENGRENAGENS, etapa 2: PANORAMA DAS ENGRENAGEN…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …suprema2-acervo-064.html> Capítulos da etapa 1, na ordem oficial (48) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html> PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-a…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …: prova de entrada (booleana) para qualquer assistente de IA que chegue ao projeto. src/carta/prova_compreensao.py Prova das Engrenagens, etapa 3: COMPREENSÃO (T112U, 03/11/2026, acréscimo). src/carta/prova_panorama.py T107U (03/11/2026) — PROVA DAS ENGRENAGENS, etapa 2: PANORAMA DAS ENGRENAGENS (to…
+
+- Legado das portas · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-legado.html
+  …'. Quando: 03/11/2026 09:27 (America/Sao_Paulo) · commit: 5babbbc · abrir Porta 01 (porta clássica / histórica) [FONTE] tudo.html (T107U), Jornada da IA (T112U, tudo.html#jornada) e Chave Mestra (chave.txt). Preservada intacta. Quando: 03–04/11/2026 · commit: 94f9658 · 1f804a6 · cb52dcd · abrir Port…
+

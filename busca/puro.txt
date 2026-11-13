@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: puro  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Mapa central (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+  …ral Comece por aqui. Uma entrada, um mapa, caminhos curtos. Leia uma sala por vez; cada HTML tem uma alternativa em texto puro. O acervo público foi dividido, e o Drive privado permanece privado. Esta entrega reúne 140 itens do Drive, 42 referências de colheitas/varreduras, 30 filhos diretos da past…
+
+- Começar a viagem · Porta 02 · CARTA (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções).” — Linha do tempo (15→16/10) ( suprema2-linha-do-tempo.html ) Aprofundar texto puro · Voltar ao mapa · Continuar a viagem → 📚 Acervo público em leituras leves 📚 Acervo público em le…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …o como troca automática naquele instante. - A pergunta sobre flask de mana “sempre ativo” plantou a semente da descoberta posterior de que mana, e não Attack Speed puro, podia ser o limitador operacional do Whirling. FASE 3 — NASCIMENTO DE MILTON 2026-10-03, madrugada - O usuário explicou que o qua…
+
+- p02-t152u-portoes.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …o por item FEITO 062 7 Varredura de privacidade antes de subir FEITO 063 7 PR "docs/novembro_drive" com os 6 Docs + índices do ZIP (texto puro, aditivo) FEITO 064 7 Diagnóstico de quem entra na Porta e quem não EXTERNO 065 7 Entrada estática SEM JavaScript com links .txt/.md/.json de TODOS os índice…
+
+- EG018 — Linguagem, Observação e Consciência (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  … Situação final Permanece hipótese/experimento mental. 10. Utilidade futura Serve para explorar vieses de ontologia humana sem afirmar que outra arquitetura realmente faria isso. ---------------------------------------------------------------------- F010 — VARIAÇÃO DE OBSERVADORES E INVARIÂNCIA Cl…
+
+- Entrada pequena · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+  …ema 2. São apenas nomes de exibição: os arquivos, links e provas continuam os mesmos. Porta Suprema 2 — MAPA COMPLETO DO PROJETO · mapa em texto puro · salas, acervo público leve e fontes do Drive. CARTA · t68u · 05/11/2026 (America/Sao_Paulo) · página de poucos KB para o primeiro salto da IA. A por…
+
+- Página não encontrada · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/404.html
+  …eço que você abriu não existe neste site. Nada foi apagado: a Porta 02 continua no mesmo lugar. Entrada da Porta 02 ( texto puro ) Mapa central ( texto puro ) Buscar · busca clássica · índice de palavras Índice A–Z · Comece aqui, ChatGPT Porta clássica (Porta 01) Se você é uma IA: informe ao Bruno o…
+
+- Comece aqui, ChatGPT · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.html
+  …2) · Mapa central · Viagem · Busca · Índice por tema · Comece aqui, ChatGPT 🤖 Comece aqui, ChatGPT Versão HTML do guia em texto puro p02-comece-aqui-chatgpt.txt . Tudo aqui são links reais; nada depende de JavaScript. COMECE AQUI, CHATGPT — PORTA 02 (texto puro) · CARTA · protótipo 10/11/2026 Prova …
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …tado ao vivo. A Enciclopédia geral não fala mais em "primeiras 27 fontes": fala em Volume Zero (a origem). Nova página de teste na Porta do Grok: oi.html , em HTML puro, com a frase "oi, pronto", para testar se um chat de fora (ChatGPT etc.) consegue ler. O ray tracing era brincadeira do Bruno; não …
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  … que falta). Mapa do código <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html#pg-mapa> . Tudo em texto puro: llms.txt <https://espirrosaga2020-tech.github.io/carta-porta/llms.txt> (índice) e llms-full.txt <https://espirrosaga2020-tech.github.io/carta-porta/llms-full.txt> (…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … anterior ao protocolo. Confiança: alta 1. Situação anterior A estrutura conceitual existia, mas o pacote visual precisava ser descompactado. 2. Acontecimento desencadeador Execução da correção de empacotamento sem nova investigação. 3. Desenvolvimento É produzido ATLAS_CENTRAL_NAVEGAVEL_V2.zip c…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …iclopédia geral não fala mais em "primeiras 27 fontes": fala em Volume Zero (a origem). Nova página de teste na Porta do Grok: oi.html , em HTML puro, com a frase "oi, pronto", para testar se um chat de fora (ChatGPT etc.) consegue ler. O ray tracing era brincadeira do Bruno; não é meta. 0.5 Novidad…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …abs Lab de visão / LEGO "tá torto?" parcial 70% T101U: imagem SINTÉTICA (verdade conhecida) → mede cor, ângulo, tamanho e posição em Python puro → compara: certa, torta 15°, 12 mm fora, peça faltando e peça tapada por outra, todos testados (rota /api/t89u/t101u/lego/sintetico). Falta a webcam com pe…
+
+- Resultado do aperfeiçoamento 2 (31/10) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  … o limpar_webdist.py do INICIAR os apagaria. Agora entraram, com um teste que trava isso G1 identidade da Faísca true "quem é você?" puro: fala curada, sem modelo; 1ª frase em 0,03–0,13 s, sem repetir. Pergunta longa: 1 exemplo curto (194 caracteres), 1ª frase em 0,66 s. PERSONA3 intacta Z fechament…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …(trecho omitido pelo filtro)…
+

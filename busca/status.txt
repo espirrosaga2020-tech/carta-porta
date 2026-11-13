@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: status  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (35)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … observação ARQUIVO: ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 695 linhas; 90119 bytes; 29 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 6c668ee191ab7f85…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (35)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …da e observação ARQUIVO: ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 695 linhas; 90119 bytes; 29 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO PARCIALMENTE. HASH SHA-256: 6c668ee191ab7f8516d6a6e0a…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …56=6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74a1168f4e7ccf1956a92a9c258e2c289e98f7268f492 …
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …256=6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74a1168f4e7ccf1956a92a9c258e2c289e98f7268f492 lines=148…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …~2 Chaos) com tentativas frustradas de upgrade em 5d, 10d, 20d e perto de 150d. 3. Desenvolvimento A incapacidade do mercado de oferecer substituição proporcional fez o item virar personagem/símbolo. 4. Transformação “Milton” passou a significar uma lei econômica local: eficiência real > preço/rar…
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ÇÃO: Usuário: “a gente escreveu um artigo científico”; resposta: “objeto bruto do qual um artigo pode emergir”. 1. SITUAÇÃO ANTERIOR: O usuário observa que a conversa contém problema, objeções, revisões e uma cadeia textual e chama o conjunto de artigo científico. 2. ACONTECIMENTO DESENCADEADOR: O a…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … C006 — Mecânica Plus foi apagada Hipótese inicial temida: a IA poderia ter deletado tudo. Evidência: existência histórica confirmada; rastros de chips, soquetes, oficinas e backups permanecem. Correção: não há prova de deleção total. Desacoplamento/absorção/órfão continuam hipóteses. Estado: aberto…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  … ou só numa aba com ?t89u=0 ) Python: carta/t89u/bastidores.py · JS: webdist/t89u/bastidores.js API: GET /api/t89u/bastidores (visitante com ficha: 403) Status: FECHADO em 02/11/2026 (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono) Como fica: o Início ganha …
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …ó numa aba com ?t89u=0 ) Python: carta/t89u/bastidores.py · JS: webdist/t89u/bastidores.js API: GET /api/t89u/bastidores (visitante com ficha: 403) Status: FECHADO em 02/11/2026 (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono) Como fica: o Início ganha um ca…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …6 conferido (6c668ee191ab7f85…) ENGRENAGEM — CALÇADA / CADERNO / DUNADA — HISTÓRIA v01 IDENTIFICADOR: CALCADA_CADERNO_DUNADA_20261010 STATUS DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE DATA DA ESCAVAÇÃO: 10/10/2026 FRONTEIRA HISTÓRICA: anterior ao protocolo universal de arqueologia recebido no turno U5…
+
+- Dobra: origem, personagem e portal (13/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …ortal (13/10/2026) fonte: docs/DOBRA_ORIGEM_PERSONAGEM_PORTAL_20261013.md 🎒🪁 CARTA — Dobrar sem rasgar (adendo de implementação) Status em 13/10/2026: branch experimental reversível, sem merge, hardware DESCONECTADO, Godot original INTACTO. Origem autoral: documento da ramificação iniciado pelo huma…
+
+- EG008 — Tamagotchi e continuidade conversacional (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … UI; - criador; - economia; - fio dos atos. O CHECKPOINT ESTRUTURAL mostra testes, hashes, FPS, backups, deploys, correções de performance e sucessivas rodadas de implementação. 4. Transformação A pergunta operacional muda de: “o que existe?” para: “o que está PRONTO, FINO e FALTA?” 5. Relações D…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …são 60 questões: 1 de cada EG001–EG027 e o restante das regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes de fazer a prova. Ele existe para correção e auditoria. Abrir antes é cola e invalida o protocolo. P…
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …⚙️), padrão X=3. PR #140 conectou tema.js à Faísca. ESCUDO e robótica O texto público descreve pit stop, radinho e “Discordar pra Cima”: esclarecer entendimento, comunicar status e discordar com fundamento e alternativa útil. A robótica 4WD tem portões antes de energizar; nenhum comando de motor é e…
+
+- 4. ESCUDO / FORMA DE AGIR (pit stop · radinho · Discordar pra Cima) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-006.html
+  …ar ou ficar confuso, pare, diga o que você entendeu em 3 frases, e peça confirmação antes de continuar grande. Radinho: comunique status curto e frequente (“tô em X, falta Y”) — não suma 40 minutos sem falar. Discordar pra Cima: discorda com fundamento + alternativa útil. Nunca menosprezo. A colabor…
+

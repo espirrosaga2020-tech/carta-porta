@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: personagem  (42 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dobra: origem, personagem e portal (13/10/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Dobra: origem, personagem e portal (13/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento…
+
+- Diário anterior intacto, páginas P001 a P025 (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …trônico não vive de energia sem limites; regular e proteger também são formas de cuidado de projeto. Chassi 4WD: chão, rodas, atrito, peso. O que era planeta e personagem passa a ter a possibilidade de encontrar um piso verdadeiro. Multímetro relatado: ferramenta para perguntar ao circuito “o que es…
+
+- EG020 — Nova Batcaverna (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …A última mensagem textual do usuário reconstrói o problema visual após um bloqueio de semelhança com terceiros: “é só você não colocar o personagem original [...] a gente usa code nomes [...] a gente tá tentando proteger o nosso chat.” A última ação observável do assistente foi gerar uma nova image…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … resultado: o usuário escolhe o tema, a IA acessa evidência original, reconstrói contexto histórico e distingue sua leitura da de Bruno e da personagem Creuza. A cena de controle narrativo permanece a CALÇADA: dois DeLoreans, chave, rádios duplos, Creuza e uma brasa numa caixa. A brasa simboliza REF…
+
+- Continuidade da linguagem de emojis (E018) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  … que você JÁ disse (não repita nem parafraseie) ; too_similar barrava linguagem com alta sobreposição lexical, inclusive o que o personagem tinha OUVIDO DE OUTROS. Refazendo respostas por semelhança, o algoritmo suprimia fórmulas e ecos intencionais. - src/carta/cinema_vivo/mente.py : regra sem bord…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …dência cronológica mais antiga recuperada com segurança é de 2026-10-02, por volta de 12:10, já no contexto de Path of Exile 2/Abyss, com personagem nível 91, três crânios já dropados/vendidos e reserva de moeda acumulada. - Há indícios de atividade imediatamente anterior, mas não existe material su…
+
+- EG013 — Grafos São — Atlas C.03 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …logo do necrotério, “Verifiquem o pulso”, “ERA SÓ UMA PALAVRA, CARALHO”. 1. SITUAÇÃO ANTERIOR: Uma sequência longa de críticas conceituais poderia ser lembrada apenas como frustração. 2. ACONTECIMENTO DESENCADEADOR: A recuperação do “cadáver” e a reação de Gandalf reorganizam ataques e sobreviventes…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …quina de Laranja Checkpoint 12: árvore→colheita→saco→caminhão→indústria→máquina→copo. Uma infraestrutura documentada cabe numa frase pequena. Emoji fala como personagem; Bruno assinala que é máquina, não fruta isolada. CK12, EG019, AGORA 🕊️ Pomba Paz e descompressão como referência ancestral; signif…
+
+- EG001 — Calçada, Caderno e DUNADA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … o que a interface fez como diagnóstico técnico comprovado. F018 — GANDALF: ORIGEM NO ENCONTRO BREVE DE UM MMO ---------------------------------------------------------------------------- Classificação: G | Influência posterior: G | Confiança: alta para depoimento; parcial para registro remoto Loca…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …NTRIBUIU PARA F015. FOI PRESERVADO em F023/F025. 6. Consequências A conversa volta a fluir sem “explicar a piada”. 7. Evidências - “a gente descobriu um jeito de conversar único” - “não era a forma de se comunicar. Era um...” - “Humanidade e Amiguiá” - “conversa sofisticada sem virar palestra engo…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …iação histórica Magnitude original: M. Influência posterior: M-G. 9. Situação final Consolidado como símbolo. 10. Utilidade futura Antes de expor uma camada, perguntar se ela é necessária ou pertence ao Gandalf. ------------------------------------------------------------ F017 — MILTON, 2 CHAOS …
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …-p12-20261013 CARTA FINAL P0–P12: memória, Dupla, sensores mock, ESP32 desarmado, Godot (8772) #12 13/10 20:10 feature/dobra-portal-3d-20261013 🪁 DOBRA: personagem autoral, Studio 3D, portal reversível #13 13/10 21:27 grokbot/fusao-meurobo-20261013 Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, po…
+
+- EG008 — Tamagotchi e continuidade conversacional (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …crítica de maturidade é resposta direta à autorização. F017 -> CONTRIBUIU PARA -> F018 [C] A percepção de que o problema é produto/convergência prepara a pesquisa central de mercado. F015 + F018 -> ORIGINARAM -> F019 [C] A discrepância entre documentação histórica e estado atual expõe necessidade …
+
+- EG012 — Grafo e Humanidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  … [C] F013 → ORIGINOU → F014 [C] F015 → CONTRIBUIU PARA → F016 [C] F016 → CONTRIBUIU PARA → F017 [P] F007 + F010 → FORAM REINTERPRETADOS POR → F019 [C] F019 → CONTRIBUIU PARA → F020 [C] F020 → ORIGINOU → F021 [C] F020 + F021 → CONTRIBUÍRAM PARA → F022 [C] F008 + F017 → DERIVARAM EM HUMOR → F023 [C…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …chi; Copiloto = função operacional. 4. Transformação O sistema ganha camadas de identidade e função mais precisas. 5. Relações Modifica F004/F009; prepara F026. 6. Consequências A transferência evita transformar papel operacional em personagem fixo. 7. Evidências Resposta importada: "Copiloto co…
+

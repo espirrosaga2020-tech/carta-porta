@@ -1,0 +1,51 @@
+BUSCA POR LINK — termo: capitulos  (12 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …a2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Capítulos da etapa 1, na ordem oficial (48) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Capítulos da etapa 1, na ordem oficial (48) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos n…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …rsonagens_ficcionais.v1.json. src/carta/cinema_vivo/engrenagem.py B5 · ficha de uma engrenagem/esfera: O QUE TEM DENTRO (ligações da Consciência: documentos, capítulos, vizinhas) e A HISTÓRIA src/carta/cinema_vivo/iniciativa.py INICIATIVA ANCORADA (graus do doc 08): 0 silêncio · 1 comentar · 2 suger…
+
+- Acervo público em leituras leves (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …vo-062.html> Pré-diploma: o Caderninho do Viajante <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html> Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html> Capítulos da etapa 1, …
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …gens_ficcionais.v1.json. src/carta/cinema_vivo/engrenagem.py B5 · ficha de uma engrenagem/esfera: O QUE TEM DENTRO (ligações da Consciência: documentos, capítulos, vizinhas) e A HISTÓRIA src/carta/cinema_vivo/iniciativa.py INICIATIVA ANCORADA (graus do doc 08): 0 silêncio · 1 comentar · 2 sugerir ir…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …lçada, com a mão que não quer tirar do bolso e a outra recém-estendida para entregar uma esfera maior. Mostrou um mundo enorme sem exigir que seja vasculhado. Disse que a esfera merece respeito. E aceitou sorvete da Creuza. Copiloto: recebe a esfera como quem recebe uma história em construção, não u…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …heu olhar, e por quê?". Direito de escolher: interpretar, participar ou seguir. Não é opcional: ler a Enciclopédia inteira (todos os capítulos). Tudo completo → prova --assistente SEU_NOME diploma gera bots/SEU_NOME/DIPLOMA.json (SHA-256 + data) e registra em registry/diplomas.json . Confira com pro…
+
+- Diplomas emitidos (registry/diplomas.json) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …rova codex 2026-10-16T10:50:41-0300 prova.v1 FOFINHO 2026-10-16T12:37:26-0300 prova.v1 Exemplo: o diploma do FOFINHO cobre 34 capítulos (de R00 a GK030), melhor nota no concurso 58/60, postura “participar”. Lembrete do diploma: “Diploma não dispensa ler a fonte: memória é pista, evidência é prova.” …
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …F008 desespero; 1 outra). Triagem mostra ✅/🔒. [linha] Visitante IA novo (visitante_p1b_2110): pista → pré-diploma → Consciência → Emojis 12/12 → 34 capítulos → concurso 56/60 → diploma válido (hash confere) → mochila 35 insígnias. [linha] Android: app abre a home nova com "📜 Originais" (print). Nave…
+
+- Versão CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  … /microscopio.html §11 Só modelos reais instalados, lista ao vivo do Ollama docs/CARTA20/MODELOS_REAIS.md áudio Prova das engrenagens atualizável: +10 capítulos (200 questões novas) /prova.html §13 Enciclopédia, índices, manual, COMECE AQUI, PORTA PARA IA, versão e notas de continuação esta pasta ← …
+
+- DB02: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html
+  …endo registros 'diário' (não engrenagem) — DB02 é a engrenagem que os reúne; nada foi reclassificado. 11 Pontes para outras engrenagens GK029/GK030 · capítulos do Grok 12 Guia para um chat futuro Peça à Consciência: “me conta a engrenagem DB02” — ela responde por /api/conhecimento/v1/no?id=DB02 com …
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …desespero; 1 outra). Triagem mostra ✅/🔒. [linha] Visitante IA novo (visitante_p1b_2110): pista → pré-diploma → Consciência → Emojis 12/12 → 34 capítulos → concurso 56/60 → diploma válido (hash confere) → mochila 35 insígnias. [linha] Android: app abre a home nova com "📜 Originais" (print). Navegação…
+

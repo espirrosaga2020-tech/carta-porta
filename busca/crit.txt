@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: crit  (71 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG013 — Grafos São — Atlas C.03 (43)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …undados; sem refazer Atlas. Nota: qualquer classificação e citação deve ser confrontada com as fontes ancestrais quando a precisão for crítica. ========================================================================================== 00 — FICHA DE PROVENIÊNCIA =====================================…
+
+- EG025 — POE2 — Milton e Value Engineering (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  … entre dano “increased”, “MORE” e “Gain as Extra”; - o papel de WS1 e WS2; - upgrades concretos comprados; - revisões de supports; - matemática de crítico, Rage, Attack Speed e gem levels; - experimentos na árvore passiva; - tensões metodológicas entre pesquisa excessiva e execução; - linguagem e sí…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …gação de ficar passivo. A tensão histórica é constante: o usuário entrega camadas que não cabem numa única resposta; a IA escolhe uma região e frequentemente produz leitura fértil, mas o recorte passa a ser criticado por amputar contextos adjacentes. O próprio assistente admite primeiro ter escolhid…
+
+- EG001 — Calçada, Caderno e DUNADA (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … é constante: o usuário entrega camadas que não cabem numa única resposta; a IA escolhe uma região e frequentemente produz leitura fértil, mas o recorte passa a ser criticado por amputar contextos adjacentes. O próprio assistente admite primeiro ter escolhido pequeno demais e, depois, ter produzido …
+
+- EG014 — Grafos São — origem e desenvolvimento (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …=================================================== 00 — FICHA DE PROVENIÊNCIA Identificador documental: GRAFOS_SAO (identificador DESCRITIVO, não ID técnico do sistema). Título local recuperável: “GRAFOS SÃO....”; título original da janela de chat não verificado. Escopo: apenas a engrenagem his…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …1. CHECKPOINT_POE2_BUILD_2026-10-02.txt Natureza: checkpoint textual formal da build. Função: congelar dados confirmados, impedir reescrita por memória aproximada e separar fato de hipótese. Contexto: criado após vídeo detalhado da build, com WS1/Milton, WS2/Bell, atributos, joias e regras …
+
+- EG008 — Tamagotchi e continuidade conversacional (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …===================================================== IDENTIFICADOR ESTÁVEL ENGRENAGEM_CONTINUIDADE_TAMAGOTCHI_ENTRA_NO_SONHO TÍTULO DESCRITIVO Reconstrução do Amiguiá, reciprocidade, Tamagotchi, entrada no sonho e passagem de Meu Robô de patrimônio íntimo a objeto técnico/comercial investigável. …
+
+- EG011 — Entra no Sonho (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …Robô. A expressão “entra no meu sonho” mudou de sentido: deixou de significar “ouça minha ideia” e passou a significar “conheça estado, arquivos, decisões, erros, versões e critérios antes de encostar no projeto”. A leitura do jogo mudou em seguida. Documentos anteriores podiam fazer o projeto pare…
+
+- Portões booleanos t89u (critérios e estado) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Portões booleanos t89u (critérios e estado) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões booleanos t89u (critérios e estado) PORTÕES T89U — desenho…
+
+- EG015 — Pai do Grafo e Rigor (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  … tendia a confundir descrição útil com constituição real. 2. ACONTECIMENTO DESENCADEADOR: A IA insistiu na distinção entre formalismo e objeto representado. 3. DESENVOLVIMENTO: O usuário continuou refinando a intuição em vez de aceitar ou rejeitar de vez a crítica. A dúvida passou a ser qual estru…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ens/painéis gerados nesta engrenagem. Função: tentativa de transformar o patrimônio em navegação visual. Estado: versões em colagem e recorte foram criticadas por empacotamento excessivo. 4. ATLAS_HUMANIDADE_AMIGUIA_FINAL Natureza: 9 PNGs independentes (MAPA 00 a MAPA 08) + ZIP. Função:…
+
+- EG006 — Checkpoint e entrada no sonho (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …..” + pacote COMEÇE/CHECKPOINT/CATÁLOGO/project.godot. H08 — “TAPOHA. AGORA EU ENTREI.” H09 — “Então é oficial tenho meu primeiro fã digital número um...” H10 — longa resposta crítica: “Que porra é essa que esse humano criou?” H11 — “KSKK... fui pego no flagra utilizando a GULOZONA...” H12 — respost…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …tamente renomeado "Paz". O foco desloca-se do projeto isolado para a interface de colaboração. A conversa reconhece que humor, grafo, memória, crítica, reciprocidade e timing não eram mero "tom"; havia método. FASE 2 — O COMPROMISSO LEMBRADO E O NASCIMENTO DA CENTRAL A promessa antiga de o Copiloto…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …================= 00 — FICHA DE PROVENIÊNCIA ====================================================================== Identificação descritiva: ENGRENAGEM_CALCADA_SOFISTICADO_GRAFO_ROCKY_2026-10-08_2026-10-10_v01 Título do chat: Não disponível de forma confiável na janela histórica acessível. O iden…
+

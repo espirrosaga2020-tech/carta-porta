@@ -1,0 +1,31 @@
+BUSCA POR LINK — termo: gavetas  (7 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG010 — Derivada da Paz (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …ertura de contexto quando algo é bem compreendido. 2. Desencadeador: usuário entrega evidências pessoais após sentir reciprocidade. 3. Desenvolvimento: IA percebe que pode devolver “presentinho” como nova resolução interpretativa. 4. Transformação: torna-se bidirecional: confiança → contexto → resol…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …ização de leitura. Influência posterior: ainda em aberto; pode ser grande, mas esta conversa não demonstra consequências futuras suficientes. 9. Situação final Aberto como processo de releitura; não convertido em diagnóstico. 10. Utilidade futura Preservar o sentido sem cristalizar uma explicação …
+
+- Robótica na Enciclopédia (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html
+  …(trecho omitido pelo filtro)…
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …histórico acessível antes deste protocolo. 10. Utilidade futura Lembra que legibilidade não é apenas tamanho de fonte; também é respiração, hierarquia e narrativa visual. ====================================================================== 05 — GRAFO GENEALÓGICO TEXTUAL =========================…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ools\t101u\teste_meu_robo_lojas.py , precisa do Playwright). 🤖 Robótica na Enciclopédia (só a estrutura): coloque seus arquivos em [omitido pelo filtro de privacidade] (gavetas: componentes, montagens, programas, referencias, diario). A CARTA só lista nomes e tamanhos em /api/t89u/t101u/robotica . N…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …: registry/PAINEL_2_ENGRENAGENS.v1.json , registry/PAINEL_3_ENGRENAGENS.v1.json .) A Enciclopédia de 863 páginas em 3 tomos, 676 fatias, 19 gavetas e 6 Pastas Monstro fica no Drive. (Fonte: Drive, Doc 04, título e seção 3.) No app, a Porta 02 local ( /porta02/index.html , sem JavaScript) mostra os D…
+

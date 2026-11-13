@@ -1,0 +1,51 @@
+BUSCA POR LINK — termo: piper  (12 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diagnóstico dos Sonhos (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …e imersão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Enciclopédia fatiada. Voz Voz em tempo real (portão c + Piper + g9) parcial 90% g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. Visão Olhos ao vivo (portão h + g9) parcial 6…
+
+- Diagnóstico dos Sonhos (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …rsão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Enciclopédia fatiada. Voz Voz em tempo real (portão c + Piper + g9) parcial 90% g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. Visão Olhos ao vivo (portão h + g9) parcial 60% Pa…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …ros para fechar): [ ] microfone em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta abre o mesmo pipeline [ ] STT (/api/ouvir) → IA (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde [ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (medido e registrado)…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  ….py TRAJETO DO BOT (Fórmula 1) — V0.3 rodada 2 (18/10/2026). Portões booleanos no servidor existente (sem servidor novo). src/carta/trajeto_link.py ABRE ESSA PORTA POR LINK — CINEMA VIVO B1.1 (18/10/2026). Acrescenta, não troca: o trajeto (trajeto_bot) continua o mesmo. src/carta/tts_piper.py Vozes …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ade) Teste de 03/11 deu erro 402 (cobrança/cota do Google) ; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança. Voz Piper: ainda sem áudio (pendente). Se a sessão cair: abra [omitido pelo filtro de privacidade] — diz o estado exato e o próximo passo. Numeração: passagem de bas…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …RAJETO DO BOT (Fórmula 1) — V0.3 rodada 2 (18/10/2026). Portões booleanos no servidor existente (sem servidor novo). src/carta/trajeto_link.py ABRE ESSA PORTA POR LINK — CINEMA VIVO B1.1 (18/10/2026). Acrescenta, não troca: o trajeto (trajeto_bot) continua o mesmo. src/carta/tts_piper.py Vozes Piper…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …ara fechar): [ ] microfone em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta abre o mesmo pipeline [ ] STT (/api/ouvir) → IA (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde [ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (medido e registrado) [ ] …
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …o pelo filtro de privacidade) Teste de 03/11 deu erro 402 (cobrança/cota do Google) ; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança. Voz Piper: ainda sem áudio (pendente). (linha omitida no site público pelo filtro de privacidade) Numeração: passagem de bastão já vai até o…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …as CANDIDATA). Página /descobertas-triagem + [omitido pelo filtro de privacidade] [pontilhado] (3) Fala sem emoji: servidor (Piper) e voz do navegador (humano.js) tiram emoji; a tela continua mostrando. (linha omitida no site público pelo filtro de privacidade) [pontilhado] (5) Painel 2: 14 bolas (E…
+
+- p02-t152u-novidades.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …ca : a mente rápida (modelo local qwen2.5 7B no PC do Bruno). Em 13/11: mediana de ~1 s por resposta curta, sem falar "Hmm", voz Piper (cadu), cognição nova (v2) com memória arquivada em vez de apagada e mais iniciativa (pode pedir licença para mudar de assunto). Uma trava protege o que funcionou: "…
+

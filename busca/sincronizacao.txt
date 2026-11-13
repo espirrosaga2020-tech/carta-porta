@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: sincronizacao  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …e Branch grokbot/organizacao-subir-drive-20261017 , criada a partir da Eureka (456f4b9) + o commit do PR #42. Esta pasta, mais o diário em docs/GROK_ORGANIZACAO/ . O PC ficou sem energia às ~16:13. A sincronização com o PC está PENDENTE ( 10_PENDENTE_SINCRONIZACAO_PC.md ). 2.4 Regras estabelecidas p…
+
+- RH01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+  … e versões Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões. 00 Ficha de proveniência id: RH01 · estante: Registros históricos · modalidade: engrenagem de registros (CARTA 2.0) ·…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …ckpoints, memória e versões: Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões. AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10): 12 vídeos que o Bruno…
+

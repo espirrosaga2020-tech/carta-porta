@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: export  (30 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Celular sem cabo (app vc20, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …102u/godot_leve_carta.py (faz a carta.html leve com o tamanho certo dos arquivos). Depois: Godot 4.7.2 --headless --import e --export-release "Web" . Os arquivos do jogo não vão para o GitHub (são grandes e o pacote tem notas internas). Eles ficam só no PC ( [omitido pelo filtro de privacidade] ) e …
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ica é recebida em 10/10/2026. O intervalo exato de início/fim de todos os turnos, bem como a cronologia de 72 horas referida, não foram certificados por exportação de metadados de cada mensagem. Não inventar minuto de cada etapa. PROCEDÊNCIA: [D] diálogo diretamente visível no trecho da conversa en…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …rta, torta 15°, 12 mm fora, falta, peça tapada) Godot Web sem threads ( thread_support=false ) — confirmado docs.godotengine.org (Exporting for the Web, 4.3+) MIT (Godot) o export do Porto Parafuso já está assim ( export_presets.cfg ) — não precisa de SharedArrayBuffer/COOP/COEP lido no PC O que fic…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …torta 15°, 12 mm fora, falta, peça tapada) Godot Web sem threads ( thread_support=false ) — confirmado docs.godotengine.org (Exporting for the Web, 4.3+) MIT (Godot) o export do Porto Parafuso já está assim ( export_presets.cfg ) — não precisa de SharedArrayBuffer/COOP/COEP lido no PC O que ficou co…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …E CHATS. Origem: MANUAL, VOLUME ZERO, CREUZA V06, SG028, EG033, diário atual e leitura seletiva do GitHub. Ausência crucial: não disponível exportação integral contínua de todas as mensagens ancestrais; não chamar isto de reconstrução completa do primeiro contato. 01 — APRESENTAÇÃO DA PORTA A pergun…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …10/10/2026, separados por marcadores [INÍCIO FONTE EGnnn] . Fonte de pesquisa textual derivada, com repetições e citações: NÃO a exportação original turno por turno das conversas. Os 615 fenômenos são IDs editoriais LOCAIS. Fonte auxiliar não incluída na contagem: menu ampliado de 31 entradas em 16/…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …riosidade automática, rejeitar apenas fala completa idêntica recente, não semelhança semântica ou símbolo compartilhado. O teste exportado de similaridade e a fila de voz ficam preservados. registry/CONTINUIDADE_LINGUAGEM.v1.json : contrato de estilo aprovado, com dicionário de 10 marcadores, proven…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …MO (mente do Bruno). src/carta/cerebro_supremo/consulta_forense.py (descrição omitida pelo filtro) src/carta/cerebro_supremo/importador.py Importa o export do ChatGPT (conversations-*.json) para um SQLite PRIVADO, sem perder nada: src/carta/cerebro_v1/__init__.py CÉREBRO v1 — Cérebro Megazord Suprem…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o de privacidade] (precisa do Playwright e de uma porta livre, padrão 8799, só 127.0.0.1): pronto, relatório, WASD, arena, vitória e volta ao porto — 6 de 6 no export de 03/11. Consertos só na cópia [omitido pelo filtro de privacidade] (o [omitido pelo filtro de privacidade] ROBO\JOGO nunca é mexido…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …ente do Bruno). src/carta/cerebro_supremo/consulta_forense.py (descrição omitida pelo filtro) src/carta/cerebro_supremo/importador.py Importa o export do ChatGPT (conversations-*.json) para um SQLite PRIVADO, sem perder nada: src/carta/cerebro_v1/__init__.py CÉREBRO v1 — Cérebro Megazord Supremo da …
+
+- EG015 — Pai do Grafo e Rigor (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …vação solicitada em 10/10/2026. O checkpoint GRAFOS_SAO....txt traz marca de 07/10/2026; a Biblioteca registra criação em 07/10/2026. Sem exportação temporal completa dos turnos, não se confirma início exato nem duração literal "72 horas". PROCEDÊNCIA DE BRANCHES: o usuário chama este território de …
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …uagem Humanidade/Tamagotchi; contemporâneo à grande arqueologia/fechamento do Meu Robô; anterior à futura síntese entre atlas. ANCESTRALIDADE COMPROVÁVEL - linguagem e metáforas herdadas de chat ancestral; - patrimônio técnico Meu Robô herdado; - resultados Anti-Gravity/Codex importados; - continui…
+
+- A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+  ….html> A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder fonte: docs/DRIVE_SINCRONIA/2026-10-17/PORTA_EUREKA/DOCS_EXPORTADOS/00_INICIO_PORTA.txt 🚪🧭 PORTA EUREKA — A OBSERVAÇÃO QUE REENCONTRA A HISTÓRIA ÍNDICE NATIVO PARA ENTRAR SEM SE PERDER | 17 DE OUTUBRO DE 2026 PRIIII… BASE FOGUEIR…
+

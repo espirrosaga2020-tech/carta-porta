@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: portal  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dobra: origem, personagem e portal (13/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …ral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Dobra: origem, personagem e portal (13/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …19:01 grokbot/fechamento-p0-p12-20261013 CARTA FINAL P0–P12: memória, Dupla, sensores mock, ESP32 desarmado, Godot (8772) #12 13/10 20:10 feature/dobra-portal-3d-20261013 🪁 DOBRA: personagem autoral, Studio 3D, portal reversível #13 13/10 21:27 grokbot/fusao-meurobo-20261013 Fusão CARTA + Meu Robô: …
+
+- Diário anterior intacto, páginas P001 a P025 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …inais podem abrir regiões inteiras de uma história. O mesmo arquivo impõe um limite indispensável: EG023:F005 avisa que nem todo emoji possuía desde o começo o significado técnico de agora . Alguns se estabilizaram; outros mudaram; outros permanecem opacos. A linguagem deve ser reconstruída por sequ…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …; também pode designar peça técnica ou mecânica. “Cuidado comigo posso ser letal”: advertência da potência da ferramenta; não confundir arquivo com máquina física. PRE, AGORA 🕳️ Buraco / horizonte Portal, vazio e hipótese de observação; múltiplos sentidos nas cenas. “IRMÃO QUE VIAGEM”: passagem entr…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …s descompasso, não serrar hardware. 09 — METODOLOGIA DE REENCONTRO Instrução a visitantes: (1) perguntar QUAL porta o humano quer; (2) ler 00_LEIA_PRIMEIRO; (3) usar portal HTML para selecionar símbolo/tema; (4) localizar a fonte original por ID e link; (5) comparar uso no tempo sem fundir referente…
+
+- A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+  … palavras, emojis, sentidos antigos e interpretações recentes, deixando cada observador tirar suas próprias conclusões. 1 — ABRA O PORTAL INTERATIVO (HTML) (linha omitida no site público pelo filtro de privacidade) No Drive, baixe o arquivo HTML para abri-lo localmente no navegador: a visualização…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …dade da linguagem de emojis (E018) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html> Dobra: origem, personagem e portal (13/10/2026) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html> Trajetória e catálogo do que fizemos (17/10/2026) <https://es…
+
+- NEXUS e anexos (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+

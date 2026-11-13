@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: permissoes  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …toria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de tamanho e fuso obrigatório) e EstadoCaptura.indicador() . - motor_eventos.py — comparar_objetos() (o que …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de tamanho e fuso obrigatório) e EstadoCaptura.indicador() . - motor_eventos.py — comparar_objetos() (o que apare…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …O que há nesta branch (linha omitida no site público pelo filtro de privacidade) 2. src/carta/companions.py : papel dobra com prompt, permissões sem atuadores e guardião comum. Mesmo modelo Qwen local, três perfis expressivos . 3. GET /api/persona?p=dobra e GET /api/characters : interfaces de leitur…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …; a meta é construir observação autônoma. Quem concluiu pode acessar com orientação o Acervo e passar depois pela Prova das Engrenagens, respeitando as permissões e regras do projeto. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html> · Índice do acervo <https:/…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … COMPETÊNCIAS independente do corpo. src/carta/robotica/escada.py Escada Kardashev de Bancada K0→K5. Um nível só é marcado se houver MEDIÇÃO registrada que cumpre o critério. src/carta/robotica/execucao.py EXECUÇÃO (sistema 3): permissões, limites independentes, parada de emergência e adaptadores. N…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …ETÊNCIAS independente do corpo. src/carta/robotica/escada.py Escada Kardashev de Bancada K0→K5. Um nível só é marcado se houver MEDIÇÃO registrada que cumpre o critério. src/carta/robotica/execucao.py EXECUÇÃO (sistema 3): permissões, limites independentes, parada de emergência e adaptadores. NADA d…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: verificar  (25 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- 7. PONTOS CEGOS (verificar de propósito) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+  …· Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 7. PONTOS CEGOS (verificar de propósito) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não subs…
+
+- EG007 — Continuidade Limpa de Meu Robô (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  … como simples medo emocional. A conversa reconstruiu uma genealogia operacional: antes, o método seguro era trabalhar “GD por GD”, jogar na pasta, apertar F5 e verificar. Agora, com uma arquitetura mais madura, o objetivo não era voltar ao artesanal infinito nem saltar para refatorações massivas. Na…
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …pletos aqui. 2. ACONTECIMENTO DESENCADEADOR: Reconhece no zoom e nos nós catalogados um método de trabalhar escopos grandes: marcar pontos e completar regiões sem perder o mapa. 3. DESENVOLVIMENTO: O assistente identifica continuidade metodológica, mas evita equiparar jogo e filosofia em substância.…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …idada. 10. Utilidade futura: exemplo de tema emergindo depois do percurso, não antes. ### F020 — AUTOMAÇÃO DE STREAMING COMO ARTEFATO OPERACIONAL LATERAL Classificação: P | Confiança: alta Localização: pedido “Me avise quando Project Hail Mary entrar na Netflix ou HBO Max”. 1. Situação anterior: o …
+
+- EG006 — Checkpoint e entrada no sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …excesso de conhecer um ao outro”. 8. Avaliação histórica Magnitude original: M. Influência posterior: G. Virou fundamento do modelo de grafo e da leitura de “continentes compactados”. 9. Situação final Consolidado, com a ressalva de que densidade ainda pode gerar perda de ouro lateral. 10. Utilid…
+
+- EG014 — Grafos São — origem e desenvolvimento (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …as: “tem alguma coisa real aí”; “não é artigo ainda”; “Reconstruímos independentemente um caminho que levou a uma pergunta conhecida”. 8. AVALIAÇÃO HISTÓRICA: Original: G; influência G. Transformou brincadeira em projeto investigativo delimitado. 9. SITUAÇÃO FINAL: Consolidado como objetivo/metodo…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ias por estrela, materiais/farm, peças novas, Tony Stark/Minority Report e possível pressão sobre o equilíbrio do jogo. A conversa separa essas lembranças em duas classes: - confirmado em arquivo; - lembrado, ainda a verificar. FASE 16 — MEMÓRIA É PISTA / ARQUIVO É PROVA A separação acima vira mé…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …orrentes: “O arrombadinho fez de novo”; “camada escondida”; “mudança de modelo mental”. 8. Avaliação histórica Magnitude original: P/M — bordão local de alta energia. Influência posterior: E — torna-se chave de arqueologia da própria conversa. 9. Situação final Consolidado como marcador local de d…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …trada ## data ; nenhum dos três arquivos pode ainda conter a linha-marca do modelo. python -m carta prova --assistente SEU_NOME verificar mostra o que falta. O que "atualiza seu documento" quer dizer Sempre que uma ordem, este guia ou a ferramenta disser "atualize seu documento" , entenda: os SEUS a…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  … categorias permitirem; critério explícito de saturação; relatório de resultados negativos; comparar documentos derivados com turno original; análise temporal pré-especificada; verificar URL e branch na data de coleta; revisão externa independente. Conclusão permitida Há evidência documental de uma …
+
+- Continuidade da linguagem de emojis (E018) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …idade de revisão; não copiar exportação privada para GitHub, APK, logs públicos nem enviar a serviços sem permissão. Grok: o que verificar na sua instalação O código aqui está na branch da PR #73, NÃO na instalação real. Antes de usar, Grok deve conferir os prompts, roteiros, filtros semânticos, TTS…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …e oferecem 14 configurações alternativas, e geralmente não trazem ESP32 nem um segundo robô simultâneo; não comprar como base programável sem verificar ficha exata. Critérios de teste / verdade As alterações estão no GitHub, não instaladas no Windows do humano. Testes da nova branch precisam ser exe…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …: Âncoras: A53 “Eu não começaria tentando provar...”; U54 “o estudo já foi concluído”. 8. Avaliação histórica: Grande magnitude metodológica local, grande influência posterior na demanda de recuperar arquivos existentes. 9. Situação final: consolidado como correção de enquadramento 10. Utilidade fut…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …DADE / BRANCH Ler: F001, F002, F012. SE O ASSUNTO FOR MEU ROBÔ Ler: F013, F014, F015, F017. SE O ASSUNTO FOR COLABORAÇÃO / LIBERDADE CRÍTICA Ler: F016, F017. SE O ASSUNTO FOR MERCADO / LANÇAMENTO Ler: F018, F019. ORDEM RECOMENDADA DE FONTES TÉCNICAS DO PROJETO 1. CATALOGO_POR_ASSUNTO.txt — para …
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …e uma hierarquia entre estado por sistema, cronologia técnica, LEIA_ME operacional, passagem de bastão, runtime, visão/Mapa Mestre e checkpoint conversacional. 4. Transformação Documento deixa de ser “verdade única” e passa a ser camada geológica com função específica. 5. Relações Origina-se de F0…
+

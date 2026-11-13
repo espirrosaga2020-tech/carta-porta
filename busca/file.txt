@@ -1,0 +1,47 @@
+BUSCA POR LINK — termo: file  (11 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Índice do Drive (59)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Mentes, consciências e robótica (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Colheitas e varreduras (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- NEXUS e anexos (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Enciclopédia e engrenagens (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …(trecho omitido pelo filtro)…
+
+- Linha do tempo (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …(trecho omitido pelo filtro)…
+
+- EG020 — Nova Batcaverna (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …referido como COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.txt. - Uma primeira tentativa/V1 é mencionada em associação ao erro “library file not found”. - “Meu Robô 2026” entra apenas como estado herdado, não como projeto investigado nesta engrenagem. COBERTURA E LIMITAÇÕES: Cobertura loca…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ico pelo filtro de privacidade) Espere uns 30 segundos e confira (é só leitura, não grava nada). Abra o PowerShell na pasta [omitido pelo filtro de privacidade] e rode powershell -File tools\pc\PORTA_IA_TESTE_MINIMO.ps1 -Externo . Tem que dar tudo OK, tanto no "local" quanto no "externo". Ele mostra…
+
+- Resultado do aperfeiçoamento (31/10) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …. Suíte completa no PC: 698 testes, 10 falhas / 95 erros, quase todos de ambiente já conhecidos (PermissionError / WinError 32 do sqlite, FileNotFound de web/public , REAL≠MOCK porque o Ollama está ligado). Log: suite_pc_depois.txt . No computador do Grok Bot (Linux) e no CI: verde. ← Anterior <ht…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …links sozinho: Porta, Largada, pista, Consciência. Se o seu ChatGPT tiver Plugins/MCP, dá pra usar também o endereço MCP que aparece embaixo (botão Copiar MCP ). Quando terminar, desligue: powershell -File tools\pc\PORTA_IA_REVOGAR.ps1 -Pausar . Isso corta o acesso na hora e dá pra religar depois. (…
+

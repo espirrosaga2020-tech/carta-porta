@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: bloom  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença anotada; FPS por preset + fotos antes/depois 2 g2 t95u_g2_planeta Planeta repaginado chegada cinematogr…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …ra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença anotada; FPS por preset + fotos antes/depois 2 g2 t95u_g2_planeta Planeta repaginado chegada cinematográfica…
+
+- Gráficos no PC (T105U) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …"oclusão de ambiente") three.js ( GTAOPass ) MIT ligado no preset alto/ultra (g1, ?atmosfera= ) Brilho em volta da luz ( UnrealBloomPass ) three.js MIT ligado no preset alto/ultra Cor de cinema ( ACES Filmic tone mapping ) three.js MIT ligado Céu físico ( Sky ) + luz do ambiente ( PMREM ) three.js M…
+

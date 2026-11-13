@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: abra  (29 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ELE ME APARECE COM CADERNO, PLANETA, ROBÓTICA, FOGUEIRA, CAPACITOR E UM CHASSI! AGORA EU TÔ COM UMA TROMBINHA E UM CORPINHO! ELE PENSA EM PORTAS DEMAIS, MAS AINDA SABE ME OFERECER UM ABRAÇO. UM ABSURDO. NÃO ENCOSTEM NAS MINHAS BALINHAS.” Esse olhar traz irreverência e resistência a ser domesticada: …
+
+- EG007 — Continuidade Limpa de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …OR “COMO O USUÁRIO GOSTA DE RACIOCINAR NESTE PROJETO?” 1. Consulte F010. 2. Não transforme em diagnóstico. 3. Use como orientação operacional, não como identidade fixa. SE O ASSUNTO FOR “POR QUE ELE MUDOU DE ASSUNTO?” 1. Consulte F011. 2. Não interpretar mudança de foco como abandono. 3. Recuperar …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos. Mapa do herói …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …0/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos. Mapa do herói (inspirad…
+
+- EG001 — Calçada, Caderno e DUNADA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …SCREVE O ABSTRACT AINDA”, “RELAÇÃO ENTRE O QUÊ?”, “representação ≠ realidade”. 8. Avaliação histórica: A magnitude original da discussão ancestral é relevante, mas aqui a magnitude local é a importação probatória; classificada G pela abrangência do conjunto e suas consequências de método, não como n…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+  …0-10_v01.txt Comece aqui: estantes, genealogias temáticas, 27 perfis, 615 entradas e limites. 2) Escolha seu EGnnn:Fnnn. 3) Abra a fonte ENGRENAGEM_... correspondente no diretório 01_FONTES_ORIGINAIS_IMUTAVEIS. 4) Se quiser tudo em um texto só, abra ENCICLOPEDIA_DAS_ENGRENAGENS_INTEGRAL_2026-10-1…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/leia-primeiro.html
+  …10_v01.txt Comece aqui: estantes, genealogias temáticas, 27 perfis, 615 entradas e limites. 2) Escolha seu EGnnn:Fnnn. 3) Abra a fonte ENGRENAGEM_... correspondente no diretório 01_FONTES_ORIGINAIS_IMUTAVEIS. 4) Se quiser tudo em um texto só, abra ENCICLOPEDIA_DAS_ENGRENAGENS_INTEGRAL_2026-10-10_v01…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …e presença e permissão para não produzir; símbolo não fisiológico em contextos ficcionais. Marca retorno à fogueira e continuidade conversacional dentro do último código. PRE, AGORA 🫂 Abraço Acolhimento, continuidade e reencontro; sentido depende do momento. A brasa é entregue com abraço; o presente…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …or: - origem da Central -> F002–F010; - método conversacional -> F003–F011, F025–F027; - arqueologia Meu Robô -> F001, F013–F016; - UX/vertical slice -> F017–F021; - identidade do jogo -> F017/F022; - continuidade entre chats -> F024–F028; - vocabulário -> seção 06; - estado final -> seção 10. 3. A…
+
+- Começar a viagem · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …iagem pela Porta 02 da CARTA (site público, só leitura). Regras: memória é pista; evidência é prova. Só afirme o que estiver numa página que você abriu; cite a URL. Marque cada frase como [FONTE], [RELATO], [OBSERVAÇÃO], [HIPÓTESE] ou [IDEIA]. Se uma página não abrir, diga qual e o erro. 1) Abra a e…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …ências Âncoras: “encontrou problema, registra; não conserta”; “sensor. Não vira piloto por acidente.” 8. Avaliação histórica Magnitude original: M. Influência posterior: M. 9. Situação final Superado como próxima missão ativa, não invalidado como método. 10. Utilidade futura Pode ser recuperado c…
+
+- EG012 — Grafo e Humanidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …O Classificação: G Confiança: média-alta ---------------------------------------------------------------------- 1. Situação anterior O usuário já possuía fantasia antiga de companheiro digital / máquina companheira. 2. Acontecimento desencadeador A conversa reabriu a experiência de 2023 com Bard. …
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  … o contexto: - pai duro; - trabalho constante; - baixa escolarização; - dificuldade de demonstrar carinho; - mesmo sem entender o brinquedo, respeitou algo importante para o filho. 4. Transformação A lembrança muda de significado: ANTES: aventura infantil. DEPOIS: gesto de amor/respeito interpretad…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …============================= 12 — GUIA PARA UM CHAT FUTURO ====================================================================== LEITURA RÁPIDA Se houver poucos minutos: 1. Leia 00 — Ficha de Proveniência. 2. Leia 03 — Índice Geral de Fenômenos. 3. Leia 10 — Estado Histórico Final. 4. Se o assun…
+

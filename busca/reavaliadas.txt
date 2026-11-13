@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: reavaliadas  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Histórico das contagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …nte, conteúdo próprio e lugar na estante é engrenagem; diários, cartas, registros e análises de vídeo passam a contar; CP-P01 e AT-V4 reavaliadas /api/enciclopedia/v1/publico , /api/enciclopedia/v1/criterio , registry/ENCICLOPEDIA_ADITIVOS.v1.json (rev 3), registry/ENCICLOPEDIA_REAVALIACOES.v1.json …
+
+- Versão CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  … tem § do PDF Entrega Onde ver §2 57 engrenagens por definição estrutural (+10 novas: DB01–DB03, CT01, CT02, RH01, AV01–AV04); CP-P01/AT-V4 reavaliadas sem apagar /enciclopedia , docs/CARTA20/ENGRENAGENS_CARTA20.md §3 Conhecimento navegável fato/hipótese/interpretação/ficção, divergências preservada…
+

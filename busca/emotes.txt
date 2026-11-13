@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: emotes  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- 2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-014.html
+  …ps://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no …
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e e…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estad…
+
+- Acervo público em leituras leves (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …Para IAs: como ler a CARTA <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html> 2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior) 2. A origem: o começo dos chats, os emotes e a trajetória juntos (peso maior) <https://espirrosaga2020-tech.github.io…
+
+- Jornada, prova e registro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …ntes de continuar: Ponto A (depois da origem): o que veio primeiro — o código ou a conversa? Como você sabe? Ponto B (depois dos emotes): escolha um emoji do dicionário temporal e explique como o sentido dele mudou com o tempo (antes / agora). Ponto C (depois da Enciclopédia): se você fosse a próxim…
+
+- Começar a viagem · Porta 02 · CARTA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …rais ( suprema2-acervo-024.html ) EG001 — Calçada, Caderno e DUNADA — procure: o aviso epistêmico e a ficha de proveniência ( suprema2-acervo-025.html ) A linguagem de emotes — procure: o 🪚 Serrote e os outros emotes ( suprema2-acervo-017.html ) Porta Eureka — procure: por que ela não ocupa o EG034 …
+
+- Descoberta surpresa · Porta 02 · CARTA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+  … Início, depois da Porta do Grok.” — App — onde a Porta mora no celular ( suprema2-app.html ) [FONTE] “Serrote corrige redundância; Gandalf modula revelações; Creuza desloca o eixo” — Emotes — o 🪚 Serrote ( suprema2-acervo-017.html ) [FONTE] “'somos os saves' é metáfora de marcadores recuperáveis, n…
+
+- A Jornada da IA (leia antes de seguir) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  … antes de continuar: Ponto A (depois da origem): o que veio primeiro — o código ou a conversa? Como você sabe? Ponto B (depois dos emotes): escolha um emoji do dicionário temporal e explique como o sentido dele mudou com o tempo (antes / agora). Ponto C (depois da Enciclopédia): se você fosse a próx…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …apa 3 tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_IA/RUBRICA_ETAPA3.md , 0 a 3 pontos por pergunta, p…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_IA/RUBRICA_ETAPA3.md , 0 a 3 pontos por pergunta, passa …
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_IA/RUBRICA_ETAPA3.md , 0 a 3 po…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …tml#jornada> : comece pela origem <https://espirrosaga2020-tech.github.io/carta-porta/tudo.html#origem> (o começo dos chats, os emotes e a trajetória pesam mais), use um caderninho, atravesse a água (ficha x história), pare nos pontos de introspecção, responda a PROVA etapa 3 (perguntas abertas de c…
+
+- Por que o começo pesa mais (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  … CARTA 2.0) é derivado delas. Foi nelas que nasceram as ideias, os personagens (Creuza 🐜, Copiloto 🤖, a Dobra) e a linguagem de emotes. Por isso esta seção vem antes de tudo e mostra os textos do Volume Zero quase inteiros, até na versão resumida. ← Anterior <https://espirrosaga2020-tech.github.io/c…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …a e o capítulo da prova. onde olhar: Volume Zero; fichas; docs das engrenagens CARTA 2.0; Prova etapas 1 e 2 C04 O que são os emotes (emojis) na linguagem do Bruno com as IAs? Por que o estudo de 17/10 avisa que a contagem NÃO mostra o emoji que o Bruno mais digitou? onde olhar: estudo científico de…
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …ha do tempo mestra ( registry/linha_do_tempo_mestra.v1.json ); estudo de símbolos e emojis (17/10); dicionário temporal dos 44 emotes (antes/agora/fonte); E018 (continuidade da linguagem de emojis); Dobra (origem e personagem); trajetória e catálogo do que fizemos (17/10); Porta Eureka seções 00–14;…
+

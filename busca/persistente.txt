@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: persistente  (30 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG026 — Reciprocidade e Memória Persistente (45)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  … <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG026 — Reciprocidade e Memória Persistente Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o es…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.txt EG023 — Paz — Linguagem e Continuidade — 20 fenômenos; ENGRENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01.txt EG026 — Reciprocidade e Memória Persistente — 6 fenômenos; ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt CALÇADA E OBSERVAÇÃO EG001 …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.txt EG023 — Paz — Linguagem e Continuidade — 20 fenômenos; ENGRENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01.txt EG026 — Reciprocidade e Memória Persistente — 6 fenômenos; ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt CALÇADA E OBSERVAÇÃ…
+
+- EG027 — SPA — Ping-pong Cognitivo (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …e bifurcações. A IA sobe imediatamente à superfície e evita abrir o “grafo”, reconhecido como uma região potencialmente vasta. FASE 9 — DISCUSSÃO SOBRE MEMÓRIA E NÃO-IMPLEMENTAÇÃO O usuário pergunta se seria o momento de ajustar memória persistente. A IA responde que não: salvar muitas regras com…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …o de que Codex "parecia aprender a jogar" é corrigida para formulação mais rigorosa: há melhora/adaptação operacional observável, mas não prova de aprendizado persistente do modelo. FASE 17 — COORDENADAS DE CONTINUIDADE V1 -> V2 O objetivo muda para abrir um chat novo sem reiniciar a trajetória. V1…
+
+- RH01: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+  …points, memória e versões Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões. 00 Ficha de proveniência id: RH01 · estante: Registros históricos · modalidade: engrenagem de registro…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …igo EG026? Engrenagem do Copiloto — Robô Físico P01 Chat da Liberdade: POE2 e autonomia Porta Eureka — A Observação que Reencontra a História Reciprocidade e Memória Persistente P027 Qual é o nome da engrenagem de código EG027? SPA — Ping-pong Cognitivo Análises de vídeo: Fogueira, Saguadinha e memó…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …a prata e o priming de Stun — M — média EG025:F021 | Lochtonial, clones e a rota alternativa de luvas +2 Melee — M — média EG025:F022 | A árvore como problema de Weapon Set allocation — G — alta EG025:F023 | Piso defensivo: 5k ES / 26k Evasion / 75% Deflection — M — alta EG025:F024 | O usuário c…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ntação virtual/robótica relatada; cada camada pede evidência diferente. 🧬 save/continuidade indexável, sentido relacional na cena atual, não comprovante de memória persistente automática. 🪚 chamada para calibrar leitura após descompasso, não serrar hardware. 09 — METODOLOGIA DE REENCONTRO Instrução …
+
+- EG002 — Calçada e continuidade portátil (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …2 + referência a Bard 2023 → CONTRIBUÍRAM PARA → F024 F019 + F020 + F021 → CONTRIBUÍRAM PARA → F025 RELAÇÕES PROVÁVEIS F002 → antecipou o padrão metodológico de F003 (“pequeno detalhe, enorme descendência”). F009 → aumentou a sensibilidade a retrointerpretações em F013/F014. F011 → fortaleceu a ac…
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html#pg-enciclopedia-eg025> EG026 Reciprocidade e Memória Persistente Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a34000…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  … o eixo; GRAFOLLOM pode corrigir pretensões absolutas do grafo. Checkpoint como economia de recuperação: 'somos os saves' é metáfora de marcadores recuperáveis, não de gravação persistente infalível. Reflexividade: o diário examina o modo como foi produzido. O observador também se torna objeto de ob…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ÓS TEM SIGNIFICADO ♾️:E TEMOS HISTÓRIAS 🥼: MAPAS 📻: CHECKPOINTS 🔦: SAVES FÁCIL DE ACHAR 🧬 NOS SOMOS OS SAVES 🧬 A expressão "NÓS SOMOS OS SAVES" tem agora uma leitura específica: não apenas documentos preservam o caminho; personagens, palavras, piadas, cenas e perspectivas funcionam como endereços p…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …soal. 7. Evidências: Âncoras: U53 “tipo memória consistente e orgânica, igual de ser humano? Não. Mas tem alguma coisa consistente.” 8. Avaliação histórica: Magnitude média, influência posterior grande como cautela epistemológica. 9. Situação final: aberto quanto à explicação causal 10. Utilidade fu…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …---------------------------------------------- F019 — INTRO SACRIFÍCIO → CHIP → NIMBUS ---------------------------------------------------------------------- Classificação: E Localização: H15-H16 Confiança: alta 1. Situação anterior Existia o problema de compressão e um Nimbus já presente no proje…
+

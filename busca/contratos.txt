@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: contratos  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …ivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de tamanho e fuso obrigatório) e EstadoCapt…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …e cenas curtas. src/carta/t89u/flags.py Flags T89U: desligadas por padrão, MENOS as de PADRAO_LIGADO. src/carta/t89u/graficos.py (f) Gráficos: presets medidos. 'baixo' = visual de hoje (nada piora). src/carta/t89u/olhos_eventos.py (h) Olhos por eventos: contratos de percepção + memória visual voláti…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de tamanho e fuso obrigatório) e EstadoCaptura.i…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …as curtas. src/carta/t89u/flags.py Flags T89U: desligadas por padrão, MENOS as de PADRAO_LIGADO. src/carta/t89u/graficos.py (f) Gráficos: presets medidos. 'baixo' = visual de hoje (nada piora). src/carta/t89u/olhos_eventos.py (h) Olhos por eventos: contratos de percepção + memória visual volátil (só…
+

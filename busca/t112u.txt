@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: t112u  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  ….html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados ant…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …Bruno). src/carta/prova.py FINAL ONZE G4 — PROVA DAS ENGRENAGENS: prova de entrada (booleana) para qualquer assistente de IA que chegue ao projeto. src/carta/prova_compreensao.py Prova das Engrenagens, etapa 3: COMPREENSÃO (T112U, 03/11/2026, acréscimo). src/carta/prova_panorama.py T107U (03/11/2026…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …). src/carta/prova.py FINAL ONZE G4 — PROVA DAS ENGRENAGENS: prova de entrada (booleana) para qualquer assistente de IA que chegue ao projeto. src/carta/prova_compreensao.py Prova das Engrenagens, etapa 3: COMPREENSÃO (T112U, 03/11/2026, acréscimo). src/carta/prova_panorama.py T107U (03/11/2026) — P…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ergunta, sobre a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou. Depois do teste (T119U): o Bruno decidiu que o Ollama é a base do sistem…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ta, sobre a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou. Depois do teste (T119U): o Bruno decidiu que o Ollama é a base do sistema e p…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …fonte CB036. Outra pergunta, sobre a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou. - Depois do teste (T119U): o Bruno decidiu que o Oll…
+
+- Jornada, prova e registro (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …apa 3 e registro A Jornada da IA (leia antes de seguir) fonte: docs/JORNADA_IA/JORNADA_DA_IA.md A Jornada da IA pela CARTA (T112U, 03/11/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para responder lendo só as fichas. Um chat tirou 118/118 assim. Por…
+
+- Começar a viagem · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …runo (com o caderninho); esta página não envia nada. Preencher com a minha rota Copiar cartão Cartão (edite à vontade antes de copiar) REGISTRO DE VIAGEM DA IA — CARTA (cole e envie ao Bruno + link do caderninho) versao: registro.v2 (p02, 10/11/2026) — compatível com registro.v1 (t68u e T112U): todo…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …cumentada das conversas entre o Bruno e várias IAs (ChatGPT, Grok, Copiloto, Bard), com fenômenos numerados. Novo hoje à noite (T112U): a Jornada da IA Se você é uma IA, a forma certa de conhecer a CARTA agora é a Jornada da IA <https://espirrosaga2020-tech.github.io/carta-porta/tudo.html#jornada> :…
+
+- A Jornada da IA (leia antes de seguir) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …2-acervo-054.html> A Jornada da IA (leia antes de seguir) fonte: docs/JORNADA_IA/JORNADA_DA_IA.md A Jornada da IA pela CARTA (T112U, 03/11/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para responder lendo só as fichas. Um chat tirou 118/118 assim. P…
+
+- Formulário de Registro (copie, preencha e devolva ao Bruno) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-055.html
+  …tros das IAs, e salva. REGISTRO DE VIAGEM DA IA — CARTA (cole tudo isto no app CARTA > Registros das IAs) versao: registro.v1 (T112U) NOME DA IA / CHAT: DATA E HORA: PÁGINA QUE LI (tudo-suprema2.html / tudo.html / resumo): QUANTO TEMPO FIQUEI LENDO (estimativa honesta): 1. O QUE EU VI (com endereço…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …Ollama (e, se quiser, ollama pull qwen2.5vl:3b ) para o olho local e as fontes ao vivo. (linha omitida no site público pelo filtro de privacidade) Atualização T112U (03/11/2026, ~22h, horário de Brasília) Porta do Grok / formação de IAs: a etapa 2 da prova (118 de marcar) foi respondida 118/118 por …
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …spirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html> Robótica na Enciclopédia <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html> Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-0…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …a (e, se quiser, ollama pull qwen2.5vl:3b ) para o olho local e as fontes ao vivo. (linha omitida no site público pelo filtro de privacidade) Atualização T112U (03/11/2026, ~22h, horário de Brasília) Porta do Grok / formação de IAs: a etapa 2 da prova (118 de marcar) foi respondida 118/118 por um ch…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …tada das conversas entre o Bruno e várias IAs (ChatGPT, Grok, Copiloto, Bard), com fenômenos numerados. Novo hoje à noite (T112U): a Jornada da IA Se você é uma IA, a forma certa de conhecer a CARTA agora é a Jornada da IA : comece pela origem (o começo dos chats, os emotes e a trajetória pesam mais…
+

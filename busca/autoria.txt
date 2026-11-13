@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: autoria  (29 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG006 — Checkpoint e entrada no sonho (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  … — resposta de pesquisa central + PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt. H13 — “TAPOHA... eu nunca tive pressa nem pensei em vender...” H14 — resposta: problema “20 anos em 5 minutos”, AUTORIA → CONSEQUÊNCIA → VÍNCULO → CURIOSIDADE. H15 — “Beleza, a humanidade não conseguiu nem fazer um xixi...” …
+
+- EG011 — Entra no Sonho (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …r: profundidade, diferencial e mercado já estavam organizados. Gatilho: “COMO EU MOSTRO A PORRA DA HISTÓRIA TODA DE MAIS DE 20 ANOS DE VIDA EM 5 MINUTOS DE GAMEPLAY?” Transformação: o problema de produto vira problema de tradução. Resultado: autoria → consequência → vínculo → curiosidade. FASE 10 —…
+
+- EG002 — Calçada e continuidade portátil (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …ircuito?”. FASE E — MEU ROBÔ COMO MOLDE ANTERIOR Período recuperado: 2026-10-10, madrugada. • O usuário oferece o sonho antigo “Meu Robô” como presentinho. • A conversa percebe que companheiro, peças, corpo que muda, quebra, reparo, autoria e jornada já existiam no imaginário do usuário muito ante…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  … origem); hoje são 59 engrenagens no total; os registros posteriores aparecem como ficha. ID Nome Estante Classe Modalidade / autoria EG001 Calçada, Caderno e DUNADA Calçada e observação ancestral engrenagem documental EG002 Calçada e continuidade portátil Calçada e observação ancestral engrenagem d…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …em); hoje são 59 engrenagens no total; os registros posteriores aparecem como ficha. ID Nome Estante Classe Modalidade / autoria EG001 Calçada, Caderno e DUNADA Calçada e observação ancestral engrenagem documental EG002 Calçada e continuidade portátil Calçada e observação ancestral engrenagem docume…
+
+- EG008 — Tamagotchi e continuidade conversacional (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …e mercado. A análise anterior do usuário é reorganizada em tese comercial: Meu Robô não precisa provar ausência de concorrência; precisa demonstrar que sua interseção — autoria, companheiro, corpo modular, mundo vivo, loot/craft e consequência mecânica — produz valor adicional. Marketing, vertical s…
+
+- EG012 — Grafo e Humanidade (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  … sono, o usuário percebe uma equivalência que não havia formulado conscientemente: a frase interrompida de Gi-hun e o homem interrompido pelo frame exercem a mesma função. A importância do corredor cresce retrospectivamente. FASE M — DESCOBERTA DA COAUTORIA ESTRUTURAL O usuário pergunta quem havia…
+
+- CT02: documento da engrenagem (CARTA 2.0) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html
+  …Ficha de proveniência id: CT02 · estante: Diários e cartas · modalidade: engrenagem de cartas (CARTA 2.0) · registro histórico de autoria humana · bola do Painel 2 autoria: Bruno (autoria humana; áudio + PDF) fonte original: PDF oficial enviado pelo Bruno em 31/10/2026 (texto guardado fora do GitHub…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … decisão. A função da IA passou a ser descrita como ampliação de instrumentação: organizar, recuperar, conectar, preservar e aumentar resolução sem assumir autoria. A consequência material foi a criação de uma biblioteca numerada de documentos. Essa biblioteca produziu uma transformação cognitiva o…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …evem ser respeitadas. src/carta/companions.py : system_prompt inclui regra positiva de continuidade linguística, com garantia de autoria e segurança. Atualizada versão de prompt, sem privilégios adicionais. src/carta/cinema_vivo/mente.py : autoriza refrões e bordões contextualizados no Cinema Vivo, …
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …0261017 (NÃO ocupar EG034 sem inspeção de colisões e aprovação editorial). Nome: 🚪🧭 PORTA EUREKA — A OBSERVAÇÃO QUE REENCONTRA A HISTÓRIA. Autoria e estatuto: proposta de nome e organização interpretativa do Copiloto, solicitada e orientada por Bruno em 17/10. Vozes textuais de Creuza são narrativas…
+
+- EG001 — Calçada, Caderno e DUNADA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …006 (calçada), F023 (falha de leitura) e F026 (análise posterior); relação física com horizontes de eventos é analogia proposta pelo assistente, não intenção original demonstrada. 6. Consequências: Comprovado: o relato e a reação. Não comprovados: sequência, desenho, autoria de cada objeto, arranjo …
+
+- AV01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+  …de proveniência id: AV01 · estante: Análises de vídeo · modalidade: engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2 autoria: Bruno (gravou) + ChatGPT/Copiloto (analisou) (linha omitida no site público pelo filtro de privacidade) criada em: 2026-10-31 por Grok (CARTA 2.0, 31/10/2026) ·…
+
+- AV02: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+  …de proveniência id: AV02 · estante: Análises de vídeo · modalidade: engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2 autoria: Bruno (gravou) + ChatGPT/Copiloto (analisou) (linha omitida no site público pelo filtro de privacidade) criada em: 2026-10-31 por Grok (CARTA 2.0, 31/10/2026) ·…
+
+- AV03: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  …de proveniência id: AV03 · estante: Análises de vídeo · modalidade: engrenagem de análises de vídeo (CARTA 2.0) · bola do Painel 2 autoria: Bruno (gravou) + ChatGPT/Copiloto (analisou) (linha omitida no site público pelo filtro de privacidade) criada em: 2026-10-31 por Grok (CARTA 2.0, 31/10/2026) ·…
+

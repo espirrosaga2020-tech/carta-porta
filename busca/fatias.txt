@@ -1,0 +1,59 @@
+BUSCA POR LINK — termo: fatias  (14 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Teste duro das consciências (T105U, 03/11) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …equipe o Megazord chama (modo SEM IA, bancada de 54). Script: /workspace/t105u/teste/teste_duro.py (fora do repositório; usa as fatias privadas). Teste que fica no repositório: tests/test_t105u.py . # Pergunta provocativa Auto escolheu O que a consciência recebe (fontes) Megazord chamou 1 O robô 4WD…
+
+- RB02: documento da engrenagem (CARTA 2.0) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  …ns A engrenagem que olha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho certo sem ler tudo. 00 Ficha de proveniência {#rb02-00} id…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …renagem das engrenagens" ( docs/engrenagens_carta20/RB02.md ): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em 648 fatias com endereço ( ENC-0001… , MAN-0001… ), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam só no PC ( D…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …em das engrenagens" ( docs/engrenagens_carta20/RB02.md ): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em 648 fatias com endereço ( ENC-0001… , MAN-0001… ), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam só no PC ( [omiti…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …m 8. (Fonte: registry/PAINEL_2_ENGRENAGENS.v1.json , registry/PAINEL_3_ENGRENAGENS.v1.json .) A Enciclopédia de 863 páginas em 3 tomos, 676 fatias, 19 gavetas e 6 Pastas Monstro fica no Drive. (Fonte: Drive, Doc 04, título e seção 3.) No app, a Porta 02 local ( /porta02/index.html , sem JavaScript) …
+
+- p02-t152u-portoes.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …unas: EG028-030 (app), EG040-EG072 e EG069-072 (Drive/ZIP) FEITO 049 5 Ingestão ISOLADA do pacote Argon como "candidatas" EG073–EG100 + fatias ENC-0609..0636 FEITO 050 5 Promover candidata a engrenagem oficial só com evidência (fonte verificável por item) FEITO 051 6 Teste PRÓPRIO do Super Flash V3:…
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …ato do Piloto; sem inventar cena. CL03 — Chave e Contagem: Chave Mestra (apresentação, não porta), genealogia 03→04→05/11, contagem 45→57→59→62, livro 863 pp / 648 fatias, crédito do Bruno ao Grok pelo acesso. Número público pela API. RB01 — Robótica: carrinho 4WD: O robô de verdade da CARTA: chassi…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …----- 1. Situação anterior O projeto era descrito principalmente por features, arquivos e lembranças isoladas. 2. Acontecimento desencadeador A auditoria expõe camadas V1, branch Grok, fatias de setembro e sprint estrutural de outubro. 3. Desenvolvimento O Copiloto abandona a leitura de "um código…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …epo, Drive e Porta batem (só acréscimo). T105U: +RB01 e +RB02 (59 engrenagens, 18 estantes); a Enciclopédia inteira (863 págs.) + Manual fatiados em 648 fatias com endereço (só no PC e no Drive). Conhecimento Cartas e diários por autor/tema/data (t6) parcial 90% 1029 cartas; filtro por autor (copilo…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …eúdo é inventado aqui. src/carta/t101u/rotas.py Rotas /api/t89u/t101u/* (só o dono: o t89u já recusa visitante). Tudo leitura. src/carta/t105u/__init__.py T105U · 03/11/2026: Enciclopédia fatiada (RB02) — rotas só do dono, só leitura. src/carta/t105u/fatias.py T105U (03/11/2026) · ENGRENAGEM DAS ENG…
+
+- Colheitas e varreduras (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …na. CL03 — Chave e Contagem Chave Mestra (apresentação, não porta), genealogia 03→04→05/11, contagem 45→57→59→62, livro 863 pp / 648 fatias, crédito do Bruno ao Grok pelo acesso. Número público pela API. 42 referências inventariadas Os destinos Drive abaixo são privados ou têm permissão não verifica…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …Drive e Porta batem (só acréscimo). T105U: +RB01 e +RB02 (59 engrenagens, 18 estantes); a Enciclopédia inteira (863 págs.) + Manual fatiados em 648 fatias com endereço (só no PC e no Drive). Conhecimento Cartas e diários por autor/tema/data (t6) parcial 90% 1029 cartas; filtro por autor (copiloto 31…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …é inventado aqui. src/carta/t101u/rotas.py Rotas /api/t89u/t101u/* (só o dono: o t89u já recusa visitante). Tudo leitura. src/carta/t105u/__init__.py T105U · 03/11/2026: Enciclopédia fatiada (RB02) — rotas só do dono, só leitura. src/carta/t105u/fatias.py T105U (03/11/2026) · ENGRENAGEM DAS ENGRENAG…
+
+- Descoberta surpresa · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+  …has, box com duas cadeiras.” — Colheitas — CL02 Pit Stop ESFERA (relato do Piloto) ( suprema2-colheitas.html ) [FONTE] “contagem 45→57→59→62, livro 863 pp / 648 fatias” — Colheitas — CL03 Chave e Contagem ( suprema2-colheitas.html ) [FONTE] “Os prefixos são significativos: EG035, CS035 e CB036 coexi…
+

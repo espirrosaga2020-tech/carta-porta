@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: true  (19 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … FOFINHO válido; tag checkpoint-pre-black-mirror-20261016 só local + bundle BM1 pasta/porta nova, nada antigo tocado false conferência no PC pendente BM2 física do planeta true queda livre < 1% contra √(2h/g); período 600,7 s × 600 s; estações ( test_bm_fisica.py ) BM3 matéria por propriedades true …
+
+- Resultado do aperfeiçoamento 2 (31/10) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- NEXUS e anexos (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Colheitas e varreduras (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …tecimento desencadeador Quota grande porém limitada cria oportunidade para uma "paulada booleana grossa". 3. Desenvolvimento Humanidade e Tamagotchi definem autonomia operacional alta e autonomia de produto baixa. A regra TRUE exige comportamento executado, não mera existência de arquivo. 4. Trans…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01(1).txt = ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt : True ENGRENAGEM_GRAFOS_SAO_HISTORIA_v01(1).txt = ENGRENAGEM_GRAFOS_SAO_HISTORIA_v01.txt : True PENDÊNCIAS: 1. Assentar IDs/URLs de chats ancestrais e de branches a partir d…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …NAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01(1).txt = ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt : True ENGRENAGEM_GRAFOS_SAO_HISTORIA_v01(1).txt = ENGRENAGEM_GRAFOS_SAO_HISTORIA_v01.txt : True PENDÊNCIAS: 1. Assentar IDs/URLs de chats ancestrais e de branches a partir da font…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …ra PR e não mexa em nada antes de terminar a Prova das Engrenagens. A ferramenta confere isso: liberado_para_trabalhar só fica true depois do concurso e dos seus arquivos pessoais. Passo a passo Crie a SUA pasta pessoal com o modelo: python -m carta prova --assistente SEU_NOME iniciar Isso cria bots…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …e o restante das regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes de fazer a prova. Ele existe para correção e auditoria. Abrir antes é cola e invalida o protocolo. Para ver o seu progresso: python -m cart…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …medidos (não prometidos). Tudo por acréscimo; nada apagado. Flags no PC: <workspace>/t100u_flags.json (ex.: {"t100u_t10_cris": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …rtão passar · nada na inicialização do Windows. Flags: CARTA_T95U="g1,g2" · arquivo <workspace>/t95u_flags.json {"t95u_g1_atmosfera": true} · numa aba ?t95u=g1 ( ?t95u=0 desliga). Rotas (só dono): GET /api/t89u/t95u/flags , GET /api/t89u/t95u/portoes . Código: src/carta/t95u/ (catálogo + flags) · te…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …rão (já aprovados): a e b . Os outros seguem desligados. Como ligar um portão (dono, no PC): <workspace>/t89u_flags.json com {"t89u_b_save_posicao": true} ou a variável CARTA_T89U=b . Teste numa aba só: http://127.0.0.1:8790/planeta.html?t89u=b . Critério do Portão 1 (esqueleto) — FECHA quando tudo …
+
+- Gráficos no PC (T105U) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …ado MSAA 2× + antisserrilhado de tela (PC); MSAA desligado e 3D em 60% na web SSAO (sombra de contato) ligado ( env.ssao_enabled = true ) SSIL (luz rebatida de tela) desligado ( env.ssil_enabled = false ) Glow (brilho) ligado Névoa volumétrica liga só quando a densidade do bioma passa de 0,012 SDFGI…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …Observacao valida natureza . MemoriaVisual.resumo() para a persona dizer o que viu por último; Mudanca.houve . adicionar() responde True/False (aceitou ou era velha demais). O que foi DESCARTADO (e por quê) Enums Modo / Natureza como classes : trocados por tuplas de texto já usadas no t89u (mesmo co…
+

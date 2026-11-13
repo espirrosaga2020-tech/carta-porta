@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: nexus  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- NEXUS e anexos (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — NEXUS e anexos NEXUS é a arquitetura viva que conecta projetos e suas fontes. O inventário desta entrega contém 30 filhos diretos da pasta, incluindo documentos, pastas e anexos …
+
+- Índice do Drive (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Começar a viagem · Porta 02 · CARTA (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …m leituras leves Enciclopédia e engrenagens ⚙️ Enciclopédia Mentes, consciências e robótica 🧠 Mentes Colheitas e varreduras 🌾 Colheitas NEXUS e anexos 🕸️ NEXUS Aplicativo CARTA 📱 Aplicativo CARTA Índice do Drive 🗂️ Índice do Drive Jornada, prova e registro 🧭 Jornada experiência visual Constelação de…
+
+- Mapa central (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+  …manece privado. Esta entrega reúne 140 itens do Drive, 42 referências de colheitas/varreduras, 30 filhos diretos da pasta NEXUS e 115 leituras leves do acervo público anterior. Não são milhões de links nem uma alegação de ter lido todo o Drive. Salas do projeto Colheitas e varreduras <https://espirr…
+
+- Colheitas e varreduras (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …a2-mapa.html> Porta Suprema 2 — Colheitas e varreduras As colheitas ligam o material documental ao projeto: CL01 Colheita NEXUS; CL02 Pit Stop ESFERA; CL03 Chave e Contagem. A fonte separa relato, documento e implementação: ESCUDO não recebe o número EG040 rejeitado. CL01 — Colheita NEXUS Colheita d…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  … Lite celular Bruno Super anexos YT P06 CapCut, P03 Roteiros, P04 Thumbs, P05 SEO, P08 Radar + ÍNDICE bancada Drive pasta NOVOS ANEXOS v4 NEXUS Arquitetura viva de projetos interligados; super anexos densos Drive pasta NEXUS ESCUDO / forma de agir Pit stop, radinho, Discordar pra Cima (protocolo de …
+
+- 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  …arta-porta/ tudo.html (clássica intacta) · tudo-suprema2.html (esta) · chave.txt · chave-suprema2.txt Drive (conta ESPIRRO / Bruno): 🧭 NEXUS — ARQUITETURA VIVA 🆕 NOVOS ANEXOS v4 — 20261105 (P06/P03/P04/P05/P08 + índice) ENCICLOPEDIA (PDF completo + partes) OURO_PORTA_SUPREMA2_20261105 (es…
+
+- Linha do tempo (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …a mapa e salas sem substituir a entrada ou a clássica. 05/11/2026 15:40 (America/Sao_Paulo) — #136 [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> 05/11/2026 16:08 (America/Sao_Paulo) — #137 t47u — Atlas V5 preenchido + se…
+
+- Descoberta surpresa · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+  … suprema2-enciclopedia.html ) [FONTE] “O inventário desta entrega contém 30 filhos diretos da pasta, incluindo documentos, pastas e anexos — não 30 projetos diferentes.” — NEXUS — o que o inventário é (e não é) ( suprema2-nexus.html ) [FONTE] “Um chat tirou 118/118 assim.” — Jornada da IA — por que …
+
+- Enciclopédia e engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …ens: a Enciclopédia fatiada Aditivo posterior · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/regis…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …/10): 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). CL01 — Colheita NEXUS: Colheita documental 29/10–05/11: 63 itens (C001–C063), Portões 1/1-B/1-C, ESCUDO 01 (discordar para cima, D01–D10), Protocolo, Manual. EG04…
+
+- Aplicativo CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …ena, preservando completa e chave como secundários. PRs #136–#142 — fonte e estado #136 — [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> Mesclado; commit 28004face92018f9b934b30cb34052e1e7f709bd #137 — t47u — Atlas V5 pre…
+
+- 🗝️ CHAVE MESTRA — PORTA SUPREMA 2 (RECHEADA) · ouro 05/11/2026 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt
+  …A (04–05/11/2026) CL01–CL03 · Atlas V5 · neon/Elemento X (⚙️, default X=3) · ALMA/consciências (PR #139) · t56u super anexos YT · APK vc29 · NEXUS · ESCUDO (pit stop, radinho, Discordar pra Cima) · Engrenagens 27→47→76 (camadas de evolução; 62 engrenagens / 19 estantes API 8790; não é bug — Drive "0…
+
+- Busca · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html
+  …seu navegador; nenhuma consulta sai daqui. A busca clássica continua valendo. O que você procura? (ex.: serrote, EG001, Faísca, NEXUS, “Jornada da IA”) Buscar Carregando índice… Sem JavaScript: use o índice por tema , o índice A–Z ou o índice de palavras (texto puro). Dicas Acentos não importam: fai…
+
+- Comece aqui, ChatGPT · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-comece-aqui-chatgpt.html
+  …ma) - Relatórios e pesquisas: https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html (16 publicações no tema) - Colheitas, NEXUS e Drive: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html (3 publicações no tema) - Aplicativo CARTA: https://espirrosaga2020-tech.…
+

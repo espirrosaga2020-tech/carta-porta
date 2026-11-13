@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: sg028  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  … e esfera documental não são um único objeto. Presente entregue nas mãos; mapa de navegação, três olhares, segredo parcialmente aberto. SG028, PRE, AGORA 🧙🏽‍♂️ Mago / Gandalf Em EG010:F008 regula quanto do iceberg revelar; em EG012:F023 acompanha GRAFOLLOM. Reaparece indignado porque “era só uma pal…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ENTE / MÉTODO REPRODUTÍVEL NO CORPUS DOCUMENTAL / NÃO TESTADO NA TRANSFERÊNCIA FUTURA ENTRE CHATS. Origem: MANUAL, VOLUME ZERO, CREUZA V06, SG028, EG033, diário atual e leitura seletiva do GitHub. Ausência crucial: não disponível exportação integral contínua de todas as mensagens ancestrais; não cha…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …onagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeção 15/10 Definitivo, Esferas v0, Planeta, SG028 #18–#27 câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex 16/10 (madrugada) Re…
+
+- Diário anterior intacto, páginas P001 a P025 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …nto de encontro na fogueira. Todos são marcadores narrativos e documentais , não equipamentos físicos que tenham sido transportados pela interface. O texto do último código está preservado em arquivo independente, integral, sem correção ortográfica ou normalização de emojis. Regra central: não reesc…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …prova aprovada e da nota escrita . Concurso público: são 60 questões: 1 de cada EG001–EG027 e o restante das regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes de fazer a prova. Ele existe para correção e au…
+
+- AV04: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html
+  …-16 23:52 (BRT) · Desktop 2026.10.16 - 23.46.58.04.mp4 · conversa “Sincronizar engrenagens CARTA” 05 Relações fonte_original → BACKUP_CHATGPT eco_tematico → EC04 eco_tematico → SG028 eco_tematico → EG026 08 Contradições e correções (preservadas, sem reconciliar) Os vídeos em si não estão no GitHub (…
+
+- DB01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-102.html
+  …570 caracteres · impressão 3aa0aecf6a59 2026-10-16 21:27 (BRT) · conversa “Sincronizar engrenagens CARTA” · 1416 caracteres · impressão 6608edd40a50 05 Relações fonte_original → BACKUP_CHATGPT relacionado → SG028 relacionado → EG035 relacionado → EC1310 08 Contradições e correções (preservadas, sem …
+
+- DB03: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+  …E_20261016.md · sha256 720f27f921171ed6… DIARIO_PLANETA_20261015.md · sha256 7d392b88acddc4ca… DIARIO_REFINO_20261016.md · sha256 3caf399b2b7a6133… DIARIO_SG028_20261015.md · sha256 01976b9dcd9a0360… DIARIO_TRANSCENDENCIA_20261014.md · sha256 ab9faeab09896cb8… RELATORIO_DE_BORDO_F1_INVESTIGACAO_2026…
+
+- Por que o começo pesa mais (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  …7 primeiras engrenagens (EG001 a EG027, o Volume Zero ), reunidas até 10/10/2026. Elas são a base estável: o que veio depois (SG028, GK029/GK030, EG031 em diante, a CARTA 2.0) é derivado delas. Foi nelas que nasceram as ideias, os personagens (Creuza 🐜, Copiloto 🤖, a Dobra) e a linguagem de emotes. …
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …aram marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções). feito Meio (13/10 a 18/10/2026) 16/10 Esferas 6×6, SG028 Saguadinha, GK029/GK030, ids opacos, a Prova das Engrenagens e a ENTRADA OBRIGATÓRIA. feito Meio (13/10 a 18/10/2026) 16→17/10 O EUREKA e a Porta Eureka. feito Meio …
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …nos são IDs editoriais LOCAIS. Fonte auxiliar não incluída na contagem: menu ampliado de 31 entradas em 16/10, Atlas CREUZA V06, SG028, EG033 e diário de 17/10. Contagem computacional: regex Unicode Extended_Pictographic com sequência de modificador/ZWJ; exclusão manual de setas e operadores que coi…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  … a mochila (🎒) e 'nós somos os saves' (🧬). Que problema das IAs esses símbolos ajudam a resolver? onde olhar: dicionário temporal; SG028; diário P001-P025 C10 Por que a etapa 2 (de marcar) dava para colar e esta não? Qual a diferença entre decorar fichas e compreender a história? onde olhar: esta jo…
+
+- A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+  …ependente, construída a pedido de Bruno depois da conversa de reencontro em 17/10/2026. Não substitui a Enciclopédia, CREUZA V06 ou SG028. É um ponto de entrada que permite encontrar personagens, palavras, emojis, sentidos antigos e interpretações recentes, deixando cada observador tirar suas própri…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …xto limpo : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítulo , na ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030): ler CAP --contexto-limpo (a fonte inteira); fazer CAP (20 questões; passa com 18 ); nota CAP --texto "..." (até ~10 linhas, no caderno pr…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …e Value Engineering disponivel 29 EG026 Reciprocidade e Memória Persistente disponivel 30 EG027 SPA — Ping-pong Cognitivo disponivel 31 SG028 Mochila da Saguadinha — Carta, Bússola e Planeta disponivel 32 GK029 Como o Grok observa o Bruno (escrita pelo Grok) disponivel 33 GK029_BRUNO Esse aqui é o B…
+

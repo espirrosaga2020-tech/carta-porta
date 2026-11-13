@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: graficos  (28 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Gráficos no PC (T105U) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Gráficos no PC (T105U) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não subst…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …tral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento nã…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …Portões T95U (03/11/2026): gráficos, mundos, personagens · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T95U (03/11/2026): gráficos, mundos, personagens…
+
+- Portões booleanos t89u (critérios e estado) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …gs.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligados por padrão (já aprovados): a e b . Os outros seguem desligados. Como ligar um portão (dono, no PC…
+
+- Portões booleanos t89u (critérios e estado) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  … flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligados por padrão (já aprovados): a e b . Os outros seguem desligados. Como ligar um portão (dono, no PC): <w…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …dada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30…
+
+- Diagnóstico dos Sonhos (03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …peças de verdade. Fogueira Fogueira / cinema vivo (portão e + g8) parcial 90% g8 LIGADO; luz, partículas, ▶/⏸/✖. Falta sessão longa com o Bruno. Gráficos Gráficos estilo Witcher 3 / BG3 (f + g1) parcial 85% g1 ligado no preset medido; ?atmosfera=baixo volta. Gráficos Mapa do herói estilo HoMM3 parci…
+
+- Diagnóstico dos Sonhos (03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  … de verdade. Fogueira Fogueira / cinema vivo (portão e + g8) parcial 90% g8 LIGADO; luz, partículas, ▶/⏸/✖. Falta sessão longa com o Bruno. Gráficos Gráficos estilo Witcher 3 / BG3 (f + g1) parcial 85% g1 ligado no preset medido; ?atmosfera=baixo volta. Gráficos Mapa do herói estilo HoMM3 parcial 90…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30) foi…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30)…
+
+- Teste duro das consciências (T105U, 03/11) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …rio de Brasília) Autorizado pelo Bruno. Perguntas provocativas sobre o conteúdo NOVO (robô 4WD, Enciclopédia fatiada, bancada, gráficos). Como foi feito (honesto): a IA de voz está desligada por regra (Ollama e Gemini OFF). Então o teste não mede a frase final que a consciência falaria. Ele mede o q…
+
+- EG009 — Bard, Corpo e a própria Conversa (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …uído do patrimônio histórico. EVIDÊNCIA Todos os fenômenos listados possuem âncoras textuais ou regiões claramente identificáveis na conversa acessível. CLASSIFICAÇÕES Foram separadas: - magnitude original; - influência posterior. CAUSALIDADE Relações não demonstradas foram marcadas como provávei…
+
+- EG020 — Nova Batcaverna (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …ervar genealogia, erros, contradições, vocabulário e estado final. - Fontes ancestrais continuam autoridade. FASE 8 — SOBRECOMPRESSÃO VISUAL - Primeiras gerações viram grandes pranchas/infográficos. - Contradição com a regra de imagens independentes. FASE 9 — OITO MAPAS PROGRAMÁTICOS - Oito PNGs +…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …gica consolidada e contribui para F016/F019. 6. Consequências Humanidade ganha uma forma menos defensiva de revisitar a própria trajetória: procurar evidência para compreender, não para “provar superioridade”. 7. Evidências Âncoras: “algumas medições foram feitas com Path of Exile 2 aberto”; contr…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …9U: id, flag, módulos, interfaces e critério booleano. src/carta/t89u/cinema.py (e) Fogueira / Cinema Vivo como entretenimento: roteiro de cenas curtas. src/carta/t89u/flags.py Flags T89U: desligadas por padrão, MENOS as de PADRAO_LIGADO. src/carta/t89u/graficos.py (f) Gráficos: presets medidos. 'ba…
+

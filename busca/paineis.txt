@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: paineis  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ontinuidade desejada não era genérica: havia um ponto de retomada específico. ÚLTIMA MENSAGEM HISTÓRICA ACESSÍVEL A entrega do Atlas final em nove painéis independentes, após a correção do erro de empacotamento em colagens e recortes. Não há, antes do protocolo atual, uma avaliação posterior detalh…
+
+- p02-manual-v12.html (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …: vc31 (1.25.0) . Comparado com o PC: 478 arquivos iguais, 15 diferentes e 69 faltando. Mesmo assim, no modo PC o celular já mostra os Painéis 2 e 3 e a Porta 02 novos, porque lê do PC. - O APK vc32 foi montado como rascunho (não instalado) com o webdist do PC de 13/11, com a mesma assinatura do vc3…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …olta. O Planeta (Terra Grande) logo que abre. Captura do box, 02/11/2026. No box ele aparece escuro; no PC, a cena depende da hora do mundo. O Planeta com a conversa aberta. O chat fica sempre alcançável, por cima dos painéis. A página do Planeta Godot. O jogo de verdade é carregado dentro dela. O M…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … O Planeta (Terra Grande) logo que abre. Captura do box, 02/11/2026. No box ele aparece escuro; no PC, a cena depende da hora do mundo. O Planeta com a conversa aberta. O chat fica sempre alcançável, por cima dos painéis. A página do Planeta Godot. O jogo de verdade é carregado dentro dela. O Meu Ro…
+
+- EG013 — Grafos São — Atlas C.03 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …itado. 10. UTILIDADE FUTURA: Esta é a fonte mandatória para examinar sucessos e falhas das imagens sem reinterpretá-la. ------------------------------------------------------------------------------------------ F018 — PRIMEIRA COLAGEM: MÚLTIPLOS MAPAS APARENTES, UM ARQUIVO -------------------------…
+
+- Mundos da CARTA 2.0 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …o (o cartão antigo cTerra continua em 📦), a frase "· vem da 🌱 Mini Terra" no cartão Acontecimentos e "vêm da 🌱 Mini Terra" no painel do Planeta. §12 Gerenciador de painéis (02/11/2026 — acréscimo) tema/paineis.js (incluído no fim de planeta.html , meu-robo-planeta.html e inicio.html ): só um pai…
+
+- EG014 — Grafos São — origem e desenvolvimento (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …TLAS ANCESTRAL DE CONTINUIDADE” imediatamente anterior à geração da colagem. F029 | M | confiança alta | Atlas produzido como colagem 3×3: desvio de empacotamento | Arquivo visual existente a_wide_detailed_infographic_collage_scene_styliz.png; imagem 1536×1024, nove painéis internos. F030 | M | …
+
+- EG011 — Entra no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …. A primeira versão visual foi considerada excessivamente compactada. A Humanidade exigiu uma correção de empacotamento: “uma imagem = uma função cognitiva”. Depois exigiu nova melhora: não apenas painéis legíveis, mas imagens que “respiram” e contam visualmente a história. Assim, a própria forma de…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …tribuído; exemplos diretos nas mensagens da aprendizagem de ontologia, “nosso artigo”, 35 tiros e texto livre. EG014:F028 | G | confiança alta | Missão Atlas: patrimônio endereçável | Pedido direto “MISSÃO: ATLAS ANCESTRAL DE CONTINUIDADE” imediatamente anterior à geração da colagem. EG014:F029 | …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …que eu nem sei o que é isso”. EG014:F023 | E | confiança alta | Liberação da linguagem espontânea: átomos, aves, nada | Longa mensagem que começa “eu tenho autorização ... falar o que eu tô pensando”; termina “isso é óbvio que alguém já pensou isso”. EG014:F024 | G | confiança alta | Experimento 0 →…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …orrigido. 10. Utilidade futura Ensina a separar falha de conteúdo de falha de embalagem e evita destruir trabalho correto por causa de uma apresentação ruim. --- ### F019 — UMA IMAGEM = UMA FUNÇÃO COGNITIVA PRINCIPAL Classificação: G Localização: correção de empacotamento. Confiança: alta 1. Sit…
+
+- EG020 — Nova Batcaverna (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …imeiras gerações retornam grandes composições multipainel. Desenvolvimento: “MAPA 00” ainda aparece como poster/infográfico denso. Transformação: contradição entre compreensão conceitual e execução visual. Relações: DERIVOU DE F009; CONTRIBUIU PARA F011/F012. Consequências: fica claro que separação …
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …odo suficiente para confirmar efeito duradouro. 9. Situação final Hipótese ativa, não diagnóstico. 10. Utilidade futura Usar como pergunta de investigação, não como rótulo: quando um projeto cresce, quais pressões aparecem e como sustentá-lo sem autodestruição? --- ### F020 — ATLAS CONSULTÁVEL /…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …r (sem efeito com flags desligadas); arquivos novos no MANIFESTO_WEBDIST [x] nada apagado/movido; capturas do Planeta principal antes/depois iguais em painéis e botões [x] testes: tests/test_t89u_portao1.py + suíte do box verde + CI verde Portões Portão a — Organização: Bastidores/Dev só do dono; Pl…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …o na época. SUPREMO 001, CARTA 2.0, Caça-falhas, Aperfeiçoamento 1 e 2, Limpeza segura, Visual cyber (31/10): fechados (PRs #74–#82). Menus/Mini Terra, painéis, Meu Robô no celular, botões cobertos (02/11): PRs #84–#88, fechados. T92U organização do Drive (02/11): feita por outro trabalho (item N da…
+

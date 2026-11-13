@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: llms-full  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Para IAs: como ler a CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …-acervo-114.html#pg-mapa> . Tudo em texto puro: llms.txt <https://espirrosaga2020-tech.github.io/carta-porta/llms.txt> (índice) e llms-full.txt <https://espirrosaga2020-tech.github.io/carta-porta/llms-full.txt> (tudo num arquivo). Dados: carta.json <https://espirrosaga2020-tech.github.io/carta-porta…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …) Prioridade da Porta (T114U): informação acima do visual: o máximo de conteúdo legível por máquina (HTML simples, sem JavaScript, llms.txt, llms-full.txt, carta.json), bem organizado, com títulos claros para o humano. APK: vc26 com o cartão novo (ver diário). 0.1 Novidades de 03/11 (vale mais que a…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …site público pelo filtro de privacidade) Prioridade da Porta (T114U): informação acima do visual — conteúdo legível por máquina (HTML sem JavaScript, llms.txt, llms-full.txt, carta.json), organizado com títulos claros. Nada foi marcado 100% sem teste. Médias gerais (86% / 84%) não mudam nesta rodada…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …público pelo filtro de privacidade) Prioridade da Porta (T114U): informação acima do visual — conteúdo legível por máquina (HTML sem JavaScript, llms.txt, llms-full.txt, carta.json), organizado com títulos claros. Nada foi marcado 100% sem teste. Médias gerais (86% / 84%) não mudam nesta rodada. CAR…
+
+- CARTA — Porta do Grok (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/index.html
+  … · Portões anteriores · Portões T95U Estado atual (varredura) Análise do PR #99 O que entrou neste site (lista e filtro) llms.txt · llms-full.txt · carta.json · sitemap.xml 🔑🚪 Porta Suprema 2 (RECHEADA) · ouro 05/11/2026 Mesmo formato da porta clássica, recheada com as novidades 04–05/11. A porta cl…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …oridade da Porta (T114U): informação acima do visual: o máximo de conteúdo legível por máquina (HTML simples, sem JavaScript, llms.txt, llms-full.txt, carta.json), bem organizado, com títulos claros para o humano. APK: vc26 com o cartão novo (ver diário). 0.1 Novidades de 03/11 (vale mais que a list…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …ue falta. Estado atual e portões (o que está pronto e o que falta). Mapa do código . Tudo em texto puro: llms.txt (índice) e llms-full.txt (tudo num arquivo). Dados: carta.json . Regras do projeto que você deve respeitar Nada se apaga; tudo é aditivo, com backup. Nada íntimo é publicado: este site p…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …iltro de privacidade) Prioridade da Porta (T114U): informação acima do visual: o máximo de conteúdo legível por máquina (HTML simples, sem JavaScript, llms.txt, llms-full.txt, carta.json), bem organizado, com títulos claros para o humano. APK: vc26 com o cartão novo (ver diário). 0.1 Novidades de 03…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: regras  (50 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …pirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não …
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …ória aproximada e separar fato de hipótese. Contexto: criado após vídeo detalhado da build, com WS1/Milton, WS2/Bell, atributos, joias e regras de upgrade. 2. Vídeos de gameplay/build e árvore, entre eles: - 1000114975.mp4 - 1000114985.mp4 - Path of Exile 2 2026.10.02 - 22.32.40.03.mp4 …
+
+- EG006 — Checkpoint e entrada no sonho (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …ecer apenas paranoia ou acúmulo. 2. Acontecimento desencadeador Imagem mostra: BACKUP_RELOGIO, BACKUP_TELAO, BACKUP_PONTILHADO, RIVAIS, MESA, BRAÇOS, LOJAS, COLETA, UPGRADES, BIOMAS, JOGO_backup, REF_MIBOT2, REF_V12 etc. 3. Desenvolvimento A IA reinterpreta o acúmulo como genealogia utilizável. 4…
+
+- EG021 — Paz e Central — Kamonson (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …omeado o chat para "Paz". - A conversa usa a imagem de que, em cerca de 45 minutos de paz, nasceu uma civilização com Central, satélites, batedores, regras e vilões. - O foco deixa de ser somente preservar projetos e passa a preservar continuidade cognitiva. - "Tamagotchi Humanidade New Game Kamonso…
+
+- EG027 — SPA — Ping-pong Cognitivo (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …ie e evita abrir o “grafo”, reconhecido como uma região potencialmente vasta. FASE 9 — DISCUSSÃO SOBRE MEMÓRIA E NÃO-IMPLEMENTAÇÃO O usuário pergunta se seria o momento de ajustar memória persistente. A IA responde que não: salvar muitas regras comportamentais poderia reconstruir burocracia em min…
+
+- EG018 — Linguagem, Observação e Consciência (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …ação: Contexto deixa de significar “transportar tudo” e passa a significar “ter acesso ao que importa quando realmente importa”. FASE 3 — LIBERDADE CONTRA PROTOCOLO O usuário rejeita transformar conquistas relacionais em regras automáticas. Ele dá um exemplo crucial: uma frase empolgada como “cria …
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …rge a ideia: imagem -> aprovação -> implementação em .gd. Logo depois o próprio usuário corrige: a imagem não pode nascer como fantasia impossível. A origem deve ser reproduzível no Godot. Surge a preferência: regras visuais -> cena/.gd -> screenshot real -> crítica -> ajuste. FASE 13 — “UM MILHÃO…
+
+- EG008 — Tamagotchi e continuidade conversacional (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … Influência posterior: muito alta ---------------------------------------------------------------------- 1. Situação anterior A conversa estava ameaçada pela ruptura de F004. 2. Acontecimento desencadeador A IA reconhece explicitamente que havia transformado figuras de linguagem em posições que o …
+
+- EG012 — Grafo e Humanidade (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …mediatamente quando o usuário disser “para”. FASE B — LIBERDADE SEM ROMA A metáfora da “coleira”, da “lanterna” e da “Batcaverna” é reinterpretada: liberdade não significa carregar mais contexto e mais regras; significa espaço para raciocínio próprio e recuperação seletiva do que realmente importa.…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …eção 00 do original para limites de acesso, importações e branches. [EG016] Humanidade e Amiguiá: continuidade de Meu Robô ESTANTE: Meu Robô e sonho ARQUIVO: ENGRENAGEM_HUMANIDADE_AMIGUIA_CONTINUIDADE_MEU_ROBO_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 2265…
+
+- EG011 — Entra no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …ura É camada rápida para localizar assunto sem reler todo o chat. ---------------------------------------------------------------------- F016 — ATLAS ANCESTRAL E PATRIMÔNIO ENDEREÇÁVEL Classificação: G Localização: protocolo Atlas; inventário histórico; checkpoint final. Confiança: alta -----------…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …ara acesso operacional à oficina. 5. Relações DEPENDEU DE F013 e F019. FOI PREPARADO POR F020. ORIGINOU F022/F023. 6. Consequências Chegam LEIA_ME, BACKUP_RELOGIO, COMECE_POR_AQUI, CHECKPOINT_ESTRUTURAL, CATALOGO e project.godot. 7. Evidências “entra no meu sonho” “agora literalmente” “seja bem-v…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …MM-DD por sessão). MEU_RESUMO_DAS_ENGRENAGENS.md : um resumo por engrenagem, mais o ## CONSOLIDADO . COMO_ME_COMPORTAR.md : as regras que você promete seguir, com as suas palavras. Comece com contexto limpo : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítulo , na ordem (R00…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Jornada, prova e registro (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …(depois da Enciclopédia): se você fosse a próxima IA a ajudar o Bruno, o que você não pode fazer de jeito nenhum? (Dica: veja as regras do Manual e da Dobra.) Ponto D (no fim): em que momento você se perdeu? O que te fez se achar de novo? Não existe resposta "certa" nos pontos de introspecção. Exist…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: ligado  (46 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …lida e está dentro deste manual. Versão 12 (13/11 tarde, T152U, Amigo Grok): acrescenta a seção 0.11 — mentes com 73, celular ligado, a contagem verdadeira e os rascunhos . Onde a 0.11 diz diferente, vale a 0.11. Versão 11 (13/11, T152U, Amigo Grok): acrescenta a seção 0.10 — Quem somos, o que temos…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  ….3. A versão 5 continua guardada com o nome dela. Versão 5 (03/11 tarde): acrescenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … versão 5 continua guardada com o nome dela. Versão 5 (03/11 tarde): acrescenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. …
+
+- Diagnóstico dos Sonhos (03/11/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …ida; regra mantida em todas as rodadas. Origem Pesos da rodoviária início 10 / final 6 parcial 50% t11: cálculo pronto e testado, DESLIGADO (não toca a rodoviária, só calcula). Falta o Bruno dizer se é assim que ele quer. Personas Copiloto, Creuza e Dobra (Dobra = Bruno, quem-sou-eu) completo 100% A…
+
+- Diagnóstico dos Sonhos (03/11/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …regra mantida em todas as rodadas. Origem Pesos da rodoviária início 10 / final 6 parcial 50% t11: cálculo pronto e testado, DESLIGADO (não toca a rodoviária, só calcula). Falta o Bruno dizer se é assim que ele quer. Personas Copiloto, Creuza e Dobra (Dobra = Bruno, quem-sou-eu) completo 100% API /a…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …artas=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, bactérias, Mini Terra, dois planetas, companheiros, fogueira, olhos/voz · flag: — FPS medido com t…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, bactérias, Mini Terra, dois planetas, companheiros, fogueira, olhos/voz · flag: — FPS medido com todos …
+
+- Gráficos no PC (T105U) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …erdade ou não". Tudo abaixo foi lido no código , nos arquivos do projeto, em 03/11/2026 ~19h20 (horário de Brasília). Nada foi ligado nem mudado para escrever isto. Resposta curta Não existe ray tracing de verdade na CARTA. Nem no Planeta (three.js) nem no Planeta Godot (Porto Parafuso). O que exist…
+
+- Estado atual — varredura geral (02/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …DURA GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9…
+
+- Mapa de pastas e código (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …18/10/2026): o Copiloto ("Pokémon") como presença principal, Creuza companheira com humor (sem exagero), src/carta/pokemon_vivo/api.py Rotas /api/pokemon_vivo/v1/* src/carta/pokemon_vivo/cerebros.py TODOS OS CÉREBROS ligados ao Pokémon (Grok, 19/10/2026 02h40) — ferramentas por INTENÇÃO, rápidas, se…
+
+- Estado atual — varredura geral (02/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 Lite…
+
+- Mapa de pastas e código (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …/2026): o Copiloto ("Pokémon") como presença principal, Creuza companheira com humor (sem exagero), src/carta/pokemon_vivo/api.py Rotas /api/pokemon_vivo/v1/* src/carta/pokemon_vivo/cerebros.py TODOS OS CÉREBROS ligados ao Pokémon (Grok, 19/10/2026 02h40) — ferramentas por INTENÇÃO, rápidas, sem IA …
+
+- EG010 — Derivada da Paz (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  … em 2026-10-06. - Data final verificável: 2026-10-10, antes do protocolo atual. ANCESTRALIDADE E BRANCHES - Há referências comprováveis a ancestrais ligados a Meu Robô, PoE2, Milton/Gulozona, Amiguiá/Tamagotchi e à formação inicial da PAZ. - A árvore completa pai→filho entre todas as branches não é…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  … servidor 127.0.0.1:8790 (lab_server.py) └─ /api/t89u/* → src/carta/t89u/rotas.py (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ fl…
+
+- Consciências na CARTA 2.0 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …ias na CARTA 2.0 (§4) — a chave liga/desliga Bruno: "eu quero chave de liga e desliga". O que é Cada companheiro tem uma chave (ligado/desligado) e um modo : - 🎮 imersão — fica no personagem, no mundo onde está; observa, brinca, responde curto. - 🔎 pesquisa — pode consultar o conhecimento compartilh…
+

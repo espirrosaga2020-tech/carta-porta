@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: vivos  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …entral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Análise do PR #99 (Olhos Vivos, Copiloto) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …Análise do PR #99 (Olhos Vivos, Copiloto) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Análise do PR #99 (Olhos Vivos, Copiloto) Análise do PR #99 — "Labora…
+
+- EG027 — SPA — Ping-pong Cognitivo (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …iança: alta Localização: instrução explícita do usuário e resposta subsequente da IA. F009 — Primeiro mergulho seletivo com “lanterna” e “cilindro” Classificação: G Confiança: alta Localização: autorização para pesquisar termos específicos sem importar patrimônio. F010 — Operadores cognitivos vivo…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …05 | Personalização como redundância opcional EG026:F006 | Separação entre reciprocidade e bajulação [EG027] SPA — Ping-pong Cognitivo — 16 fenômenos EG027:F001 | Desacoplamento entre continuidade e peso EG027:F002 | Branch como save point e espaço para “bagunçar com liberdade” EG027:F003 | Do…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …CIÊNCIA · chave LIGA/DESLIGA + modo PESQUISA × IMERSÃO por companheiro (CARTA 2.0, 31/10/2026 — PDF §4). src/carta/supremo001.py PORTÃO SUPREMO 001 (21/10/2026) — dados para a vitrine: fenômenos clicáveis (Extraordinária/iceberg) e números vivos do Manual. src/carta/t100u/__init__.py T100U (03/11/20…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …carta-porta/suprema2-acervo-091.html> Celular sem cabo (app vc20, 03/11/2026) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html> Análise do PR #99 (Olhos Vivos, Copiloto) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html> 10. Enciclopédia das Eng…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …| Piso defensivo: 5k ES / 26k Evasion / 75% Deflection — M — alta EG025:F024 | O usuário como operador de trade em tempo real — G — alta EG025:F025 | “Não pesquisa 25 minutos”: a disciplina de execução — G — alta EG025:F026 | “Diarreia galáctica”: símbolo contra sobrecarga — P/M — alta EG025:F027 | …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …IA · chave LIGA/DESLIGA + modo PESQUISA × IMERSÃO por companheiro (CARTA 2.0, 31/10/2026 — PDF §4). src/carta/supremo001.py PORTÃO SUPREMO 001 (21/10/2026) — dados para a vitrine: fenômenos clicáveis (Extraordinária/iceberg) e números vivos do Manual. src/carta/t100u/__init__.py T100U (03/11/2026): …
+

@@ -1,0 +1,55 @@
+BUSCA POR LINK — termo: view  (13 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Índice do Drive (59)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Mentes, consciências e robótica (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Colheitas e varreduras (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- NEXUS e anexos (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Enciclopédia e engrenagens (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …(trecho omitido pelo filtro)…
+
+- Linha do tempo (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …(trecho omitido pelo filtro)…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …(trecho omitido pelo filtro)…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …rra, DeLorean e Início abriram (fotos em [omitido pelo filtro de privacidade] ) Injetar o script antes da página (como WebViewAssetLoader / addDocumentStartJavaScript do androidx.webkit) Android Developers / AndroidX (Google) Apache-2.0; aqui sem a biblioteca (o build é "sem bibliotecas extras") Off…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …im-to-real #8 13/10 11:41 feature/creuza-universos-v5-95-esferas-20261013 V5: 95 esferas, Qwen auto, mundos com cutscenes #9 13/10 12:06 grokbot/v5-preview-20261013 V5 preview: LLM auto, fotos com/sem escala, 3 cutscenes, Atlas 95 (8771) #10 13/10 12:35 feature/v6-godot-robofisico-20261013 V6: períc…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …Nunca apagar de vez. A lixeira só foi usada para duplicatas provadas, com a sua autorização (02/11). O resto só se move, e cada movimento é anotado. Não dizer "pronto" sem teste. Economizar cota. Pastas de versões antigas ( FINAL* , FUSAO , ONZE , TRANSCENDENCIA* , MUNDO_VIVO* , V3 , V5_PREVIEW , ES…
+
+- Gráficos no PC (T105U) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …o, imagem sintética para testar visão, Godot Web sem threads. Candidatos não adotados: MediaPipe Tasks Vision, Meshopt/KTX2, model-viewer e Filament (Google). Nenhum desses é de gráficos com ray tracing. Se um dia quiser ray tracing de verdade (só ideia, nada instalado) three.js: three-gpu-pathtrace…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … apagar de vez. A lixeira só foi usada para duplicatas provadas, com a sua autorização (02/11). O resto só se move, e cada movimento é anotado. Não dizer "pronto" sem teste. Economizar cota. Pastas de versões antigas ( FINAL* , FUSAO , ONZE , TRANSCENDENCIA* , MUNDO_VIVO* , V3 , V5_PREVIEW , ESFERAS…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …: - Nunca apagar de vez. - A lixeira só foi usada para duplicatas provadas, com a sua autorização (02/11). - O resto só se move, e cada movimento é anotado. - Não dizer "pronto" sem teste. Economizar cota. - Pastas de versões antigas ( FINAL* , FUSAO , ONZE , TRANSCENDENCIA* , MUNDO_VIVO* , V3 , V5_…
+

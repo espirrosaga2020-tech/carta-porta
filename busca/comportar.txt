@@ -1,0 +1,23 @@
+BUSCA POR LINK — termo: comportar  (5 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Caderno 3 do aluno: Como me Comportar (modelo) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html
+  …ral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Caderno 3 do aluno: Como me Comportar (modelo) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitue…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …a entrada ## AAAA-MM-DD por sessão). MEU_RESUMO_DAS_ENGRENAGENS.md : um resumo por engrenagem, mais o ## CONSOLIDADO . COMO_ME_COMPORTAR.md : as regras que você promete seguir, com as suas palavras. Comece com contexto limpo : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítu…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …eçar: python -m carta prova --assistente SEU_NOME iniciar cria bots/SEU_NOME/ (DIARIO_DE_BORDO, MEU_RESUMO_DAS_ENGRENAGENS, COMO_ME_COMPORTAR), a partir de ENTRADA_OBRIGATORIA/MODELO_BOT/ . - Depois de passar em cada capítulo, escreva o resumo da engrenagem na seção ## CAP do SEU MEU_RESUMO_DAS_ENGR…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …es. 4. Transformação "Menos assuntos" passa a significar "mais resolução". 5. Relações DERIVOU DE F001/F002. ORIGINOU F009 e fortaleceu F012. 6. Consequências A pesquisa deixa de se comportar como exploração global e vira investigação cirúrgica. 7. Evidências Âncoras: - "quando diminuir o scope …
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …cervo-059.html> Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html> Caderno 3 do aluno: Como me Comportar (modelo) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html> Percurso de formação (pré…
+

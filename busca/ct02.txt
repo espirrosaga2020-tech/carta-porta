@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: ct02  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- CT02: documento da engrenagem (CARTA 2.0) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — CT02: documento da engrenagem (CARTA 2.0) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no …
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …nagem de código CT01? Chat da Liberdade: POE2 e autonomia Engrenagem V4 — Atlas Técnico de Conectividade Cartas da travessia (10/10 → 15/10) Calçada e continuidade portátil P052 Qual é o nome da engrenagem de código CT02? A Fogueira que Não Precisa de Final Checkpoint e entrada no sonho Carta 2.0: d…
+
+- Versão CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …(trecho omitido pelo filtro)…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …cartas posterior engrenagem de diários (CARTA 2.0) · bola do Painel 2 CT01 CT01 — Cartas da travessia (10/10 → 15/10) Diários e cartas posterior engrenagem de cartas (CARTA 2.0) · bola do Painel 2 CT02 CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026) Diários e cartas posterior engrenagem…
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …ia (10/10 → 15/10) Aditivo posterior · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCIC…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …s posterior engrenagem de diários (CARTA 2.0) · bola do Painel 2 CT01 CT01 — Cartas da travessia (10/10 → 15/10) Diários e cartas posterior engrenagem de cartas (CARTA 2.0) · bola do Painel 2 CT02 CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026) Diários e cartas posterior engrenagem de c…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …29 → GK036) disponivel 41 DB03 Diários e relatórios de bordo do projeto disponivel 42 CT01 Cartas da travessia (10/10 → 15/10) disponivel 43 CT02 Carta 2.0: diretriz geral de finalização disponivel 44 RH01 Registros históricos: checkpoints, memória e versões disponivel 45 AV01 Análises de vídeo: Pat…
+
+- Histórico das contagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …a R3 para a CARTA 2.0 +10 engrenagens novas, todas com ficha de proveniência e originais intactos: DB01–DB03 (diários de bordo), CT01–CT02 (cartas), RH01 (registros históricos), AV01–AV04 (análises de vídeo). Arquivos: docs/engrenagens_carta20/*.md (gerados por tools/carta20/gerar_engrenagens_ca…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …aga2020-tech.github.io/carta-porta/suprema2-acervo-099.html> CT01: documento da engrenagem (CARTA 2.0) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html> CT02: documento da engrenagem (CARTA 2.0) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html>…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …briram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos. CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026): A carta-ordem do Bruno que autorizou a CARTA 2.0: engrenagens por estrutura, consciências, Driv…
+

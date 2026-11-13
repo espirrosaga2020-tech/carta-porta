@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: rodoviaria  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ro de privacidade] . APKs antigos: [omitido pelo filtro de privacidade] . Continua DESLIGADO esperando você: as 3 decisões da seção 0.2 (persona, pesos 10/6 da rodoviária, robô físico), Ollama e Gemini. Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md — 86% nos 32 sonhos de antes; 84% cont…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …s nenhum conteúdo íntimo inventado (linha omitida no site público pelo filtro de privacidade) desligado até o Bruno decidir Estado: ⏸ pronto e DESLIGADO — decisão do Bruno t11 — Pesos da rodoviária início 10 / final 6: cálculo pronto, DESLIGADO, só leitura Sonho: Pesos da rodoviária 10/6 · flag: t10…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …hum conteúdo íntimo inventado (linha omitida no site público pelo filtro de privacidade) desligado até o Bruno decidir Estado: ⏸ pronto e DESLIGADO — decisão do Bruno t11 — Pesos da rodoviária início 10 / final 6: cálculo pronto, DESLIGADO, só leitura Sonho: Pesos da rodoviária 10/6 · flag: t100u_t1…
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …o mostra mais "undefined" (T102U). (linha omitida no site público pelo filtro de privacidade) Continua DESLIGADO esperando você: as 3 decisões da seção 0.2 (persona, pesos 10/6 da rodoviária, robô físico), Ollama e Gemini. Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md — 86% nos 32 sonho…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …cial = existe mas falta um pedaço; falta = não começado ou quase nada. Área Sonho / pedido Situação % O que tem / o que falta Origem Rodoviária preservada (história de origem intocada) completo 100% Nunca mexida; regra mantida em todas as rodadas. Origem Pesos da rodoviária início 10 / final 6 parci…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …= existe mas falta um pedaço; falta = não começado ou quase nada. Área Sonho / pedido Situação % O que tem / o que falta Origem Rodoviária preservada (história de origem intocada) completo 100% Nunca mexida; regra mantida em todas as rodadas. Origem Pesos da rodoviária início 10 / final 6 parcial 50…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …· LEGO "tá torto?" contra o MODELO. Compara as peças que a visão viu (montagem atual) com o modelo do passo N. src/carta/t100u/robo_fisico.py T100U t12 · Robô físico (OpenBot / carrinho diferencial) — ENSAIO A SECO, DESLIGADO. src/carta/t100u/rodoviaria_pesos.py T100U t11 · Pesos da rodoviária (iníc…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …O "tá torto?" contra o MODELO. Compara as peças que a visão viu (montagem atual) com o modelo do passo N. src/carta/t100u/robo_fisico.py T100U t12 · Robô físico (OpenBot / carrinho diferencial) — ENSAIO A SECO, DESLIGADO. src/carta/t100u/rodoviaria_pesos.py T100U t11 · Pesos da rodoviária (início 10…
+

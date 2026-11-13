@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: ct01  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- CT01: documento da engrenagem (CARTA 2.0) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — CT01: documento da engrenagem (CARTA 2.0) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no …
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …03? Paz e Central — Kamonson Carta 2.0: diretriz geral de finalização (31/10/2026) Bard, Corpo e a própria Conversa Diários e relatórios de bordo do projeto (repositório) P051 Qual é o nome da engrenagem de código CT01? Chat da Liberdade: POE2 e autonomia Engrenagem V4 — Atlas Técnico de Conectivida…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …0, agrupamento por relação) · bola do Painel 2 DB03 DB03 — Diários e relatórios de bordo do projeto (repositório) Diários e cartas posterior engrenagem de diários (CARTA 2.0) · bola do Painel 2 CT01 CT01 — Cartas da travessia (10/10 → 15/10) Diários e cartas posterior engrenagem de cartas (CARTA 2.0…
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  … (repositório) Aditivo posterior · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPE…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …rupamento por relação) · bola do Painel 2 DB03 DB03 — Diários e relatórios de bordo do projeto (repositório) Diários e cartas posterior engrenagem de diários (CARTA 2.0) · bola do Painel 2 CT01 CT01 — Cartas da travessia (10/10 → 15/10) Diários e cartas posterior engrenagem de cartas (CARTA 2.0) · b…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …13/10 → 16/10) disponivel 40 DB02 Diários do Grok (GK029 → GK036) disponivel 41 DB03 Diários e relatórios de bordo do projeto disponivel 42 CT01 Cartas da travessia (10/10 → 15/10) disponivel 43 CT02 Carta 2.0: diretriz geral de finalização disponivel 44 RH01 Registros históricos: checkpoints, memór…
+
+- Versão CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …o merge do PR CARTA 2.0. O que esta versão tem § do PDF Entrega Onde ver §2 57 engrenagens por definição estrutural (+10 novas: DB01–DB03, CT01, CT02, RH01, AV01–AV04); CP-P01/AT-V4 reavaliadas sem apagar /enciclopedia , docs/CARTA20/ENGRENAGENS_CARTA20.md §3 Conhecimento navegável fato/hipótese/int…
+
+- Histórico das contagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …ou da R3 para a CARTA 2.0 +10 engrenagens novas, todas com ficha de proveniência e originais intactos: DB01–DB03 (diários de bordo), CT01–CT02 (cartas), RH01 (registros históricos), AV01–AV04 (análises de vídeo). Arquivos: docs/engrenagens_carta20/*.md (gerados por tools/carta20/gerar_engrenagen…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …aga2020-tech.github.io/carta-porta/suprema2-acervo-098.html> AV04: documento da engrenagem (CARTA 2.0) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html> CT01: documento da engrenagem (CARTA 2.0) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html>…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …ojeto (repositório): Os diários e relatórios de bordo guardados no repositório do CARTA (14/10 → 16/10), cada um com sua impressão digital. CT01 — Cartas da travessia (10/10 → 15/10): As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do P…
+

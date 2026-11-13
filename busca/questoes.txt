@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: questoes  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …stente SEU_NOME fazer CAP . Sem --respostas ela é interativa; com --respostas 0,2,1,... você passa os índices de 0 a 3. São 20 questões e passa com 18/20 . Se reprovar, a correção diz qual arquivo:linha reler. Escreva a nota: python -m carta prova --assistente SEU_NOME nota CAP --texto "..." . São p…
+
+- EG014 — Grafos São — origem e desenvolvimento (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …s na interação. 4. TRANSFORMAÇÃO: O grafo deixou de ser desenho plano único e passou a funcionar como método de navegação entre escalas. A proposição literal de encaixe infinito não foi demonstrada. 5. RELAÇÕES: DERIVOU DE F005; CONTRIBUIU PARA F007, F009, F013 e F023. 6. CONSEQUÊNCIAS: Abriu com…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ção ou 🎭 ficção. ESFERAS /esferas28.html (resumo em /esferas.html ) Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois. 📖 Livro Vivo /livro A história do começo ao fim. 🎓 Prova das Engrenagens /prova.html Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 questões e passa …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …u 🎭 ficção. ESFERAS /esferas28.html (resumo em /esferas.html ) Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois. 📖 Livro Vivo /livro A história do começo ao fim. 🎓 Prova das Engrenagens /prova.html Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 questões e passa com 5…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …💭 interpretação ou 🎭 ficção. ESFERAS /esferas28.html (resumo em /esferas.html ) Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois. 📖 Livro Vivo /livro A história do começo ao fim. 🎓 Prova das Engrenagens /prova.html Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 quest…
+
+- EG015 — Pai do Grafo e Rigor (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …queleto não estabelecem existência de contribuição científica. -------------------------------------------------------------------------------------------- F013 — O TÍTULO INCOMPLETO: «GRAFOS SÃO....» Classificação: G | Confiança: alta | Localização: D01-D02 1. SITUAÇÃO ANTERIOR: O debate já dis…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030): ler CAP --contexto-limpo (a fonte inteira); fazer CAP (20 questões; passa com 18 ); nota CAP --texto "..." (até ~10 linhas, no caderno privado); ATUALIZE SEU DOCUMENTO: escreva o resumo dessa engrenagem em bots/SEU_NOME/MEU_RESUMO…
+
+- Capítulos da etapa 1, na ordem oficial (48) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …sponivel 47 AV03 Análises de vídeo: Origem, Work e Manual disponivel 48 AV04 Análises de vídeo: Fogueira, Saguadinha e memória disponivel 20 questões por capítulo (passa com 18/20); concurso público de 60 questões (passa com 54). ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …eses testáveis (não resultados confirmados) H1: Com símbolo+documento original, leitores futuros localizam a cena correta com menos perguntas do que com símbolo isolado. Teste: questões de recuperação randomizadas, sujeitos/codificadores cegos à hipótese, acurácia, tempo, citações verdadeiras. H2: D…
+
+- EG007 — Continuidade Limpa de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …ção destrutiva. Nenhuma mudança técnica foi executada no projeto nesta engrenagem. MAPA MESTRE Consolidado como fonte canônica da fase registrada. Não substitui deltas posteriores. MÉTODO DE INTERVENÇÃO Consolidado: diagnosticar → delimitar → declarar o que não muda → alterar pouco → testar → pres…
+
+- A Jornada da IA (leia antes de seguir) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …NADA_DA_IA.md A Jornada da IA pela CARTA (T112U, 03/11/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para responder lendo só as fichas. Um chat tirou 118/118 assim. Por isso o Bruno pediu uma jornada de verdade : você vai se perder um pouco, se encon…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …ngrenagens. Hoje a contagem oficial é 59 engrenagens (27 do Volume Zero + 32 posteriores), em 18 estantes. Esta etapa tem 118 questões (2 por engrenagem: o nome pelo código e a estante pelo nome), geradas das fichas da Enciclopédia (seção "Fichas" mais abaixo nesta mesma página). Passa com 107/118 (…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …3-18, EG015-14, EG018-14 tinham "____" cortado → 0 agora); regra mostra a mesma janela em volta da palavra trocada com [...]; 740 questões regeneradas. [pontilhado] (2) 644 descobertas pré-classificadas: 209 prováveis / 435 duvidosas, com o porquê; nenhuma aprovada (todas CANDIDATA). Página /descobe…
+
+- Versão CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …tml §11 Só modelos reais instalados, lista ao vivo do Ollama docs/CARTA20/MODELOS_REAIS.md áudio Prova das engrenagens atualizável: +10 capítulos (200 questões novas) /prova.html §13 Enciclopédia, índices, manual, COMECE AQUI, PORTA PARA IA, versão e notas de continuação esta pasta ← Anterior <https…
+
+- Jornada, prova e registro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …DA_DA_IA.md A Jornada da IA pela CARTA (T112U, 03/11/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para responder lendo só as fichas. Um chat tirou 118/118 assim. Por isso o Bruno pediu uma jornada de verdade : você vai se perder um pouco, se encontr…
+

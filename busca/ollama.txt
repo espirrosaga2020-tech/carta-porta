@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: ollama  (20 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na…
+
+- p02-manual-v12.html (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …oje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados)…
+
+- Diagnóstico dos Sonhos (03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …atrás de você; testado no ponta a ponta. Mentes Faísca / convergência de até 4 mentes parcial 80% Abre em 0,7 s; conteúdo depende do Ollama ligado. Mentes Superconsciência (Pesquisa cita fontes / Imersão) parcial 80% t7 + T101U: teste PONTA A PONTA do conversar (modelo de mentira que esquece a fonte…
+
+- Diagnóstico dos Sonhos (03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  … de você; testado no ponta a ponta. Mentes Faísca / convergência de até 4 mentes parcial 80% Abre em 0,7 s; conteúdo depende do Ollama ligado. Mentes Superconsciência (Pesquisa cita fontes / Imersão) parcial 80% t7 + T101U: teste PONTA A PONTA do conversar (modelo de mentira que esquece a fonte → a …
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …02/11/2026) VARREDURA GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão …
+
+- Teste duro das consciências (T105U, 03/11) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …eúdo NOVO (robô 4WD, Enciclopédia fatiada, bancada, gráficos). Como foi feito (honesto): a IA de voz está desligada por regra (Ollama e Gemini OFF). Então o teste não mede a frase final que a consciência falaria. Ele mede o que dá para medir sem IA: 1. o modo que o 🤖 auto escolhe para cada pergunta;…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …voz.py VOZ DA CONSCIÊNCIA (V0.3, 18/10/2026) — camada compatível POR CIMA da Consciência v1. src/carta/convergencia/__init__.py CARTA Convergência: adaptador opt-in de contexto e modelo Ollama local. src/carta/convergencia/analises_historicas.py (descrição omitida pelo filtro) src/carta/convergencia…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …/2026) VARREDURA GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Ap…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …y VOZ DA CONSCIÊNCIA (V0.3, 18/10/2026) — camada compatível POR CIMA da Consciência v1. src/carta/convergencia/__init__.py CARTA Convergência: adaptador opt-in de contexto e modelo Ollama local. src/carta/convergencia/analises_historicas.py (descrição omitida pelo filtro) src/carta/convergencia/anal…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …ooleano (todos verdadeiros para fechar): [ ] microfone em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta abre o mesmo pipeline [ ] STT (/api/ouvir) → IA (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde [ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da fras…
+
+- Resultado do aperfeiçoamento (31/10) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …disparada aos 0,65 s quando o modelo ainda não falou; a primeira frase de conteúdo do servidor continua na faixa de 0,4–1,5 s (depende do Ollama). Pior caso caiu de 4,9 s para 0,7 s até a pessoa ver/ouvir algo. Dados: latencia_faisca_antes.json / latencia_faisca_depois.json . A5 — passo manual (prec…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …no (todos verdadeiros para fechar): [ ] microfone em planeta, inicio, mundo3d, planeta-godot e meu-robo-planeta abre o mesmo pipeline [ ] STT (/api/ouvir) → IA (fala.py/Ollama) → TTS (/api/tts Piper ou voz do navegador) responde [ ] primeira fala da resposta começa em ≤ 2,5 s após o fim da frase (me…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …os docs EG001–EG027 e SG028. EG033: fazer v02 com os cabeçalhos literais do BM15? Rodar os scripts de preservação do PR #42 no PC? BM12–BM14 (desempenho, vista Tamagotchi, pacote BM) e BG0–BG4 (dependem do PC, do Ollama e da cópia do jogo). ← Anterior <https://espirrosaga2020-tech.github.io/carta-po…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …tou, não duplica imersão e modo leve não mudam Estado: ✅ fechado (código) — testes de anexar/não duplicar/não inventar; ao vivo depende de um modelo de IA ligado (Gemini 402, Ollama desligado) t8 — Meu Robô: lojas/arenas/jogo testados por API Sonho: Meu Robô dentro do Planeta · flag: — rotas do Meu …
+

@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: bundle  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ortoes.v1.json . Portão Nome Estado Evidência resumida BM0 diploma + checkpoint false (parcial) diploma FOFINHO válido; tag checkpoint-pre-black-mirror-20261016 só local + bundle BM1 pasta/porta nova, nada antigo tocado false conferência no PC pendente BM2 física do planeta true queda livre < 1% con…
+
+- Mundos da CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …das três escalas em 3D (Tronco · Lupa ×20 · Micro ×400), barra de escala, seres clicáveis §8 Voo suave (o que já existe e como funciona) No bundle do Planeta ( web/src/terra_grande/aventura.js , função _voar ) o voo já é amortecido: aceleração e curva entram por interpolação ( thr , steer com fator …
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …a ≥3 pontos no mapa 2D (sem endereço real) FEITO 019 2 Verificador de integridade no LIGAR (SÓ AVISA) + regra "nunca remendar bundle" FEITO 020 2 Edições soltas só-no-PC → fonte (tema.js, cyber.js/css, miniterra_planeta.js, testes) FEITO 021 3 ☰ CARTA com área de clique correta (desktop e 390 px) FE…
+

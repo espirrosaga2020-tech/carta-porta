@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: reservado  (41 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …de “recortar” a colagem também é rejeitada. - O usuário explicita: não quer recorte; quer painéis novos que “conversem sozinhos”. - A resposta final cria 9 mapas independentes, cada um com função cognitiva principal. FASE 19 — ESTADO IMEDIATAMENTE ANTES DESTA ARQUEOLOGIA - Mapa Mestre preservado. -…
+
+- EG007 — Continuidade Limpa de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  … novo, “mais confortável, mais limpo”, sem perder o nível de continuidade construído antes? A resposta inicial foi otimista: o contexto poderia ser preservado sem carregar um chat gigantesco inteiro. Porém, a própria conversa rapidamente demonstrou que continuidade não é apenas “lembrar coisas”. El…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …idade questiona o padrão. A estratégia evolui para: PONTILHADO -> IMPLEMENTAÇÃO EM LOTE -> REGRESSÃO INTEGRADA -> RETESTE CIRÚRGICO. Testes imediatos ficam reservados a áreas de alto risco. FASE 14 — ORQUESTRAÇÃO DO JOGADOR A pergunta muda de "o sistema existe?" para "o jogador descobre?". Novo Jog…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ida no site público pelo filtro de privacidade) DIMENSÃO: 1702 linhas; 69653 bytes; 18 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO. HASH SHA-256: ab1e7b1247f43121029e51b0a25d67c5af10835b19e13619b08a6c2b51e4e67a RECORTE EDITORIAL: Mapa Mestre, precedência de fontes e intervenção …
+
+- EG004 — Central, Copiloto e Atlas (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …o corrigido. FASE G — ATUALIZAÇÃO DE ESTADO: BASELINE VERDE - Data declarada: 06/10/2026. - Malha canônica verificada. - VERTICAL_SLICE_OK. - SCRIPT_ERRORS=0. - Save real preservado. - Configuração separada do progresso. - Nenhuma alteração incompleta ou teste obrigatório pendente nesta fase, segun…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … site público pelo filtro de privacidade) DIMENSÃO: 1702 linhas; 69653 bytes; 18 fenômenos indexados. STATUS DECLARADO PELO DOCUMENTO: VERIFICADO. HASH SHA-256: ab1e7b1247f43121029e51b0a25d67c5af10835b19e13619b08a6c2b51e4e67a RECORTE EDITORIAL: Mapa Mestre, precedência de fontes e interv…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …quência completa de mensagens. - Há pontos em que a própria conversa registrou falhas de análise excessivamente longa; esses episódios são preservados como parte da história metodológica, não apagados. ==================================================================== 01 — APRESENTAÇÃO HISTÓRICA …
+
+- EG006 — Checkpoint e entrada no sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …AS_E_NAO_APAGAR.txt Função: navegação visual e memória externa. Relação: F020-F023. O. PESQUISA WEB DE MERCADO Natureza: consulta externa realizada em H12. Temas: Gundam Breaker 4, M.A.S.S. Builder, Armored Core VI, Megaton Musashi W, Custom Mech Wars, Megabyte Punch, Cogmind, Botworld, Cargo Hunt…
+
+- EG008 — Tamagotchi e continuidade conversacional (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …7, irmão...” A mensagem inaugura um chat novo deliberadamente mais limpo e pergunta se o contexto e o nível da conversa anterior podem ser preservados sem carregar o peso do chat antigo. ÚLTIMA REGIÃO HISTÓRICA ACESSÍVEL ANTES DO PROTOCOLO O pedido da Humanidade para organizar de forma central: - o…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … 2. Nem todos os arquivos 00–11 estavam montados diretamente na área de trabalho durante esta investigação; sua existência, nomes e funções estão preservados no checkpoint 12 e no histórico da conversa. 3. A árvore completa do código de Meu Robô NÃO foi auditada nesta missão. Portanto, a localização…
+
+- EG023 — Paz — Linguagem e Continuidade (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …equenos com influência posterior grande foram incluídos (F003, F005, F017, F018). - O pedido atual foi excluído da história. LIMITAÇÕES - O início integral da conversa não está todo disponível como transcrição contínua. - Existem mensagens puladas (“Skipped”) e material ancestral acessível apenas p…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …nterpretativa com fonte primária ausente | magnitude M | influência G | confiança alta | A56 após U56 F027 | DUNADA e nada como operador de abertura | magnitude M | influência M | confiança média: nome preservado no contexto, primeira cunhagem inacessível | U54, A55, A56 e testemunhos do chat anteri…
+
+- EG011 — Entra no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …comprimir sistemas e emoção sem enciclopédia. Gatilho: improviso verbal da Humanidade sobre cena inicial de perigo, luta, desmembramento, sacrifício e chip. Transformação: intro passa a ser lida como compressão narrativa sistêmica. Resultado: conceito preservado, não congelado como implementação. F…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …meço limpo como teste de continuidade | G | alta | abertura F002 — Correção de referência: “18h37” → “meio-dia” | P | alta | início F003 — Documento mestre como âncora de continuidade | M | alta | fase inicial F004 — Branch como espaço cognitivo preservado | M | alta | reaquecimento F005 — Limitação…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …como Attack Speed. Correção registrada: - 6% increased Attack Speed durante Flask Effect; - 25% increased Damage durante Flask Effect. Importância: exemplo de por que cada tooltip deve ser nomeado e preservado literalmente. C005 — GOLOSURA -> GULOSONA --------------------------- Correção linguís…
+

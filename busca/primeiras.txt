@@ -1,0 +1,47 @@
+BUSCA POR LINK — termo: primeiras  (11 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG020 — Nova Batcaverna (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  … função cognitiva principal por imagem. - Preservar genealogia, erros, contradições, vocabulário e estado final. - Fontes ancestrais continuam autoridade. FASE 8 — SOBRECOMPRESSÃO VISUAL - Primeiras gerações viram grandes pranchas/infográficos. - Contradição com a regra de imagens independentes. F…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …o CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt. - O documento registra sistema associativo, reciprocidade, protocolo, pai, Milton, carcaça, Gandalf, fios abertos e estado operacional. FASE 18 — MISSÃO ATLAS ANCESTRAL - O usuário solicita um atlas visual cartográfico e histórico. - Primeiras tentati…
+
+- Por que o começo pesa mais (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  …016.html> Por que o começo pesa mais Tudo na CARTA nasceu de conversas longas do Bruno com IAs. Essas conversas viraram as 27 primeiras engrenagens (EG001 a EG027, o Volume Zero ), reunidas até 10/10/2026. Elas são a base estável: o que veio depois (SG028, GK029/GK030, EG031 em diante, a CARTA 2.0) …
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …------------------------------------------------------------ F003 — MECÂNICA PLUS DEIXA DE SER LENDA E VIRA SISTEMA CONFIRMADO Classificação: G Confiança: alta Localização: auditoria e primeiras análises -------------------------------------------------------------------------------- 1. Situação ant…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …a capa: diz "27 do Volume Zero com texto completo" e o total de hoje ( 59 engrenagens ), contado ao vivo. A Enciclopédia geral não fala mais em "primeiras 27 fontes": fala em Volume Zero (a origem). Nova página de teste na Porta do Grok: oi.html , em HTML puro, com a frase "oi, pronto", para testar …
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …o meio é cortado. 8 perguntas testadas: OK (respostas em respostas_8.txt). PONTO DE PARTIDA NOTA 10 (Bruno 21/10 16:47) — PRESERVAR (commit eb7081b + backup) Tema 1 Faísca: não truncar fala nas 2 primeiras palavras (falar longo, parar só se interrompido); gpt-oss lento/não responde (qwen ok); botão …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … outro. ========================================================================================================= V — ROTEIRO CRONOLÓGICO RESPONSÁVEL O acervo mistura data do acontecimento, data de resposta, nome de branch, data de criação do TXT e reinterpretação posterior. Uma ordenação total d…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … outro. ========================================================================================================= V — ROTEIRO CRONOLÓGICO RESPONSÁVEL O acervo mistura data do acontecimento, data de resposta, nome de branch, data de criação do TXT e reinterpretação posterior. Uma ordenação total dos …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …a: diz "27 do Volume Zero com texto completo" e o total de hoje ( 59 engrenagens ), contado ao vivo. A Enciclopédia geral não fala mais em "primeiras 27 fontes": fala em Volume Zero (a origem). Nova página de teste na Porta do Grok: oi.html , em HTML puro, com a frase "oi, pronto", para testar se um…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …o é cortado. 8 perguntas testadas: OK (respostas em respostas_8.txt). PONTO DE PARTIDA NOTA 10 (Bruno 21/10 16:47) — PRESERVAR (commit eb7081b + backup) Tema 1 Faísca: não truncar fala nas 2 primeiras palavras (falar longo, parar só se interrompido); gpt-oss lento/não responde (qwen ok); botão ☰ CAR…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … "27 engrenagens" na capa: diz "27 do Volume Zero com texto completo" e o total de hoje ( 59 engrenagens ), contado ao vivo. A Enciclopédia geral não fala mais em "primeiras 27 fontes": fala em Volume Zero (a origem). Nova página de teste na Porta do Grok: oi.html , em HTML puro, com a frase "oi, pr…
+

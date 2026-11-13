@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: programas  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …ona e fonte; o corpus ancestral continua arquivo histórico, não auto-memória inventada. O usuário pode criar outras fichas e escolher que programas as interpretem; não transplantar “identidade” entre instâncias . Situação dos kits de robô Um chassi de 4 rodas inclui motores DC, mas não inclui automa…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Robótica na Enciclopédia (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html
+  …\ENCICLOPEDIA\ROBOTICA_DO_BRUNO (ou a variável CARTA_ROBOTICA_DIR ). Tem um LEIA-ME.txt e 5 gavetas: componentes , montagens , programas , referencias , diario . Rota (só o dono, só leitura): GET /api/t89u/t101u/robotica → as 5 seções + nomes e tamanhos dos arquivos por gaveta (não lê conteúdo, não …
+
+- RB01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …0) · EG019 (Meu Robô — Copiloto e Máquina de Laranja) · EG006 (Checkpoint e entrada no sonho). gaveta privada no PC: ROBOTICA_DO_BRUNO (componentes, montagens, programas, referências, diário) — agora com as fichas desta engrenagem. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/supre…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …y , precisa do Playwright). 🤖 Robótica na Enciclopédia (só a estrutura): coloque seus arquivos em [omitido pelo filtro de privacidade] (gavetas: componentes, montagens, programas, referencias, diario). A CARTA só lista nomes e tamanhos em /api/t89u/t101u/robotica . Nada foi inventado. Pesquisa de có…
+
+- p02-t152u-novidades.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …027); a enciclopédia cresce só por acréscimo. Painel 2 de esferas com 36 bolas; Painel 3 com 8. Enciclopédia · busca "engrenagem" . Programas e softwares do ecossistema (estado anotado pelo Bruno) FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Ve…
+

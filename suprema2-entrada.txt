@@ -1,3 +1,17 @@
+=== P02-T152U-INICIO ===
+PORTA 02 — ORIENTAÇÃO PARA IAs (13/11/2026) — leia primeiro. Tudo funciona sem JavaScript, só abrindo links.
+1) O que é: a entrada principal da CARTA (projeto do Bruno) para IAs. Só leitura.
+2) Passo a passo: novidades https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.txt -> mapa https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.txt -> chave https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt -> página infinita https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2-resumo.html -> completa https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html
+3) Confirmação: na chave, a palavra-chave começa com OURO- e termina em -KUALA (Koala com K). Diga ao Bruno a palavra exata + a frase ENTRADA-SUPREMA2-PROVA-T68U-20261105.
+4) BUSCA POR LINK (sem JS): https://espirrosaga2020-tech.github.io/carta-porta/busca/<termo>.txt ou .html (minúsculas, sem acento, espaço = hífen). Ex.: https://espirrosaga2020-tech.github.io/carta-porta/busca/faisca.txt  https://espirrosaga2020-tech.github.io/carta-porta/busca/creuza.txt  https://espirrosaga2020-tech.github.io/carta-porta/busca/engrenagem.txt
+   Lista de termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+5) Todas as páginas: https://espirrosaga2020-tech.github.io/carta-porta/p02-todas-as-paginas.html · Portões T152U: https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html · Manual v12: https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+6) Engrenagens: [CENSO-PENDENTE] O CENSO ÚNICO das engrenagens (13/11/2026) ainda está sendo feito. Até ele sair, vale o registro do app: 73 engrenagens oficiais em 87 registros; o Doc 04 do Drive fala em 96 (62 + 6 Gordinhas + 28 do pacote Argon). Os dois números ficam anotados; quem decide é o Bruno.
+=== P02-T152U-FIM ===
+
+
+
+
 PORTA SUPREMA 2 — ENTRADA PEQUENA (texto puro) · CARTA · t68u · 05/11/2026
 
 === P02-INICIO (bloco aditivo Porta 02 Intergaláctica, protótipo 10/11/2026) ===

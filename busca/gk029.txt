@@ -1,0 +1,59 @@
+BUSCA POR LINK — termo: gk029  (14 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …orean, tema Lab em tudo 17/10 (tarde) Android Grok, Eureka #53–#54 app CARTA Grok ( br.com.carta.grok ), "saber mais", ícone oficial, diário na GK029, organização do D: 17/10 (16h) Organização brutal (este PR) esta pasta SUBIR_PARA_O_DRIVE 2.2 Todos os PRs (#1 → #54) Legenda de autor pelo prefixo da…
+
+- DB02: documento da engrenagem (CARTA 2.0) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html
+  …ma2-acervo-104.html> DB02: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/DB02.md DB02 — Diários do Grok (GK029 → GK036) Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência. 00 Fich…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …nome da engrenagem de código EG004? Central, Copiloto e Atlas Extraordinária — Ciência, Descobertas e Linguagem Diários do Grok (GK029 → GK036) Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) P005 Qual é o nome da engrenagem de código EG005? Bard, Corpo e a própria Conversa Eu …
+
+- Capítulos da etapa 1, na ordem oficial (48) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …istente disponivel 30 EG027 SPA — Ping-pong Cognitivo disponivel 31 SG028 Mochila da Saguadinha — Carta, Bússola e Planeta disponivel 32 GK029 Como o Grok observa o Bruno (escrita pelo Grok) disponivel 33 GK029_BRUNO Esse aqui é o Bruno (GK029; citações da Enciclopédia, escrita pelo Grok) disponivel…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …al SG028 Mochila da Saguadinha — Carta, Bússola e Planeta Calçada e observação posterior pré-engrenagem aditiva com registro documental GK029 Como o Grok observa o humano Reciprocidade e Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo aut…
+
+- Enciclopédia e engrenagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> GK029 Como o Grok observa o humano Snapshot 18/10 · registro-fonte <https://github.com/espirrosag…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …028 Mochila da Saguadinha — Carta, Bússola e Planeta Calçada e observação posterior pré-engrenagem aditiva com registro documental GK029 Como o Grok observa o humano Reciprocidade e Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral …
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …po : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítulo , na ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030): ler CAP --contexto-limpo (a fonte inteira); fazer CAP (20 questões; passa com 18 ); nota CAP --texto "..." (até ~10 linhas, no caderno privado);…
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …dia (13/10), o Diário de Bordo da Saguadinha Intergaláctica (15/10) e a atualização do diário no Drive (16/10). DB02 — Diários do Grok (GK029 → GK036): Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergênci…
+
+- Por que o começo pesa mais (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  …iras engrenagens (EG001 a EG027, o Volume Zero ), reunidas até 10/10/2026. Elas são a base estável: o que veio depois (SG028, GK029/GK030, EG031 em diante, a CARTA 2.0) é derivado delas. Foi nelas que nasceram as ideias, os personagens (Creuza 🐜, Copiloto 🤖, a Dobra) e a linguagem de emotes. Por iss…
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …ras sem ninguém ensinar (590 descobertas, 210 construções). feito Meio (13/10 a 18/10/2026) 16/10 Esferas 6×6, SG028 Saguadinha, GK029/GK030, ids opacos, a Prova das Engrenagens e a ENTRADA OBRIGATÓRIA. feito Meio (13/10 a 18/10/2026) 16→17/10 O EUREKA e a Porta Eureka. feito Meio (13/10 a 18/10/202…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …tral CREUZA V06 22 regiões, 119 fichas, 67 arquivos no ZIP original. 15/10: SG028, três portas, sem fundir objetos semelhantes. 16/10: adendos SG028/GK029/GK030, EG033 e menu ampliado; diferentes estados de revisão/PR. 17/10: reencontro na fogueira, diário P001–P025, tela 3D e compras compartilhadas…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …m prova (20, aprova com 18) SG028 Mochila da Saguadinha fechamento_20261015 (00, 01, 09) + 00_LEIA_PRIMEIRO (PRs #20/#25) com prova GK029 e GK030 (escritas pelo Grok) registry/esferas_grok_autoria.v1.json com prova As fontes estão copiadas em fontes/<CAP>/ linha por linha, com uma única mudança: os …
+
+- Linha do tempo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …s sem ninguém ensinar (590 descobertas, 210 construções). feito Meio (13/10 a 18/10/2026) 16/10 Esferas 6×6, SG028 Saguadinha, GK029/GK030, ids opacos, a Prova das Engrenagens e a ENTRADA OBRIGATÓRIA. feito Meio (13/10 a 18/10/2026) 16→17/10 O EUREKA e a Porta Eureka. feito Meio (13/10 a 18/10/2026)…
+

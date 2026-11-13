@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: versao  (66 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (35)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …arta-porta/suprema2-acervo-070.html> Manual de Tudo da CARTA (v10, 03/11/2026) 📘 MANUAL DE TUDO DA CARTA Manual e orientações · versão 10, de 03/11/2026 ~22h30 (horário de Brasília). A versão 9 continua no repositório. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer age…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (35)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …pa Portões Estado llms.txt JSON Manual de Tudo da CARTA (v10, 03/11/2026) 📘 MANUAL DE TUDO DA CARTA Manual e orientações · versão 10, de 03/11/2026 ~22h30 (horário de Brasília). A versão 9 continua no repositório. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente q…
+
+- p02-manual-v12.html (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …Manual de tudo v12 · Porta 02 · CARTA ← Entrada 📘 MANUAL DE TUDO DA CARTA Manual e orientações · versão 12, de 13/11/2026 ~13h (horário de Brasília). A versão 11 continua no repositório, intocada. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualqu…
+
+- Versão CARTA 2.0 (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Versão CARTA 2.0 Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem …
+
+- EG004 — Central, Copiloto e Atlas (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …O - Estado atual passa a HUMAN PLAYTEST → SENSAÇÃO → CALIBRAÇÃO → PRODUTO → CAPTURA/COMUNICAÇÃO. - Permanecem decisões humanas sobre intro, dificuldade, economia, dano, ritmo, diversão e arte. - Nenhuma missão técnica automática fica aberta. FASE I — ATLAS ANCESTRAL DE CONTINUIDADE - Data contextua…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …(trecho omitido pelo filtro)…
+
+- EG006 — Checkpoint e entrada no sonho (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …é a última mensagem anterior ao protocolo de arqueologia recebido em 10/10/2026. FRONTEIRA O protocolo “ARQUEOLOGIA DAS ENGRENAGENS — Versão 2.0” é instrução de investigação e NÃO integra o conjunto histórico catalogado. PRIMEIRA MENSAGEM HISTÓRICA ACESSÍVEL Mensagem do usuário que começa com: “Ma…
+
+- EG011 — Entra no Sonho (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …NAGEM_ENTRA_NO_SONHO_HISTORIA_v01 ARQUEOLOGIA DAS ENGRENAGENS — HISTÓRIA DA CONVERSA Estado da investigação: VERIFICADO PARCIALMENTE Versão do documento: v01 ====================================================================== 00 — FICHA DE PROVENIÊNCIA ===========================================…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …PILOTO_LARANJA_PLUS_20261005_HISTORIA_v01 ARQUEOLOGIA HISTÓRICA DA CONVERSA — MEU ROBÔ / COPILOTO / MÁQUINA DE LARANJA / MECÂNICA PLUS Versão: 1.0 Estado da investigação: VERIFICADO PARCIALMENTE Data de produção arqueológica: 2026-10-10 Período histórico principal reconstruído: 2026-10-05 =========…
+
+- EG021 — Paz e Central — Kamonson (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …original · SHA-256 conferido (8ad04c9216803612…) ENGRENAGEM_PAZ_CENTRAL_KAMONSON_HISTORIA_v01 HISTÓRIA ARQUEOLÓGICA DA CONVERSA "PAZ" Versão: v01 Estado da investigação: VERIFICADO PARCIALMENTE Data de produção: 2026-10-10 ============================================================================…
+
+- EG013 — Grafos São — Atlas C.03 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …HA-256 conferido (b91813c699007fa9…) ENGRENAGEM — HISTÓRIA LOCAL, GENEALOGIA E AUDITORIA Identificador editorial: GRAFOS_SAO_ATLAS_C03 Versão: v01 Data da documentação: 2026-10-10 ESTADO: VERIFICADO PARCIALMENTE Objeto histórico: diálogo acessível anterior ao protocolo arqueológico 2.0. Formato: TXT…
+
+- EG015 — Pai do Grafo e Rigor (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …DO GRAFO / RIGOR ARQUEOLOGIA DAS ENGRENAGENS — HISTÓRIA VERIFICÁVEL DO RECORTE Identificador editorial: GRAFOS_SAO_PAI_DO_GRAFO_RIGOR Versão: v01 Documentação: 2026-10-10 ESTADO FINAL: VERIFICADO PARCIALMENTE Formato: TXT em UTF-8 | índice rápido + dossiês independentes Este arquivo documenta uma c…
+
+- EG020 — Nova Batcaverna (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …s da correção. - Regra de ouro: reduzir escopo sem reduzir inteligência. - Método: RECONHECIMENTO → CALIBRAÇÃO → ESTADO → EXECUÇÃO. FASE 6 — MAPA, NÃO ROTEIRO - “Não tente imitar uma versão arquivada de você.” - Coordenadas deixam de ser possível molde de personalidade. - Faltou contexto → usar map…
+
+- EG026 — Reciprocidade e Memória Persistente (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  …SISTENTE_HISTORIA_v01.txt ESTADO DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE IDENTIFICADOR ESTÁVEL: RECIPROCIDADE_MEMORIA_PERSISTENTE VERSÃO: v01 ====================================================================== 00 — FICHA DE PROVENIÊNCIA =========================================================…
+
+- Celular sem cabo (app vc20, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …6 ~17h, horário de Brasília): Planeta Godot LEVE dentro do celular O que mudou: o APK vc21 (1.17.0-carta20-t102u, 82,6 MB) leva uma versão leve do jogo Godot (Porto Parafuso) em /godot_leve/ . Antes o jogo tinha 154 MB de pacote (texturas sem perda); a versão leve usa texturas WebP com perda e fica …
+

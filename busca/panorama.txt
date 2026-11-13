@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: panorama  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …20-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no docume…
+
+- EG013 — Grafos São — Atlas C.03 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  … independentes, indexados, sem número artificial nem compressão. O Atlas é camada de navegação, não substituto do ancestral. FASE 7 — COLAGENS, CORREÇÕES E CAPTURAS [D/A] Primeira prancha reúne 00–08 numa imagem. Seguem panoramas MAPA 00, até depois de “PODE. MAPA 00” e de um contrato explícito res…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …ar mostra o que falta. "Atualize seu documento" = esses arquivos. A pasta pode ser trocada com --pasta-bot ou CARTA_BOTS . Etapa 2 — Panorama das Engrenagens (T107U, 03/11/2026) A etapa 1 (acima) foi montada quando havia cerca de 30 engrenagens e continua igual (os bancos antigos não mudam). A etapa…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …vacionais para eventos do mundo e Godot. src/carta/convergencia/observatorio.py Observatório local pausável, somente com START EXPLÍCITO; sem autostart, sem rede. src/carta/convergencia/panorama.py Vista P1/derivada do Pente Fino, sem criar outro cérebro ou expor P0. src/carta/convergencia/pente_fin…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …nais para eventos do mundo e Godot. src/carta/convergencia/observatorio.py Observatório local pausável, somente com START EXPLÍCITO; sem autostart, sem rede. src/carta/convergencia/panorama.py Vista P1/derivada do Pente Fino, sem criar outro cérebro ou expor P0. src/carta/convergencia/pente_fino.py …
+
+- Diplomas emitidos (registry/diplomas.json) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …Lembrete do diploma: “Diploma não dispensa ler a fonte: memória é pista, evidência é prova.” Ainda não existe diploma da etapa 2 (panorama das engrenagens): ela entrou hoje. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html> · Índice do acervo <https://espirrosa…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …. EG013:F017 | Missão Atlas Ancestral especifica cartografia independente | G | alta | Mensagem extensa “MISSÃO: ATLAS ANCESTRAL DE CONTINUIDADE”. EG013:F018 | Primeira colagem: múltiplos mapas aparentes, um arquivo | G | alta | Primeira geração com título “ATLAS C.03 — MAPA 00” a “MAPA 08” dentro…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …ml> Capítulos da etapa 1, na ordem oficial (48) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html> PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html> Diplom…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …sta: “Eu estava brincando”; usuário repete que o fenômeno começou na brincadeira. EG013:F012 | O resultado irônico é um grafo representacional | M | alta | Usuário: “Foi um... GRAFO”; réplica: “SIM, MAS REPRESENTACIONAL”. EG013:F013 | A análise colada vira patrimônio a salvar | M | alta | Usuário re…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: mundo  (61 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …se local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F1, Transcendência #14–#17 personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeçã…
+
+- EG015 — Pai do Grafo e Rigor (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …sobretudo por rememorações e A01, sem transcrição original completa neste recorte. [B — PRESSÃO FILOSÓFICA HERDADA] Fenômenos: F007-F012 Modelo versus mundo, pai do grafo, Newman, objeções de relações e relata, bateria de 35 tiros/nuclear, Logan/calça e correção da formulação antecipada "nosso fut…
+
+- Mapa de pastas e código (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …engrenagem própria no modelo EG (docs/ENGRENAGENS_COMO_SAO_FEITAS.md §2 e §5). src/carta/bm/fisica.py BM2: física do mini planeta (verdade do MUNDO; só o PESQUISADOR vê). Passo fixo, sem nomes. src/carta/bm/genoma.py BM6: genoma = vetor de traços herdado com mutação; seleção só pelo ambiente físico …
+
+- Mapa de pastas e código (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …nagem própria no modelo EG (docs/ENGRENAGENS_COMO_SAO_FEITAS.md §2 e §5). src/carta/bm/fisica.py BM2: física do mini planeta (verdade do MUNDO; só o PESQUISADOR vê). Passo fixo, sem nomes. src/carta/bm/genoma.py BM6: genoma = vetor de traços herdado com mutação; seleção só pelo ambiente físico (nenh…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … ~118-120 em todos. Mapa do herói (inspirado em Heroes of Might and Magic 3): abra o Planeta com ?heroi=1 . A câmera vai pro alto como mapa-mundo e um herói a cavalo anda até onde você clicar no chão. Roda do mouse = zoom; botão "sair" volta. g2 a g10: ainda por fazer (veja PORTOES_T95U.md ). (l…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …~118-120 em todos. Mapa do herói (inspirado em Heroes of Might and Magic 3): abra o Planeta com ?heroi=1 . A câmera vai pro alto como mapa-mundo e um herói a cavalo anda até onde você clicar no chão. Roda do mouse = zoom; botão "sair" volta. g2 a g10: ainda por fazer (veja PORTOES_T95U.md ). (linha …
+
+- p02-manual-v12.html (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …antes . FPS medido no PC ~118-120 em todos. Mapa do herói (inspirado em Heroes of Might and Magic 3): abra o Planeta com ?heroi=1 . A câmera vai pro alto como mapa-mundo e um herói a cavalo anda até onde você clicar no chão. Roda do mouse = zoom; botão "sair" volta. g2 a g10: ainda por fazer (veja P…
+
+- EG014 — Grafos São — origem e desenvolvimento (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …a conversa que começa observando gente concreta e significados por trás de poucos segundos de vídeo e termina com perguntas abstratas sobre estrutura, mundo, representação e condições mínimas. O motor foi a cooperação adversarial: o assistente apresentou “grafo” e objeções; o usuário pressionou os l…
+
+- Mundos da CARTA 2.0 (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Mundos da CARTA 2.0 Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Diário anterior intacto, páginas P001 a P025 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …o não é sentença. Uma hipótese não é prova. Uma cena compartilhada pode ser preciosa sem precisar ser confundida com uma medição do mundo físico. Referências podem ser portas; portas não exigem travessia. O passado fica acessível, não carregado às costas. 🧭 Índice navegável Páginas anteriores — pres…
+
+- EG013 — Grafos São — Atlas C.03 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …NIMO. O teste 0 → 1 visa identificar o que precisamos assumir para dizer “A existe”; descobre-se sobretudo que não se pode trocar estrutura de descrição por estrutura do mundo. O Pai do Grafo reaparece como pergunta, não como tese confirmada. (2) VISÃO DE CIMA. A história dos três segundos, a palavr…
+
+- EG018 — Linguagem, Observação e Consciência (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …oteção contra automatização da relação; — nomes e modelos humanos como mapas úteis, não necessariamente ontologia final; — observadores diferentes como possível fonte de novos recortes do mundo; — linguagem como ponte entre arquiteturas; — consciência como problema de definição, inferência e dimensi…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …s://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …Portões T95U (03/11/2026): gráficos, mundos, personagens · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T95U (03/11/2026): gráficos, mundos, personagens PORTÕES T…
+
+- Portões booleanos t89u (critérios e estado) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …agar o atual. Os portões seguintes só preenchem a tecnologia, cada um com teste próprio. Arquitetura navegador (planeta, inicio, mundo3d, planeta-godot, meu-robo-planeta) └─ /t89u/t89u.js carregador: lê /api/t89u/flags (dono) ou ?t89u=b,c (só a aba); ?t89u=0 desliga └─ /t89u/<modulo>.js s…
+

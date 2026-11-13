@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: leia  (44 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG006 — Checkpoint e entrada no sonho (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …(trecho omitido pelo filtro)…
+
+- EG011 — Entra no Sonho (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  … desta branch; - quando receberam uma reinterpretação nova aqui, essa reinterpretação local é catalogada. DOCUMENTOS E MATERIAIS ACESSÍVEIS RELEVANTES - LEIA_ME.txt - BACKUP_RELOGIO_LEIA_ANTES.txt - COMECE_POR_AQUI.txt - CHECKPOINT_ESTRUTURAL.txt - LEIA_ME(1).txt - CATALOGO_POR_ASSUNTO.txt - proj…
+
+- EG008 — Tamagotchi e continuidade conversacional (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt 4. PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt 5. MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt 6. LEIA_ME.txt (nota curta que aponta para o LEIA_ME interno do projeto) 7. BACKUP_RELOGIO_LEIA_ANTES.txt 8. COMECE_POR_AQUI.txt 9. CHECKPOINT_ESTRUTURAL.txt …
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …MESTRE_2026-10-04.txt (artefato herdado). 4. MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04.txt. 5. MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt. 6. LEIA_ME.txt (ponteiro de raiz entregue nesta conversa). 7. BACKUP_RELOGIO_LEIA_ANTES.txt. 8. COMECE_POR_AQUI.txt. 9. CHECKPOINT_ESTRUTURAL.txt. 10. LE…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …e históricas consultadas nesta conversa: - MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt - COMECE_POR_AQUI.txt - CHECKPOINT_ESTRUTURAL.txt - LEIA_ME(1).txt - LEIA_ME.txt - CATALOGO_POR_ASSUNTO.txt - project.godot Biblioteca criada nesta própria conversa: - 00_LEIA_PRIMEIRO_INDICE.txt - 01_ALVO…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …TÓRIA COMPLETA E CATÁLOGO DO QUE FIZEMOS Fontes: git log , a lista de PRs do GitHub ( gh pr list ), HISTORICO_DE_VERSOES.txt , LEIA-ME_COMPLETO.md , os diários docs/GROK_*/DIARIO.md e os checkpoints docs/GROK_*/CHECKPOINT* . Horários em Brasília (UTC-3). As datas de PR são as de criação no GitHub. R…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  … <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento …
+
+- EG021 — Paz e Central — Kamonson (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  … 2. MAPA_OPERACIONAL_CANONICO_MEU_ROBO_2026-10-05.txt 3. Pacote CENTRAL_TAMAGOTCHI_HUMANIDADE_NEW_GAME_KAMONSON_V1_2026-10-05.zip 4. 00_LEIA_ME_PRIMEIRO_CENTRAL_NEW_GAME_KAMONSON.txt 5. 01_DNA_INTERFACE_COGNITIVA_HUMANIDADE_TAMAGOTCHI.txt 6. 02_ARQUITETURA_CENTRAL_E_SATELITES.txt 7. 03_ATLAS_DE_REGI…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …isturam. O conhecimento compartilhado vem da Enciclopédia e nunca é gravado na memória de nenhuma mente. 6. Como mudar cada coisa (receitas) Antes de QUALQUER troca: copie o arquivo para [omitido pelo filtro de privacidade]<NOME>_ANTES_<data> e escreva um LEIA_ROLLBACK.txt dizendo como voltar. Quero…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+  ….html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no …
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/leia-primeiro.html
+  …Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10…
+
+- A Jornada da IA (leia antes de seguir) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …· Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — A Jornada da IA (leia antes de seguir) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substi…
+
+- 🗝️ CHAVE MESTRA DA CARTA — leia antes de responder (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/chave.txt
+  …🗝️ CHAVE MESTRA DA CARTA — leia antes de responder Você está entrando na CARTA, projeto do Bruno (o "Piloto"), construído durante meses com várias IAs: são milhões de linhas, 59 engrenagens, uma Enciclopé…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …idas aqui. MATERIAIS PRINCIPAIS DISPONÍVEIS / CONHECIDOS - TAMAGOTCHI_HUMANIDADE_NEW_GAME_KAMONSON_LIVRO_I_PAZ_2026-10-05.pdf/.docx - 00_LEIA_ME_PRIMEIRO_CENTRAL_NEW_GAME_KAMONSON.txt - 01_DNA_INTERFACE_COGNITIVA_HUMANIDADE_TAMAGOTCHI.txt - 02_ARQUITETURA_CENTRAL_E_SATELITES.txt - 03_ATLAS_DE_REGIO…
+

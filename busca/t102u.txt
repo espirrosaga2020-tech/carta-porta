@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: t102u  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diagnóstico dos Sonhos (03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  … jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de t…
+
+- Celular sem cabo (app vc20, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Diagnóstico dos Sonhos (03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …u o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …nde a 0.5 diz diferente, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz di…
+
+- Celular sem cabo (app vc20, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …nesto). Backup APK vc19: [omitido pelo filtro de privacidade] . Build antigo intacto em [omitido pelo filtro de privacidade] . T102U (03/11/2026 ~17h, horário de Brasília): Planeta Godot LEVE dentro do celular O que mudou: o APK vc21 (1.17.0-carta20-t102u, 82,6 MB) leva uma versão leve do jogo Godot…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … 0.5 diz diferente, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferen…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …de a 0.5 diz diferente, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz dif…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …-viewer , Filament (Google) Apache-2.0 bons para ver um objeto 3D; a CARTA já tem three.js Achados que viraram correção Atualização T102U (03/11/2026): o laço do aplicar(v) foi corrigido em terra.js (no máximo uma troca para o ritmo normal; teste tests/test_t102u.py roda o código de verdade no Node)…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …er , Filament (Google) Apache-2.0 bons para ver um objeto 3D; a CARTA já tem three.js Achados que viraram correção Atualização T102U (03/11/2026): o laço do aplicar(v) foi corrigido em terra.js (no máximo uma troca para o ritmo normal; teste tests/test_t102u.py roda o código de verdade no Node). A e…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: snapshot  (22 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Enciclopédia e engrenagens (48)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …res em conflito. As 27 fontes ancestrais EG001–EG027 formam o Volume Zero. O índice único guarda 47 registros documentais no snapshot de 18/10/2026. Os 29 aditivos posteriores completam 76 registros. A regra de contagem CARTA 2.0 declara 62 engrenagens em 19 estantes: registro documental e engrenage…
+
+- EG006 — Checkpoint e entrada no sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  … ---------------------------------------------------------------------- F008 — HIERARQUIA DE FONTES E ARQUEOLOGIA ANTES DE INTERVENÇÃO ---------------------------------------------------------------------- Classificação: M Localização: H05-H08 Confiança: alta 1. Situação anterior Múltiplos arquivo…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …es docs portões / NEXUS Enciclopédia — totais medidos 27→47→76 camadas de evolução das ENGRENAGENS (27 ancestrais Volume Zero EG001–EG027 → 47 snapshot 18/10 = 27+20 → 76 registros = 47+29 aditivos até 05/11); 62 engrenagens sob regra CARTA 2.0 em 19 estantes (API 8790 oficial). Não é bug; é linha d…
+
+- NEXUS e anexos (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- 6. ENCICLOPÉDIA ÷ 3 (anexo ChatGPT) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-008.html
+  …PEDIA_CARTA_PARTE_1_de_3 , _2_de_3 , _3_de_3 . Camadas de evolução das ENGRENAGENS: 27 ancestrais (Volume Zero EG001–EG027) → 47 (snapshot 18/10, 27+20) → 76 registros (47+29 aditivos até 05/11); 62 contam como engrenagens sob a regra CARTA 2.0 em 19 estantes (API 8790 oficial). Não é bug; é linha d…
+
+- 7. PONTOS CEGOS (verificar de propósito) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+  …0.html> 7. PONTOS CEGOS (verificar de propósito) Engrenagens: camadas de evolução 27 ancestrais (Volume Zero EG001–EG027) → 47 (snapshot 18/10, 27+20) → 76 registros (47+29 aditivos até 05/11); 62 contam como engrenagens sob a regra CARTA 2.0 em 19 estantes (API 8790 oficial). Não é bug; é linha do …
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … anterior ao protocolo atual. E. MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt Natureza: documento canônico herdado. Função: identidade, história, filosofia, sistemas, mercado e fronteiras do projeto. Relação: fonte transversal para F013–F019. Procedência: material herdado de investigação ante…
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …o: registrar o aprendido ao entrar na estrutura operacional. E. MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt Natureza: adendo de maior resolução. Função: corrigir escala do estado atual após novos arquivos. Frase central: “o projeto está MUITO mais implementado...”. F. COMECE_POR_AQUI.txt Nat…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …todológico criado nesta engrenagem. Função: preservar compressão, reciprocidade, Tamagotchi, pai, Milton, Gandalf, carcaça e fios abertos. O usuário declarou ter salvo no Drive e pinado a branch. C. MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04.txt Natureza: primeira devolução operacional. Função: reg…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …com IA e a Mini Terra evoluindo ao vivo (no celular ela é uma fotografia). Como refazer a fotografia do celular: com a CARTA ligada, python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api na pasta do BUILD (nunca no repo), depois build e adb inst…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …depois") Google Workbox / web.dev (padrão de PWA) MIT (Workbox); aqui é código nosso , só o padrão tools/t101u/offline_planeta_snapshot.py fotografa 423 rotas do PC (chão do Planeta perto do sítio, clima, céu, Mini Terra...) e android/t101u/offline_motor.js responde no celular celular em modo avião,…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …+ contrato de destinos. src/carta/terra/nucleo.py A/W01–W05/M01–M03: geografia por chunks, tempo, matéria, objetos físicos com ID estável, física simples e posse causal. src/carta/terra/persistencia.py S04/X03: salvar/carregar o mundo com schema versionado, migração, snapshots com rollback e replay …
+
+- Linha do tempo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …, mas está vazio. planejado fonte: registry/linha_do_tempo_mestra.v1.json Camadas da Enciclopédia 27 fontes ancestrais até 10/10 → snapshot de 47 registros em 18/10 → 29 aditivos até 05/11 = 76 registros. O registro de consciências declara 62 engrenagens, em 19 estantes. Portas públicas e expansão A…
+

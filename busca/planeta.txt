@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: planeta  (46 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (50)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ntinua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (50)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …a guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o…
+
+- p02-manual-v12.html (49)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …tinua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada c…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …l <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões T100U (03/11/2026): o Planeta é o astro Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …Portões T100U (03/11/2026): o Planeta é o astro · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T100U (03/11/2026): o Planeta é o astro PORTÕES T100U — Diag…
+
+- Mundos da CARTA 2.0 (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …ml> Mundos da CARTA 2.0 fonte: docs/CARTA20/MUNDOS_CARTA20.md Mundos na CARTA 2.0 (§6–§10) Mundo Onde Natureza O que tem na 2.0 🌍 Planeta (Terra Grande) /planeta.html ficção (simulação estilizada) 3D real (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, …
+
+- Mapa de pastas e código (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …validador de esfera/engrenagem própria no modelo EG (docs/ENGRENAGENS_COMO_SAO_FEITAS.md §2 e §5). src/carta/bm/fisica.py BM2: física do mini planeta (verdade do MUNDO; só o PESQUISADOR vê). Passo fixo, sem nomes. src/carta/bm/genoma.py BM6: genoma = vetor de traços herdado com mutação; seleção só p…
+
+- Mapa de pastas e código (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …ador de esfera/engrenagem própria no modelo EG (docs/ENGRENAGENS_COMO_SAO_FEITAS.md §2 e §5). src/carta/bm/fisica.py BM2: física do mini planeta (verdade do MUNDO; só o PESQUISADOR vê). Passo fixo, sem nomes. src/carta/bm/genoma.py BM6: genoma = vetor de traços herdado com mutação; seleção só pelo a…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …–#17 personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeção 15/10 Definitivo, Esferas v0, Planeta, SG028 #18–#27 câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex 16/10 (madr…
+
+- Portões booleanos t89u (critérios e estado) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …portão — sem estragar o atual. Os portões seguintes só preenchem a tecnologia, cada um com teste próprio. Arquitetura navegador (planeta, inicio, mundo3d, planeta-godot, meu-robo-planeta) └─ /t89u/t89u.js carregador: lê /api/t89u/flags (dono) ou ?t89u=b,c (só a aba); ?t89u=0 desliga └─ /t8…
+
+- Portões booleanos t89u (critérios e estado) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …o — sem estragar o atual. Os portões seguintes só preenchem a tecnologia, cada um com teste próprio. Arquitetura navegador (planeta, inicio, mundo3d, planeta-godot, meu-robo-planeta) └─ /t89u/t89u.js carregador: lê /api/t89u/flags (dono) ou ?t89u=b,c (só a aba); ?t89u=0 desliga └─ /t89u/<modulo>.js …
+
+- Diagnóstico dos Sonhos (03/11/2026) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …+ qwen2.5vl:3b. Labs Microscopia 3D tronco→lupa→micro parcial 70% /microscopio.html responde 200; só testes automáticos. Labs Bactérias no Planeta (g4) completo 95% LIGADO por padrão; crescimento determinístico testado; FPS ok no ponta a ponta. Labs Lab de visão / LEGO "tá torto?" parcial 70% T101U:…
+
+- Diagnóstico dos Sonhos (03/11/2026) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …n2.5vl:3b. Labs Microscopia 3D tronco→lupa→micro parcial 70% /microscopio.html responde 200; só testes automáticos. Labs Bactérias no Planeta (g4) completo 95% LIGADO por padrão; crescimento determinístico testado; FPS ok no ponta a ponta. Labs Lab de visão / LEGO "tá torto?" parcial 70% T101U: imag…
+
+- Celular sem cabo (app vc20, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  … Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CARTA (8790/8791) → fotografia com tools/t101u/offline_planeta_snapshot.py direto na pasta do build ( [omitido pelo filtro de privacidade] , nunca no repo) → 423 rotas, 3,7 MB. Build gradle --offline :app:assembleDebug -PcartaWebDi…
+

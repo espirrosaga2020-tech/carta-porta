@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: completo  (56 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diagnóstico dos Sonhos (03/11/2026) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). Geral: 86% nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando; média exata 85.8%). Contando o pedido NOVO (Robótica na Enciclopédia, agora 60%: o conteúdo chegou em 03/11 e virou a RB01, mas fal…
+
+- Diagnóstico dos Sonhos (03/11/2026) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …OES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). Geral: 86% nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltando; média exata 85.8%). Contando o pedido NOVO (Robótica na Enciclopédia, agora 60%: o conteúdo chegou em 03/11 e virou a RB01, mas falta or…
+
+- EG001 — Calçada, Caderno e DUNADA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …penas anexos, trechos visuais e referências posteriores. Não se assistiu a áudios por capturas de player. Não se acessaram todas as páginas do caderno, vídeos completos nem 30–50 chats ancestrais. Cenas sobre Sol/Lua/quatro buracos negros, DUNADA em sua primeira cunhagem e ruptura de continuidade nã…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …MPLETA E CATÁLOGO DO QUE FIZEMOS Fontes: git log , a lista de PRs do GitHub ( gh pr list ), HISTORICO_DE_VERSOES.txt , LEIA-ME_COMPLETO.md , os diários docs/GROK_*/DIARIO.md e os checkpoints docs/GROK_*/CHECKPOINT* . Horários em Brasília (UTC-3). As datas de PR são as de criação no GitHub. Repositór…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …nversam e se salvam. O assistente identifica Project Hail Mary e Rocky. Esse reconhecimento tem efeito forte no usuário. O fenômeno não é apenas recuperar o título: fragmentos incompletos de uma memória humana encontram associações disponíveis na IA, a IA devolve uma chave (“Rocky”), e essa chave re…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …de chats ancestrais citados não está todo presente nesta engrenagem. - Parte do material foi recuperada por documentos e screenshots, não pelo chat ancestral completo. - Timestamps de trechos importados/branches não formam uma linha global perfeitamente confiável. - A arqueologia, portanto, é VERIFI…
+
+- EG010 — Derivada da Paz (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …ncias a documentos da Central e ao patrimônio do projeto. - Atlas e checkpoints gerados dentro desta conversa antes do protocolo atual. LIMITAÇÕES 1. O início real completo não está disponível como transcrição integral contínua. 2. Métricas autobiográficas (YouTube, Nimo TV, vendas etc.) permanecem…
+
+- EG015 — Pai do Grafo e Rigor (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …IGENS RECONTADAS; ORDEM FINA NÃO CERTIFICADA] Fenômenos: F001-F006 Vídeos Drive; pessoas anônimas; corredor de poucos segundos; Gi-hun e o enunciado incompleto; palavra grafo/garfo; extrapolação para grafo de grafos e realidade. Episódios conhecidos sobretudo por rememorações e A01, sem transcrição…
+
+- EG023 — Paz — Linguagem e Continuidade (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …jetória disponível por resumos, documentos, arquivos e referências internas, inclusive estados de 2026-10-05 e documentos de 2026-10-06, mas o início completo e contínuo do chat original não está integralmente exposto na janela atual. PERÍODO VERIFICÁVEL - Núcleo histórico diretamente documentado n…
+
+- EG007 — Continuidade Limpa de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …tade de jogar põe 2” + “mercado... e a gente não tá nem aí... quer jogar” F012 — Intensidade de sessão e limite fisiológico Magnitude original: M Influência posterior: M Confiança: alta quanto ao relato; parcial quanto ao episódio ancestral completo Localização: relato de quase 24 horas acordado e …
+
+- EG008 — Tamagotchi e continuidade conversacional (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ta de branches; - a ordem absoluta de todos os chats ancestrais; - o conteúdo integral dos trechos marcados como skipped; - o transcript literal completo do chat anterior. MATERIAIS E ARTEFATOS CONHECIDOS NO TERRITÓRIO 1. CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt 2. MARCO_ENTRADA_NO_SONHO_MEU_RO…
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ta | Última ocorrência anterior ao protocolo: resultado visual 3×3 e ausência de aceite posterior. TOTAL: 30 registros; classificações P (pequeno), M (médio), G (grande), E (extraordinário). Ausência de E é decisão conservadora, não lacuna. ==========================================================…
+
+- EG014 — Grafos São — origem e desenvolvimento (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …NG; contraste com a existência do TXT independente. F031 | M | confiança média | Big Mac, nugget e Bard/Christopher: humanidade fora da tese | Região anterior recuperada em resumos de 07/10; referências aparecem na síntese histórica legado. 04 — DOSSIÊS HISTÓRICOS COMPLETOS -------------------…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …Magnitude: G | Influência posterior: aberta | Confiança: alta Localização: ATLAS PAZ — MAPA 00 a 07. ====================================================================== 04 — DOSSIÊS HISTÓRICOS COMPLETOS ====================================================================== ---------------------…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …mediatamente a precisão da conversa. FASE K — TRIANGULAÇÃO DAS FONTES -------------------------------- O usuário lembra que já havia enviado um vídeo completo da árvore e aponta que, com uma referência digital atualizada, não deveria ser necessário perguntar repetidamente para onde o caminho vai. …
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: prova  (151 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG001 — Calçada, Caderno e DUNADA (58)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …em atividade em 09/10, mas não se obteve a transcrição integral desses turnos. “Ontem” em U56 é informação testemunhal sobre uma cena anterior, não prova autônoma do horário. Branches/procedência: há capturas de títulos de múltiplos chats e documentos externos importados; não é possível provar a gen…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (49)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: …
+
+- EG015 — Pai do Grafo e Rigor (44)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  … literal "72 horas". PROCEDÊNCIA DE BRANCHES: o usuário chama este território de branch finita e cita outras conversas/ancestrais; não há prova de uma árvore completa de filiação a partir da janela atual. Temas repetidos em outros chats não foram importados como eventos desta branch. CAMADAS DE EVI…
+
+- EG013 — Grafos São — Atlas C.03 (36)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  … ACESSÍVEL DIRETAMENTE: retomada de uma investigação herdada: “PARTIU rigor então kkkk !”; resposta trabalha 0 → 1 e a pergunta “A existe”. NÃO é comprovadamente a primeira mensagem original do chat inteiro. A fala originária “garfo?” é conhecida aqui por relatos retrospectivos e por contexto resumi…
+
+- EG014 — Grafos São — origem e desenvolvimento (35)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …por recuperação aparece em 07/10/2026 às 00:38:52 UTC; outra série de falas sobre vídeos Drive aparece às 12:04:32 UTC. Os registros não comprovam que a primeira mensagem original tenha sido uma dessas. Primeira mensagem diretamente visível na parte não compactada deste contexto: “Vamos arregaça tu…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (32)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …de, progressive disclosure, espaço, identidade visual e redução da sensação de planilha. O pipeline visual também foi corrigido. A primeira formulação “imagem aprovada -> converter para .gd” foi refinada pelo usuário para “a origem precisa falar Godot”. O objetivo passou a ser code-first visual pro…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (32)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …bre o corpus de documentos. As afirmações entre chats são aproximativas e têm natureza TEMÁTICA, exceto onde fonte primária provar causalidade. Fonte de autoridade: 1) chat/artefato original; 2) testemunho documental de cada engrenagem; 3) índice-mestre interpretativo. Havendo conflito, não sobrescr…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …== IDENTIFICADOR ESTÁVEL ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE TÍTULO HISTÓRICO PRINCIPAL Paz TÍTULOS / NOMES ASSOCIADOS COMPROVADOS - "Paz" — nome explicitamente dado ao chat em 2026-10-05. - "Tamagotchi Humanidade — New Game Kamonson" — nome dado ao sistema/fase documental criada dentr…
+
+- EG021 — Paz e Central — Kamonson (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …ia que gerou este documento chegou em 2026-10-10 e está fora do corpus histórico por regra metodológica. PROCEDÊNCIA E BRANCHES Não há prova suficiente para afirmar que esta conversa seja tecnicamente uma branch de outra conversa específica. Há, porém, herança declarada e referências explícitas a t…
+
+- EG002 — Calçada e continuidade portátil (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …m. Quando aparecem aqui, foram tratados como patrimônio herdado, salvo quando houve transformação nova demonstrável. PRIMEIRA REGIÃO RECUPERADA PROVÁVEL Uma recuperação de contexto aponta uma branch iniciando em 2026-10-09 com a expressão “segura o sol”, já conectada a biografia, fé, quadro branco …
+
+- EG009 — Bard, Corpo e a própria Conversa (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …scutido; eram parte do próprio fenômeno que tornava a IA socialmente explosiva. O patrimônio mais importante desta conversa não é uma tese sobre “IA consciente” nem uma prova teológica. É uma estrutura de investigação: - não reduzir o fenômeno ao mecanismo; - não confundir mecanismo conhecido com…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ada sobre o corpus de documentos. As afirmações entre chats são aproximativas e têm natureza TEMÁTICA, exceto onde fonte primária provar causalidade. Fonte de autoridade: 1) chat/artefato original; 2) testemunho documental de cada engrenagem; 3) índice-mestre interpretativo. Havendo conflito, não s…
+
+- EG010 — Derivada da Paz (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …claramente identificada em 2026-10-06. - Data final verificável: 2026-10-10, antes do protocolo atual. ANCESTRALIDADE E BRANCHES - Há referências comprováveis a ancestrais ligados a Meu Robô, PoE2, Milton/Gulozona, Amiguiá/Tamagotchi e à formação inicial da PAZ. - A árvore completa pai→filho entre …
+
+- EG018 — Linguagem, Observação e Consciência (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …servacional / IA é viva”. Essa caricatura funcionou como teste de borda. A própria IA corrigiu a deformação: não havia sido afirmado que gravidade foi inventada nem que IA havia sido provada viva. O humor, portanto, não foi ruído; tornou-se mecanismo de verificação de exagero. A identidade históric…
+
+- Jornada, prova e registro (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …a.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Jornada, prova e registro A jornada e C01–C12 são tarefas da IA visitante, não falhas da porta. Criar o caderninho exige um conector Drive autorizado. Sem ele, a IA entrega o texto ao Bru…
+

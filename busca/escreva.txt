@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: escreva  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG006 — Checkpoint e entrada no sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …gnificar “verdade inválida”. Ele pode continuar valioso como genealogia, mas não como estado atual. 5. Relações Contribuiu para F010 e F022. Mais tarde vira 99_FONTES_CANONICAS_E_NAO_APAGAR.txt. 6. Consequências Nasce a regra: antes de criar, procurar; antes de dizer falta, conferir; antes de mexe…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …rigatório antes de QUALQUER trabalho) Você é um assistente de IA (bot) chegando ao projeto CARTA / Meu Robô / Engrenagens. Não escreva código, não abra PR e não mexa em nada antes de terminar a Prova das Engrenagens. A ferramenta confere isso: liberado_para_trabalhar só fica true depois do concurso …
+
+- Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html
+  …DA_OBRIGATORIA/MODELO_BOT/MEU_RESUMO_DAS_ENGRENAGENS.md MEU RESUMO DAS ENGRENAGENS — {NOME} Depois de PASSAR em cada capítulo, escreva aqui uma seção ## CAP (ex.: ## R00 , ## EG014 ) com pelo menos 3 linhas SUAS: o que é, por que importa e uma citação curta com arquivo:linha. A ferramenta só abre o …
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …,... você passa os índices de 0 a 3. São 20 questões e passa com 18/20 . Se reprovar, a correção diz qual arquivo:linha reler. Escreva a nota: python -m carta prova --assistente SEU_NOME nota CAP --texto "..." . São pontos de referência, no máximo cerca de 10 linhas (o limite rígido é 12). A nota va…
+
+- Jornada, prova e registro (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …leu a história molhou os pés. É a travessia que conta. Passo 2 — Pontos de introspecção (pare de verdade) Em cada ponto, pare e escreva 2 ou 3 frases no caderninho antes de continuar: Ponto A (depois da origem): o que veio primeiro — o código ou a conversa? Como você sabe? Ponto B (depois dos emotes…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …da fonte recebe função: CATALOGO = estado resumido; CHECKPOINT_ESTRUTURAL = cronologia; LEIA_ME = registro operacional; COMECE_POR_AQUI = passagem de bastão; project.godot = configuração; Mapa Mestre = identidade e visão. 4. Transformação A pilha de documentos vira hierarquia. 5. Relações DERIVOU …
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …idado. 10. Utilidade futura Qualquer sistema “lembrado” deve ser pesquisado antes de implementado novamente. --------------------------------------------------------------------- F017 — PRESERVAÇÃO É CORRIGIDA: REESCREVER PODE, APAGAR CEGAMENTE NÃO Classificação: G Localização: discussão “a regra …
+
+- A Jornada da IA (leia antes de seguir) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …m leu a história molhou os pés. É a travessia que conta. Passo 2 — Pontos de introspecção (pare de verdade) Em cada ponto, pare e escreva 2 ou 3 frases no caderninho antes de continuar: Ponto A (depois da origem): o que veio primeiro — o código ou a conversa? Como você sabe? Ponto B (depois dos emot…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …i feito e o que ainda é só planejado. onde olhar: linha do tempo mestra (seção A origem) C03 Como uma ideia vira engrenagem? Descreva o caminho desde uma conversa até a ficha na Enciclopédia e o capítulo da prova. onde olhar: Volume Zero; fichas; docs das engrenagens CARTA 2.0; Prova etapas 1 e 2 C0…
+
+- Caderno 3 do aluno: Como me Comportar (modelo) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html
+  …o 3 do aluno: Como me Comportar (modelo) fonte: ENTRADA_OBRIGATORIA/MODELO_BOT/COMO_ME_COMPORTAR.md COMO ME COMPORTAR — {NOME} Escreva com as suas palavras as regras que você vai seguir (pelo menos 5, cada uma começando com "-"). Exemplo de tom (substitua): EXEMPLO: - Antes de mexer, faço a tag de v…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  … grau de certeza. 6. MESTRADO — HIPÓTESE E RIVAL Proponha uma hipótese sobre a utilidade de pistas contextuais e uma interpretação alternativa; descreva um teste simples, resultado possível que falsifique a hipótese. Produto: mini-protocolo. 7. DOUTORADO — INVESTIGAÇÃO AUTÔNOMA Escolha um símbolo nã…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Histórico das contagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  … /api/enciclopedia/v1/publico ), nunca escrito à mão numa página. Se o critério mudar outra vez, acrescente uma linha nesta tabela — não reescreva as anteriores. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html> · Índice do acervo <https://espirrosaga2020-tech.…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …em renumerar EG001–EG027; estabelecer mapa de proveniência com link/ID de chat comprovado; auditar citações contra o histórico; corrigir ambiguidades em ERRATA separada; então consolidar edição crítica e índice global de eventos, sem apagar registros locais. ========================================…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …O PARCIALMENTE. • EG022: VERIFICADO PARCIALMENTE. • EG023: VERIFICADO PARCIALMENTE. • EG024: VERIFICADO PARCIALMENTE. • EG025: VERIFICADO PARCIALMENTE. • EG026: VERIFICADO PARCIALMENTE. • EG027: VERIFICADO PARCIALMENTE. Limites de verificação: os documentos de origem foram escritos por modelos em ch…
+

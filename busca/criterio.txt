@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: criterio  (50 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Portões booleanos t89u (critérios e estado) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões booleanos t89u (critérios e estado) PORTÕES T89U — desenho…
+
+- EG013 — Grafos São — Atlas C.03 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …istente propõe 01A minimalista, mas a imagem incorpora Gi-hun e cadeia futura; depois promete separar a família, mas gera 01A–01H numa grade 2×4. O usuário demanda estratégia booleana de verificação finita; o assistente promete critérios e gera 01A–01I numa grade 3×3, ainda um único PNG. Aqui termin…
+
+- EG014 — Grafos São — origem e desenvolvimento (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …entação; átomo/observador; “pai do grafo” [F008–F012]. Fase D — controle acadêmico: Paralelos com literatura, Newman/porteiro, objeção de relata, 35 tiros, nuclear/Logan, critério de vitória [F013–F017]. Fase E — metodologia consciente: Vocabulário de ontologia/epistemologia/metafísica; usuário …
+
+- EG027 — SPA — Ping-pong Cognitivo (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …ça: alta Localização: pergunta sobre dois assuntos para conversar. F004 — Hipótese de extensão cognitiva por redução do custo de exploração Classificação: G Confiança: alta Localização: discussão sobre capacidade intelectual, semântica e ferramenta responsiva. F005 — Nuance como critério de confia…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …o do farm para a build. A conversa passou por charms, mana, catalysts, rings e então encontrou o símbolo que reorganizou todo o projeto: Milton, um quarterstaff antigo comprado por cerca de 2 Chaos que resistia a substituições muito mais caras. Milton deixou de ser apenas um item e virou critério ec…
+
+- Histórico das contagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …de versão , não na interface pública (pedido da CARTA 2.0, §2). Nada foi apagado: cada contagem antiga continua valendo para o critério da época dela . As divergências estão também em registry/CONHECIMENTO_DIVERGENCIAS.v1.json e aparecem em /conhecimento sem reconciliação. Número O que contava (crit…
+
+- EG015 — Pai do Grafo e Rigor (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  … o usuário pediu sucessivos testes fortes, metaforizados como 35 tiros e detonação nuclear. 3. DESENVOLVIMENTO: A IA enumerou e atacou inferências: modelo não é mundo; relações exigem esclarecimento; «estrutura» pode ser vazia; o nada não garante uma estrutura residual. 4. TRANSFORMAÇÃO: O critéri…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …meros medidos. src/carta/robotica/competencias.py Biblioteca de COMPETÊNCIAS independente do corpo. src/carta/robotica/escada.py Escada Kardashev de Bancada K0→K5. Um nível só é marcado se houver MEDIÇÃO registrada que cumpre o critério. src/carta/robotica/execucao.py EXECUÇÃO (sistema 3): permissõe…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … medidos. src/carta/robotica/competencias.py Biblioteca de COMPETÊNCIAS independente do corpo. src/carta/robotica/escada.py Escada Kardashev de Bancada K0→K5. Um nível só é marcado se houver MEDIÇÃO registrada que cumpre o critério. src/carta/robotica/execucao.py EXECUÇÃO (sistema 3): permissões, li…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …sta janela. - As datas de certas formulações antigas podem ser inferidas por arquivos, mas não devem ser tratadas como timestamps de cada fala individual. CRITÉRIO DE CONFIANÇA - “Alta”: ancorado em fala diretamente visível, arquivo nominalmente identificado ou documento técnico consultado. - “Médi…
+
+- EG025 — POE2 — Milton e Value Engineering (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …Quarterstaves por Small Passive; - 2% increased Attack Speed with Quarterstaves por Notable; - 2% increased Charm Effect Duration por Small Passive. Ela é escolhida sobre a versão com Poison. O critério final é que Attack Speed escala o pacote inteiro e o quarto mod conversa com os três Golden Charm…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …sionCode MAIOR (o próximo é 17 ou mais). Sempre com install -r . Antes, guardar o APK que já está no celular. Isso é o portão g . Atualizar o app no celular (pedido de 02/11): FEITO (vc16), por outro agente, na varredura. 8. Os portões (o que está feito, o que falta e o critério de cada um) Um portã…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …igração do farm para a build. A conversa passou por charms, mana, catalysts, rings e então encontrou o símbolo que reorganizou todo o projeto: Milton, um quarterstaff antigo comprado por cerca de 2 Chaos que resistia a substituições muito mais caras. Milton deixou de ser apenas um item e virou crité…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …síveis sobre “problema de Newman”, usuário chamando o porteiro de chato. EG014:F015 | G | confiança alta | “35 tiros de doze galática”: massacre de hipóteses | Pedido direto “Vamos dar 35 tiro de doze galática no que temos”; resposta estruturada por tiros. EG014:F016 | M | confiança alta | Detonaç…
+

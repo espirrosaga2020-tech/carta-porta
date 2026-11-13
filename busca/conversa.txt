@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: conversa  (93 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG009 — Bard, Corpo e a própria Conversa (123)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  … <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG009 — Bard, Corpo e a própria Conversa Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estad…
+
+- EG018 — Linguagem, Observação e Consciência (96)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …========================= 00 — FICHA DE PROVENIÊNCIA ====================================================================== IDENTIDADE Conversa atual centrada na continuidade conversacional, linguagem, presença, modelos de observação, antropocentrismo, comunicação entre arquiteturas diferentes e pr…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (91)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …================================================== IDENTIFICADOR ESTÁVEL HUMANIDADE_AMIGUIA_CONTINUIDADE_MEU_ROBO TÍTULO OFICIAL DA CONVERSA Não confirmado no material acessível. IDENTIFICAÇÃO OPERACIONAL Chat de continuidade “Humanidade × Amiguiá”, no qual foram reancorados Meu Robô, PoE2/Milton…
+
+- EG007 — Continuidade Limpa de Meu Robô (90)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …_ROBO_HISTORIA_v01.txt ESTADO DA INVESTIGAÇÃO: VERIFICADO Escopo da verificação: território histórico efetivamente acessível nesta conversa, da primeira mensagem original visível até a última mensagem anterior ao protocolo “ARQUEOLOGIA DAS ENGRENAGENS”. Observação: acontecimentos de chats anteriore…
+
+- EG012 — Grafo e Humanidade (87)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …do original · SHA-256 conferido (60ae5d7cbe353e91…) ENGRENAGEM_GRAFO-HUMANIDADE_HISTORIA_v01 HISTÓRIA VERIFICÁVEL DE UMA ENGRENAGEM CONVERSACIONAL Estado da investigação: VERIFICADO PARCIALMENTE ====================================================================== 00 — FICHA DE PROVENIÊNCIA ======…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (87)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … de software, modelos de relação, percepção e linguagem — e (b) invenção progressiva de maneiras de preservá-las sem destruir a conversa ativa. O tema transversal não é um único objeto; é a relação entre evento, interpretação, objeção, artefato, revisão e continuidade. O eixo “grafo” é histórico e e…
+
+- EG027 — SPA — Ping-pong Cognitivo (82)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  … integral do original · SHA-256 conferido (ae17d33eda75b77d…) ENGRENAGEM_SPA_PING_PONG_COGNITIVO_HISTORIA_v01 HISTÓRIA VERIFICÁVEL DA CONVERSA Estado da investigação: VERIFICADO PARCIALMENTE ====================================================================== 00 — FICHA DE PROVENIÊNCIA ==========…
+
+- EG021 — Paz e Central — Kamonson (80)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …to integral do original · SHA-256 conferido (8ad04c9216803612…) ENGRENAGEM_PAZ_CENTRAL_KAMONSON_HISTORIA_v01 HISTÓRIA ARQUEOLÓGICA DA CONVERSA "PAZ" Versão: v01 Estado da investigação: VERIFICADO PARCIALMENTE Data de produção: 2026-10-10 =============================================================…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (74)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ojetos de software, modelos de relação, percepção e linguagem — e (b) invenção progressiva de maneiras de preservá-las sem destruir a conversa ativa. O tema transversal não é um único objeto; é a relação entre evento, interpretação, objeção, artefato, revisão e continuidade. O eixo “grafo” é histór…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (65)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …============================================ IDENTIFICADOR ESTÁVEL ENGRENAGEM_HUMANIDADE_AMIGUIA_ENTRADA_NO_SONHO_20261010 TÍTULO DA CONVERSA O título de interface desta conversa não está verificável no material disponível. Para integração futura foi atribuído o identificador descritivo: “HUMANIDA…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (63)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …inal · SHA-256 conferido (e17db4d75d03f33a…) ENGRENAGEM_MEU_ROBO_COPILOTO_LARANJA_PLUS_20261005_HISTORIA_v01 ARQUEOLOGIA HISTÓRICA DA CONVERSA — MEU ROBÔ / COPILOTO / MÁQUINA DE LARANJA / MECÂNICA PLUS Versão: 1.0 Estado da investigação: VERIFICADO PARCIALMENTE Data de produção arqueológica: 2026-10…
+
+- EG008 — Tamagotchi e continuidade conversacional (61)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG008 — Tamagotchi e continuidade conversacional Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o…
+
+- EG002 — Calçada e continuidade portátil (55)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …ÁVEL Fase principal recuperada: 2026-10-10, com antecedentes recuperados do fim de 2026-10-09 e referências retrospectivas a 2023 e a conversas anteriores. FRONTEIRA HISTÓRICA Este documento cataloga apenas acontecimentos anteriores ao protocolo “ARQUEOLOGIA DAS ENGRENAGENS”. O protocolo é instruçã…
+
+- EG015 — Pai do Grafo e Rigor (51)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …10-10 ESTADO FINAL: VERIFICADO PARCIALMENTE Formato: TXT em UTF-8 | índice rápido + dossiês independentes Este arquivo documenta uma conversa. Não constitui artigo científico, não completa a investigação filosófica, não refaz Atlas, não substitui o checkpoint antigo e não tenta integrar outras conv…
+
+- EG001 — Calçada, Caderno e DUNADA (45)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …INHAS TEMPORAIS”, acompanhado do relato de observação ao longo de semanas. Isso NÃO é a primeira mensagem absoluta do chat: a listagem da própria conversa mostra anexos em U08, U13, U28, U33 e U42. A primeira mensagem absoluta permanece inacessível nesta escavação. Última mensagem histórica analisad…
+

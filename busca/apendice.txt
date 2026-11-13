@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: apendice  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados an…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados a…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Apêndice: AUDITORIA_ENGRENAGENS_202…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/leia-primeiro.html
+  …Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Apêndice: LEIA_PRIMEIRO_ENCICLOPED…
+
+- Acervo público em leituras leves (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …suprema2-acervo-109.html> 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-110.html> Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acerv…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … de continuar. 3. Desenvolvimento A ideia se conecta a builds, peças, robôs, mapas, endgame, Fendas, Atlas e tuning. 4. Transformação O conceito deixa de ser volumétrico e vira relacional: sempre existir outra pergunta para fazer à própria máquina. 5. Relações CONTRIBUIU PARA F015. COMBINOU COM F…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  … O método se torna transferível e testável. 5. Relações Combina F003–F008. 6. Consequências Possibilita futura casa nova sem carregar história inteira. 7. Evidências 07_PROMPT_DE_NASCIMENTO... Livro I — manifesto e apêndices. 8. Avaliação histórica G; influência E. 9. Situação final Consolidado…
+
+- RB02: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  …nciona {#rb02-01} O PDF vira texto, uma página por vez. Uma seção começa quando um título abre a página (EG001 — …, "Estante: …", "Parte …", "Apêndice"). Assim, uma engrenagem que atravessa de uma parte do PDF para a outra continua inteira. Dentro da seção, cada subtítulo numerado ("02 — LINHA DO TE…
+

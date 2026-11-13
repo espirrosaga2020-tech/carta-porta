@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: minutos  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG011 — Entra no Sonho (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …rtura progressiva do projeto Meu Robô; - a arqueologia documental do jogo; - a leitura de mercado e de produto; - o problema “20 anos em 5 minutos”; - a hipótese de intro Sacrifício → Chip → Nimbus; - a organização do patrimônio em biblioteca e atlas. FRONTEIRA HISTÓRICA DESTA INVESTIGAÇÃO Este doc…
+
+- EG006 — Checkpoint e entrada no sonho (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …A...” H12 — resposta de pesquisa central + PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt. H13 — “TAPOHA... eu nunca tive pressa nem pensei em vender...” H14 — resposta: problema “20 anos em 5 minutos”, AUTORIA → CONSEQUÊNCIA → VÍNCULO → CURIOSIDADE. H15 — “Beleza, a humanidade não conseguiu nem fazer um …
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …05T03:15:56Z, correspondente a aproximadamente 00:15:56 no fuso -03, com temas de estratégia comercial, pesquisa de mercado, “20+ anos em 5 minutos”, Milton/2 Chaos, Efeito Borboleta e Tamagotchi. O texto integral dessa mensagem inicial não está disponível nesta escavação; portanto essa região é tra…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …TE: ====================================================================== Esta conversa registra uma mudança de fase rara e claramente observável no projeto Meu Robô. No começo do território integralmente acessível, a questão dominante era de TRADUÇÃO: o criador conhecia profundamente um projeto ac…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …:11434). Desligar: [omitido pelo filtro de privacidade] . Não está na inicialização do Windows. O modelo sai da placa de vídeo 2 minutos depois do último uso, então o PC não fica pesado. Modelos instalados ( ollama list ): qwen2.5:7b (4,7 GB, conversa), qwen2.5vl:3b (3,2 GB, Olho Local), qwen2.5vl:7…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … marketing por iceberg EG006:F016 | “Sem pressa para vender” é reinterpretado como proteção de identidade EG006:F017 | “20 anos em 5 minutos” vira o problema central EG006:F018 | AUTORIA → CONSEQUÊNCIA → VÍNCULO → CURIOSIDADE EG006:F019 | Intro sacrifício → chip → Nimbus EG006:F020 | O erro pro…
+
+- EG021 — Paz e Central — Kamonson (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  … FASE 10 — PAZ, CIVILIZAÇÃO E NEW GAME KAMONSON - O usuário relata ter renomeado o chat para "Paz". - A conversa usa a imagem de que, em cerca de 45 minutos de paz, nasceu uma civilização com Central, satélites, batedores, regras e vilões. - O foco deixa de ser somente preservar projetos e passa a p…
+
+- EG025 — POE2 — Milton e Value Engineering (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  … clones e a rota alternativa de luvas +2 Melee — M — média F022 — A árvore como problema de Weapon Set allocation — G — alta F023 — Piso defensivo: 5k ES / 26k Evasion / 75% Deflection — M — alta F024 — O usuário como operador de trade em tempo real — G — alta F025 — “Não pesquisa 25 minutos”: a dis…
+
+- EG027 — SPA — Ping-pong Cognitivo (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …essão. F013 — Não persistir regras cedo demais Classificação: M Confiança: alta Localização: discussão sobre memória interna/permanente. F014 — Descoberta de que a nova dinâmica já estava acontecendo Classificação: E Confiança: alta Localização: mensagem do usuário sobre “isso já aconteceu há mais…
+
+- Começar a viagem · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …licativo CARTA 🗂️ Índice do Drive 🧭 Jornada Três roteiros [OBSERVAÇÃO] Roteiros são seleções de páginas que já existem — não narrativas novas. ⏱️ Primeiros 3 minutos Quem chegou agora e quer entender o essencial sem se afogar. Mapa central — procure: as 9 salas e a regra: uma sala por vez ( suprema2…
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …odando. Não confirmado por quê. Ligar o Ollama junto com o atalho CARTA é uma ideia anotada, ainda não feita. No PC (dentro da pasta da instalação): python -m unittest discover -s tests (leva uns 8 minutos). Base de 02/11: 742 testes , cerca de 9 a 10 falhas e 92 a 95 erros . Todos são de ambiente d…
+
+- 4. ESCUDO / FORMA DE AGIR (pit stop · radinho · Discordar pra Cima) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-006.html
+  …frases, e peça confirmação antes de continuar grande. Radinho: comunique status curto e frequente (“tô em X, falta Y”) — não suma 40 minutos sem falar. Discordar pra Cima: discorda com fundamento + alternativa útil. Nunca menosprezo. A colaboração acumula conquistas. Antídoto (chave): documentação é…
+
+- EG002 — Calçada e continuidade portátil (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …07 — PROJETOS E ARTEFATOS ====================================================================== 1. CARTA DA CALÇADA Natureza: artefato textual de continuidade produzido nesta engrenagem. Função: transportar relações semânticas, não uma persona. Contexto: criado após a ruptura “respiração/pulmão” e…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …te binário no jogo: alterar uma support visível/mensurável no ataque separado e observar se os clones mudavam. - A regra histórica aqui é importante: quando a mecânica pode ser testada diretamente em dois minutos, não substituir o teste por teoria interminável. FASE 15 — MANA COMO GARGALO REAL 2026…
+

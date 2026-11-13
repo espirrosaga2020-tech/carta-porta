@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg002  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (37)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …AGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt CALÇADA E OBSERVAÇÃO EG001 — Calçada, Caderno e DUNADA — 29 fenômenos; ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt EG002 — Calçada e continuidade portátil — 25 fenômenos; ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (36)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …EM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt CALÇADA E OBSERVAÇÃO EG001 — Calçada, Caderno e DUNADA — 29 fenômenos; ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt EG002 — Calçada e continuidade portátil — 25 fenômenos; ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v…
+
+- EG002 — Calçada e continuidade portátil (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG002 — Calçada e continuidade portátil Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no do…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …CICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html#pg-enciclopedia-eg001> EG002 Calçada e continuidade portátil Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  … Caderno e DUNADA Grafo e Humanidade Continuidade Limpa de Meu Robô Entra no Sonho P002 Qual é o nome da engrenagem de código EG002? Linguagem, Observação e Consciência Eu entro na Enciclopédia — o Copiloto e suas escolhas Calçada e continuidade portátil Chat da Liberdade: POE2 e autonomia P003 Qual…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …retar , participar ou seguir ( explorar postura interpretar ); pode propor outra ordem só numa CÓPIA ( explorar propor --ordem EG001,EG002,... --motivo "..." ; o original nunca muda); observa a dinâmica ( explorar dinamica ); responde no seu bots/SEU_NOME/EXPLORACAO/REFLEXOES.md : "O que você aprend…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …ador × personagem (mundo vivo) disponivel 3 R02 Contrato das Esferas disponivel 4 EG001 Calçada, Caderno e DUNADA disponivel 5 EG002 Calçada e continuidade portátil disponivel 6 EG003 Calçada, Sofisticado, Grafo e Rocky disponivel 7 EG004 Central, Copiloto e Atlas disponivel 8 EG005 Chat da Liberdad…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …iada, Witcher) segue no modo livre. - Mente Suprema: sem "(msg …)" nem ids nas fontes; pré-aquecida ao ligar (1ª pergunta 3–4 s). - Consciência: códigos viram nome humano ANTES de gerar (EG002 → a engrenagem “…”, F008 → um fenômeno) e a resposta passa por limpeza de buracos. FALTA: a Creuza/Faísca à…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …Nome Estante Classe Modalidade / autoria EG001 Calçada, Caderno e DUNADA Calçada e observação ancestral engrenagem documental EG002 Calçada e continuidade portátil Calçada e observação ancestral engrenagem documental EG003 Calçada, Sofisticado, Grafo e Rocky Calçada e observação ancestral engrenagem…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …ÕES Fontes verificadas: 27; fenômenos do índice: 615; soma de bytes: 1,871,010; linhas totais: 41,194. Integridade estrutural: os 615 códigos do índice aparecem na região posterior dos próprios documentos (checagem de ocorrência, não comprovação da qualidade de cada dossiê). Duplicatas: • ENGREN…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74a1168f4e7ccf1956a92a9c258e2c289e98f7268f492 lines=1489 bytes=70168 index=…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …orta/suprema2-acervo-024.html> EG001 — Calçada, Caderno e DUNADA <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html> EG002 — Calçada e continuidade portátil <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html> EG003 — Calçada, Sofisticado, Grafo e R…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …09b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74a1168f4e7ccf1956a92a9c258e2c289e98f7268f492 lines=1489 bytes=70168 index=25 missing_…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Estante Classe Modalidade / autoria EG001 Calçada, Caderno e DUNADA Calçada e observação ancestral engrenagem documental EG002 Calçada e continuidade portátil Calçada e observação ancestral engrenagem documental EG003 Calçada, Sofisticado, Grafo e Rocky Calçada e observação ancestral engrenagem docu…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  …s de todos os registros Auditoria de 10/10 · Leia-primeiro original Calçada e observação EG001 — Calçada, Caderno e DUNADA EG002 — Calçada e continuidade portátil EG003 — Calçada, Sofisticado, Grafo e Rocky EG027 — SPA — Ping-pong Cognitivo Continuidade e Batcaverna EG004 — Central, Copiloto e Atlas…
+

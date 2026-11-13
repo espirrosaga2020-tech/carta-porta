@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: filmado  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- RB01: documento da engrenagem (CARTA 2.0) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …obótica: carrinho 4WD O robô de verdade da CARTA: chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado em um take só, ordem de serviço de solda com orçamento separado, plano de energia seguro e os portões antes de ligar qualquer coisa. 00 Ficha de proveniência {#rb01-…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …meira mensagem original da conversa não está disponível na janela atual. - O conteúdo de muitos tooltips individuais da árvore não foi filmado. - Algumas contagens amplas de notables no raio foram inicialmente estimadas e depois corretamente rebaixadas para hipótese. - A investigação histórica não…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …a Enciclopédia — engrenagem RB01 ( docs/engrenagens_carta20/RB01.md ): chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado num take só; ordem de serviço de solda; mapa M1/M2 → DRV#1, M3/M4 → DRV#2; portões antes de ligar. Orçamento: pedido ao técnico, sem valor regis…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …. Auditoria destrutiva ok. Conhecimento Robótica na Enciclopédia (T101U + T105U) parcial 60% T105U: conteúdo chegou e virou a engrenagem RB01 (inventário filmado, ordem de serviço, mapa M1–M4, portões) + gaveta privada ROBOTICA_DO_BRUNO preenchida (inventário, ordem de serviço, fontes do Drive, diár…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …so. Número público pela API. RB01 — Robótica: carrinho 4WD: O robô de verdade da CARTA: chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado em um take só, ordem de serviço de solda com orçamento separado, plano de energia seguro e os portões antes de ligar qualquer c…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …itoria destrutiva ok. Conhecimento Robótica na Enciclopédia (T101U + T105U) parcial 60% T105U: conteúdo chegou e virou a engrenagem RB01 (inventário filmado, ordem de serviço, mapa M1–M4, portões) + gaveta privada ROBOTICA_DO_BRUNO preenchida (inventário, ordem de serviço, fontes do Drive, diário do…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …iclopédia — engrenagem RB01 ( docs/engrenagens_carta20/RB01.md ): chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado num take só; ordem de serviço de solda; mapa M1/M2 → DRV#1, M3/M4 → DRV#2; portões antes de ligar. Orçamento: pedido ao técnico, sem valor registrado…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … voltar. Robô 4WD na Enciclopédia — engrenagem RB01 ( docs/engrenagens_carta20/RB01.md ): chassi 4WD de dois pisos, ESP32, dois DRV8833, sensores e servos; inventário filmado num take só; ordem de serviço de solda; mapa M1/M2 → DRV#1, M3/M4 → DRV#2; portões antes de ligar. Orçamento: pedido ao técni…
+

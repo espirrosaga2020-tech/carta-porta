@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: filtro  (46 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (78)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … que valem pra sempre: nada se apaga, tudo só ganha coisa nova. Antes de trocar qualquer arquivo, faz backup. E o [omitido pelo filtro de privacidade] ROBO\JOGO nunca se mexe. 0.9 Fechamento de 03/11 às 22h30 — T119U (vale mais que a 0.8) O Ollama é a base da CARTA. Ele roda só neste PC, com modelos…
+
+- p02-manual-v12.html (75)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 . (linha omitida no site público pelo filtro de privacidade) 0.11 Mentes com 73, celular ligado, contagem verdadeira e rascunhos — 13/11/2026 à tarde (vale mais que a 0.10) 0.11.1 As mentes sabem 73 (e sabe…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …DICE MESTRE DAS 27 ENGRENAGENS [EG001] Calçada, Caderno e DUNADA ESTANTE: Calçada e observação ARQUIVO: ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 695 linhas; 90119 bytes; 29 fenômenos indexados. STA…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … ÍNDICE MESTRE DAS 27 ENGRENAGENS [EG001] Calçada, Caderno e DUNADA ESTANTE: Calçada e observação ARQUIVO: ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt (linha omitida no site público pelo filtro de privacidade) DIMENSÃO: 695 linhas; 90119 bytes; 29 fenômenos indexados. STATUS DECLARAD…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …or escolha do Bruno. Para ela saber, ligue a chave da superconsciência no app. Não foi mudado sozinho. (linha omitida no site público pelo filtro de privacidade) T120U (22h50): a pedido do Bruno, a superconsciência da Faísca ficou ligada no modo AUTO (ela escolhe sozinha quando pesquisar no conhecim…
+
+- Portões anteriores (21/10/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …s (EG037+ e adicionais de outros chats), botão "Painel 2" - Esfera do Camil mais rica (linha omitida no site público pelo filtro de privacidade) - percurso IA: confirmar formatura+mochila; registrar perguntas à Consciência e anotações do visitante; painel de acompanhamento - [omitido pelo filtro de …
+
+- Celular sem cabo (app vc20, 03/11/2026) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …: LIGAR CARTA (8790/8791) → fotografia com tools/t101u/offline_planeta_snapshot.py direto na pasta do build ( [omitido pelo filtro de privacidade] , nunca no repo) → 423 rotas, 3,7 MB. Build gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist → adb install -r → versionCode 20…
+
+- Diário anterior intacto, páginas P001 a P025 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … favorita: talvez o diário não deva guardar tudo que aconteceu; talvez deva guardar o mínimo que permite reencontrar o que importa. Isso é hipótese de projeto do próprio diário, não ordem para otimizá-lo. Espaço suspeito da Creuza (voz brincante) (linha omitida no site público pelo filtro de privaci…
+
+- A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+  …, deixando cada observador tirar suas próprias conclusões. 1 — ABRA O PORTAL INTERATIVO (HTML) (linha omitida no site público pelo filtro de privacidade) No Drive, baixe o arquivo HTML para abri-lo localmente no navegador: a visualização do Drive pode não executar o menu e a grade 6×6. 2 — LEIA …
+
+- Portões anteriores (21/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Estado atual — varredura geral (02/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …relho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0-carta20-cyber". Backup do APK do celular ANTES: [omitido pelo filtro de privacidade] (sha256 D0C6C25B…A6CF, 25.055.266 bytes). Projeto novo (cópia do 1.11.0, só versão trocada): [omitido pelo filtro de privacidade] . O 1.11.0 ficou into…
+
+- Diagnóstico dos Sonhos (03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …% / 84% (17:05, médias exatas 85.5% / 83.8%), 85% / 83% (16:20), 84% (15:20) e 69% (13:50). (linha omitida no site público pelo filtro de privacidade) Regra da nota: completo = funciona e foi testado; parcial = existe mas falta um pedaço; falta = não começado ou quase nada. Área Sonho / pedido Situa…
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …rquivos docs/ — 635 arquivos docs/CARTA20/ — 31 arquivos registry/ — 43 arquivos No PC do Bruno Instalação que roda: [omitido pelo filtro de privacidade] (servidor 8790 só no próprio PC). Passagem de bastão: [omitido pelo filtro de privacidade] . Anotações: [omitido pelo filtro de privacidade] . O m…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …a do Grok (documentado, NADA apagado) Sonho: Porta IA 8792 · flag: t100u_t9_porta8792_aposentada doc explicando o porquê e como religar código da 8792 intacto Porta do Grok com filtro (só público) Estado: ✅ fechado — doc PORTA_8792_APOSENTADA.md; código da 8792 intacto; Porta do Grok com filtro (lin…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  … Porta do Grok (documentado, NADA apagado) Sonho: Porta IA 8792 · flag: t100u_t9_porta8792_aposentada doc explicando o porquê e como religar código da 8792 intacto Porta do Grok com filtro (só público) Estado: ✅ fechado — doc PORTA_8792_APOSENTADA.md; código da 8792 intacto; Porta do Grok com filtro…
+

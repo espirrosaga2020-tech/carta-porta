@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg007  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …26-10-10_v01.txt CONTINUIDADE E BATCAVERNA EG004 — Central, Copiloto e Atlas — 20 fenômenos; ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt EG007 — Continuidade Limpa de Meu Robô — 18 fenômenos; ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt EG020 — Nova Batcaverna — 14 fenômen…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …tativo EG006:F026 | Pente fino: núcleo + ouro lateral EG006:F027 | Regra anti-documentação infinita: checkpoint só após mudança de estado [EG007] Continuidade Limpa de Meu Robô — 18 fenômenos EG007:F001 | O chat limpo como mecanismo de continuidade EG007:F002 | Correção da âncora 18h37 → meio-…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …-10-10_v01.txt CONTINUIDADE E BATCAVERNA EG004 — Central, Copiloto e Atlas — 20 fenômenos; ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt EG007 — Continuidade Limpa de Meu Robô — 18 fenômenos; ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt EG020 — Nova Batcaverna — 1…
+
+- EG007 — Continuidade Limpa de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG007 — Continuidade Limpa de Meu Robô Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no doc…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …egistry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html#pg-enciclopedia-eg006> EG007 Continuidade Limpa de Meu Robô Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …entrada no sonho Pai do Grafo e Rigor Eu entro na Enciclopédia — o Copiloto e suas escolhas P007 Qual é o nome da engrenagem de código EG007? Calçada, Sofisticado, Grafo e Rocky Checkpoint e entrada no sonho POE2 — Milton e Value Engineering Continuidade Limpa de Meu Robô P008 Qual é o nome da engre…
+
+- CT01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  …RTA UM - IMPLEMENTOS - PAINEL DELOREAN🥰🤖🫁🫂” · 329 mensagens no ramo mais recente 05 Relações fonte_original → BACKUP_CHATGPT relacionado → CREUZA-V06 relacionado → EG007 08 Contradições e correções (preservadas, sem reconciliar) “Sincronizar engrenagens CARTA” tem CARTA no título por causa do projet…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …penas documentos preservam o caminho; personagens, palavras, piadas, cenas e perspectivas funcionam como endereços para recuperar o contexto quando a conversa muda. Isso não significa que cada personagem possua memórias persistentes ou identidade subjetiva independente no sentido técnico ou biológic…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  … e Atlas disponivel 8 EG005 Chat da Liberdade: POE2 e autonomia disponivel 9 EG006 Checkpoint e entrada no sonho disponivel 10 EG007 Continuidade Limpa de Meu Robô disponivel 11 EG008 Tamagotchi e continuidade conversacional disponivel 12 EG009 Bard, Corpo e a própria Conversa disponivel 13 EG010 De…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …acionais ancestral engrenagem documental EG006 Checkpoint e entrada no sonho Meu Robô e sonho ancestral engrenagem documental EG007 Continuidade Limpa de Meu Robô Continuidade e Batcaverna ancestral engrenagem documental EG008 Tamagotchi e continuidade conversacional Reciprocidade e Paz ancestral en…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …3b04203a191b9dcd98bb81ad297f5653c0 lines=2659 bytes=84302 index=27 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG007 | ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt sha256=ab1e7b1247f43121029e51b0a25d67c5af10835b19e13619b08a6c2b51e4e67a lines=1702 bytes=69653 index=18…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …porta/suprema2-acervo-029.html> EG006 — Checkpoint e entrada no sonho <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html> EG007 — Continuidade Limpa de Meu Robô <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html> EG008 — Tamagotchi e continuidade c…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …9a3b04203a191b9dcd98bb81ad297f5653c0 lines=2659 bytes=84302 index=27 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG007 | ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt sha256=ab1e7b1247f43121029e51b0a25d67c5af10835b19e13619b08a6c2b51e4e67a lines=1702 bytes=69653 index=18 missing_po…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …ais ancestral engrenagem documental EG006 Checkpoint e entrada no sonho Meu Robô e sonho ancestral engrenagem documental EG007 Continuidade Limpa de Meu Robô Continuidade e Batcaverna ancestral engrenagem documental EG008 Tamagotchi e continuidade conversacional Reciprocidade e Paz ancestral engrena…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  …lçada, Sofisticado, Grafo e Rocky EG027 — SPA — Ping-pong Cognitivo Continuidade e Batcaverna EG004 — Central, Copiloto e Atlas EG007 — Continuidade Limpa de Meu Robô EG020 — Nova Batcaverna POE2 e métodos operacionais EG005 — Chat da Liberdade: POE2 e autonomia EG024 — POE2 — Gulosona e Árvore de A…
+

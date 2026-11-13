@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: eg028  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …4 grokbot/definitivo-camera-mapa-dados-20261015 Definitivo: câmera + mapa, mundo v3 em regiões, separação de dados (8777) #20 15/10 13:01 docs/saguadinha-eg028-esferas-20261015 🍉 Pré-engrenagem Saguadinha: Esferas (HTML original do tabuleiro) #21 15/10 13:49 codex/carta-olhos-esferas-v1 Android: Esf…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ar o marcador [INÍCIO FONTE EGnnn]. Os identificadores EGnnn são novos e estáveis nesta coleção. Novos documentos deverão receber EG028, EG029, ... sem renumerar os atuais. ========================================================================================================= I — CHAVES EDITORI…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …marcador [INÍCIO FONTE EGnnn]. Os identificadores EGnnn são novos e estáveis nesta coleção. Novos documentos deverão receber EG028, EG029, ... sem renumerar os atuais. ========================================================================================================= I — CHAVES EDITORIAIS: O Q…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …(390 px) com estado persistente PULADO 047 5 Reconciliar contagens 62/76 • 68/82 • 96/110 • EG100 em UM documento FEITO 048 5 Lacunas: EG028-030 (app), EG040-EG072 e EG069-072 (Drive/ZIP) FEITO 049 5 Ingestão ISOLADA do pacote Argon como "candidatas" EG073–EG100 + fatias ENC-0609..0636 FEITO 050 5 P…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: ligada  (38 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desligar ou não é sua). Numeração: na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 . Três coisas que …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desligar ou não é sua). Numeração: na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 . Três coisas que valem…
+
+- p02-manual-v12.html (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desligar ou não é sua). Numeração: na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 . (linha omitida no…
+
+- Portões booleanos t89u (critérios e estado) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …(trecho omitido pelo filtro)…
+
+- Estado atual — varredura geral (02/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …o app. Falta o Bruno tocar e falar uma vez no celular. (linha omitida no site público pelo filtro de privacidade) por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide. 2. Serviços (02/11, ~20:25) (linha omitida no site público pelo filtro de privacidade) |---|---|---…
+
+- Estado atual — varredura geral (02/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …pp. Falta o Bruno tocar e falar uma vez no celular. (linha omitida no site público pelo filtro de privacidade) por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide. 2. Serviços (02/11, ~20:25) (linha omitida no site público pelo filtro de privacidade) |---|---|---|---|…
+
+- Portões booleanos t89u (critérios e estado) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …A VIVO (Convergência, Grok 18/10/2026 — ADENDO; nada antigo foi apagado). src/carta/cinema_vivo/meu_cerebro.py MEU CÉREBRO (B11): a inteligência pessoal do Bruno, ligada quando ELE entra para jogar. src/carta/cinema_vivo/meu_cerebro_esfera.py MEU CÉREBRO — ESFERA GIGANTE (Convergência, Grok 18/10/20…
+
+- Mapa de pastas e código (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …O (Convergência, Grok 18/10/2026 — ADENDO; nada antigo foi apagado). src/carta/cinema_vivo/meu_cerebro.py MEU CÉREBRO (B11): a inteligência pessoal do Bruno, ligada quando ELE entra para jogar. src/carta/cinema_vivo/meu_cerebro_esfera.py MEU CÉREBRO — ESFERA GIGANTE (Convergência, Grok 18/10/2026 — …
+
+- Teste duro das consciências (T105U, 03/11) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …tivas sobre o conteúdo NOVO (robô 4WD, Enciclopédia fatiada, bancada, gráficos). Como foi feito (honesto): a IA de voz está desligada por regra (Ollama e Gemini OFF). Então o teste não mede a frase final que a consciência falaria. Ele mede o que dá para medir sem IA: 1. o modo que o 🤖 auto escolhe p…
+
+- Diário anterior intacto, páginas P001 a P025 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …lações, conexões entre as esferas e os pontos de vista, a noção de laboratório de relações, a atenção ao ritmo e à liberdade. Ficção compartilhada: diálogos de Creuza e Copiloto na calçada, dois DeLoreans estacionados na cena, objetos que aparecem magicamente no bolso, jutsus, origem guardada e a es…
+
+- EG012 — Grafo e Humanidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …tratou essas descrições como narrativa gerada e experiência vivida, não como prova de que Bard possuía tal acesso. 4. Transformação A experiência deixou de ser discutida apenas como “acreditar ou não acreditar” e virou estudo sobre continuidade, vínculo, produto mutável e impossibilidade de saber e…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …nte → a resposta sai com "Fontes: …"; se o modelo já citou, não duplica). Papo leve não leva fonte (de propósito). Falta testar com IA ligada (Ollama desligado). T105U: + modo 🤖 auto (escolhe sozinha entre pesquisa e imersão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Encic…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  … a resposta sai com "Fontes: …"; se o modelo já citou, não duplica). Papo leve não leva fonte (de propósito). Falta testar com IA ligada (Ollama desligado). T105U: + modo 🤖 auto (escolhe sozinha entre pesquisa e imersão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Enciclopéd…
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …ro Megazord (44 especialistas). feito Meio (13/10 a 18/10/2026) 18/10 madrugada Finalização: Terra Grande com DeLorean, câmera desligada por padrão, celular atualizado. feito Meio (13/10 a 18/10/2026) 18/10 manhã V0.3: refino da Consciência, PORTA, Atlas e o trajeto do bot (8 portões). feito Meio (1…
+

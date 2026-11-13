@@ -1,0 +1,23 @@
+BUSCA POR LINK — termo: eg031  (5 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …r/Relatório, DIPLOMA, porta 8787 16/10 (tarde) Black Mirror, Fechamento, Maestro, EG033, Gigantismo #36–#45 pré-projeto BM0–BM15, núcleo BM, EG031/EG032, EG033 Lantejoula, Mini Terra Simbólica Viva (154 requisitos) 16/10 (noite) Integração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únicas #46–#…
+
+- Por que o começo pesa mais (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  …ens (EG001 a EG027, o Volume Zero ), reunidas até 10/10/2026. Elas são a base estável: o que veio depois (SG028, GK029/GK030, EG031 em diante, a CARTA 2.0) é derivado delas. Foi nelas que nasceram as ideias, os personagens (Creuza 🐜, Copiloto 🤖, a Dobra) e a linguagem de emotes. Por isso esta seção …
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …ral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok, sem esfera separada na branch atual EG031 Grok observa o humano — história arqueológica 00–14 Grafos e epistemologia posterior edição histórica derivada, não esfera independente EG032 Grok se observa …
+
+- Enciclopédia e engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> EG031 Grok observa o humano — história arqueológica 00–14 Snapshot 18/10 · registro-fonte <ht…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …o Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok, sem esfera separada na branch atual EG031 Grok observa o humano — história arqueológica 00–14 Grafos e epistemologia posterior edição histórica derivada, não esfera independente EG032 Grok se observa — his…
+

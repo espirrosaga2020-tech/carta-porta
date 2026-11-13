@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: foruns  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …11/2026) Pesquisa T101U (03/11/2026) — tecnologias gratuitas e de código aberto Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e adotar só o que for compatível e testável . Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …26) Pesquisa T101U (03/11/2026) — tecnologias gratuitas e de código aberto Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e adotar só o que for compatível e testável . Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy/cv2/…
+

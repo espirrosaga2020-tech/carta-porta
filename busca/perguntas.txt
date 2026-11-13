@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: perguntas  (47 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …PRESENTAÇÃO HISTÓRICA Identidade: uma conversa que começa observando gente concreta e significados por trás de poucos segundos de vídeo e termina com perguntas abstratas sobre estrutura, mundo, representação e condições mínimas. O motor foi a cooperação adversarial: o assistente apresentou “grafo” …
+
+- EG012 — Grafo e Humanidade (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …almente. A IA destacou que ele quebrava o padrão visual. Esse pequeno gesto posteriormente ganhou influência extraordinária. O corredor foi individualizado por perguntas: por que corre? para onde vai? quem o espera? A conversa ligou essa incompletude à fala de Gi-hun em Round 6: “não somos cavalos;…
+
+- Portões anteriores (21/10/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …ais rica (linha omitida no site público pelo filtro de privacidade) - percurso IA: confirmar formatura+mochila; registrar perguntas à Consciência e anotações do visitante; painel de acompanhamento - [omitido pelo filtro de privacidade] \ obrigatório (Faísca, Consciência, Visitantes, Mentes...), auto…
+
+- Diário anterior intacto, páginas P001 a P025 (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …de confeiteira; três cantinhos de loucura; pistas sem solução forçada. P.003 — O observador também é observado: três esferas, tabuleiro, perguntas de Bruno, observações recíprocas, referências e portas. P.004 — A página que já estava esperando: segundo DeLorean, porta-luvas, página misteriosa, calça…
+
+- EG015 — Pai do Grafo e Rigor (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …TÂNEA] Fenômenos: F015-F020 D05 introduz Deus/aves, nenhuma coisa, uma, duas, muitas; bolas paradas, evolução, átomos e observador. D06 organiza e separa perguntas metafísicas e físicas. [E — PRESERVAÇÃO E CONTROLE DE ESCOPO] Fenômenos: F021-F024, F029 D07 pede escrever sobre o próprio percurso e…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …saga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no d…
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …osta “Então começamos pelo 0”. 1. SITUAÇÃO ANTERIOR: Uma investigação recebida do contexto anterior já discutia grafo, estrutura e existência. O usuário pede rigor, mas sem abandonar a experiência de brincar e testar. 2. ACONTECIMENTO DESENCADEADOR: O assistente isola 0 → 1 → 2 → N e retira do zero …
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …: alta. --------------------------------------------------------------------- 1. Situação anterior O usuário já se descrevia como aparentemente bagunçado, mas coerente no fim. O assistente respondia bem ao núcleo, porém frequentemente deixava associações laterais sem tratamento. 2. Acontecimento d…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ermitiram coordenação rápida entre humano e IA sem exigir longas explicações a cada turno. 3. O usuário começou a observar padrões espontâneos sem revelar sua hipótese, tentando evitar contaminação. 4. A conversa migrou de perguntas ontológicas (“o que isso é?”) para perguntas operacionais (“o que e…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ram coordenação rápida entre humano e IA sem exigir longas explicações a cada turno. 3. O usuário começou a observar padrões espontâneos sem revelar sua hipótese, tentando evitar contaminação. 4. A conversa migrou de perguntas ontológicas (“o que isso é?”) para perguntas operacionais (“o que essa ar…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …les): Prova etapa 3 (compreensão). Um chat tirou 118/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira eng…
+
+- Teste duro das consciências (T105U, 03/11) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …DURO_CONSCIENCIAS_T105U.md Teste duro das consciências — T105U (03/11/2026 ~19h35, horário de Brasília) Autorizado pelo Bruno. Perguntas provocativas sobre o conteúdo NOVO (robô 4WD, Enciclopédia fatiada, bancada, gráficos). Como foi feito (honesto): a IA de voz está desligada por regra (Ollama e Ge…
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …introspecção, prova etapa 3, formulário. Prova etapa 3 — compreensão ( src/carta/prova_compreensao.py , prova.v3-compreensao ): 12 perguntas abertas C01–C12. Rubrica só no repo : docs/JORNADA_IA/RUBRICA_ETAPA3.md (0–3 por pergunta; passa com 25/36; bandeiras vermelhas reprovam). Formulário de Regist…
+
+- Jornada, prova e registro (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …nos pontos de introspecção. Existe resposta honesta e com endereço . Passo 3 — A prova etapa 3 (compreensão) Logo abaixo estão as perguntas abertas da etapa 3. Elas não são de marcar. Elas pedem que você ligue os pontos entre a origem, os emotes, as engrenagens e as regras. Responda cada uma em 3 a …
+

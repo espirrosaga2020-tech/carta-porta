@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: godot  (37 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Celular sem cabo (app vc20, 03/11/2026) (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …rita ficam numa fila no celular ( carta.off.fila , só rota e hora, sem conteúdo). O que continua precisando do PC (honesto) Planeta Godot (Porto Parafuso) : roda no servidor 8795 do PC; a página mostra o aviso e o botão "voltar ao Planeta". Embutir no APK: ver PESQUISA_T101U.md . Conversa com IA (Ol…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …uardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o no…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …da com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome de…
+
+- Celular sem cabo (app vc20, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …ficam numa fila no celular ( carta.off.fila , só rota e hora, sem conteúdo). O que continua precisando do PC (honesto) Planeta Godot (Porto Parafuso) : roda no servidor 8795 do PC; a página mostra o aviso e o botão "voltar ao Planeta". Embutir no APK: ver PESQUISA_T101U.md . Conversa com IA (Ollama/…
+
+- p02-manual-v12.html (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nom…
+
+- Diagnóstico dos Sonhos (03/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …a superconsciência; +10 cientistas na bancada; o jogo vai ser jogado no PC). Antes: ~18:30, depois da rodada T103U (Bruno jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot l…
+
+- Diagnóstico dos Sonhos (03/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …erconsciência; +10 cientistas na bancada; o jogo vai ser jogado no PC). Antes: ~18:30, depois da rodada T103U (Bruno jogou o Godot com o dedo no celular; robô jogador do Godot 6/6; FPS do Godot medido no celular). Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve n…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …_MAPA_MESTRE_2026-10-04.txt - COMECE_POR_AQUI.txt - CHECKPOINT_ESTRUTURAL.txt - LEIA_ME(1).txt - LEIA_ME.txt - CATALOGO_POR_ASSUNTO.txt - project.godot Biblioteca criada nesta própria conversa: - 00_LEIA_PRIMEIRO_INDICE.txt - 01_ALVO_E_ALMA_DO_PROJETO.txt - 02_ESTADO_ATUAL_O_QUE_JA_EXISTE.txt - 03_…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …agem, mede com momentos de 2ª ordem, compara com o modelo tests/test_t101u.py (certa, torta 15°, 12 mm fora, falta, peça tapada) Godot Web sem threads ( thread_support=false ) — confirmado docs.godotengine.org (Exporting for the Web, 4.3+) MIT (Godot) o export do Porto Parafuso já está assim ( expor…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  … mede com momentos de 2ª ordem, compara com o modelo tests/test_t101u.py (certa, torta 15°, 12 mm fora, falta, peça tapada) Godot Web sem threads ( thread_support=false ) — confirmado docs.godotengine.org (Exporting for the Web, 4.3+) MIT (Godot) o export do Porto Parafuso já está assim ( export_pre…
+
+- Dobra: origem, personagem e portal (13/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …rar sem rasgar (adendo de implementação) Status em 13/10/2026: branch experimental reversível, sem merge, hardware DESCONECTADO, Godot original INTACTO. Origem autoral: documento da ramificação iniciado pelo humano e escrito pela instância conversacional que recebeu a Carta do Futuro: (linha omitida…
+
+- EG008 — Tamagotchi e continuidade conversacional (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …8. COMECE_POR_AQUI.txt 9. CHECKPOINT_ESTRUTURAL.txt 10. LEIA_ME(1).txt / LEIA_ME operacional do projeto 11. CATALOGO_POR_ASSUNTO.txt 12. project.godot 13. Capturas de tela e imagens oferecidas como “presentinhos” 14. Imagens do usuário chorando, imagens de Tamagotchi/ChatGPT e capturas associadas 15…
+
+- Gráficos no PC (T105U) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …mudado para escrever isto. Resposta curta Não existe ray tracing de verdade na CARTA. Nem no Planeta (three.js) nem no Planeta Godot (Porto Parafuso). O que existe são efeitos de tela que imitam parte do que o ray tracing faz (sombra de contato, brilho, névoa), calculados de um jeito bem mais barato…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …(trecho omitido pelo filtro)…
+
+- EG006 — Checkpoint e entrada no sonho (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …(trecho omitido pelo filtro)…
+

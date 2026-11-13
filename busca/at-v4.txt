@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: at-v4  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Histórico das contagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …agem idem 45 engrenagens na R3 FINAL (31/10, 17:13 BRT): 27 do Volume Zero + 18 posteriores idem 47 (hipótese da R3) "se CP-P01 e AT-V4 forem engrenagens, a conta passa a 47" — pergunta deixada para o Bruno idem, §"Para o Bruno decidir" 57 em 17 estantes (71 registros) CARTA 2.0 (31/10, noite): defi…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …erior engrenagem de outro chat (17/10) · bola do Painel 2 CP-P01 CP-P01 — Engrenagem do Copiloto — Robô Físico P01 Robótica posterior anexo de outro chat (13/10) · bola do Painel 2 AT-V4 AT-V4 — Engrenagem V4 — Atlas Técnico de Conectividade Atlas posterior anexo de outro chat (13/10) · bola do Pain…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  … engrenagem de outro chat (17/10) · bola do Painel 2 CP-P01 CP-P01 — Engrenagem do Copiloto — Robô Físico P01 Robótica posterior anexo de outro chat (13/10) · bola do Painel 2 AT-V4 AT-V4 — Engrenagem V4 — Atlas Técnico de Conectividade Atlas posterior anexo de outro chat (13/10) · bola do Painel 2 …
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …código CP-P01? Central, Copiloto e Atlas POE2 — Gulosona e Árvore de Attack Speed Engrenagem do Copiloto — Robô Físico P01 Lantejoula — A Costura das Evidências P046 Qual é o nome da engrenagem de código AT-V4? Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) Robótica: carrinho …
+
+- Versão CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …d1, PR #74). Nada foi apagado: tudo que entrou é aditivo; os originais (fontes, bancos antigos, contagens históricas, CP-P01 e AT-V4) ficaram preservados. Origem da ordem: PDF "CARTA 2.0 — diretriz geral de finalização" + áudio do Bruno (31/10). Virou a engrenagem CT02 . Marcos: marco 1 (a6f100f) · …
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …tivo posterior · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.js…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- CT02: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html
+  …elações autoria → BR030 ordem_de → CARTA20 08 Contradições e correções (preservadas, sem reconciliar) A carta pede para reavaliar CP-P01 e AT-V4 — feito em registry/ENCICLOPEDIA_REAVALIACOES.v1.json. 11 Pontes para outras engrenagens BR030 · voz do criador 12 Guia para um chat futuro Peça à Consciên…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o deixa janela visível, e qual comando liga o 8791 sozinho. 11. O que NUNCA mexer (leia antes de tudo) [omitido pelo filtro de privacidade] ROBO\JOGO : NUNCA. É o jogo Godot original, com 8601 arquivos. Originais são só de leitura: fontes, bancos antigos, contagens históricas, CP-P01, AT-V4, a rodov…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …). Ainda não confirmados depois da varredura: se o atalho deixa janela visível, e qual comando liga o 8791 sozinho. 11. O que NUNCA mexer (leia antes de tudo) (linha omitida no site público pelo filtro de privacidade) - Originais são só de leitura: fontes, bancos antigos, contagens históricas, CP-P0…
+

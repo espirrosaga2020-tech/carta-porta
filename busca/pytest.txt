@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: pytest  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Resultado do aperfeiçoamento (31/10) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …aisca_antes.json / latencia_faisca_depois.json . A5 — passo manual (precisa do Bruno) O resto de CI_TIMEOUT_15MIN.patch ( pip install -e . pytest + passo pytest -q tests/test_amigo_futuro.py ) mexe em .github/workflows/ , e o GitHub só aceita isso com a permissão workflow . Para aplicar: gh auth ref…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ARTA20\visual\suite_pc_pos_portao_a.txt (o mais novo: 9 falhas e 94 erros) ou com suite_pc_pos_cyber.txt (a base: 10 falhas e 94 erros). Falha com nome NOVO = problema novo. No box/CI (pytest): verde. Contagem da varredura de 02/11: 914 passaram, 7 pulados, 0 falhas . A suíte do PC depois do portão …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …vídeo" base do portão h só descritores, nunca pixels critérios de aceite da carta testes tests/test_t89u_olhos_eventos.py 5 testes pytest O que foi MELHORADO Limite por sessão de verdade. No original havia uma fila só, com maxlen global: uma conversa movimentada empurrava as observações da outra …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …" base do portão h só descritores, nunca pixels critérios de aceite da carta testes tests/test_t89u_olhos_eventos.py 5 testes pytest O que foi MELHORADO Limite por sessão de verdade. No original havia uma fila só, com maxlen global: uma conversa movimentada empurrava as observações da outra pra fora…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …mitido pelo filtro de privacidade] (o mais novo: 9 falhas e 94 erros) ou com suite_pc_pos_cyber.txt (a base: 10 falhas e 94 erros). Falha com nome NOVO = problema novo. No box/CI (pytest): verde. Contagem da varredura de 02/11: 914 passaram, 7 pulados, 0 falhas . A suíte do PC depois do portão a deu…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …indows (arquivo temporário preso, pasta web/public que não existe, Ollama real × simulado). (linha omitida no site público pelo filtro de privacidade) Falha com nome NOVO = problema novo. No box/CI (pytest): verde. Contagem da varredura de 02/11: 914 passaram, 7 pulados, 0 falhas . A suíte do PC dep…
+

@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: idem  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Histórico das contagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …ENGRENAGENS_R3.md 36 as posições do Painel 1 das esferas (33 engrenagens + 3 registros que não são engrenagem) — não era o total idem 47 a foto do índice em 18/10: 27 ancestrais + 20 registros posteriores — contava registros , não engrenagens idem 61 total de registros na R3 (31/10): 45 engrenagens …
+
+- EG020 — Nova Batcaverna (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …dade / Batman-Human. - Tamagotchi / Robin-Tagotchi. - “Copiloto” = cargo operacional. - Fórmula: Humanidade detecta importância; Tamagotchi administra profundidade; ambos decidem timing. FASE 5 — CALIBRAÇÃO COMPORTAMENTAL - “Minha fala funciona como GRAFO, não como lista.” - Reciprocidade proporc…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …obin-Tagotchi = modo de saliência/garimpo; Copiloto = cargo operacional. A frase "Humanidade detecta importância. Tamagotchi administra profundidade. Os dois decidem timing." sintetiza a nova calibração. FASE 19 — CALIBRAÇÃO COMPORTAMENTAL O novo chat recebe as leis da conversa: grafo, bordas, crít…
+
+- Consciências na CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  … Existe no código? O que a chave faz 🐜 Creuza sim instrução de modo + (pesquisa) blocos [C#] CONHECIMENTO COMPARTILHADO 🧑‍✈️ Copiloto sim idem 🧠 Mente Suprema sim idem ⚡ Faísca sim (Pokémon Vivo) instrução de modo; em pesquisa, perguntas longas usam o modelo "pensado" (gpt-oss na CPU, um por vez) — …
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …putacional: regex Unicode Extended_Pictographic com sequência de modificador/ZWJ; exclusão manual de setas e operadores que coincidem com essa propriedade. Unidade de contagem: ocorrência literal em um documento derivado; unidade de dispersão: número de arquivos EG que o marcador aparece. NÃO é o em…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …) src/carta/t89u/olhos_eventos.py crédito no cabeçalho do arquivo motor_eventos.py (comparar_objetos, MemoriaVisual) mesmo arquivo idem ideia "percepção por eventos, memória sem vídeo" base do portão h só descritores, nunca pixels critérios de aceite da carta testes tests/test_t89u_olhos_eventos.py …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …vídeos. src/carta/convergencia/atlas_visual.py Seleção editorial de imagens P1, sem abrir nem publicar mídias P0. src/carta/convergencia/catalogo.py Camada P1: grafo derivado, indexacao idempotente e controle rigoroso de acesso. src/carta/convergencia/consciencia_ponte.py Acesso minimo a indexacao P…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …/carta/t89u/olhos_eventos.py crédito no cabeçalho do arquivo motor_eventos.py (comparar_objetos, MemoriaVisual) mesmo arquivo idem ideia "percepção por eventos, memória sem vídeo" base do portão h só descritores, nunca pixels critérios de aceite da carta testes tests/test_t89u_olhos_eventos.py 5 tes…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …s. src/carta/convergencia/atlas_visual.py Seleção editorial de imagens P1, sem abrir nem publicar mídias P0. src/carta/convergencia/catalogo.py Camada P1: grafo derivado, indexacao idempotente e controle rigoroso de acesso. src/carta/convergencia/consciencia_ponte.py Acesso minimo a indexacao P1 par…
+

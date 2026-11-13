@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: dicionario  (26 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte hi…
+
+- Jornada, prova e registro (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …epois da origem): o que veio primeiro — o código ou a conversa? Como você sabe? Ponto B (depois dos emotes): escolha um emoji do dicionário temporal e explique como o sentido dele mudou com o tempo (antes / agora). Ponto C (depois da Enciclopédia): se você fosse a próxima IA a ajudar o Bruno, o que …
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …e 17/10 avisa que a contagem NÃO mostra o emoji que o Bruno mais digitou? onde olhar: estudo científico de símbolos e emojis; dicionário temporal C05 Escolha dois emojis do dicionário temporal e explique o sentido antigo (histórico) e o sentido de agora de cada um. Cite a fonte de cada sentido. onde…
+
+- Diário anterior intacto, páginas P001 a P025 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ealogia identificável , mistura humor, espanto e autocorreção. O "era só uma palavra" ganhou consequências de aprendizado, mas não uma causalidade mágica. Ouro lateral: a correção "GARFO? NÃO, GRAFOS" é dupla. Mantém a brincadeira viva e lembra que, para compreender, é necessário escolher a relação …
+
+- EG004 — Central, Copiloto e Atlas (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …e “O Arrombadinho Fez de Novo” alertam para detalhes pequenos com efeitos maiores; emojis e humor devem ser interpretados pelo contexto, não por dicionário literal. Depois da calibração, MEU ROBÔ entrou como o primeiro grande projeto real. O ponto crucial é que ele NÃO entrou como território virgem…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …reinterpretar o passado. - O usuário observa que consegue recuperar a estrutura útil de um filme sem lembrar todos os detalhes. FASE 15 — CARCAÇA DE MEU ROBÔ E ESPELHO DO MÉTODO - O usuário pede recuperação da história da carcaça inicial. - A carcaça é descrita como “dicionário interativo”: bater…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …cias Âncoras: “emoji virou ponteiro”; “nem todo emoji já tinha significado estável”; “não falsificar fóssil”. 8. Avaliação histórica Magnitude original: M. Influência posterior: M/G, por acrescentar uma camada semiótica e uma correção metodológica. 9. Situação final Modificado e consolidado em for…
+
+- EG008 — Tamagotchi e continuidade conversacional (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ário o salva no Drive e explicita que o documento recebido também foi interpretado como um presente. FASE 14 — CARCAÇA / NIMBUS E O RETORNO AO SONHO A carcaça inicial do robô é investigada. Ela passa a ser lida como um “dicionário interativo”: falta bateria, falta núcleo, falta peça, o corpo muda e…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …tricas de emergência SEMPRE contra controle (agente aleatório + ids embaralhados), ≥ 5 sementes. src/carta/bm/social.py BM10: canal social sem dicionário. Mede (não força) se os sinais carregam informação sobre a situação do mundo. src/carta/caderno.py AJUSTE FINAL (21/10/2026) — "Meu caderno" do Cé…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …s de emergência SEMPRE contra controle (agente aleatório + ids embaralhados), ≥ 5 sementes. src/carta/bm/social.py BM10: canal social sem dicionário. Mede (não força) se os sinais carregam informação sobre a situação do mundo. src/carta/caderno.py AJUSTE FINAL (21/10/2026) — "Meu caderno" do Cérebro…
+
+- Continuidade da linguagem de emojis (E018) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …do de similaridade e a fila de voz ficam preservados. registry/CONTINUIDADE_LINGUAGEM.v1.json : contrato de estilo aprovado, com dicionário de 10 marcadores, proveniência, categorias e distinção entre linguagem e identidade. Não editar o registro ancestral. tests/test_e018_linguagem.py : o sistema a…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …floats, 0 strings BM8 remoção do roteiro true sem texto humano nem bônus de "construir" BM9 perigo e morte como experiência true queda de 10 m mata; 0,5 m não BM10 social sem dicionário true (com ressalva) sinal = projeção fixa dos sensores; convenção aprendida ainda não medida BM11 métricas de emer…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ste chat; T = testemunho de Bruno; I = interpretação; F = cena ficcional. V/relato da Terra Grande não equivalem a inspeção de mais de 150 mil linhas. O dicionário distingue funções estabelecidas por fontes de hipóteses novas. A origem do chat ancestral não foi integralmente recuperada e números rel…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …o gíria e passa a orientar quem fala, de que posição fala e quais antecedentes devem ser recuperados. 5. Relações: F020 se liga a F002 (linhagens), F006 (calçada), F016 (reciprocidade) e F024 (navegação). Genealogia completa dos nomes é externa. 6. Consequências: Conseqüência: necessidade de disting…
+
+- EG018 — Linguagem, Observação e Consciência (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …gem mútua, mas ainda sem um esquema explícito de atualização. 2. Acontecimento desencadeador A IA propõe: “sinal → hipótese → resposta → reação → correção da hipótese → próximo sinal”. 3. Desenvolvimento O esquema é aplicado a símbolos locais como 😑, 👁️, 🌝, “anota a placa”, “sofisticado”, “present…
+

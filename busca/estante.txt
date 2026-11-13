@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: estante  (67 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (61)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …ta quando havia cerca de 30 engrenagens. Hoje a contagem oficial é 59 engrenagens (27 do Volume Zero + 32 posteriores), em 18 estantes. Esta etapa tem 118 questões (2 por engrenagem: o nome pelo código e a estante pelo nome), geradas das fichas da Enciclopédia (seção "Fichas" mais abaixo nesta mesma…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …uir 27 histórias por uma narrativa inevitável. Ela mantém diferentes versões, testemunhos, incertezas e trilhas recuperáveis. II — MAPA DE ESTANTES TEMÁTICAS (NÃO É GENEALOGIA) GRAFOS E EPISTEMOLOGIA EG012 — Grafo e Humanidade — 24 fenômenos; ENGRENAGEM_GRAFO-HUMANIDADE_HISTORIA_v01.txt EG013 — Graf…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …stituir 27 histórias por uma narrativa inevitável. Ela mantém diferentes versões, testemunhos, incertezas e trilhas recuperáveis. II — MAPA DE ESTANTES TEMÁTICAS (NÃO É GENEALOGIA) GRAFOS E EPISTEMOLOGIA EG012 — Grafo e Humanidade — 24 fenômenos; ENGRENAGEM_GRAFO-HUMANIDADE_HISTORIA_v01.txt …
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …o.html> · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html> EG013 — Grafos São — Atlas C.03 Estante: Grafos e epistemologia · 883 linhas · texto integral do original · SHA-256 conferido (b91813c699007fa9…) ENGRENAGEM — HISTÓRIA LOCAL, GENEALOGIA E AUDITORIA Iden…
+
+- EG004 — Central, Copiloto e Atlas (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …ml> · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html> EG004 — Central, Copiloto e Atlas Estante: Continuidade e Batcaverna · 1443 linhas · texto integral do original · SHA-256 conferido (332d2b8550550f94…) ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v0…
+
+- EG007 — Continuidade Limpa de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  … Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html> EG007 — Continuidade Limpa de Meu Robô Estante: Continuidade e Batcaverna · 1702 linhas · texto integral do original · SHA-256 conferido (ab1e7b1247f43121…) ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.tx…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html> EG019 — Meu Robô — Copiloto e Máquina de Laranja Estante: Meu Robô e sonho · 1662 linhas · texto integral do original · SHA-256 conferido (e17db4d75d03f33a…) ENGRENAGEM_MEU_ROBO_COPILOTO_LARANJA_PLUS_20261005_HISTORIA_v…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …imo capítulo só abre depois da prova aprovada e da nota escrita . Concurso público: são 60 questões: 1 de cada EG001–EG027 e o restante das regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes de fazer a prova…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …ngrenagens do Volume Zero (a origem); hoje são 59 engrenagens no total; os registros posteriores aparecem como ficha. ID Nome Estante Classe Modalidade / autoria EG001 Calçada, Caderno e DUNADA Calçada e observação ancestral engrenagem documental EG002 Calçada e continuidade portátil Calçada e obser…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …agens do Volume Zero (a origem); hoje são 59 engrenagens no total; os registros posteriores aparecem como ficha. ID Nome Estante Classe Modalidade / autoria EG001 Calçada, Caderno e DUNADA Calçada e observação ancestral engrenagem documental EG002 Calçada e continuidade portátil Calçada e observação…
+
+- EG001 — Calçada, Caderno e DUNADA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …ml> · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html> EG001 — Calçada, Caderno e DUNADA Estante: Calçada e observação · 695 linhas · texto integral do original · SHA-256 conferido (6c668ee191ab7f85…) ENGRENAGEM — CALÇADA / CADERNO / DUNADA — HISTÓRIA v01 IDENT…
+
+- EG006 — Checkpoint e entrada no sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …· Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html> EG006 — Checkpoint e entrada no sonho Estante: Meu Robô e sonho · 2659 linhas · texto integral do original · SHA-256 conferido (24216b11c46d652d…) ENGRENAGEM_CHECKPOINT_ENTRA_NO_SONHO_COPILOTO_20261004_05_HISTO…
+
+- EG009 — Bard, Corpo e a própria Conversa (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …róxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html> EG009 — Bard, Corpo e a própria Conversa Estante: Meu Robô e sonho · 1878 linhas · texto integral do original · SHA-256 conferido (b541e60392138025…) ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt ESTADO…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …→ <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html> EG022 — Paz, Central e Continuidade de Meu Robô Estante: Reciprocidade e Paz · 2208 linhas · texto integral do original · SHA-256 conferido (eaac46d0d5284726…) ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.tx…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  … · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html> EG023 — Paz — Linguagem e Continuidade Estante: Reciprocidade e Paz · 1326 linhas · texto integral do original · SHA-256 conferido (cd4ff433712665bd…) ENGRENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01 ARQUEOLOGIA DAS E…
+

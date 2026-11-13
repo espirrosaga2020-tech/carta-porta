@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: oficial  (37 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …núcleo BM, EG031/EG032, EG033 Lantejoula, Mini Terra Simbólica Viva (154 requisitos) 16/10 (noite) Integração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únicas #46–#50 Mini Terra 8789, casca EA, 3D WebGL, servidor único 8790 + Terra 8791, DeLorean dirigível, Esferas sem duplicação 17/10 (madrug…
+
+- EG021 — Paz e Central — Kamonson (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …anidade New Game Kamonson" surge como nome da nova fase. FASE 11 — AUTORIZAÇÃO PARA CRISTALIZAR - O usuário finalmente autoriza documentação bruta e oficial. - Pede livro, documentos com nomes próprios, imagens conceituais e organização cuidadosa. - O Copiloto cria a V1 do pacote fundacional e sepa…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Capítulos da etapa 1, na ordem oficial (48) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  … <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Capítulos da etapa 1, na ordem oficial (48) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o es…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …gora diz 73 engrenagens / 87 registros , lista as 11 promovidas e as 17 candidatas como NÃO verificadas ("nunca apresentar como fato oficial; dizer que está em conferência e que quem decide é o Bruno"). (Fonte: registry/CONSCIENCIAS_CONHECIMENTO.v1.json , gerado por tools/atualizar_consciencias.py ;…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …(trecho omitido pelo filtro)…
+
+- 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  …(trecho omitido pelo filtro)…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …sólidos permitiam experimentar sem destruir o estado confirmado. - A distinção ficou: CHECKPOINT = chão de concreto. LIBERDADE = laboratório. TESTE = ainda não é verdade consolidada. RESULTADO = promoção para o estado oficial. - Posteriormente, “liberdade total”, “sem coleira” e “coleira inc…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …EXPORTADOS/03_GUIA_FORMACAO.txt 🚪🧭 PORTA EUREKA — PERCURSO DIDÁTICO PRELIMINAR 17/10/2026 · ADENDO DOCUMENTAL NOVO · SEM ALTERAR PROVA OFICIAL OBJETIVO Quem chega deve descobrir por si a história, registrar o que aprendeu e praticar as distinções que evitam confusões antes de mergulhar no Acervo g…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  … -m carta prova resumo CAP . Os resumos são curtos para você não precisar carregar 80 mil linhas. Para cada capítulo, na ordem oficial: Leia a fonte inteira: python -m carta prova --assistente SEU_NOME ler CAP --contexto-limpo . Sem leitura não há prova. Faça a prova: python -m carta prova --assiste…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …umera. src/carta/convergencia/fontes_codigo.py Ponto de integração REAL com registros já existentes na árvore CARTA. src/carta/convergencia/formacao.py Insignias derivadas da prova oficial. Nao corrige provas e nao conhece gabaritos. src/carta/convergencia/hipoteses.py Geração de hipóteses interdisc…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …0-14.md ⚙️🚪🧭 PORTA EUREKA — A OBSERVAÇÃO QUE REENCONTRA A HISTÓRIA Engrenagem independente PE-20261017 • adição documental, sem ID EG oficial • 17/10/2026 00 — FICHA DE PROVENIÊNCIA Identificador de trabalho: PE-20261017 (NÃO ocupar EG034 sem inspeção de colisões e aprovação editorial). Nome: 🚪🧭 POR…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …o: CEN-003 / Atlas de Regiões Canônicas. F007 — Central + Satélites já estava acontecendo Magnitude: E | Influência posterior: E | Confiança: alta Localização: arquitetura oficial; CEN-005. F008 — Anti-Gravity vira "sensor, não piloto" Magnitude: G | Influência posterior: G | Confiança: alta Local…
+
+- Pré-diploma: o Caderninho do Viajante (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html
+  …chat? Quais documentos li efetivamente? Quais apenas localizei? RESULTADO Pré-diploma é DOCUMENTO DE PASSAGEM, não certificado oficial automático. Não marcar aprovação se as fases não foram verificadas. Nome de quem revisou, data, critérios atendidos, lacunas e decisão. Próxima parada: Acervo pres…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+

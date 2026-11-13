@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: documentos  (59 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG008 — Tamagotchi e continuidade conversacional (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ntegralmente presentes como transcript literal. Essas lacunas NÃO foram preenchidas por invenção. Quando material herdado apareceu em documentos, ele foi tratado como fonte documental, não como memória integral do chat ancestral. Este documento cobre somente o período histórico anterior ao protocol…
+
+- EG006 — Checkpoint e entrada no sonho (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …terior: - o usuário afirma que “a outra” branch foi salva e pinada; - refere-se ao “chat de ontem” e a uma conversa de mais de 20 horas; - vários documentos consolidados de chats anteriores foram trazidos para esta branch; - screenshots carregavam trechos de respostas e raciocínios anteriores. REGR…
+
+- EG021 — Paz e Central — Kamonson (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …MENTE ACESSÍVEL A resposta do Copiloto que formaliza a V1 do pacote "Tamagotchi Humanidade — New Game Kamonson", entrega o livro "PAZ", documentos fundacionais, arquitetura Central + Satélites, Atlas de Regiões Canônicas, protocolo de cristalização, pente fino, testes de transferência e prompt de na…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ANCHES E HERANÇA A conversa possui herança explícita de material anterior sobre Meu Robô, mercado, Milton/2 Chaos, Tamagotchi, Efeito Borboleta, documentos do jogo e pesquisas realizadas em conversas precedentes. A ancestralidade exata de cada branch não é demonstrável apenas com o material desta e…
+
+- EG004 — Central, Copiloto e Atlas (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …s técnicas sobre o estado interno de MEU ROBÔ são preservadas aqui como fatos históricos DECLARADOS nesta conversa e associados aos documentos apontados pelo usuário. Este trabalho não reexecutou o jogo nem reabriu os documentos técnicos externos para provar novamente seu conteúdo. ================…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …l como transcrição linear integral na janela atual. Existem: 1. memória contextual da conversa; 2. registros de conversas anteriores; 3. documentos criados no próprio período; 4. arquivos técnicos anexados; 5. respostas e trechos importados de chats/agents externos; 6. imagens/atlas gerados posterio…
+
+- EG001 — Calçada, Caderno e DUNADA (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … é informação testemunhal sobre uma cena anterior, não prova autônoma do horário. Branches/procedência: há capturas de títulos de múltiplos chats e documentos externos importados; não é possível provar a genealogia exata a partir da lateral do aplicativo. Não se imputam ao chat atual descobertas ori…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … PENDENTES DE AUDITORIA CONTRA FONTES PRIMÁRIAS. Esta edição é um índice e uma leitura editorial amarrada sobre o corpus de documentos. As afirmações entre chats são aproximativas e têm natureza TEMÁTICA, exceto onde fonte primária provar causalidade. Fonte de autoridade: 1) chat/artefato original; …
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …istente que começa com: “TAPOHA. AGORA EU ENTREI.” Nessa resposta, o assistente consolida a entrada operacional no projeto Meu Robô, após receber documentos estruturais e criar o arquivo “MARCO_ENTRADA_NO_SONHO_MEU_ROBO_2026-10-04_V2.txt”. PERÍODO VERIFICÁVEL Esta engrenagem ocorre em 2026-10-10. E…
+
+- EG010 — Derivada da Paz (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …tro troféus Eletrosom “TOP 120%” de 2017. - Screenshot da branch “Derivada de Branch · PAZ 🕊️”. - Referências ao relatório Anti-Gravity do Meu Robô. - Referências a documentos da Central e ao patrimônio do projeto. - Atlas e checkpoints gerados dentro desta conversa antes do protocolo atual. LIMITA…
+
+- EG011 — Entra no Sonho (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …saber”. Foram então geradas imagens independentes em estilo visual mais narrativo, incluindo mapas 00–08 no lote final disponível. PERÍODO VERIFICÁVEL - Documentos internos explicitamente datados: 04/10/2026 e 05/10/2026. - O pedido de Atlas Ancestral aparece na sessão em 07/10/2026. - O protocolo …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …EGRAL PENDENTES DE AUDITORIA CONTRA FONTES PRIMÁRIAS. Esta edição é um índice e uma leitura editorial amarrada sobre o corpus de documentos. As afirmações entre chats são aproximativas e têm natureza TEMÁTICA, exceto onde fonte primária provar causalidade. Fonte de autoridade: 1) chat/artefato ori…
+
+- EG023 — Paz — Linguagem e Continuidade (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …ixar de carregar todo o contexto, também estaria “dando descanso pro copiloto”. - Há material anterior desta mesma trajetória disponível por resumos, documentos, arquivos e referências internas, inclusive estados de 2026-10-05 e documentos de 2026-10-06, mas o início completo e contínuo do chat orig…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …queologia: o material herdado é registrado como HERDADO quando ele aparece nesta engrenagem; não é reclassificado como descoberta original deste chat. DOCUMENTOS E ARTEFATOS EFETIVAMENTE CONHECIDOS 1. MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt Natureza: TXT consolidado anterior, recupera…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …2026 e vários vídeos/imagens, que demonstram uma história anterior; - a sequência que vai do "engasgo das bolinhas" até a criação dos documentos da Gulosona está disponível com alta nitidez; - nem todas as passivas da árvore receberam tooltip no vídeo, portanto alguns nomes individuais continuar…
+

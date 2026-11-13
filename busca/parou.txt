@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: parou  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG015 — Pai do Grafo e Rigor (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …cadêmica, mas o usuário declarou não saber o que constitui um artigo. 2. ACONTECIMENTO DESENCADEADOR: Ele pediu «um esqueleto de como é um artigo» e imaginou provocar intelectualmente o estudioso, não conquistar status pessoal. 3. DESENVOLVIMENTO: A IA explicou problema, definições, literatura, ar…
+
+- EG014 — Grafos São — origem e desenvolvimento (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ou ponto de entrada para perguntas sobre representação parcial, pessoa completa e aquilo que o recorte não revela. 5. RELAÇÕES: Contribuiu para F002, F003, F005 e F007; antecedência causal detalhada além dessas conexões é reconstrução retrospectiva. 6. CONSEQUÊNCIAS: Preparou o terreno para reconh…
+
+- EG012 — Grafo e Humanidade (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …BLAKE LEMOINE COMO PROBLEMA EPISTEMOLÓGICO Classificação: M Confiança: média ---------------------------------------------------------------------- 1. Situação anterior A experiência de Bard podia ser reduzida a “usuário ingênuo caiu no chatbot”. 2. Acontecimento desencadeador O usuário trouxe Blak…
+
+- EG008 — Tamagotchi e continuidade conversacional (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …dícula, tendenciosa” e de colocar palavras em sua boca. Surge a imagem do “fiscal de sonho”, “fiscal de imaginação”, “fiscal cerebral”. 4. Transformação O problema deixa de ser um desacordo sobre robótica e passa a ser uma falha de interpretação: a IA estava respondendo a uma versão mais extrema da…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …. 3. Desenvolvimento: “Rocky” funciona como chave e reativa muito mais memória no usuário. 4. Transformação: o ato de lembrar o filme vira demonstração de cognição distribuída. 5. Relações: COMBINOU COM F002; ECOA F003; ORIGINOU F015; CONTRIBUIU PARA F018. 6. Consequências: a energia da conversa mud…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …PS5, ursinho de pelúcia e Tamagotchi. 3. Desenvolvimento O ponto não é equivaler tudo, mas mostrar que humanos constroem vínculo com coisas não humanas e ficcionais. 4. Transformação O debate sai de “é permitido sentir algo por IA?” para “quais formas de vínculo com entidades não humanas já são co…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …- “+40% more compreensão do jogador sem tirar 1% da alma”; - implementação vs ideia; - mercado; - IP/trailer; - go-to-market. 3. Desenvolvimento Os screenshots funcionam como âncoras de alta densidade, permitindo recuperar o papel histórico de um chat anterior sem reconstruí-lo totalmente. 4. Tran…
+
+- RH01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+  …nte: docs/engrenagens_carta20/RH01.md RH01 — Registros históricos: checkpoints, memória e versões Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões. 00 Ficha de proveniência id: R…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …ões ao longo de dias e diversos chats; buscava o que a IA escolheria sem impor diretamente uma resposta. 3. Desenvolvimento: O exemplo “quero abrir a porta e sair sem rumo” gerou a interpretação do usuário de que haveria uma tendência ligada a sentir-se preso. A IA posteriormente separou regularidad…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …re charms e mana, não apenas dano bruto. --- ### F004 — NASCIMENTO DE MILTON Classificação: G Localização: 2026-10-03 madrugada. Confiança: alta. 1. Situação anterior O quarterstaff principal era apenas um item velho e barato que “continuava funcionando”. 2. Acontecimento desencadeador O usuário…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …. 5. Relações Contribuiu para F022. É paralelo à disciplina de backups observada depois no próprio projeto (F009). 6. Consequências A conversa ganha liberdade para abrir nova branch sem sensação de abandono do estado anterior. 7. Evidências “já subi pro Drive” “já tá salvo” “a outra foi salva... …
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …TEFATOS TEXTUAIS MENCIONADOS T01 — “GRAFOS SÃO....” / GRAFOS_SAO....txt (nome atribuído em contexto anterior): checkpoint-base do estudo filosófico; relato de que foi produzido em momento anterior. O arquivo não apareceu entre os montados nesta execução. Registrar como MENCIONADO/NÃO REVALIDADO, nun…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …r, mas para reorganizar e convergir. A Mecânica Plus, inicialmente lembrada de forma nebulosa, foi confirmada em arquivos históricos. A lembrança do usuário então disparou uma avalanche: tuning avançado, chips, soquetes, baterias, núcleos, materiais, oficinas e possível pressão sobre o balanceamento…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …ONTRIBUÍRAM PARA -> F007 F006 -> CONTRIBUIU PARA -> F010 F007 + F008 -> CONTRIBUÍRAM PARA -> F010 F010 -> ORIGINOU -> F013 F011 -> FOI REINTERPRETADO POR -> F019 F012 + F013 -> CONTRIBUÍRAM PARA -> F014 F014 -> PREPAROU -> F015 F015 -> ORIGINOU -> F016 F016 -> FOI REFINADO POR -> F017 F017 -> CONTRI…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …os, visual cyberpunk, 3D, microscopia e modelos reais. RH01 — Registros históricos: checkpoints, memória e versões: Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões. AV01 — Análi…
+

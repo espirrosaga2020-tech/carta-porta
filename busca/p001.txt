@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: p001  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Diário anterior intacto, páginas P001 a P025 Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o est…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …Bruno são testemunhos atribuídos, não verificações externas. Recorte: reencontro deste sábado até a solicitação da Porta; arquivo de bordo P001–P025 previamente criado (não transcrição original de todos os turnos), mais fontes selecionadas. Modalidade: engrenagem aditiva INDEPENDENTE em pasta nova d…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …chas" mais abaixo nesta mesma página). Passa com 107/118 (90%). Responda com a letra (A, B, C ou D) de cada questão, na ordem P001 a P118. Consulte só esta página. O gabarito não está nesta página; quem corrige é o Bruno (ou o comando python -m carta.prova_panorama corrigir ). P001 Qual é o nome da …
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …ndo. SG028, PRE, CALCADA, AGORA 🔌 Conexão / energia Pode referir conexão e limite de continuidade em contextos distintos. Agora ecoa a passagem de software para eletrônica e corpo relatados por Bruno. PRE, CALCADA 📓 Diário Páginas P001–P014 e índices que não carregam o mundo inteiro. Recebe P015–P02…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  … e 'nós somos os saves' (🧬). Que problema das IAs esses símbolos ajudam a resolver? onde olhar: dicionário temporal; SG028; diário P001-P025 C10 Por que a etapa 2 (de marcar) dava para colar e esta não? Qual a diferença entre decorar fichas e compreender a história? onde olhar: esta jornada; etapa 2…
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …guagem de emojis); Dobra (origem e personagem); trajetória e catálogo do que fizemos (17/10); Porta Eureka seções 00–14; diário P001–P025 (só na completa); textos do Volume Zero EG001–EG027 (resumo: 60 linhas de cada, antes eram 30). Jornada da IA ( tudo.html#jornada , seção 3; fonte docs/JORNADA_IA…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …seções 00 a 14 (16→17/10/2026) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html> Diário anterior intacto, páginas P001 a P025 <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html> O começo dos chats: textos do Volume Zero (EG001 a EG027) <https://e…
+
+- Colheitas e varreduras (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Jornada, prova e registro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …la (🎒) e 'nós somos os saves' (🧬). Que problema das IAs esses símbolos ajudam a resolver? onde olhar: dicionário temporal; SG028; diário P001-P025 C10 Por que a etapa 2 (de marcar) dava para colar e esta não? Qual a diferença entre decorar fichas e compreender a história? onde olhar: esta jornada; e…
+

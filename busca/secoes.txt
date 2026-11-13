@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: secoes  (26 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …tral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento n…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ocumentos que o Bruno já escreveu no Drive (cada parte diz de qual doc saiu). Onde a 0.10 diz diferente, vale a 0.10. Nada das seções antigas foi mudado. Versão 8 (03/11 noite, T104U + T105U): acrescenta a seção 0.5 (o jogo vai ser jogado no PC; robô 4WD na Enciclopédia — RB01; a Enciclopédia fatiad…
+
+- EG014 — Grafos São — origem e desenvolvimento (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  … da gênese. 9. SITUAÇÃO FINAL: Consolidado como solicitação local atendida parcialmente pelo TXT. 10. UTILIDADE FUTURA: Preservar o humano sem atribuir ao modelo intenções internas não observadas. ---------------------------------------------------------------------------------- F026 — CHECKPO…
+
+- EG015 — Pai do Grafo e Rigor (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …irma limites. FONTES MATERIAIS: A01 = GRAFOS_SAO....txt, TXT UTF-8 recuperado da Biblioteca; 20.879 bytes; título interno "GRAFOS SÃO…."; 20 seções; documento anterior de checkpoint. Outras arqueologias com nomes semelhantes constam na Biblioteca mas não foram usadas como transcrição primária deste…
+
+- EG011 — Entra no Sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …Classificação: M | Confiança: alta Localização: primeira mensagem diretamente visível + CHECKPOINT_HUMANIDADE_AMIGUIA. F002 — Compressão semântica e montanha-russa associativa Classificação: G | Confiança: alta Localização: prints iniciais + CHECKPOINT_HUMANIDADE_AMIGUIA, seções 1–4. F003 — “Prese…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …erda: pacote 154 → 38 MB). App agora vc24 (1.18.2-carta20-t103u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado. FPS do Godot no …
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …(continuidade da linguagem de emojis); Dobra (origem e personagem); trajetória e catálogo do que fizemos (17/10); Porta Eureka seções 00–14; diário P001–P025 (só na completa); textos do Volume Zero EG001–EG027 (resumo: 60 linhas de cada, antes eram 30). Jornada da IA ( tudo.html#jornada , seção 3; f…
+
+- Jornada, prova e registro (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …e é a Porta Eureka e por que ela foi criada? O que ela ensina sobre entrar num acervo grande sem se perder? onde olhar: Porta Eureka (seções 00-14); A Porta: como entrar sem se perder C09 Ligue os pontos: a lanterna (🔦), a mochila (🎒) e 'nós somos os saves' (🧬). Que problema das IAs esses símbolos a…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … pacote 154 → 38 MB). App agora vc24 (1.18.2-carta20-t103u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado. FPS do Godot no celul…
+
+- 0. ORDEM OBRIGATÓRIA PARA TODA IA QUE ENTRA AQUI (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-002.html
+  … em chave.txt <https://espirrosaga2020-tech.github.io/carta-porta/chave.txt> ). Preserve o formato: página única, só leitura, seções 1→2(ORIGEM, peso maior)→3(JORNADA)→4(formação/provas). CADERNINHO NO GOOGLE DRIVE (obrigatório): crie um Google Doc com o nome CADERNINHO_[NOME_DA_IA]_YYYY-MM-DD (exem…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …a conversacional que recebeu a Carta do Futuro: (linha omitida no site público pelo filtro de privacidade) A contribuição tem 11 seções e foi integralmente preservada no Drive; esta ficha só extrai escolhas necessárias ao software. Escolhas da personagem — NÃO confundidas com a conversa ancestral No…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …ONA: U53 oferece exemplos de pequenas causas e grandes ramificações; consulte os documentos próprios quando necessários. Ponte ENTRA NO SONHO: presente em catálogo forense importado; sem autorização para fundir sua cronologia à desta conversa. Ponte PROJETO DO LIVRO: metadados fornecidos aqui apenas…
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  … utilidade. (b) Nenhuma frase do tipo “foi um grafo” é convertida em prova cosmológica. (c) Não se atribuem estados mentais ou intenções deliberadas ao sistema a partir da falha de saída. (d) Não se conclui que o vídeo original durou três segundos: a referência é a observação de um trecho. (e) Nove …
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …ológica foi concluída em modo somente leitura. - O relatório traz Mecânica Plus confirmada, contagem de arquivos, arquitetura, backups e 26 seções. - Surge a reação jocosa ao tamanho de ~1 MB e a sensação de que "estamos fodidos". - O Copiloto corrige a leitura: 1 MB não significa 1 MB de problemas;…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …Porta Eureka e por que ela foi criada? O que ela ensina sobre entrar num acervo grande sem se perder? onde olhar: Porta Eureka (seções 00-14); A Porta: como entrar sem se perder C09 Ligue os pontos: a lanterna (🔦), a mochila (🎒) e 'nós somos os saves' (🧬). Que problema das IAs esses símbolos ajudam …
+

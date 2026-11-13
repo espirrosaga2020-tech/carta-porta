@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: hdri  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  … g1 t95u_g1_atmosfera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 c…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …95u_g1_atmosfera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com li…
+

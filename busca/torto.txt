@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: torto  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … acrescenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acre…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …scenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescent…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …acrescenta a seção 0.2 (T100U: o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acres…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …a/lego/__init__.py LEGO pela webcam (FINALIZAÇÃO 17/10): ver a peça → medir → montar no mundo 3D. Visão (opencv) roda só no trabalhador da robótica. src/carta/lego/feedback.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leitura: não mexe na montagem. src/carta/l…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …o/__init__.py LEGO pela webcam (FINALIZAÇÃO 17/10): ver a peça → medir → montar no mundo 3D. Visão (opencv) roda só no trabalhador da robótica. src/carta/lego/feedback.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leitura: não mexe na montagem. src/carta/lego/m…
+
+- Resultado do aperfeiçoamento 2 (31/10) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  … 142× arquivo temporário preso por outro processo, web/public ausente na instalação, SCIENCE_PROTOCOL ausente D1a feedback "tá torto" true lego/feedback.py : torta, fora dos pinos, flutuando, pendurada, girada; tolerância 4° / 1,5 mm ou a incerteza σ D1b níveis/locais true camadas por altura + 6 eta…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …erta ?regioes=0 desliga Estado: ✅ fechado — 32 regiões; viagem medida (Bosque Antigo → 'você está perto de' = Bosque Antigo) no PC e no celular t5 — LEGO 'tá torto?' comparando a peça vista com o MODELO (passo a passo) Sonho: Lab de visão / LEGO · flag: t100u_t5_lego para cada peça do modelo: certa …
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  … no Planeta (g4) completo 95% LIGADO por padrão; crescimento determinístico testado; FPS ok no ponta a ponta. Labs Lab de visão / LEGO "tá torto?" parcial 70% T101U: imagem SINTÉTICA (verdade conhecida) → mede cor, ângulo, tamanho e posição em Python puro → compara: certa, torta 15°, 12 mm fora, peç…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …laneta (g4) completo 95% LIGADO por padrão; crescimento determinístico testado; FPS ok no ponta a ponta. Labs Lab de visão / LEGO "tá torto?" parcial 70% T101U: imagem SINTÉTICA (verdade conhecida) → mede cor, ângulo, tamanho e posição em Python puro → compara: certa, torta 15°, 12 mm fora, peça fal…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …?regioes=0 desliga Estado: ✅ fechado — 32 regiões; viagem medida (Bosque Antigo → 'você está perto de' = Bosque Antigo) no PC e no celular t5 — LEGO 'tá torto?' comparando a peça vista com o MODELO (passo a passo) Sonho: Lab de visão / LEGO · flag: t100u_t5_lego para cada peça do modelo: certa / tor…
+

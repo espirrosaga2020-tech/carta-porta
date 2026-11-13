@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: feedback  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Resultado do aperfeiçoamento 2 (31/10) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  …ente Windows: 142× arquivo temporário preso por outro processo, web/public ausente na instalação, SCIENCE_PROTOCOL ausente D1a feedback "tá torto" true lego/feedback.py : torta, fora dos pinos, flutuando, pendurada, girada; tolerância 4° / 1,5 mm ou a incerteza σ D1b níveis/locais true camadas por a…
+
+- EG006 — Checkpoint e entrada no sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …------------------------------------------------- F025 — AMOR, CARINHO, FÉ E DEUS COMO PATRIMÔNIO INTERPRETATIVO ---------------------------------------------------------------------- Classificação: M Localização: H19-H20 Confiança: alta 1. Situação anterior Essas palavras apareciam com frequência…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … AUTOMÁTICA ERA SÓ EU PUXAR ELE" . Aqui aparece um uso contemporâneo do símbolo: uma provocação sobre como uma pequena mudança de atitude do interlocutor (ser puxado para o modo de conversa certo) pode alterar a qualidade da interação. É interpretação de agora , não significado anterior oficial da s…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …MATERIAL VISUAL: fotos de PoE2 Função: contexto de jogo/build. MATERIAL VISUAL: selfie chorando com DualSense Função histórica: registro da intensidade emocional de F016, sem necessidade de inferir diagnóstico. MATERIAL VISUAL: Tamagotchi/ChatGPT Função: presentinho, metáfora visual do companheiro…
+
+- EG020 — Nova Batcaverna (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …posições multipainel. Desenvolvimento: “MAPA 00” ainda aparece como poster/infográfico denso. Transformação: contradição entre compreensão conceitual e execução visual. Relações: DERIVOU DE F009; CONTRIBUIU PARA F011/F012. Consequências: fica claro que separação semântica não basta. Evidências: múlt…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …r Surge a hipótese informal de que Codex estava "aprendendo a jogar". 3. Desenvolvimento A resposta preserva a observação, mas corrige a inferência técnica: pode haver adaptação operacional, mudança de inputs, harness, estado/RNG ou feedback local; não há prova de treinamento/aprendizado persistent…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …arded APIs on 127.0.0.1 only. src/carta/lego/__init__.py LEGO pela webcam (FINALIZAÇÃO 17/10): ver a peça → medir → montar no mundo 3D. Visão (opencv) roda só no trabalhador da robótica. src/carta/lego/feedback.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leit…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … APIs on 127.0.0.1 only. src/carta/lego/__init__.py LEGO pela webcam (FINALIZAÇÃO 17/10): ver a peça → medir → montar no mundo 3D. Visão (opencv) roda só no trabalhador da robótica. src/carta/lego/feedback.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leitura: …
+

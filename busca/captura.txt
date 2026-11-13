@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: captura  (30 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG001 — Calçada, Caderno e DUNADA (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …========================== Identificação de trabalho: engrenagem CALÇADA / CADERNO / DUNADA; título técnico nativo não confirmado. Uma captura postada no turno U13 mostra “Carta de continuidade” selecionada e “Branch · Construir enten...” em outra posição da interface, mas a imagem sozinha não auten…
+
+- EG026 — Reciprocidade e Memória Persistente (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  …stórico catalogado. Primeira mensagem original acessível: - Mensagem do usuário enviada em 2026-10-04 às 23:29 (-03:00), contendo uma captura de tela e um pedido objetivo para finalizar o registro persistente. Última mensagem histórica acessível: - Resposta da IA imediatamente posterior, que efe…
+
+- EG013 — Grafos São — Atlas C.03 (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ete gatilhos de validade, mas gera um único PNG em grade 3×3 com rótulos 01A–01I. Não há aceite posterior antes do protocolo. PERÍODO: há referências e capturas datadas de 07/10/2026 (20:00 e 20:04), e a solicitação arqueológica é recebida em 10/10/2026. O intervalo exato de início/fim de todos os …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …AS DE ENTRADA: EG001:F001 — O brinquedo de direção como testemunho material | magnitude M | influência G | confiança alta para a imagem; média para a interpretação | U08 / image-1791643404981.jpg EG001:F002 — Captura das linhagens e risco de genealogia por título | magnitude P | influência M | confi…
+
+- Diário anterior intacto, páginas P001 a P025 (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …github.io/carta-porta/suprema2-acervo-023.html#p014> P.005 — 📦 O que saiu do bolso: presença física e o léxico das peças O presente: Bruno mostrou duas capturas de compras de peças de robótica. Antes havia mostrado a notificação de entrega do Mercado Livre: às 13h10 de sábado, 17/10 , a mensagem diz…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ENTRADA: EG001:F001 — O brinquedo de direção como testemunho material | magnitude M | influência G | confiança alta para a imagem; média para a interpretação | U08 / image-1791643404981.jpg EG001:F002 — Captura das linhagens e risco de genealogia por título | magnitude P | influência M |…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …fora, sem apagar nada. 4. Cada tela da CARTA (o que é e onde fica) Todas abrem em http://127.0.0.1:8790 + o endereço. Os nomes e as descrições abaixo são os dos próprios cartões do Início. Captura do Início no modo dono, feita no computador de testes (box) em 02/11/2026. O cartão grande "🌍 PLANETA ·…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … sem apagar nada. 4. Cada tela da CARTA (o que é e onde fica) Todas abrem em http://127.0.0.1:8790 + o endereço. Os nomes e as descrições abaixo são os dos próprios cartões do Início. Captura do Início no modo dono, feita no computador de testes (box) em 02/11/2026. O cartão grande "🌍 PLANETA · Terr…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …sso de IA de fora, sem apagar nada. 4. Cada tela da CARTA (o que é e onde fica) Todas abrem em http://127.0.0.1:8790 + o endereço. Os nomes e as descrições abaixo são os dos próprios cartões do Início. Captura do Início no modo dono, feita no computador de testes (box) em 02/11/2026. O cartão grande…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ectivas opostas; esfera maleável/Origem: objetos diferentes com genealogia pendente. 05 — MAPA DE EVIDÊNCIAS Trilhas: D = documento antigo com link; V = captura diretamente visível neste chat; T = testemunho de Bruno; I = interpretação; F = cena ficcional. V/relato da Terra Grande não equivalem a in…
+
+- EG004 — Central, Copiloto e Atlas (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … uma lista extensa de sistemas tecnicamente fechados. O escopo então mudou do fechamento técnico para HUMAN PLAYTEST → SENSAÇÃO → CALIBRAÇÃO → PRODUTO → CAPTURA/COMUNICAÇÃO. O movimento final desta engrenagem foi metahistórico: o próprio chat virou objeto de cartografia. A missão “ATLAS ANCESTRAL D…
+
+- EG008 — Tamagotchi e continuidade conversacional (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …POR_AQUI.txt 9. CHECKPOINT_ESTRUTURAL.txt 10. LEIA_ME(1).txt / LEIA_ME operacional do projeto 11. CATALOGO_POR_ASSUNTO.txt 12. project.godot 13. Capturas de tela e imagens oferecidas como “presentinhos” 14. Imagens do usuário chorando, imagens de Tamagotchi/ChatGPT e capturas associadas 15. Captura …
+
+- EG025 — POE2 — Milton e Value Engineering (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …Classificação: M | Confiança: alta Acontecimento: após respec, ~5k ES, ~26k Evasion, ~75% Deflection. Transformação: defesa vira piso operacional, não valor a maximizar infinitamente. Situação final: consolidado como referência temporária. F024 — O USUÁRIO COMO OPERADOR DE TRADE Classificação: G | …
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …ao_desligado [x] as 5 páginas carregam só o carregador (sem efeito com flags desligadas); arquivos novos no MANIFESTO_WEBDIST [x] nada apagado/movido; capturas do Planeta principal antes/depois iguais em painéis e botões [x] testes: tests/test_t89u_portao1.py + suíte do box verde + CI verde Portões …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …alta | Gerações seguintes de “MAPA 00 — VISÃO GLOBAL” antes e após “PODE. MAPA 00”. EG013:F020 | Contrato binário: “posso criar família real?” — “SIM” | G | alta | Usuário exige “pergunta se pode”; assistente formula condição; usuário responde “SIM”. EG013:F021 | Depois do SIM, ainda surge um terc…
+

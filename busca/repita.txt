@@ -1,0 +1,7 @@
+BUSCA POR LINK — termo: repita  (1 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …nte de inferências sobre ChatGPT: - src/carta/fala.py : texto antigo Sem emojis, listas ou aspas ; Frases que você JÁ disse (não repita nem parafraseie) ; too_similar barrava linguagem com alta sobreposição lexical, inclusive o que o personagem tinha OUVIDO DE OUTROS. Refazendo respostas por semelha…
+

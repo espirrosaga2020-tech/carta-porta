@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: t89u  (25 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (67)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  … Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não su…
+
+- Portões booleanos t89u (critérios e estado) (67)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões booleanos t89u (critérios e estado) PORTÕES T89U — d…
+
+- Mapa de pastas e código (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ecem nomes e a descrição de cada módulo; o código em si não é publicado. Pastas principais src/carta/ — 932 arquivos src/carta/t89u/ — 13 arquivos src/carta/webdist/ — 491 arquivos src/carta/terra/ — 17 arquivos tools/ — 103 arquivos tools/pc/ — 33 arquivos tests/ — 157 arquivos docs/ — 635 arquivos…
+
+- Mapa de pastas e código (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …nomes e a descrição de cada módulo; o código em si não é publicado. Pastas principais src/carta/ — 932 arquivos src/carta/t89u/ — 13 arquivos src/carta/webdist/ — 491 arquivos src/carta/terra/ — 17 arquivos tools/ — 103 arquivos tools/pc/ — 33 arquivos tests/ — 157 arquivos docs/ — 635 arquivos docs…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca sobrescreve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo filtro de privacidade) Prioridade da Porta (T114U): informação acima do visual: o máximo de conteúdo…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …lveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca sobrescreve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo filtro de privacidade) Prioridade da Porta (T114U): informação acima do visual: o máximo de conteúdo legí…
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca sobrescreve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo filtro de privacidade) Prioridade da Porta (T114U): informação acima do visual: …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …iaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py já tinha: os dois modos ( olho_local padrão, olho_gemini desligado sem chave), limiar de mudança de cena, heartbeat, aviso de pri…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …ual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py já tinha: os dois modos ( olho_local padrão, olho_gemini desligado sem chave), limiar de mudança de cena, heartbeat, aviso de privacidad…
+
+- Estado atual — varredura geral (02/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Estado atual — varredura geral (02/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …le 8.9 de [omitido pelo filtro de privacidade] BUILD SUCCESSFUL em 48 s. APK novo: versionCode 16 , versionName 1.12.0-carta20-t89u , [omitido pelo filtro de privacidade] sha256 0A4DAF63554E4863C611BF7BA40E27C9C8B45D35B40E670D5F52D36D34833861 (25.098.520 bytes). Assinatura IGUAL à do vc15 (certifica…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …2" · arquivo <workspace>/t95u_flags.json {"t95u_g1_atmosfera": true} · numa aba ?t95u=g1 ( ?t95u=0 desliga). Rotas (só dono): GET /api/t89u/t95u/flags , GET /api/t89u/t95u/portoes . Código: src/carta/t95u/ (catálogo + flags) · teste do esqueleto: tests/test_t95u_portoes.py . # id flag portão critéri…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …ste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). Geral: 86% nos 32 sonhos/pedidos de antes (13 co…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …as lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). Geral: 86% nos 32 sonhos/pedidos de antes (13 complet…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …arquivo <workspace>/t95u_flags.json {"t95u_g1_atmosfera": true} · numa aba ?t95u=g1 ( ?t95u=0 desliga). Rotas (só dono): GET /api/t89u/t95u/flags , GET /api/t89u/t95u/portoes . Código: src/carta/t95u/ (catálogo + flags) · teste do esqueleto: tests/test_t95u_portoes.py . # id flag portão critério boo…
+

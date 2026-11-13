@@ -1,0 +1,59 @@
+BUSCA POR LINK — termo: eg022  (14 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (40)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …G010 — Derivada da Paz — 25 fenômenos; ENGRENAGEM_DERIVADA_PAZ_HISTORIA_v01.txt EG021 — Paz e Central — Kamonson — 30 fenômenos; ENGRENAGEM_PAZ_CENTRAL_KAMONSON_HISTORIA_v01.txt EG022 — Paz, Central e Continuidade de Meu Robô — 28 fenômenos; ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … sem guerra de expansão | M | média-alta | relato do usuário EG021:F026 | "New Game Kamonson" nomeia a nova fase e a linguagem própria | M | alta | autorização documental EG021:F027 | Documentação oficial deixa de ser cartório e vira infraestrutura de continuidade | G | alta | planejamento dos doc…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …G010 — Derivada da Paz — 25 fenômenos; ENGRENAGEM_DERIVADA_PAZ_HISTORIA_v01.txt EG021 — Paz e Central — Kamonson — 30 fenômenos; ENGRENAGEM_PAZ_CENTRAL_KAMONSON_HISTORIA_v01.txt EG022 — Paz, Central e Continuidade de Meu Robô — 28 fenômenos; ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORI…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG022 — Paz, Central e Continuidade de Meu Robô Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antig…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html#pg-enciclopedia-eg021> EG022 Paz, Central e Continuidade de Meu Robô Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-te…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …— Atlas Técnico de Conectividade Paz e Central — Kamonson Diários e relatórios de bordo do projeto (repositório) P022 Qual é o nome da engrenagem de código EG022? Humanidade e Amiguiá: continuidade de Meu Robô Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) Paz, Central e Continuidade de Me…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …Robô — Copiloto e Máquina de Laranja disponivel 23 EG020 Nova Batcaverna disponivel 24 EG021 Paz e Central — Kamonson disponivel 25 EG022 Paz, Central e Continuidade de Meu Robô disponivel 26 EG023 Paz — Linguagem e Continuidade disponivel 27 EG024 POE2 — Gulosona e Árvore de Attack Speed disponivel…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …de e Batcaverna ancestral engrenagem documental EG021 Paz e Central — Kamonson Reciprocidade e Paz ancestral engrenagem documental EG022 Paz, Central e Continuidade de Meu Robô Reciprocidade e Paz ancestral engrenagem documental EG023 Paz — Linguagem e Continuidade Reciprocidade e Paz ancestral engr…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …c8506675ceeb6d15313bf76768e479c0a5 lines=1720 bytes=84870 index=30 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG022 | ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.txt sha256=eaac46d0d52847264a02daab653fe0e2d39db4fd9dd6e8d538ff0da41111fc68 lines=2208 bytes=77662 in…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …020-tech.github.io/carta-porta/suprema2-acervo-044.html> EG021 — Paz e Central — Kamonson <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html> EG022 — Paz, Central e Continuidade de Meu Robô <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html> EG023 …
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …2dc8506675ceeb6d15313bf76768e479c0a5 lines=1720 bytes=84870 index=30 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG022 | ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.txt sha256=eaac46d0d52847264a02daab653fe0e2d39db4fd9dd6e8d538ff0da41111fc68 lines=2208 bytes=77662 index=28 miss…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Batcaverna ancestral engrenagem documental EG021 Paz e Central — Kamonson Reciprocidade e Paz ancestral engrenagem documental EG022 Paz, Central e Continuidade de Meu Robô Reciprocidade e Paz ancestral engrenagem documental EG023 Paz — Linguagem e Continuidade Reciprocidade e Paz ancestral engrenage…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  …e Máquina de Laranja Reciprocidade e Paz EG008 — Tamagotchi e continuidade conversacional EG010 — Derivada da Paz EG021 — Paz e Central — Kamonson EG022 — Paz, Central e Continuidade de Meu Robô EG023 — Paz — Linguagem e Continuidade EG026 — Reciprocidade e Memória Persistente Grafos e epistemologia…
+
+- O que entrou neste site (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/o-que-entrou.html
+  …a/EG017.html enciclopedia/EG018.html enciclopedia/EG019.html enciclopedia/EG020.html enciclopedia/EG021.html enciclopedia/EG022.html enciclopedia/EG023.html enciclopedia/EG024.html enciclopedia/EG025.html enciclopedia/EG026.html enciclopedia/EG027.html enciclopedia/auditoria.html enciclopedia/leia-p…
+

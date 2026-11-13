@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: workflow  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Resultado do aperfeiçoamento (31/10) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …antes é preciso perguntar como você quer; (linha omitida no site público pelo filtro de privacidade) o robô físico. Opcionais: neon nas cenas 3D, com cuidado com o FPS; opencv no Python do PC, para o lab de visão. CI: aplicar docs/CARTA20/CI_TIMEOUT_15MIN.patch quando você der a permissão "workflow"…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  … c, d, e, f, h; teste ponta a ponta P13; Meu Robô (caixa de missões 29%); Consciência citando fonte; G9; P7; P9 com IA independente; patch de CI (permissão workflow). ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html> · Índice do acervo <https://espirrosaga2020-…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …, e, f, h; teste ponta a ponta P13; Meu Robô (caixa de missões 29%); Consciência citando fonte; G9; P7; P9 com IA independente; patch de CI (permissão workflow). CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 22:10 (horário de Brasília). Sem login, sem chave, sem JavaScri…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … é preciso perguntar como você quer; (linha omitida no site público pelo filtro de privacidade) o robô físico. Opcionais: neon nas cenas 3D, com cuidado com o FPS; opencv no Python do PC, para o lab de visão. CI: aplicar docs/CARTA20/CI_TIMEOUT_15MIN.patch quando você der a permissão "workflow" do G…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …final 6), e antes é preciso perguntar como você quer; (linha omitida no site público pelo filtro de privacidade) o robô físico. Opcionais: neon nas cenas 3D, com cuidado com o FPS; opencv no Python do PC, para o lab de visão. CI: aplicar docs/CARTA20/CI_TIMEOUT_15MIN.patch quando você der a permissã…
+

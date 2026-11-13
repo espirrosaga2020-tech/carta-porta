@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: trava  (23 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Teste duro das consciências (T105U, 03/11) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …a consciência recebe a ALMA com o conhecimento novo e as fontes certas (engrenagens + 1 fatia da Enciclopédia fatiada); 3. se a trava anti-invenção deixa passar o que existe e segura o que não existe; 4. que equipe o Megazord chama (modo SEM IA, bancada de 54). Script: /workspace/t105u/teste/teste_d…
+
+- EG009 — Bard, Corpo e a própria Conversa (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …otécnico exposto à criatividade humana”. 5. Relações Origina F010 parcialmente e prepara F011. Conecta-se à ideia anterior “humanos não são cavalos”: humanos sabem que estão sendo modelados e tentam quebrar limites. 6. Consequências Segurança deixa de caber no prompt. Exige limites físicos, autent…
+
+- EG004 — Central, Copiloto e Atlas (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …a classificação deveria apontar evidência. Legado não seria removido por aparência. 4. Transformação A missão ganhou uma forma investigativa sem misturar diagnóstico e correção. 5. Relações DERIVOU de F002, F005 e F011. Foi posteriormente MODIFICADA/ENCERRADA COMO MISSÃO ATIVA por F014. 6. Conseq…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …e que os documentos sejam consultados porque lembra da Mecânica Plus, mas não sabe se foi destruída ou absorvida. Os arquivos confirmam: - Mecânica Plus já existia em LEIA_ME; - cartão do chip mantinha soquete; - mostrava o que mudava na luta; - o Mapa Mestre registra núcleo especial, more attack, …
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …e a regra: quando a formulação vem em grafo, reconstruir o argumento mais forte que o contexto sustenta antes de corrigir. FASE 11 — MEMÓRIA É PISTA; ARQUIVO É PROVA — APLICADO À PESSOA - Humanidade menciona arquivo que registrava PoE2 aberto durante medições; o arquivo é localizado e confirma a le…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … conteúdo novo, rodadas sem IA ligada (Ollama e Gemini continuam desligados por regra). Mede o que cada consciência recebe (modo escolhido, fontes, fatias) e a trava anti-invenção. Resultado em docs/CARTA20/TESTE_DURO_CONSCIENCIAS_T105U.md . Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  … de Faísca/Pokémon; memória antiga que confundia é filtrada. Games: The Witcher 3 e jogos de PS5 com base própria + pesquisa rápida na Wikipédia; sem spoiler; "não conheço" é cortado. Invenção travada: frase sobre pessoa/passado sem apoio no trecho sai; "a gente jogou junto", "lembra quando", "nosso…
+
+- Resultado do aperfeiçoamento 2 (31/10) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  …calculado" Q2b suíte do PC depois de instalar true 721 testes (21 novos, todos ok), 9 falhas e 95 erros. A diferença de ±1 erro é a trava de arquivo temporário do Windows, que alterna entre rodadas ( limites_e012.sqlite3 preso no tearDown), e não vem de código. Suíte do repositório no box: 822 teste…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …eúdo novo, rodadas sem IA ligada (Ollama e Gemini continuam desligados por regra). Mede o que cada consciência recebe (modo escolhido, fontes, fatias) e a trava anti-invenção. Resultado em docs/CARTA20/TESTE_DURO_CONSCIENCIAS_T105U.md . Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md — Ro…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …aísca/Pokémon; memória antiga que confundia é filtrada. Games: The Witcher 3 e jogos de PS5 com base própria + pesquisa rápida na Wikipédia; sem spoiler; "não conheço" é cortado. Invenção travada: frase sobre pessoa/passado sem apoio no trecho sai; "a gente jogou junto", "lembra quando", "nosso enco…
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ocativas sobre o conteúdo novo, rodadas sem IA ligada (Ollama e Gemini continuam desligados por regra). Mede o que cada consciência recebe (modo escolhido, fontes, fatias) e a trava anti-invenção. Resultado em docs/CARTA20/TESTE_DURO_CONSCIENCIAS_T105U.md . Diagnóstico dos sonhos: docs/CARTA20/DIAGN…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …------------------------------------------------------------------ Classificação: G | Influência posterior: G | Confiança: alta para foto e relato; média para prática histórica completa Localização: U52 / image-1791667412257.jpg 1. Situação anterior: A foto de U08 já mostrava um caderno; a realizaçã…
+
+- EG015 — Pai do Grafo e Rigor (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …o saber o que constitui um artigo. 2. ACONTECIMENTO DESENCADEADOR: Ele pediu «um esqueleto de como é um artigo» e imaginou provocar intelectualmente o estudioso, não conquistar status pessoal. 3. DESENVOLVIMENTO: A IA explicou problema, definições, literatura, argumento, objeções, limites e conclu…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …0-10 Inconsistência de nomenclatura registrada. Não renomear retroativamente sem pedido. 11. “Reciprocidade = conquistar confiança” → “não é sobre conquistar confiança; é sobre a montanha-russa” Refinamento explícito do usuário. 12. Gasolina no carro Suposição do assistente corrigida em humor: car…
+
+- EG018 — Linguagem, Observação e Consciência (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  … exagerada é colocada na mesa e desfeita sem perder a brincadeira. 5. Relações REINTERPRETOU F008. TESTOU F022. REFORÇOU F006. 6. Consequências Fica explicitado: — vermelho não foi declarado inexistente; — gravidade não foi declarada inventada; — vida/consciência artificial não foi demonstrada. 7…
+

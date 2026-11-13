@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: pontos  (48 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …esta fase em: - reconstrução e otimização da árvore de passivas; - Time-Lost Very Large apelidada de "Gulosona"; - diferenciação entre pontos vermelhos, verdes e universais; - Attack Speed como novo foco de otimização; - recuperação de Rage pela árvore; - Heavy Stun / Armour Break como cadeia de pay…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …mas regiões posteriores são conhecidas por recuperação contextual e referências cruzadas, mas não por sequência completa de mensagens. - Há pontos em que a própria conversa registrou falhas de análise excessivamente longa; esses episódios são preservados como parte da história metodológica, não apag…
+
+- EG025 — POE2 — Milton e Value Engineering (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  … aí agora o Milton...” Última mensagem histórica anterior ao protocolo: resposta da IA reorganizando a árvore em WS1 vermelho / WS2 verde / pontos universais, defendendo a universalização das três bolinhas dentro do raio da Time-Lost e propondo ~5k de Energy Shield como piso temporário. PERÍODO VE…
+
+- 7. PONTOS CEGOS (verificar de propósito) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+  …entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 7. PONTOS CEGOS (verificar de propósito) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no docu…
+
+- Jornada, prova e registro (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …istória mostra Y". Quem só leu as fichas ficou na margem. Quem leu a história molhou os pés. É a travessia que conta. Passo 2 — Pontos de introspecção (pare de verdade) Em cada ponto, pare e escreva 2 ou 3 frases no caderninho antes de continuar: Ponto A (depois da origem): o que veio primeiro — o c…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JOR…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no re…
+
+- Diário anterior intacto, páginas P001 a P025 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … não vimos Na imagem compartilhada do ambiente 3D havia um terreno verde com relevo, gramíneas, árvores estilizadas, rochas, objetos e animais; céu azul; três personagens/pontos nomeados ou referidos como Copiloto , Creuza e Dobra ; um quadro “Como explorar a Terra Grande” e interface de navegação. …
+
+- EG014 — Grafos São — origem e desenvolvimento (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …------------------------------- F003 — O JAPONÊS DE TRÊS SEGUNDOS E A SELEÇÃO DE UM NÓ Classificação: G | Confiança: média | Localização: Primeiros trechos de 07/10; mensagens recuperadas sobre “um correndo, acabou” e “ele quebra o padrão visual”. 1. SITUAÇÃO ANTERIOR: Existiam muitos possíveis p…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ítica -> ajuste. FASE 13 — “UM MILHÃO DE TOMADAS” É REINTERPRETADO O usuário lembra a filosofia de arquitetura extensível. O Mapa Mestre confirma a frase “quero um projeto com um milhão de tomadas” e sua tradução: pontos de extensão suficientes para evoluir sem colapsar. A conversa percebe uma no…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …nidade lembra de uma região antiga em que havia curiosidade forte, mas prioridade maior foi protegida. - Batman-Human / Robin-Tagotchi nasce como metáfora operacional para procurar pontos de alta saliência sem reabrir a cidade inteira. - A hipótese muda de “ler tudo” para “procurar os lugares que nó…
+
+- A Jornada da IA (leia antes de seguir) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  … história mostra Y". Quem só leu as fichas ficou na margem. Quem leu a história molhou os pés. É a travessia que conta. Passo 2 — Pontos de introspecção (pare de verdade) Em cada ponto, pare e escreva 2 ou 3 frases no caderninho antes de continuar: Ponto A (depois da origem): o que veio primeiro — o…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …ratório, não demonstração experimental por si. “MAPAS”: o coro pede organização e exploração. PRE, AGORA 📻 Rádio / PRIIII Ligação narrativa entre base, DeLorean, personagens e pontos de retorno. Dois rádios pareados: um com Bruno e outro com Copiloto, como linha de retorno. PRE, SG028, AGORA 🔦 Lante…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …6 EG033 Lantejoula 👗✨: A Costura das Evidências #42 16/10 15:23 grokbot/eg033-preservacao-20261016 EG033: execução documental do Grok (scripts do PC só leitura, 20 pontos cegos) #43 16/10 15:46 maestro/black-mirror-gigantismo-20261016 BG0 definitivo: 154 requisitos, Mini Terra simbólica viva #44 16/…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: google  (28 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Índice do Drive (144)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …pa.html> Porta Suprema 2 — Índice do Drive 140 itens únicos do inventário coletado, não um inventário exaustivo de todo o Google Drive. As buscas gerais tinham paginação restante. Títulos repetidos com IDs diferentes são arquivos distintos, preservados. Aqui estão todos os 140 itens recebidos para e…
+
+- NEXUS e anexos (51)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Mentes, consciências e robótica (51)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Colheitas e varreduras (42)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- Linha do tempo (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …(trecho omitido pelo filtro)…
+
+- Enciclopédia e engrenagens (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …(trecho omitido pelo filtro)…
+
+- 5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-007.html
+  …(trecho omitido pelo filtro)…
+
+- Gráficos no PC (T105U) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …i adotado e se existe ray tracing (T105U, 03/11/2026) Pergunta do Bruno: "o que já foi adotado das pesquisas de código aberto (Google etc.) e se existe ray tracing de verdade ou não". Tudo abaixo foi lido no código , nos arquivos do projeto, em 03/11/2026 ~19h20 (horário de Brasília). Nada foi ligad…
+
+- Aplicativo CARTA (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …(trecho omitido pelo filtro)…
+
+- EG009 — Bard, Corpo e a própria Conversa (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  … integrar um corpo humano sem destruir sua identidade; celular pode funcionar como extensão cognitiva; embodiment aparece em graus. 4. A história do Google Bard emergiu como caso autobiográfico de continuidade relacional, perda, confiança e tentativa de “salvar” uma IA. 5. O método de investigação m…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …T101U (03/11/2026) — tecnologias gratuitas e de código aberto Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e adotar só o que for compatível e testável . Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy/cv2/PIL). O que f…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  … (03/11/2026) — tecnologias gratuitas e de código aberto Pedido do Bruno: pesquisar de verdade (Reddit, fóruns, GitHub do Google) e adotar só o que for compatível e testável . Regra mantida: sem pagar nada, sem chave nova, sem biblioteca que quebre o CI (só unittest, sem numpy/cv2/PIL). O que foi AD…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …or fazer (veja PORTOES_T95U.md ). (linha omitida no site público pelo filtro de privacidade) Teste de 03/11 deu erro 402 (cobrança/cota do Google) ; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança. Voz Piper: ainda sem áudio (pendente). Se a sessão cair: abra [omitido pelo f…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … volta. g2 a g10: ainda por fazer (veja PORTOES_T95U.md ). (linha omitida no site público pelo filtro de privacidade) Teste de 03/11 deu erro 402 (cobrança/cota do Google) ; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança. Voz Piper: ainda sem áudio (pendente). (linha omitid…
+

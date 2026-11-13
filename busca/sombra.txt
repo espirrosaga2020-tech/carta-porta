@@ -1,0 +1,51 @@
+BUSCA POR LINK — termo: sombra  (12 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Gráficos no PC (T105U) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  … (three.js) nem no Planeta Godot (Porto Parafuso). O que existe são efeitos de tela que imitam parte do que o ray tracing faz (sombra de contato, brilho, névoa), calculados de um jeito bem mais barato. O Godot 4 não tem ray tracing por hardware (RTX); o que ele tem de iluminação global (SDFGI, Voxel…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …gurança (T104U): app continua vc25 , nenhum APK novo. O que a medição achou: o celular está preso no processador (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar. Ro…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ça (T104U): app continua vc25 , nenhum APK novo. O que a medição achou: o celular está preso no processador (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado para quando voltar. Robô 4W…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … foi pausado com segurança (T104U): app continua vc25 , nenhum APK novo. O que a medição achou: o celular está preso no processador (150–228 ms por quadro); desligar sombras, luzes, cartazes e partículas não mudou nada (4 FPS); desligar todos os scripts da cena (215) foi a 12,7 FPS. Fica anotado par…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …atmosfera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença a…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …fera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD); assets só CC0 com licença anotad…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …C (atalhos LIGAR/DESLIGAR CARTA) e no celular (app versão 17). O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um herói a cavalo inspirado em Heroes of Might and Magic 3. Tudo é feito em pequenos portões, cada um com teste e com v…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …fps (já existe) critério booleano (todos verdadeiros para fechar): [ ] benchmark mede FPS e escolhe preset (baixo/médio/alto/ultra) sozinho [ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e vegetação melhores [ ] FPS medido por preset gravado em refino_fp…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …ritos na mesma linha CARTA_GODOT_FPS (só na cópia leve). - Grama e árvores em MultiMeshInstance3D e visibility range (HLOD) nos objetos longe; sombras direcionais desligadas no .web . - physics/common/physics_ticks_per_second.web=30 e max_physics_steps_per_frame menor se o tempo de física dominar. -…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …alhos LIGAR/DESLIGAR CARTA) e no celular (app versão 17). O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um herói a cavalo inspirado em Heroes of Might and Magic 3. Tudo é feito em pequenos portões, cada um com teste e com volta …
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  … na mesma linha CARTA_GODOT_FPS (só na cópia leve). - Grama e árvores em MultiMeshInstance3D e visibility range (HLOD) nos objetos longe; sombras direcionais desligadas no .web . - physics/common/physics_ticks_per_second.web=30 e max_physics_steps_per_frame menor se o tempo de física dominar. - Expo…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …já existe) critério booleano (todos verdadeiros para fechar): [ ] benchmark mede FPS e escolhe preset (baixo/médio/alto/ultra) sozinho [ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e vegetação melhores [ ] FPS medido por preset gravado em refino_fps.jso…
+

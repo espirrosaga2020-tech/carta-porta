@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: workbox  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  … foi ADOTADO (e testado) Ideia De onde veio Licença Como entrou na CARTA Teste Offline-first: fotografia + motor local (como o Workbox : "cache primeiro, rede depois") Google Workbox / web.dev (padrão de PWA) MIT (Workbox); aqui é código nosso , só o padrão tools/t101u/offline_planeta_snapshot.py fo…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …ADOTADO (e testado) Ideia De onde veio Licença Como entrou na CARTA Teste Offline-first: fotografia + motor local (como o Workbox : "cache primeiro, rede depois") Google Workbox / web.dev (padrão de PWA) MIT (Workbox); aqui é código nosso , só o padrão tools/t101u/offline_planeta_snapshot.py fotogra…
+
+- Gráficos no PC (T105U) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …s pesquisas de código aberto (Google e outros) Já está em docs/CARTA20/PESQUISA_T101U.md (adotado e testado): offline-first estilo Workbox (Google) , injeção de script antes da página estilo androidx.webkit (Google) , freio de repetição, imagem sintética para testar visão, Godot Web sem threads. Can…
+

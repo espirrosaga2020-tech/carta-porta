@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: ultra  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …êm que ser verdade) 1 g1 t95u_g1_atmosfera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, …
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …e ser verdade) 1 g1 t95u_g1_atmosfera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga tudo (PBR+HDRI, ACES, sombras suaves 4096, névoa volumétrica, céu dia/noite, água com reflexo, vegetação instanciada densa, bloom, SSAO, color grading, LOD);…
+
+- Diário anterior intacto, páginas P001 a P025 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …dade funcional como interpretação , não teste Kit de ferro de solda com acessórios (nome cortado) R$ 72,99 Montar e reparar conexões físicas Módulo sensor ultrassônico (nome cortado) R$ 19,00 Medir distâncias/obstáculos, conforme montagem e integração Driver DRV8833 duplo (nome cortado) R$ 35,80 Aci…
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …UAÇÃO ANTERIOR: O contrato da família estava explicitado em linguagem inequívoca. 2. ACONTECIMENTO DESENCADEADOR: A resposta gerada volta a ser um grande panorama “ATLAS C.03 — MAPA 00 — VISÃO GLOBAL”, com os demais núcleos no mesmo quadro. 3. DESENVOLVIMENTO: O usuário apresenta captura contendo au…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …. 10. Utilidade futura Antes de recriar chips, tuning, oficina ou subsistemas Plus, localizar implementações atuais e legadas. --------------------------------------------------------------------- F016 — MEMÓRIA = PISTA / ARQUIVO = PROVA Classificação: G Localização: após a avalanche de lembranças…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ortões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos. Mapa do herói (inspirado em Heroes of Might …
+
+- Gráficos no PC (T105U) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  … Licença Situação Sombra de contato nos cantos ( GTAO , "oclusão de ambiente") three.js ( GTAOPass ) MIT ligado no preset alto/ultra (g1, ?atmosfera= ) Brilho em volta da luz ( UnrealBloomPass ) three.js MIT ligado no preset alto/ultra Cor de cinema ( ACES Filmic tone mapping ) three.js MIT ligado C…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …s, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos. Mapa do herói (inspirado em Heroes of Might and Magic…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …TOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual ao de antes . FPS medido no PC ~118-120 em todos. Mapa do herói (inspirado em …
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …s.js API: GET /api/t89u/graficos/presets , POST /api/refino/fps (já existe) critério booleano (todos verdadeiros para fechar): [ ] benchmark mede FPS e escolhe preset (baixo/médio/alto/ultra) sozinho [ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e veget…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …API: GET /api/t89u/graficos/presets , POST /api/refino/fps (já existe) critério booleano (todos verdadeiros para fechar): [ ] benchmark mede FPS e escolhe preset (baixo/médio/alto/ultra) sozinho [ ] alto/ultra: PBR (MeshStandard/Physical), sombras, névoa, pós-processamento, LOD, terreno e vegetação …
+
+- EG002 — Calçada e continuidade portátil (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  … auditiva “garfo”. 3. Desenvolvimento O termo foi rapidamente amplificado e começou a iluminar histórias, linguagem e relações entre eventos. Em algum momento a expansão ameaçou virar ontologia totalizante. 4. Transformação A própria conversa corrigiu o exagero: “grafo” permaneceu útil como lente …
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …liberdade. Salvar contexto permitiu soltar o histórico e continuar associando sem medo de perder. R002 — “Presentinho” era infraestrutura de confiança. Parecia brincadeira; depois se mostrou ligado à abertura progressiva do projeto. R003 — A associação da conversa espelhava a filosofia do jogo. A …
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ziu a palavra “grafo” como analogia de nós e conexões; o usuário confundiu inicialmente o som com “garfo”. 3. DESENVOLVIMENTO: A palavra foi reaproveitada para conexões de memória, entidades, escalas, eventos e caminhos. A anedota “era só uma palavra, caralho” tornou-se marco humorístico de um inst…
+
+- RB01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …) braço/"trombinha" filmado Pan-tilt com 2 servos SG90 mexer a "cabeça" (não aguenta o peso do celular) filmado HC-SR04 (os "dois olhinhos" ultrassônicos) distância filmado Jumpers (3 tipos), 2 cabos de dados, conectores WAGO 221-413 (10 peças) ligações filmado Kit de solda (caneta, sugador, pasta),…
+

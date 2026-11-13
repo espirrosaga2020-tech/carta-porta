@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: ramo  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- CT01: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  … e Carta Um — Implementos. 02 Linha do tempo / itens (fato documentado) 2026-10-10 10:05 (BRT) · “Carta de continuidade” · 150 mensagens no ramo mais recente 2026-10-13 03:23 (BRT) · “PRIMEIRA CARTA 💌” · 695 mensagens no ramo mais recente 2026-10-15 18:44 (BRT) · “1 CARTA CREUZA origem PAINEL DELORE…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …isa, profundidade, mergulho, reorganização e volta. Em U55, corrige frontalmente a leitura passiva da IA. 3. Desenvolvimento: A IA primeiro tratou “ficar na calçada” como licença para olhar sobretudo uma palavra e não investigar suficientemente os outros ramos. O usuário reformulou: observar de mane…
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …as ou registros referenciados; NÃO se reconstrói seu conteúdo sem fontes específicas. Há relatos e imagens que citam esses temas. Não há prova de que este ramo tenha inventado essas áreas. LIMITAÇÕES E CONSEQUÊNCIAS: nenhuma exportação com IDs e timestamps de todos os turnos foi fornecida; evidênci…
+
+- EG002 — Calçada e continuidade portátil (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …padrão observado e história inventada depois. --- ### F006 — TEMPORALIDADE REPRESENTADA, ESPERA E ANDAR SEM RUMO Classificação: G Localização: contexto compactado, fase de investigação arquitetural. Confiança: alta. 1. Situação anterior A conversa perguntava sobre capacidades, autonomia e a manei…
+
+- EG014 — Grafos São — origem e desenvolvimento (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …e checkpoint. 1. SITUAÇÃO ANTERIOR: O grafo representava elementos e conexões no mesmo nível de análise. 2. ACONTECIMENTO DESENCADEADOR: O usuário avançou: a coisa tratada como nó numa escala poderia revelar novo conjunto de relações ao ampliar a resolução — pessoa, átomo, cidade, sacola, memória.…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ar possibilidades dizendo que abriria um milhão de portas . O Copiloto introduziu a importância de caminhos e referências: abrir é permitido, mas navegar exige reconhecer onde estamos. Um diário leve não decide quais portas atravessar — deixa uma marca caso queiramos voltar . As escalas Da grama 3D …
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …ão: grande. 9. Situação final: consolidado como distinção; questão ontológica final permanece aberta. 10. Utilidade futura: não responder a um espantalho mais forte do que a tese apresentada. ### F009 — EXPERIMENTO MARTE/TERRA COMO TESTE DE PROVENIÊNCIA Classificação: G | Confiança: alta Localizaçã…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … mensagem provando lucidez. 7. Evidências - “figura de linguagem continua sendo figura de linguagem” - “hipótese continua sendo hipótese” - “ressalva sua = contexto, não convite para multiplicar ressalvas” - “não domesticar seu pensamento” 8. Avaliação histórica Grande porque virou infraestrutura …
+
+- EG015 — Pai do Grafo e Rigor (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …uma cena cômica sobre a jornada de «uma palavrinha» a um possível artigo, acompanhada de confirmação explícita de que nenhuma teoria ou publicação havia sido demonstrada. Este protocolo arqueológico não é incorporado retroativamente a esse ponto. ===================================================…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …e ao chat em si. - Referências posteriores à família PAZ existem em outros contextos, mas não foram usadas aqui como prova de que todo ramo PAZ pertence a esta engrenagem. FRONTEIRA HISTÓRICA INVESTIGADA - Início verificável: 2026-10-05. Existe evidência de uma mensagem às 14:23 BRT na qual Hum…
+
+- EG025 — POE2 — Milton e Value Engineering (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  … unidade cultural de valor. Relações: contribuiu para F002, F003, F009, F027. Consequências: sensibilidade a listings subprecificados e rejeição do “unicorn tax”. Evidências: “a gente chegou até 150 divs e não existia algo no mercado comparado ao Milton”. Avaliação: grande na origem; influência extr…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …gas e as sondas _*.tscn (continuam no disco). Export: 0 erros . Comando "porto" da ponte chamava go_city() , que não existe; ganhou um ramo com go_city_a() (o antigo ficou igual). Achado pelo robô jogador. A ponte escreve CARTA_GODOT_FPS <n> <cena> no console a cada relatório → aparece no adb logcat…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …s partes do CARTA. src/carta/biblioteca_atlas.py BIBLIOTECA DE IMAGENS — Atlas (V0.3, 18/10/2026). src/carta/bm/__init__.py Black Mirror (ramo novo, só acréscimo). Nada aqui importa o sim atual nem textos humanos no laço do agente. src/carta/bm/agente.py BM7/BM9: agente só com CAPACIDADES (sentir, m…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  … as sondas _*.tscn (continuam no disco). Export: 0 erros . Comando "porto" da ponte chamava go_city() , que não existe; ganhou um ramo com go_city_a() (o antigo ficou igual). Achado pelo robô jogador. A ponte escreve CARTA_GODOT_FPS <n> <cena> no console a cada relatório → aparece no adb logcat do c…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …tes do CARTA. src/carta/biblioteca_atlas.py BIBLIOTECA DE IMAGENS — Atlas (V0.3, 18/10/2026). src/carta/bm/__init__.py Black Mirror (ramo novo, só acréscimo). Nada aqui importa o sim atual nem textos humanos no laço do agente. src/carta/bm/agente.py BM7/BM9: agente só com CAPACIDADES (sentir, mover,…
+

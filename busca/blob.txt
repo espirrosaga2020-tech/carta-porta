@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: blob  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Enciclopédia e engrenagens (133)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …. ID Nome Camada e leitura EG001 Calçada, Caderno e DUNADA Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acerv…
+
+- Colheitas e varreduras (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …ha-do-tempo.html> Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual. Fontes https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json <https://github.com/espirrosaga2020-tech/CA…
+
+- Mentes, consciências e robótica (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …manual> · Mudanças do app <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html> Inventário e fontes: 05/11/2026 (America/Sao_Paulo). Conteúdo documental não é comprovação de execução atual. Fontes https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe…
+
+- Aplicativo CARTA (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …ttps://github.com/espirrosaga2020-tech/CARTA/pull/142 <https://github.com/espirrosaga2020-tech/CARTA/pull/142> https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b84…
+
+- Mapa central (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+  …ão atual. Fontes tudo-suprema2.html <https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html> https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/enciclopedia.v1.json <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b84746…
+
+- Linha do tempo (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …cução atual. Fontes tudo-suprema2.html#origem <https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2.html#origem> https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json <https://github.com/espirrosaga2020-tech…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …ocumentado em CARTA, branch grokbot/organizacao-subir-drive-20261017: docs/prova_engrenagens/README.md https://github.com/espirrosaga2020-tech/CARTA/blob/730590b9c75e17b992cd960a0b180fc67a76a333/docs/prova_engrenagens/README.md A prova oficial registra 20 perguntas/capítulo (18 acertos) e concurso 6…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …por um marcador (o número de linhas não muda). O arquivo fontes/ORIGEM.json registra a origem de cada uma (branch, caminho, commit, blob, sha256). Nada aqui vem do Drive, de conversas privadas ou da Enciclopédia completa. Ficou de fora de propósito 01_ORIGEM_E_OURO_NAS_BORDAS.md , que tem detalhes d…
+

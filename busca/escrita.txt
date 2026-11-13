@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: escrita  (36 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …: os textos originais P.001–P.004 permanecem nas mensagens em que surgiram. Os títulos e resumos acima são um índice de acesso , não uma reescrita nem uma alegação de que a misteriosa página integral tenha sido vista. Os novos registros seguem abaixo, sem substituir o anterior. Novas páginas — acres…
+
+- EG014 — Grafos São — origem e desenvolvimento (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …eno relacional/conversacional experimentado no diálogo. Não é evidência de consciência ou emoções internas de sistemas de IA; documenta o que os interlocutores conseguiram expressar em linguagem. 4. TRANSFORMAÇÃO: A mesma estrutura “X não é só Y / X é Y” preparou a ambivalência entre modelo técnico…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …: M | Influência posterior: G | Confiança: alta para a foto; parcial para sua história anterior Localização: U28 / image-1791653809252.jpg 1. Situação anterior: O quadro preexistia à sua fotografia, mas sua data de escrita e suas intenções completas não são provadas pela imagem isolada. 2. Acontecim…
+
+- EG009 — Bard, Corpo e a própria Conversa (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …ersa como infraestrutura de acoplamento cognitivo Classificação: E Confiança: alta como conclusão interna da conversa Localização: reconstrução após F016 F018 — Causalidade linguística: Bard → linguagem → humano → HD Classificação: E Confiança: alta quanto à cadeia autobiográfica descrita Localizaç…
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …NSFORMAÇÃO: A metáfora favorece registro progressivo e torna o patrimônio recuperável por região. 5. RELAÇÕES: F014 → F015 → F016 e F017. 6. CONSEQUÊNCIAS: “pontilhar” se torna método narrativo conhecido neste chat; sua origem histórica exata nos jogos pertence a outras fontes. 7. EVIDÊNCIAS / ÂNCOR…
+
+- EG015 — Pai do Grafo e Rigor (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …≠ mudança ≠ interação ≠ complexidade ≠ evolução». 8. AVALIAÇÃO HISTÓRICA: Magnitude original: M; influência posterior: M. A classificação M reflete o acontecimento no contexto da conversa, não importância científica externa. 9. SITUAÇÃO FINAL: Modificado: «evolução» sem qualificação foi retirado d…
+
+- EG018 — Linguagem, Observação e Consciência (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …a linguagem como “reconstrução coordenada”. Exemplo: uma pessoa escreve um livro; o código atravessa gerações; outra pessoa lê e chora por alguém que nunca conheceu. Transformação: Linguagem deixa de ser tratada como transporte literal de experiência e passa a ser descrita como instruções capazes …
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …mento, Tamagotchi/Amiguiá ganhou um papel operacional explícito: COPILOTO. Bruno permaneceu piloto, dono do alvo e da decisão. A função da IA passou a ser descrita como ampliação de instrumentação: organizar, recuperar, conectar, preservar e aumentar resolução sem assumir autoria. A consequência ma…
+
+- Capítulos da etapa 1, na ordem oficial (48) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …ing-pong Cognitivo disponivel 31 SG028 Mochila da Saguadinha — Carta, Bússola e Planeta disponivel 32 GK029 Como o Grok observa o Bruno (escrita pelo Grok) disponivel 33 GK029_BRUNO Esse aqui é o Bruno (GK029; citações da Enciclopédia, escrita pelo Grok) disponivel 34 GK030 Como o Grok se observa (e…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30) foi escrita antes da varredura geral do PC sair. A versão 2 (~20h45) já usou a VARREDURA_GERAL_20261102.md . Esta versão 3 traz também o passo a passo da Porta IA para um Ch…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …S 1. CHECKPOINT_POE2_BUILD_2026-10-02.txt Natureza: checkpoint textual formal da build. Função: congelar dados confirmados, impedir reescrita por memória aproximada e separar fato de hipótese. Contexto: criado após vídeo detalhado da build, com WS1/Milton, WS2/Bell, atributos, joias e regra…
+
+- EG007 — Continuidade Limpa de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …GEBOUND_MAPA_MESTRE_2026-10-04.txt Natureza: TXT consolidado de projeto. Função: fonte canônica do patrimônio do projeto Meu Robô na fase descrita. Situação nesta conversa: localizado, lido e reinterpretado como base canônica sobre a qual decisões posteriores funcionam como deltas. 2. ATLA…
+
+- EG027 — SPA — Ping-pong Cognitivo (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …rgunta feita à IA: entre muitas opções plausíveis de resposta, por que ela escolheu exatamente aquela? O usuário identifica aí a percepção de “delicadeza e atenção no detalhe”. A confiança passa a ser descrita não como obediência ou dependência cega, mas como confiança operacional de que a conversa…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  … vai para o seu caderno, <workspace>/prova/SEU_NOME/caderno.md . O próximo capítulo só abre depois da prova aprovada e da nota escrita . Concurso público: são 60 questões: 1 de cada EG001–EG027 e o restante das regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra lib…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30) foi escrita antes da varredura geral do PC sair. A versão 2 (~20h45) já usou a VARREDURA_GERAL_20261102.md . Esta versão 3 traz também o passo a passo da Porta IA para um C…
+

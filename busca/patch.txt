@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: patch  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Resultado do aperfeiçoamento (31/10) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …(trecho omitido pelo filtro)…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ensino popular ('Eu Resolvo')".) 0.10.4 Em que nível estamos (13/11/2026) Testes realmente feitos: 914 testes automáticos na CARTA (04/11); 65/65 no patch SQLite (12/11); 14/14 testes e 20/20 portões no Estúdio Copiloto (10/11); 22 testes e render 4K a 30 FPS no Super Flash V3; 49/49 SVGs no Museu V…
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …nce for decisiva. ====================================================================== 14 — METADADOS PARA O FUTURO LIVRO ====================================================================== TÍTULO HISTÓRICO Paz — A conversa que descobriu seus próprios marcadores e transformou continuidade em …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …rodoviária (começo 10, final 6), e antes é preciso perguntar como você quer; (linha omitida no site público pelo filtro de privacidade) o robô físico. Opcionais: neon nas cenas 3D, com cuidado com o FPS; opencv no Python do PC, para o lab de visão. CI: aplicar docs/CARTA20/CI_TIMEOUT_15MIN.patch qua…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …o adb tocar). - Portões c, d, e, f, h; teste ponta a ponta P13; Meu Robô (caixa de missões 29%); Consciência citando fonte; G9; P7; P9 com IA independente; patch de CI (permissão workflow). ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html> · Índice do acervo <h…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  … tocar). - Portões c, d, e, f, h; teste ponta a ponta P13; Meu Robô (caixa de missões 29%); Consciência citando fonte; G9; P7; P9 com IA independente; patch de CI (permissão workflow). CARTA · Porta do Grok · site público e só de leitura, gerado em 03/11/2026 22:10 (horário de Brasília). Sem login, …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …iária (começo 10, final 6), e antes é preciso perguntar como você quer; (linha omitida no site público pelo filtro de privacidade) o robô físico. Opcionais: neon nas cenas 3D, com cuidado com o FPS; opencv no Python do PC, para o lab de visão. CI: aplicar docs/CARTA20/CI_TIMEOUT_15MIN.patch quando v…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …vidência (fonte verificável por item) FEITO 051 6 Teste PRÓPRIO do Super Flash V3: "clicar em gerar vídeo e só vem legenda" FEITO 052 6 Patch SQLite do Codex conferido/aplicado FEITO 054 6 Cinema Vetorial v4.0 "COM DEFEITO": anotar e propor RELATORIO 055 6 Oficina: foto analisada e preservada ("perg…
+

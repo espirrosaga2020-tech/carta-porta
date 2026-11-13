@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg026  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …Robô — 28 fenômenos; ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.txt EG023 — Paz — Linguagem e Continuidade — 20 fenômenos; ENGRENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01.txt EG026 — Reciprocidade e Memória Persistente — 6 fenômenos; ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …Robô — 28 fenômenos; ENGRENAGEM_PAZ_CENTRAL_MEU_ROBO_CONTINUIDADE_HISTORIA_v01.txt EG023 — Paz — Linguagem e Continuidade — 20 fenômenos; ENGRENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01.txt EG026 — Reciprocidade e Memória Persistente — 6 fenômenos; ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORI…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …dia/alta EG025:F020 | A bolinha prata e o priming de Stun — M — média EG025:F021 | Lochtonial, clones e a rota alternativa de luvas +2 Melee — M — média EG025:F022 | A árvore como problema de Weapon Set allocation — G — alta EG025:F023 | Piso defensivo: 5k ES / 26k Evasion / 75% Deflection — M —…
+
+- EG026 — Reciprocidade e Memória Persistente (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG026 — Reciprocidade e Memória Persistente Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos n…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …lob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html#pg-enciclopedia-eg025> EG026 Reciprocidade e Memória Persistente Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …Attack Speed POE2 — Milton e Value Engineering Diários e relatórios de bordo do projeto (repositório) Grafo e Humanidade P026 Qual é o nome da engrenagem de código EG026? Engrenagem do Copiloto — Robô Físico P01 Chat da Liberdade: POE2 e autonomia Porta Eureka — A Observação que Reencontra a Históri…
+
+- AV04: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html
+  …sktop 2026.10.16 - 23.46.58.04.mp4 · conversa “Sincronizar engrenagens CARTA” 05 Relações fonte_original → BACKUP_CHATGPT eco_tematico → EC04 eco_tematico → SG028 eco_tematico → EG026 08 Contradições e correções (preservadas, sem reconciliar) Os vídeos em si não estão no GitHub (ficam no backup, no …
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …STRE/01_FONTES_ORIGINAIS_IMUTAVEIS/ (23 arquivos em texto) e o zip de 03_AUDITORIA_E_CONTROLE (os 4 restantes: EG009, EG020, EG024, EG026). Ponteiro com SHA-256: registry/enciclopedia.v1.json . Lidos pelo caminho ( git show ou CARTA_ENCICLOPEDIA=<checkout> ), sem cópia com prova (20, aprova com 18) …
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …idade disponivel 27 EG024 POE2 — Gulosona e Árvore de Attack Speed disponivel 28 EG025 POE2 — Milton e Value Engineering disponivel 29 EG026 Reciprocidade e Memória Persistente disponivel 30 EG027 SPA — Ping-pong Cognitivo disponivel 31 SG028 Mochila da Saguadinha — Carta, Bússola e Planeta disponiv…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …s ancestral engrenagem documental EG025 POE2 — Milton e Value Engineering POE2 e métodos operacionais ancestral engrenagem documental EG026 Reciprocidade e Memória Persistente Reciprocidade e Paz ancestral engrenagem documental EG027 SPA — Ping-pong Cognitivo Calçada e observação ancestral engrenage…
+
+- RH01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+  …commit não substituem a data do acontecimento: a data usada é a da conversa. 11 Pontes para outras engrenagens EG006 Checkpoint e entrada no sonho · eco temático EG026 Memória Persistente · eco temático 12 Guia para um chat futuro Peça à Consciência: “me conta a engrenagem RH01” — ela responde por /…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …e558a1e50685a85b90e8729bcbb00b81934 lines=731 bytes=39053 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG026 | ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt sha256=c85351105d3ba297b86e3b39eb654443f518ff83965b5c50ffd18719a221b1a2 lines=858 bytes=32763 ind…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …0-tech.github.io/carta-porta/suprema2-acervo-048.html> EG025 — POE2 — Milton e Value Engineering <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html> EG026 — Reciprocidade e Memória Persistente <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html> EG0…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …d8e558a1e50685a85b90e8729bcbb00b81934 lines=731 bytes=39053 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG026 | ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt sha256=c85351105d3ba297b86e3b39eb654443f518ff83965b5c50ffd18719a221b1a2 lines=858 bytes=32763 index=6 missin…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …estral engrenagem documental EG025 POE2 — Milton e Value Engineering POE2 e métodos operacionais ancestral engrenagem documental EG026 Reciprocidade e Memória Persistente Reciprocidade e Paz ancestral engrenagem documental EG027 SPA — Ping-pong Cognitivo Calçada e observação ancestral engrenagem doc…
+

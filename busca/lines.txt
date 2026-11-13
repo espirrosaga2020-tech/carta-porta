@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: lines  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt sha256=6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00f…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt sha256=6c668ee191ab7f8516d6a6e0a8609b6cf71e98d841d76adc37105c9f78a9ba90 lines=695 bytes=90119 index=29 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG002 | ENGRENAGEM_CALCADA_CONTINUIDADE_20261010_HISTORIA_v01.txt sha256=27d44d00fc2ab3c10ea74…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  … 8. Avaliação histórica Magnitude original: G por reorganizar um conflito local central. Influência posterior: G, pois melhora a regra de interpretação relacional. 9. Situação final Modificado e consolidado. 10. Utilidade futura Evitar usar uma ressalva ontológica verdadeira como resposta automáti…
+

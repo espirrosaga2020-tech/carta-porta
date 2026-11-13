@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: lego  (18 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Mapa de pastas e código (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …gunte ao Lab": perguntas de bancada respondidas com contas e simulação de verdade. src/carta/lab_server.py Laboratório Total local server: static Studio 3D + guarded APIs on 127.0.0.1 only. src/carta/lego/__init__.py LEGO pela webcam (FINALIZAÇÃO 17/10): ver a peça → medir → montar no mundo 3D. Visã…
+
+- Mapa de pastas e código (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … ao Lab": perguntas de bancada respondidas com contas e simulação de verdade. src/carta/lab_server.py Laboratório Total local server: static Studio 3D + guarded APIs on 127.0.0.1 only. src/carta/lego/__init__.py LEGO pela webcam (FINALIZAÇÃO 17/10): ver a peça → medir → montar no mundo 3D. Visão (op…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … guardada com o nome dela. Versão 6 (03/11 fim da tarde): acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). On…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …dada com o nome dela. Versão 6 (03/11 fim da tarde): acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Onde a …
+
+- p02-manual-v12.html (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …guardada com o nome dela. Versão 6 (03/11 fim da tarde): acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Ond…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …ão mais perta ?regioes=0 desliga Estado: ✅ fechado — 32 regiões; viagem medida (Bosque Antigo → 'você está perto de' = Bosque Antigo) no PC e no celular t5 — LEGO 'tá torto?' comparando a peça vista com o MODELO (passo a passo) Sonho: Lab de visão / LEGO · flag: t100u_t5_lego para cada peça do model…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–3…
+
+- Resultado do aperfeiçoamento 2 (31/10) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  …o temporário preso por outro processo, web/public ausente na instalação, SCIENCE_PROTOCOL ausente D1a feedback "tá torto" true lego/feedback.py : torta, fora dos pinos, flutuando, pendurada, girada; tolerância 4° / 1,5 mm ou a incerteza σ D1b níveis/locais true camadas por altura + 6 etapas: mesa, c…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …a T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, po…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …is perta ?regioes=0 desliga Estado: ✅ fechado — 32 regiões; viagem medida (Bosque Antigo → 'você está perto de' = Bosque Antigo) no PC e no celular t5 — LEGO 'tá torto?' comparando a peça vista com o MODELO (passo a passo) Sonho: Lab de visão / LEGO · flag: t100u_t5_lego para cada peça do modelo: ce…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …(trecho omitido pelo filtro)…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …(trecho omitido pelo filtro)…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …(versão 20) abre o Planeta, o Meu Robô, a Mini Terra, o DeLorean e o Início em modo avião, com o PC desligado. O teste de peças LEGO tortas passou com imagens sintéticas, e um robô de teste jogou as lojas do Meu Robô (9 de 9). O que foi aproveitado de código aberto, e a licença de cada coisa, está n…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …iew-20261013 V5 preview: LLM auto, fotos com/sem escala, 3 cutscenes, Atlas 95 (8771) #10 13/10 12:35 feature/v6-godot-robofisico-20261013 V6: perícia Lego, ponte Eu Robô/Godot, Dupla Creuza-Copiloto #11 13/10 19:01 grokbot/fechamento-p0-p12-20261013 CARTA FINAL P0–P12: memória, Dupla, sensores mock…
+
+- EG026 — Reciprocidade e Memória Persistente (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  … e como texto visível, mas o próprio material anterior declarava que a persistência não havia sido confirmada; - durante: o usuário delegou a este chat a conclusão sem reabrir o debate; - depois: a IA executou a atualização de memória e confirmou que a regra havia sido registrada no contexto p…
+

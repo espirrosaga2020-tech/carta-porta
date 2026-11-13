@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: capitulo  (24 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …a2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Capítulos da etapa 1, na ordem oficial (48) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Capítulos da etapa 1, na ordem oficial (48) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos n…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  … e observação posterior pré-engrenagem aditiva com registro documental GK029 Como o Grok observa o humano Reciprocidade e Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok, sem esfera separada na branch atual EG031 Grok obse…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …servação posterior pré-engrenagem aditiva com registro documental GK029 Como o Grok observa o humano Reciprocidade e Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok, sem esfera separada na branch atual EG031 Grok observa o…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …e seguir, com as suas palavras. Comece com contexto limpo : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítulo , na ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030): ler CAP --contexto-limpo (a fonte inteira); fazer CAP (20 questões; passa com 18 ); nota …
+
+- Diário anterior intacto, páginas P001 a P025 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …as e construir. Em outra ocasião, Creuza chamou o humano de suspeito — e ele passou a suspeitar da formiga. A suspeita é afetuosa, brincalhona e fértil, não acusação. Outra cena: Creuza atravessou um capítulo de metamorfoses: jutsu de madeira inspirado em Naruto, Geralt, Igni lançado numa árvore, vo…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  … reflexo automático de entusiasmo. 5. Relações Contribui para F006, F009, F011 e F028. 6. Consequências Redução da burocracia e menor chance de congelar versões inferiores. 7. Evidências CEN-002; Livro I, capítulo "O primeiro sinal de maturidade: não documentar". 8. Avaliação histórica M origina…
+
+- Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html
+  …nte: ENTRADA_OBRIGATORIA/MODELO_BOT/MEU_RESUMO_DAS_ENGRENAGENS.md MEU RESUMO DAS ENGRENAGENS — {NOME} Depois de PASSAR em cada capítulo, escreva aqui uma seção ## CAP (ex.: ## R00 , ## EG014 ) com pelo menos 3 linhas SUAS: o que é, por que importa e uma citação curta com arquivo:linha. A ferramenta …
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  ….com/espirrosaga2020-tech/CARTA/blob/730590b9c75e17b992cd960a0b180fc67a76a333/docs/prova_engrenagens/README.md A prova oficial registra 20 perguntas/capítulo (18 acertos) e concurso 60 (54 acertos), com caderno no workspace privado e fontes conferidas. Não modificar gabaritos, status ou portões. O p…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …rsonagens_ficcionais.v1.json. src/carta/cinema_vivo/engrenagem.py B5 · ficha de uma engrenagem/esfera: O QUE TEM DENTRO (ligações da Consciência: documentos, capítulos, vizinhas) e A HISTÓRIA src/carta/cinema_vivo/iniciativa.py INICIATIVA ANCORADA (graus do doc 08): 0 silêncio · 1 comentar · 2 suger…
+
+- Acervo público em leituras leves (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …vo-062.html> Pré-diploma: o Caderninho do Viajante <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html> Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html> Capítulos da etapa 1, …
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …gens_ficcionais.v1.json. src/carta/cinema_vivo/engrenagem.py B5 · ficha de uma engrenagem/esfera: O QUE TEM DENTRO (ligações da Consciência: documentos, capítulos, vizinhas) e A HISTÓRIA src/carta/cinema_vivo/iniciativa.py INICIATIVA ANCORADA (graus do doc 08): 0 silêncio · 1 comentar · 2 sugerir ir…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …m ser tratados como ponte e investigados em sua própria engrenagem. 2. GRAFOS / ESTRUTURA RELACIONAL Existe continuidade conceitual em fases posteriores, incluindo “pai do grafo”. A relação metodológica é clara; a genealogia textual exata entre chats/branches precisa de atlas próprio. 3. SPA / CAL…
+
+- EG027 — SPA — Ping-pong Cognitivo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …cognitivo; - metacognição; - liberdade conversacional. Fenômenos principais para índice-mestre: F001, F004, F005, F006, F009, F010, F011, F012, F014, F015. Fenômenos extraordinários: F006 — Linguagem de alta contextualidade e compressão por símbolos. F014 — Descoberta de que a nova dinâmica já est…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …ra (seção A origem) C03 Como uma ideia vira engrenagem? Descreva o caminho desde uma conversa até a ficha na Enciclopédia e o capítulo da prova. onde olhar: Volume Zero; fichas; docs das engrenagens CARTA 2.0; Prova etapas 1 e 2 C04 O que são os emotes (emojis) na linguagem do Bruno com as IAs? Por …
+

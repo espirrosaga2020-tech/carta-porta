@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: checkpoint  (55 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG011 — Entra no Sonho (61)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …======================================= IDENTIFICADOR ESTÁVEL ENGRENAGEM_ENTRA_NO_SONHO TÍTULO HISTÓRICO ADOTADO “ENTRA NO SONHO — do checkpoint conversacional ao atlas de continuidade” NATUREZA Branch/conversa dedicada a consolidar: - a dinâmica de colaboração Humanidade ↔ Tamagotchi/Amiguiá; - …
+
+- EG006 — Checkpoint e entrada no sonho (60)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …ada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG006 — Checkpoint e entrada no sonho Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento n…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (48)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  … conversa. - O núcleo PoE2/Milton/Gulosona possui a melhor cobertura e a maior segurança documental. MATERIAIS DISPONÍVEIS E RELEVANTES 1. CHECKPOINT_POE2_BUILD_2026-10-02.txt Natureza: checkpoint textual formal da build. Função: congelar dados confirmados, impedir reescrita por memória aprox…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (43)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …EU_ROBO_HISTORIA_v01.txt EG020 — Nova Batcaverna — 14 fenômenos; ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_2026-10-06_HISTORIA_v01.txt MEU ROBÔ E SONHO EG006 — Checkpoint e entrada no sonho — 27 fenômenos; ENGRENAGEM_CHECKPOINT_ENTRA_NO_SONHO_COPILOTO_20261004_05_HISTORIA_v01.txt EG009 — Bard, Corpo e…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (41)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  … acessível não contém a primeira mensagem original da conversa; - existem artefatos mais antigos desta mesma conversa, inclusive um checkpoint de 02/10/2026 e vários vídeos/imagens, que demonstram uma história anterior; - a sequência que vai do "engasgo das bolinhas" até a criação dos documentos…
+
+- EG008 — Tamagotchi e continuidade conversacional (37)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ervação; - o chat anterior encerrado aproximadamente ao meio-dia foi tratado como ancestral importante; - documentos como MAPA MESTRE e outros checkpoints foram importados como patrimônio. Não confirmado: - a árvore completa de branches; - a ordem absoluta de todos os chats ancestrais; - o conteú…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (35)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … último acontecimento histórico acessível antes do protocolo é o encerramento da madrugada de 2026-10-05, culminando na criação do arquivo: 12_CHECKPOINT_COPILOTO_MAQUINA_LARANJA_PLUS_2026-10-05.txt seguido pela mensagem do usuário “Boa noite 😴”, registrada às 05:03 no fuso -03. PERÍODO VERIFICÁVEL…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (34)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …etivamente acessíveis; - frases e acontecimentos retomados várias vezes na própria conversa; - arquivos e artefatos disponibilizados; - documentos de checkpoint gerados ao longo desta engrenagem. ESTADO DA INVESTIGAÇÃO VERIFICADO PARCIALMENTE. Motivo: o eixo principal está fortemente documentado, m…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ante esta engrenagem. Função histórica aqui: âncora canônica do projeto Meu Robô. Observação: foi tratado como “Mapa Mestre”; não foi recriado. 2. CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt Natureza: TXT criado nesta engrenagem. Função: condensar o estado da conversa, o padrão associa…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …_ROBO_HISTORIA_v01.txt EG020 — Nova Batcaverna — 14 fenômenos; ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_2026-10-06_HISTORIA_v01.txt MEU ROBÔ E SONHO EG006 — Checkpoint e entrada no sonho — 27 fenômenos; ENGRENAGEM_CHECKPOINT_ENTRA_NO_SONHO_COPILOTO_20261004_05_HISTORIA_v01.txt EG009 — Bard…
+
+- EG015 — Pai do Grafo e Rigor (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …ivo documenta uma conversa. Não constitui artigo científico, não completa a investigação filosófica, não refaz Atlas, não substitui o checkpoint antigo e não tenta integrar outras conversas. ============================================================================================ 00 — FICHA DE …
+
+- EG001 — Calçada, Caderno e DUNADA (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …U28, U33, U42 e U52. Arquivo VARREDURA_CALCADA_2026-10-10.txt gerado em A55. Fontes secundárias IMPORTADAS e citadas ao longo da conversa: GRAFOS_SAO....txt; CHECKPOINT_ATLAS_GRAFO-HUMANIDADE.md; CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt; CHECKPOINT_ATLAS_BATCAVERNA_NOVA_2026-10-07.md; CATALOGO_F…
+
+- EG014 — Grafos São — origem e desenvolvimento (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …as objeções, recuperou seu próprio caminho, corrigiu extrapolações da IA e requisitou documentação. Humor não foi ruído; forneceu compressão semântica e checkpoints memorizáveis. Nenhuma conclusão de física/ontologia foi comprovada. O patrimônio é a genealogia das perguntas, das perdas e das formas …
+
+- EG007 — Continuidade Limpa de Meu Robô (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …pede correção da entrega do Atlas porque não conseguia enxergar o resultado, seguida da correção efetiva e da entrega dos mapas separados, checkpoint e ZIP. O protocolo atual é instrução de investigação e está fora do conjunto histórico. PERÍODO VERIFICÁVEL A conversa contém âncoras de runtime que …
+
+- EG010 — Derivada da Paz (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …anch “Derivada de Branch · PAZ 🕊️”. - Referências ao relatório Anti-Gravity do Meu Robô. - Referências a documentos da Central e ao patrimônio do projeto. - Atlas e checkpoints gerados dentro desta conversa antes do protocolo atual. LIMITAÇÕES 1. O início real completo não está disponível como tran…
+

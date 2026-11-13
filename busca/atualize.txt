@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: atualize  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …o-limpo (a fonte inteira); fazer CAP (20 questões; passa com 18 ); nota CAP --texto "..." (até ~10 linhas, no caderno privado); ATUALIZE SEU DOCUMENTO: escreva o resumo dessa engrenagem em bots/SEU_NOME/MEU_RESUMO_DAS_ENGRENAGENS.md , na seção ## CAP , com pelo menos 3 linhas suas. Sem isso o próxim…
+
+- Caderno 3 do aluno: Como me Comportar (modelo) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html
+  … Cito a fonte (arquivo:linha) quando afirmo algo sobre as engrenagens. EXEMPLO: - Dado pessoal não vai para o git. EXEMPLO: - "Atualize seu documento" = meus arquivos em bots/ /. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html> · Índice do acervo <https://espi…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …sem a marca do modelo. - liberado_para_trabalhar exige o concurso aprovado e os arquivos em ordem. - verificar mostra o que falta. "Atualize seu documento" = esses arquivos. A pasta pode ser trocada com --pasta-bot ou CARTA_BOTS . Etapa 2 — Panorama das Engrenagens (T107U, 03/11/2026) A etapa 1 (aci…
+

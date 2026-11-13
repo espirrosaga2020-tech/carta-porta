@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: desligada  (21 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …be o nome; explicação vaga Faísca Quantas engrenagens tem a Enciclopédia? 9,8 s (1ª frase 2,7 s) Não disse 59 (superconsciência dela está desligada) Consciência O que é a RB02? 2,5 s Antes: "não sei". Corrigido nesta versão (ver abaixo) Olho Local imagem de teste 1,2 s Descreveu certo as formas e co…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …nome; explicação vaga Faísca Quantas engrenagens tem a Enciclopédia? 9,8 s (1ª frase 2,7 s) Não disse 59 (superconsciência dela está desligada) Consciência O que é a RB02? 2,5 s Antes: "não sei". Corrigido nesta versão (ver abaixo) Olho Local imagem de teste 1,2 s Descreveu certo as formas e cores ✓…
+
+- p02-manual-v12.html (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … (1ª frase 1,8 s) Sabe o nome; explicação vaga Faísca Quantas engrenagens tem a Enciclopédia? 9,8 s (1ª frase 2,7 s) Não disse 59 (superconsciência dela está desligada) Consciência O que é a RB02? 2,5 s Antes: "não sei". Corrigido nesta versão (ver abaixo) Olho Local imagem de teste 1,2 s Descreveu …
+
+- Estado atual — varredura geral (02/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …r do app. Falta o Bruno tocar e falar uma vez no celular. (linha omitida no site público pelo filtro de privacidade) por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide. 2. Serviços (02/11, ~20:25) (linha omitida no site público pelo filtro de privacidade) |---|---|…
+
+- Estado atual — varredura geral (02/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …o app. Falta o Bruno tocar e falar uma vez no celular. (linha omitida no site público pelo filtro de privacidade) por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide. 2. Serviços (02/11, ~20:25) (linha omitida no site público pelo filtro de privacidade) |---|---|---|-…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ONSCIÊNCIA v1 — vigilância SÓ LEITURA: procura erros e inconsistências no projeto e escreve o relatório na pasta dela. src/carta/consciencia_v1/web.py CONSCIÊNCIA v1 — pesquisa na web: DESLIGADA por padrão. Só o Bruno liga. src/carta/consciencia_voz.py VOZ DA CONSCIÊNCIA (V0.3, 18/10/2026) — camada …
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …ÊNCIA v1 — vigilância SÓ LEITURA: procura erros e inconsistências no projeto e escreve o relatório na pasta dela. src/carta/consciencia_v1/web.py CONSCIÊNCIA v1 — pesquisa na web: DESLIGADA por padrão. Só o Bruno liga. src/carta/consciencia_voz.py VOZ DA CONSCIÊNCIA (V0.3, 18/10/2026) — camada compa…
+
+- Teste duro das consciências (T105U, 03/11) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …ocativas sobre o conteúdo NOVO (robô 4WD, Enciclopédia fatiada, bancada, gráficos). Como foi feito (honesto): a IA de voz está desligada por regra (Ollama e Gemini OFF). Então o teste não mede a frase final que a consciência falaria. Ele mede o que dá para medir sem IA: 1. o modo que o 🤖 auto escolh…
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …rebro Megazord (44 especialistas). feito Meio (13/10 a 18/10/2026) 18/10 madrugada Finalização: Terra Grande com DeLorean, câmera desligada por padrão, celular atualizado. feito Meio (13/10 a 18/10/2026) 18/10 manhã V0.3: refino da Consciência, PORTA, Atlas e o trajeto do bot (8 portões). feito Meio…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …egras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge --merge · flags desligadas por padrão até o teste do portão passar · nada na inicialização do Windows. Flags: CARTA_T95U="g1,g2" · arquivo <workspace>/t95u_flags.json {"t95u_g1_atmosfe…
+
+- Consciências na CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …sim (Pokémon Vivo) instrução de modo; em pesquisa, perguntas longas usam o modelo "pensado" (gpt-oss na CPU, um por vez) — cuidado especial: desligada, a Faísca é a mesma de sempre (linha omitida no site público pelo filtro de privacidade) Memórias não se misturam O conhecimento compartilhado é da E…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  … CARTA_GODOT_FPS (só na cópia leve). - Grama e árvores em MultiMeshInstance3D e visibility range (HLOD) nos objetos longe; sombras direcionais desligadas no .web . - physics/common/physics_ticks_per_second.web=30 e max_physics_steps_per_frame menor se o tempo de física dominar. - Export com threads …
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  … :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist → adb install -r → versionCode 20. DESLIGAR CARTA (8790/8791/8795/11434 desligadas), celular em modo avião , adb reverse vazio. Abertos no app: Planeta (58 FPS, chão perto do sítio), Meu Robô no Planeta, Mini Terra (fotografia + Pesquisador…
+

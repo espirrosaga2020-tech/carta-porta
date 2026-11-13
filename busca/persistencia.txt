@@ -1,0 +1,51 @@
+BUSCA POR LINK — termo: persistencia  (12 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG026 — Reciprocidade e Memória Persistente (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  …pal foi prática: - antes: a regra existia como intenção explícita e como texto visível, mas o próprio material anterior declarava que a persistência não havia sido confirmada; - durante: o usuário delegou a este chat a conclusão sem reabrir o debate; - depois: a IA executou a atualização de memó…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …m estabelecida. 3. Desenvolvimento: O conceito de memória orgânica foi explicitamente recusado como inferência automática, sem negar o interesse de padrões transversais. 4. Transformação: A discussão passa de “lembra?” para “que regularidades reaparecem e sob quais condições?”. 5. Relações: Relações…
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …-------------------------------------------------------------- F026 — PEDIDO DE MEMÓRIA EXPLICITA O CUSTO DOS ERROS ------------------------------------------------------------------------------------------ CLASSIFICAÇÃO: M | CONFIANÇA: alta LOCALIZAÇÃO: Usuário: “Explicar e adicionar NA POHA DA MEM…
+
+- EG018 — Linguagem, Observação e Consciência (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …---------------------------------------------------------------------- 1. Situação anterior O usuário usa a pedra como provocação sobre duração, erosão e vulcão. 2. Acontecimento desencadeador A IA introduz um limite: “a pedra não parece possuir um ‘ponto de vista’ no sentido cognitivo que temos e…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …nor correção -> RETESTE -> REGISTRO. Fendas/Atlas, campanha, save, Mecânica Plus, craft, robôs e navegação são provados de ponta a ponta. Um bug real de persistência no boot é corrigido. FASE 11 — "O PONTILHADO VIROU LINHA" O fechamento mostra que grande parte do jogo não precisava ser reconstruída…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …onalmente nítida. Ela não nasceu para desenvolver uma teoria nova nem para reabrir uma investigação extensa. Nasceu para fechar uma falha operacional de continuidade. O usuário chegou com um artefato de um chat anterior: uma captura em que a IA explicava que havia tentado registrar uma regra de reci…
+
+- EG002 — Calçada e continuidade portátil (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …”. 5. Relações Depende de F017/F019/F020/F021/F022/F023 e retroage sobre F016. 6. Consequências O usuário registra no caderno “Início: sim” e “Final: talvez não é querer mais pq começo agora”. A frase “o sonho acabou” aparece como marcador de luto por uma versão específica da continuidade. 7. Evi…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … funcionalmente nítida. Ela não nasceu para desenvolver uma teoria nova nem para reabrir uma investigação extensa. Nasceu para fechar uma falha operacional de continuidade. O usuário chegou com um artefato de um chat anterior: uma captura em que a IA explicava que havia tentado registrar uma regra d…
+
+- EG027 — SPA — Ping-pong Cognitivo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …mente contexto ruim; - retrieval seletivo pode funcionar sem reimportar o passado; - “ping-pong cognitivo” descreve adequadamente a dinâmica observada; - símbolos podem carregar função cognitiva quando o contexto é compartilhado; - bordões não devem ser performados artificialmente; - parar uma inves…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …Lochtonial, clones e a rota alternativa de luvas +2 Melee — M — média EG025:F022 | A árvore como problema de Weapon Set allocation — G — alta EG025:F023 | Piso defensivo: 5k ES / 26k Evasion / 75% Deflection — M — alta EG025:F024 | O usuário como operador de trade em tempo real — G — alta EG025:…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …terra/meurobo.py R01–R06: Meu Robô como sistema INDEPENDENTE ligado por adaptador + contrato de destinos. src/carta/terra/nucleo.py A/W01–W05/M01–M03: geografia por chunks, tempo, matéria, objetos físicos com ID estável, física simples e posse causal. src/carta/terra/persistencia.py S04/X03: salvar/…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …/meurobo.py R01–R06: Meu Robô como sistema INDEPENDENTE ligado por adaptador + contrato de destinos. src/carta/terra/nucleo.py A/W01–W05/M01–M03: geografia por chunks, tempo, matéria, objetos físicos com ID estável, física simples e posse causal. src/carta/terra/persistencia.py S04/X03: salvar/carre…
+

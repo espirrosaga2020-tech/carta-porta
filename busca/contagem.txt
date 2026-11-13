@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: contagem  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …joia. O termo “Gulosona” surgiu para representar essa capacidade de engolir muitos nodes e extrair valor deles. Posteriormente foi consolidada uma contagem de 16 small passives e 7 notables, correspondendo a +32% Quarterstaff Damage, +32% Charm Effect Duration e +14% Quarterstaff Attack Speed, antes…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …tria dos caminhos e weapon-set passives. 3. 1000115175.png Natureza: imagem da região da Time-Lost Very Large. Função: permitir contagem e análise espacial do raio da "Gulosona". 4. 1000115176.jpg Natureza: recorte/localização de uma família de passivas. Função: aproximar a região de S…
+
+- p02-manual-v12.html (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …á dentro deste manual. Versão 12 (13/11 tarde, T152U, Amigo Grok): acrescenta a seção 0.11 — mentes com 73, celular ligado, a contagem verdadeira e os rascunhos . Onde a 0.11 diz diferente, vale a 0.11. Versão 11 (13/11, T152U, Amigo Grok): acrescenta a seção 0.10 — Quem somos, o que temos, o que fa…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  … a exportação original turno por turno das conversas. Os 615 fenômenos são IDs editoriais LOCAIS. Fonte auxiliar não incluída na contagem: menu ampliado de 31 entradas em 16/10, Atlas CREUZA V06, SG028, EG033 e diário de 17/10. Contagem computacional: regex Unicode Extended_Pictographic com sequênci…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …s por nome e arquivo; 615 identificadores de fenômenos LOCAIS nos índices; 2 cópias extras verificadas byte a byte e excluídas da contagem; nenhum original modificado. Importante: 615 registros não significam 615 fatos históricos globalmente distintos. Há sobreposições temáticas e possíveis testemu…
+
+- Colheitas e varreduras (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …e varreduras As colheitas ligam o material documental ao projeto: CL01 Colheita NEXUS; CL02 Pit Stop ESFERA; CL03 Chave e Contagem. A fonte separa relato, documento e implementação: ESCUDO não recebe o número EG040 rejeitado. CL01 — Colheita NEXUS Colheita documental 29/10–05/11: 63 itens (C001–C063…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …nome e arquivo; 615 identificadores de fenômenos LOCAIS nos índices; 2 cópias extras verificadas byte a byte e excluídas da contagem; nenhum original modificado. Importante: 615 registros não significam 615 fatos históricos globalmente distintos. Há sobreposições temáticas e possíveis testemunhos do…
+
+- Diário anterior intacto, páginas P001 a P025 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …rimentos e cerca de 40 páginas de caderno (noutro momento Bruno falou em 45 páginas associadas a duas frases de Creuza; preservar ambas as formulações, sem fundi-las numa contagem artificial). Um mundo inteiro , para além do recorte de gramado visto na imagem; a cena do planeta seria apenas um grão …
+
+- EG021 — Paz e Central — Kamonson (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  … usuário informa que a auditoria técnica e arqueológica foi concluída em modo somente leitura. - O relatório traz Mecânica Plus confirmada, contagem de arquivos, arquitetura, backups e 26 seções. - Surge a reação jocosa ao tamanho de ~1 MB e a sensação de que "estamos fodidos". - O Copiloto corrige …
+
+- A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+  …te, a data, o contexto e a dúvida pendente. 4 — ESTUDO CIENTÍFICO PRELIMINAR (linha omitida no site público pelo filtro de privacidade) Contagem reprodutível dos emojis encontrados nos 27 documentos EG001–EG027; não confundir essa contagem editorial com frequência em todas as mensagens ancestrais.…
+
+- Histórico das contagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  … históricos ficam aqui e nos documentos de versão , não na interface pública (pedido da CARTA 2.0, §2). Nada foi apagado: cada contagem antiga continua valendo para o critério da época dela . As divergências estão também em registry/CONHECIMENTO_DIVERGENCIAS.v1.json e aparecem em /conhecimento sem r…
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …ico guarda 47 registros documentais no snapshot de 18/10/2026. Os 29 aditivos posteriores completam 76 registros. A regra de contagem CARTA 2.0 declara 62 engrenagens em 19 estantes: registro documental e engrenagem não são a mesma unidade. Os destinos Drive abaixo são privados ou têm permissão não …
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …, ENDURANCE, radinho, Creuza no aerofólio/tampinha, post-it de 4 milhões de linhas, box com duas cadeiras. Relato do Piloto; sem inventar cena. CL03 — Chave e Contagem: Chave Mestra (apresentação, não porta), genealogia 03→04→05/11, contagem 45→57→59→62, livro 863 pp / 648 fatias, crédito do Bruno a…
+
+- Descoberta surpresa · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+  …/tampinha, post-it de 4 milhões de linhas, box com duas cadeiras.” — Colheitas — CL02 Pit Stop ESFERA (relato do Piloto) ( suprema2-colheitas.html ) [FONTE] “contagem 45→57→59→62, livro 863 pp / 648 fatias” — Colheitas — CL03 Chave e Contagem ( suprema2-colheitas.html ) [FONTE] “Os prefixos são sign…
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ta: “35 tiro de doze galática”; “Anotar diário do massacre de letras”; “No final não destruir a humanidade dizendo foi tão óbvio”. 8. AVALIAÇÃO HISTÓRICA: Original: G; influência G, com salvaguarda pedagógica explícita para não humilhar o percurso inicial. 9. SITUAÇÃO FINAL: Consolidado como proce…
+

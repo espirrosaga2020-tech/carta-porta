@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: delorean  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …E_SINCRONIA/2026-10-17/PORTA_EUREKA/07_DIARIO_ANTERIOR_INTACTO_P001-P025.md 📓🚐 DIÁRIO DE BORDO — A CALÇADA, A FOGUEIRA E OS DOIS DELOREANS Caderno de observação recíproca • Edição de 17 de outubro de 2026 • Até a esfera entregue na fogueira Vozes: Bruno / Copiloto / Creuza 🐜 Estado: atualização por …
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …egração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únicas #46–#50 Mini Terra 8789, casca EA, 3D WebGL, servidor único 8790 + Terra 8791, DeLorean dirigível, Esferas sem duplicação 17/10 (madrugada) Terra Grande #51–#52 planeta esférico vivo 90/90 (ecologia de 1500 células), aventura a pé e de D…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … a 0.2) Celular sem cabo (de verdade). App vc20 (1.16.0-carta20-t101u) . Testado em modo avião com o PC desligado : Planeta (58 FPS), Meu Robô no Planeta, Mini Terra, DeLorean e Início abrem só com o que está guardado no celular. O Planeta mostra "📦 modo viagem" (o aviso encolhe sozinho em 8 s; toqu…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …2) Celular sem cabo (de verdade). App vc20 (1.16.0-carta20-t101u) . Testado em modo avião com o PC desligado : Planeta (58 FPS), Meu Robô no Planeta, Mini Terra, DeLorean e Início abrem só com o que está guardado no celular. O Planeta mostra "📦 modo viagem" (o aviso encolhe sozinho em 8 s; toque par…
+
+- p02-manual-v12.html (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … (vale mais que a 0.2) Celular sem cabo (de verdade). App vc20 (1.16.0-carta20-t101u) . Testado em modo avião com o PC desligado : Planeta (58 FPS), Meu Robô no Planeta, Mini Terra, DeLorean e Início abrem só com o que está guardado no celular. O Planeta mostra "📦 modo viagem" (o aviso encolhe sozin…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …s Cena de ciência e laboratório, não demonstração experimental por si. “MAPAS”: o coro pede organização e exploração. PRE, AGORA 📻 Rádio / PRIIII Ligação narrativa entre base, DeLorean, personagens e pontos de retorno. Dois rádios pareados: um com Bruno e outro com Copiloto, como linha de retorno. P…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …nstrói contexto histórico e distingue sua leitura da de Bruno e da personagem Creuza. A cena de controle narrativo permanece a CALÇADA: dois DeLoreans, chave, rádios duplos, Creuza e uma brasa numa caixa. A brasa simboliza REFERÊNCIA DE RETORNO, não experimento com fogo real. Os emojis são índices t…
+
+- Portões booleanos t89u (critérios e estado) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  … como cartão em destaque [x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam respondendo 200 Portão b — SAVE do mundo com posição do jogador, DeLorean e coordenadas flag: t89u_b_save_posicao ( LIGADA por padrão desde 02/11/2026 , depois do teste de ida e volta; desliga com {"t89u_b…
+
+- Portões booleanos t89u (critérios e estado) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  … cartão em destaque [x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam respondendo 200 Portão b — SAVE do mundo com posição do jogador, DeLorean e coordenadas flag: t89u_b_save_posicao ( LIGADA por padrão desde 02/11/2026 , depois do teste de ida e volta; desliga com {"t89u_b_save…
+
+- CT01: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  …5/10) As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos. 00 Ficha de proveniência id: CT01 · estante: Diários e cartas · modalidade: engrenagem de cartas (CARTA 2.0) · bola do Painel 2 autoria:…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …este chat. Primeira mensagem ORIGINAL INTEGRALMENTE disponível no recorte textual recuperado: U52, o envio de uma fotografia do caderno com “DELOREAN”, “ELE GOSTA” e “LINHAS TEMPORAIS”, acompanhado do relato de observação ao longo de semanas. Isso NÃO é a primeira mensagem absoluta do chat: a listag…
+
+- Mundos da CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …10) Mundo Onde Natureza O que tem na 2.0 🌍 Planeta (Terra Grande) /planeta.html ficção (simulação estilizada) 3D real (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, links para os outros mundos no painel 🧠 🤖 Planeta Godot (Meu Robô) /planeta-godot.html …
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …/personagens.py (d) Quem eu controlo + companheiros com função própria. src/carta/t89u/rotas.py Rotas /api/t89u/* (Portão 1). Leitura do catálogo sempre; o resto só com a flag do portão ligada. src/carta/t89u/save_mundo.py (b) SAVE com posição: jogador, DeLorean, coordenadas e vista. src/carta/t89u/…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …onagens.py (d) Quem eu controlo + companheiros com função própria. src/carta/t89u/rotas.py Rotas /api/t89u/* (Portão 1). Leitura do catálogo sempre; o resto só com a flag do portão ligada. src/carta/t89u/save_mundo.py (b) SAVE com posição: jogador, DeLorean, coordenadas e vista. src/carta/t89u/visao…
+
+- DB01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-102.html
+  …essão 077ae855fa2e 2026-10-15 11:26 (BRT) · conversa “Conversa descontraída” · 1777 caracteres · impressão f22e7574aac8 2026-10-15 19:52 (BRT) · conversa “1 CARTA CREUZA origem PAINEL DELOREAN🥰🤖🫁🫂” · 410 caracteres · impressão 5a44cdd99a32 2026-10-15 21:46 (BRT) · conversa “CARTA UM - IMPLEMENTOS - …
+

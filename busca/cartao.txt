@@ -1,0 +1,51 @@
+BUSCA POR LINK — termo: cartao  (12 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Começar a viagem · Porta 02 · CARTA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …me original: Porta Suprema 2 ). Aqui a viagem é guiada: escolha um roteiro, visite as salas, colecione selos e, no fim, leve seu cartão de viagem . Tudo o que é fato aponta para uma página já publicada; nada aqui substitui a fonte. Sem pressa: a visita pode ser curiosa e seletiva. Frases de prova co…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão "Porta do Grok (pública)" com o link público e um texto pronto para copiar e colar em …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão "Porta do Grok (pública)" com o link público e um texto pronto para copiar e colar em qualq…
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ntigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão "Porta do Grok (pública)" com o link público e um texto pronto par…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ÂNICA PLUS É CONFIRMADA O usuário pede que os documentos sejam consultados porque lembra da Mecânica Plus, mas não sabe se foi destruída ou absorvida. Os arquivos confirmam: - Mecânica Plus já existia em LEIA_ME; - cartão do chip mantinha soquete; - mostrava o que mudava na luta; - o Mapa Mestre r…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …3) Status: FECHADO em 02/11/2026 (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono) Como fica: o Início ganha um cartão NOVO e grande 🌍 PLANETA · Terra Grande como primeiro da tela; o cartão antigo do Planeta continua no grupo dele com o selo "⭐ principal". Os…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …atus: FECHADO em 02/11/2026 (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono) Como fica: o Início ganha um cartão NOVO e grande 🌍 PLANETA · Terra Grande como primeiro da tela; o cartão antigo do Planeta continua no grupo dele com o selo "⭐ principal". Os cart…
+
+- Mundos da CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …Planeta e o /ea.html#diario leem /api/terra/eventos , que vem da Mini Terra. Se o 8791 estiver desligado, aparece "😴 cochilando". O que mudou (só acréscimo): um cartão visível "🌱 Mini Terra (continua viva)" dentro do submenu 🌍 Planeta do Início (o cartão antigo cTerra continua em 📦), a frase "· ve…
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …gistro.v1): o que viu, gostou, entendeu, onde se perdeu, caderninho, água, introspecção, respostas, perguntas, o que não achou. App: cartão "Porta do Grok (pública)" logo embaixo do "Porta pra IA" (o antigo continua igual), com link, texto pronto e botões Copiar; página Registros das IAs ( /registro…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …valida o protocolo. Para ver o seu progresso: python -m carta prova --assistente SEU_NOME status . A tela Prova ( /prova.html , cartão 🎓 no início) mostra o mesmo progresso, só para leitura. Capítulos (ordem oficial) Capítulo Fonte (no git) Estado R00 Regras do projeto e portões portões Grok/Codex, …
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …nstalar, sem limpar dados): "Success". firstInstallTime continua 17/10/2026 → dados preservados. Teste: o app abre (Início com o cartão PLANETA · Terra Grande do portão a) e a tela do Faísca carrega (criatura 3D, "toque para acordar o Faísca"). Fotos: [omitido pelo filtro de privacidade] e 02_faisca…
+

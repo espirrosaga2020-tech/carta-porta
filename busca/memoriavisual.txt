@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: memoriavisual  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …tes de tamanho e fuso obrigatório) e EstadoCaptura.indicador() . - motor_eventos.py — comparar_objetos() (o que apareceu/sumiu) e MemoriaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …e tamanho e fuso obrigatório) e EstadoCaptura.indicador() . - motor_eventos.py — comparar_objetos() (o que apareceu/sumiu) e MemoriaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py j…
+

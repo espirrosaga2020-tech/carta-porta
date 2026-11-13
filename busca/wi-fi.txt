@@ -1,0 +1,47 @@
+BUSCA POR LINK — termo: wi-fi  (11 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …rtões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desligar ou não é sua). Numeração: na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desligar ou não é sua). Numeração: na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 . Trê…
+
+- p02-t152u-novidades.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  … escolhe sozinha quando brinca e quando fala sério. Copiloto : o robozinho simpático que executa, organiza e documenta. Celular e Wi-Fi O app Android da CARTA roda no celular do Bruno. Desde 13/11, ao tirar o cabo o celular passa sozinho para o Wi-Fi de casa (ponte só na rede local, aparelho lembrad…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …tões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desligar ou não é sua). Numeração: na passagem de bastão, o próximo item livre é o Q (depois do P). O próximo CHECKPOINT é o 30 .…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  … pelo servidor do app. Falta o Bruno tocar e falar uma vez no celular. (linha omitida no site público pelo filtro de privacidade) por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide. 2. Serviços (02/11, ~20:25) (linha omitida no site público pelo filtro de privacida…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …lo servidor do app. Falta o Bruno tocar e falar uma vez no celular. (linha omitida no site público pelo filtro de privacidade) por Wi-Fi estava desligada desde 01/11 — hoje está ligada. Não mexi; o Bruno decide. 2. Serviços (02/11, ~20:25) (linha omitida no site público pelo filtro de privacidade) |…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …em cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026 O que mudou: o celular abre os mundos principais sozinho , sem cabo, sem Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CARTA (8790/8791) → fotografia com tools/t101u/offline_planeta_snapshot.py direto na pasta do build ( D:…
+
+- RB01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …TT amarelos (3–6 V) e 4 rodas — manual impresso ZK-4WD (mcustudio) corpo e tração filmado + compra ESP32 DOIT DevKit 30 pinos (WROOM-32, Wi-Fi e Bluetooth), ainda lacrado no saquinho antiestático cérebro embarcado filmado + compra Base de expansão Keyes para ESP32, com bornes distribuir pinos e alim…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … o sem cabo mais simples"). src/carta/pokemon_vivo/visao_rapida.py VISÃO RÁPIDA do Pokémon (Grok, 19/10/2026 02h50). Medido no PC do Bruno (RTX 3070 8 GB, Windows usa ~1,4 GB), imagens 512 px: src/carta/ponte_lan.py PONTE Wi-Fi (LAN) — o celular fala com o CARTA SEM CABO, só dentro da rede de casa. …
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …bo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026 O que mudou: o celular abre os mundos principais sozinho , sem cabo, sem Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CARTA (8790/8791) → fotografia com tools/t101u/offline_planeta_snapshot.py direto na pasta do build ( [omitid…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …m cabo mais simples"). src/carta/pokemon_vivo/visao_rapida.py VISÃO RÁPIDA do Pokémon (Grok, 19/10/2026 02h50). Medido no PC do Bruno (RTX 3070 8 GB, Windows usa ~1,4 GB), imagens 512 px: src/carta/ponte_lan.py PONTE Wi-Fi (LAN) — o celular fala com o CARTA SEM CABO, só dentro da rede de casa. (INTE…
+

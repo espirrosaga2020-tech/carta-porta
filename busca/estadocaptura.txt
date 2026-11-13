@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: estadocaptura  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …bservado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de tamanho e fuso obrigatório) e EstadoCaptura.indicador() . - motor_eventos.py — comparar_objetos() (o que apareceu/sumiu) e MemoriaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 teste…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …ado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de tamanho e fuso obrigatório) e EstadoCaptura.indicador() . - motor_eventos.py — comparar_objetos() (o que apareceu/sumiu) e MemoriaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (un…
+

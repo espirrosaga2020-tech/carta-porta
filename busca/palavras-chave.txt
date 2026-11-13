@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: palavras-chave  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- RB02: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  … da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho certo sem ler tudo. 00 Ficha de proveniência {#rb02-00} id: RB02 · estante: Robótica do Bruno / Método · modalidade: e…
+
+- EG012 — Grafo e Humanidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …a engrenagem independente até cruzamento posterior. TEMAS - colaboração humano–IA; - Bard e continuidade; - pessoa e incompletude; - Round 6 / Gi-hun; - humanidade e autodestruição; - grafo / meta-grafo; - saliência semântica; - erro produtivo; - Efeito Milton / Efeito Borboleta; - contrafactuais; …
+
+- EG020 — Nova Batcaverna (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …oordenadas de Continuidade; - estado herdado de “Meu Robô 2026”. TEMAS: continuidade seletiva; memória e evidência; identidade x função; leitura em grafo; reciprocidade; escopo; cartografia histórica; patrimônio endereçável; design visual; “TXT colorido”; codinomes e iconografia original. FENÔMENO…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …lha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho c Atlas V5 e Elemento X PR #137 preencheu o Atlas V5 mantendo 95 tiles e os rót…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …(863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em 648 fatias com endereço ( ENC-0001… , MAN-0001… ), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam só no PC ( [omitido pelo filtro de privacidade] ) e no Drive, nunca no GitHub. Rota (só o d…
+

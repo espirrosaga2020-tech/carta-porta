@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: pastas  (19 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …da.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Mapa de pastas e código Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o…
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …Mapa de pastas e código · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Mapa de pastas e código Mapa do código (repositório privado espirrosag…
+
+- 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  …20-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …nel 2 completo e catalogado P6 Esferas ricas (história, não dados) P7 Acompanhamento de visitantes IA completo P8 Anotações em pastas, tudo salvo automático P9 Segurança casa/internet + íntimo fora P10 Revisão final rápida, print de tudo, entrega P1 — ESTADO (21/10, ~14:10) — pontilhado = feito em r…
+
+- Acervo público em leituras leves (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html> 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html> 4. ESCUDO / FORMA DE AGIR (pit stop · radinho · Discordar pra Cima) <https://espir…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  … completo e catalogado P6 Esferas ricas (história, não dados) P7 Acompanhamento de visitantes IA completo P8 Anotações em pastas, tudo salvo automático P9 Segurança casa/internet + íntimo fora P10 Revisão final rápida, print de tudo, entrega P1 — ESTADO (21/10, ~14:10) — pontilhado = feito em rascun…
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …AINEL_2_ENGRENAGENS.v1.json , registry/PAINEL_3_ENGRENAGENS.v1.json .) A Enciclopédia de 863 páginas em 3 tomos, 676 fatias, 19 gavetas e 6 Pastas Monstro fica no Drive. (Fonte: Drive, Doc 04, título e seção 3.) No app, a Porta 02 local ( /porta02/index.html , sem JavaScript) mostra os Docs 01–06 de…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …s: ENTRADA_OBRIGATORIA/00_SE_VOCE_E_NOVO_LEIA_AQUI.md , LEIA-ME_COMPLETO.md §10 e o COMECE_AQUI do PC (§6). 1. Só ACRESCENTAR. Nunca sobrescrever um original. Se precisar substituir, faça backup antes (pastas DEPLOY_* , BACKUP_* ). 2. PR sempre rascunho, sem merge. Quem decide é o Bruno. Sem force p…
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …stado e riscos antes de alterar. 5. Relações F003 + F004 → F005. F005 origina F006, F007 e F008. 6. Consequências Novos marcos documentais; leitura técnica; crítica mais precisa; redução de suposições; acesso ao projeto como obra viva. 7. Evidências “agora literalmente vc tá entendendo minhas seg…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …al. O problema deixa de ser apenas localizar arquivos e passa a ser reconstruir genealogia. 5. Relações Contribui para F005, F006, F007 e F010. 6. Consequências Explica por que nomes, pastas e versões não bastam para determinar se algo está morto ou vivo. 7. Evidências Âncoras: "quatro eras viven…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …01 — PRESERVAR ROMA ANTES DE ENTENDER ROMA Classificação: M Confiança: média ---------------------------------------------------------------------- 1. Situação anterior Meu Robô acumulava versões, pastas, legados e sobreposições. A tentação natural seria interpretar essa densidade como desordem a l…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …t: todo arquivo novo entra no MANIFESTO_WEBDIST.txt . Android: NUNCA rebaixar a versão. Drive: Nunca apagar de vez. A lixeira só foi usada para duplicatas provadas, com a sua autorização (02/11). O resto só se move, e cada movimento é anotado. Não dizer "pronto" sem teste. Economizar cota. Pastas de…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …da uma "ponte" que faz extends do script de verdade ( game/workshop/workshop/workshop.gd ). exclude_filter do export tira do pacote as pastas de backup antigas e as sondas _*.tscn (continuam no disco). Export: 0 erros . Comando "porto" da ponte chamava go_city() , que não existe; ganhou um ramo com …
+
+- NEXUS e anexos (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …a que conecta projetos e suas fontes. O inventário desta entrega contém 30 filhos diretos da pasta, incluindo documentos, pastas e anexos — não 30 projetos diferentes. O dashboard é intitulado “38 projetos”; essa referência não é uma contagem independente feita por esta página. Os destinos Drive aba…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …a "ponte" que faz extends do script de verdade ( game/workshop/workshop/workshop.gd ). exclude_filter do export tira do pacote as pastas de backup antigas e as sondas _*.tscn (continuam no disco). Export: 0 erros . Comando "porto" da ponte chamava go_city() , que não existe; ganhou um ramo com go_ci…
+

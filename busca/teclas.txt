@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: teclas  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Mundos da CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  … carro ( sp , sr ) também é suavizada. Por isso não há tranco. A CARTA 2.0 não reconstruiu o bundle (as dependências do Vite não estão no PC); as teclas novas (numérico 8/2/4/6/5, setas) entram por tema/delorean_voo.js , que só "segura" as teclas que o bundle já entende. §7 Neon legível tema/carta20…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …🚗 DeLorean /delorean.html Modo desenvolvedor: a página antiga da Mini Terra. 🔬 Microscópio do tronco /microscopio.html Três escalas em 3D (tronco, lupa ×20, micro ×400). Cada ser tem selo de 🧪 científico ou ✨ ficção. Teclas: 1/2/3 trocam a escala, +/− também, Esc volta. O Planeta (Terra Grande) logo…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …orean /delorean.html Modo desenvolvedor: a página antiga da Mini Terra. 🔬 Microscópio do tronco /microscopio.html Três escalas em 3D (tronco, lupa ×20, micro ×400). Cada ser tem selo de 🧪 científico ou ✨ ficção. Teclas: 1/2/3 trocam a escala, +/− também, Esc volta. O Planeta (Terra Grande) logo que …
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …Bastidores. 🚗 DeLorean /delorean.html Modo desenvolvedor: a página antiga da Mini Terra. 🔬 Microscópio do tronco /microscopio.html Três escalas em 3D (tronco, lupa ×20, micro ×400). Cada ser tem selo de 🧪 científico ou ✨ ficção. Teclas: 1/2/3 trocam a escala, +/− também, Esc volta. O Planeta (Terra …
+

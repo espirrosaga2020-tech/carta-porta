@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: attack  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (48)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …ttps://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG024 — POE2 — Gulosona e Árvore de Attack Speed Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o …
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (40)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  … Entraram Heavy Swing, Overheating Blow, Heart of the Well, Time-Lost Emerald, Whirling Assault 21/20 e uma reconfiguração profunda da árvore. Attack Speed, inicialmente intuído pelo usuário como “a cereja”, sobreviveu a várias alternativas e terminou como eixo estrutural do WS1. O quarto movimento…
+
+- EG025 — POE2 — Milton e Value Engineering (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …creased”, “MORE” e “Gain as Extra”; - o papel de WS1 e WS2; - upgrades concretos comprados; - revisões de supports; - matemática de crítico, Rage, Attack Speed e gem levels; - experimentos na árvore passiva; - tensões metodológicas entre pesquisa excessiva e execução; - linguagem e símbolos internos…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …NITIVO_HISTORIA_v01.txt POE2 E MÉTODOS OPERACIONAIS EG005 — Chat da Liberdade: POE2 e autonomia — 25 fenômenos; ENGRENAGEM_CHAT_DA_LIBERDADE_POE2_2026-10_v01.txt EG024 — POE2 — Gulosona e Árvore de Attack Speed — 18 fenômenos; ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED_HISTORIA_v01.txt EG025 — POE…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …TIVO_HISTORIA_v01.txt POE2 E MÉTODOS OPERACIONAIS EG005 — Chat da Liberdade: POE2 e autonomia — 25 fenômenos; ENGRENAGEM_CHAT_DA_LIBERDADE_POE2_2026-10_v01.txt EG024 — POE2 — Gulosona e Árvore de Attack Speed — 18 fenômenos; ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED_HISTORIA_v01.txt EG…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …erna Cérebro Megazord Supremo da Creuza Linguagem, Observação e Consciência P021 Qual é o nome da engrenagem de código EG021? POE2 — Gulosona e Árvore de Attack Speed Engrenagem V4 — Atlas Técnico de Conectividade Paz e Central — Kamonson Diários e relatórios de bordo do projeto (repositório) P022 Q…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …/ inteligência humana EG023:F015 | Evidência pessoal: PoE2 aberto, Bradesco, troféus | G | alta | memória → arquivo EG023:F016 | Arqueologia pessoal: caverna, fé, autossabotagem, continuidade | G | média-alta | “tudo que eu toco vira ouro?” EG023:F017 | Presentinho recíproco do Copiloto | M | alt…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ão sabe se foi destruída ou absorvida. Os arquivos confirmam: - Mecânica Plus já existia em LEIA_ME; - cartão do chip mantinha soquete; - mostrava o que mudava na luta; - o Mapa Mestre registra núcleo especial, more attack, mais bateria, encaixe específico e oficina dedicada; - a entrada atual não …
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html#pg-enciclopedia-eg023> EG024 POE2 — Gulosona e Árvore de Attack Speed Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …Central e Continuidade de Meu Robô disponivel 26 EG023 Paz — Linguagem e Continuidade disponivel 27 EG024 POE2 — Gulosona e Árvore de Attack Speed disponivel 28 EG025 POE2 — Milton e Value Engineering disponivel 29 EG026 Reciprocidade e Memória Persistente disponivel 30 EG027 SPA — Ping-pong Cogniti…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …ocumental EG023 Paz — Linguagem e Continuidade Reciprocidade e Paz ancestral engrenagem documental EG024 POE2 — Gulosona e Árvore de Attack Speed POE2 e métodos operacionais ancestral engrenagem documental EG025 POE2 — Milton e Value Engineering POE2 e métodos operacionais ancestral engrenagem docum…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …nes=1326 bytes=63807 index=20 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG024 | ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED_HISTORIA_v01.txt sha256=e1480db16784f27f2f27acd11f79df8cf213f15dc17cbfb01c80c5820ea55c56 lines=2091 bytes=63572 index=18 missing_post_index=[] status=V…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …a2-acervo-046.html> EG023 — Paz — Linguagem e Continuidade <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html> EG024 — POE2 — Gulosona e Árvore de Attack Speed <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html> EG025 — POE2 — Milton e Value Engine…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …es=1326 bytes=63807 index=20 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG024 | ENGRENAGEM_POE2_GULOSONA_ARVORE_ATTACK_SPEED_HISTORIA_v01.txt sha256=e1480db16784f27f2f27acd11f79df8cf213f15dc17cbfb01c80c5820ea55c56 lines=2091 bytes=63572 index=18 missing_post_index=[] status=VERIFICADO PARC…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …ntal EG023 Paz — Linguagem e Continuidade Reciprocidade e Paz ancestral engrenagem documental EG024 POE2 — Gulosona e Árvore de Attack Speed POE2 e métodos operacionais ancestral engrenagem documental EG025 POE2 — Milton e Value Engineering POE2 e métodos operacionais ancestral engrenagem documental…
+

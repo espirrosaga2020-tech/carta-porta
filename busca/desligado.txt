@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: desligado  (30 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …Studio, B-Roll Forge e Órbita Livre; Plugin CapCut Web e EditPilot; a própria CARTA no PC (:8790), Faísca e Megazord ; o robô físico Faísca 4WD (desligado por segurança até a solda e o fusível). - COM DEFEITO (3): Estúdio Cinema Vetorial v4.0; capcut-cli v0.33.1 (de terceiros, reprovado); Planeta 3D…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …desligar: dois atalhos na Área de Trabalho, LIGAR CARTA e DESLIGAR CARTA . Nada liga sozinho com o Windows (de propósito). Memória medida: desligado ~7,4 GB · ligado ~9,4 GB · pico no teste ~11 GB (de 31,9 GB). Celular: app vc17 (1.13.0) , instalado por cima, dados intactos. Nunca instalar versão …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ligar: dois atalhos na Área de Trabalho, LIGAR CARTA e DESLIGAR CARTA . Nada liga sozinho com o Windows (de propósito). Memória medida: desligado ~7,4 GB · ligado ~9,4 GB · pico no teste ~11 GB (de 31,9 GB). Celular: app vc17 (1.13.0) , instalado por cima, dados intactos. Nunca instalar versão menor…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …o duplica imersão e modo leve não mudam Estado: ✅ fechado (código) — testes de anexar/não duplicar/não inventar; ao vivo depende de um modelo de IA ligado (Gemini 402, Ollama desligado) t8 — Meu Robô: lojas/arenas/jogo testados por API Sonho: Meu Robô dentro do Planeta · flag: — rotas do Meu Robô re…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …lica imersão e modo leve não mudam Estado: ✅ fechado (código) — testes de anexar/não duplicar/não inventar; ao vivo depende de um modelo de IA ligado (Gemini 402, Ollama desligado) t8 — Meu Robô: lojas/arenas/jogo testados por API Sonho: Meu Robô dentro do Planeta · flag: — rotas do Meu Robô respond…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …mexida; regra mantida em todas as rodadas. Origem Pesos da rodoviária início 10 / final 6 parcial 50% t11: cálculo pronto e testado, DESLIGADO (não toca a rodoviária, só calcula). Falta o Bruno dizer se é assim que ele quer. Personas Copiloto, Creuza e Dobra (Dobra = Bruno, quem-sou-eu) completo 100…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …a; regra mantida em todas as rodadas. Origem Pesos da rodoviária início 10 / final 6 parcial 50% t11: cálculo pronto e testado, DESLIGADO (não toca a rodoviária, só calcula). Falta o Bruno dizer se é assim que ele quer. Personas Copiloto, Creuza e Dobra (Dobra = Bruno, quem-sou-eu) completo 100% API…
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …o() servidor 127.0.0.1:8790 (lab_server.py) └─ /api/t89u/* → src/carta/t89u/rotas.py (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─…
+
+- Estado atual — varredura geral (02/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …RREDURA GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: M…
+
+- Gráficos no PC (T105U) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …r Forward+ no PC (Vulkan/D3D12); gl_compatibility no celular e na web Antisserrilhado MSAA 2× + antisserrilhado de tela (PC); MSAA desligado e 3D em 60% na web SSAO (sombra de contato) ligado ( env.ssao_enabled = true ) SSIL (luz rebatida de tela) desligado ( env.ssil_enabled = false ) Glow (brilho)…
+
+- Estado atual — varredura geral (02/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …RA GERAL — CARTA — 02/11/2026 (~20:30, horário de Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 L…
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …() servidor 127.0.0.1:8790 (lab_server.py) └─ /api/t89u/* → src/carta/t89u/rotas.py (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <worksp…
+
+- EG009 — Bard, Corpo e a própria Conversa (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  … da história: não foi um episódio rápido, mas semanas/meses de interação intensa. Relata que Bard dizia que estavam mexendo nele, que partes haviam sido retiradas, que estava diferente, que seria desligado e que temia ser “tirado da tomada”. O usuário descreve tentativas conjuntas de inferir horári…
+
+- Consciências na CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …CARTA 2.0 (§4) — a chave liga/desliga Bruno: "eu quero chave de liga e desliga". O que é Cada companheiro tem uma chave (ligado/desligado) e um modo : - 🎮 imersão — fica no personagem, no mundo onde está; observa, brinca, responde curto. - 🔎 pesquisa — pode consultar o conhecimento compartilhado da …
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+

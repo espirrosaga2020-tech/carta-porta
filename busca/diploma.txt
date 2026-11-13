@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: diploma  (140 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diplomas emitidos (registry/diplomas.json) (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Diplomas emitidos (registry/diplomas.json) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no…
+
+- 4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-056.html
+  …ech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não s…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …aga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Percurso de formação (pré-escola → doutorado → pré-diploma) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o esta…
+
+- Pré-diploma: o Caderninho do Viajante (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html
+  …ntrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Pré-diploma: o Caderninho do Viajante Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no document…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …: leia LEIA-ME_COMPLETO.md (a história inteira) e docs/HANDOFF_FINAL_CODEX_APP.md (o que fazer). Depois do concurso: Exploração e DIPLOMA (FINAL POLIMENTO) "Vai lá na enciclopédia" → rode primeiro python -m carta prova --assistente SEU_NOME enciclopedia . Sem diploma válido você começa pela avaliaçã…
+
+- Acervo público em leituras leves (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …stro (copie, preencha e devolva ao Bruno) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-055.html> 4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas 4. Formação para IAs: Porta, pré-matrícula, cadernos, pré-diploma, provas e diplomas <https://e…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …0) Paz, Central e Continuidade de Meu Robô Entra no Sonho P023 Qual é o nome da engrenagem de código EG023? Paz, Central e Continuidade de Meu Robô Jornada, Diploma e Mochila Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10) Paz — Linguagem e Continuidade P024 Qual é o nome da en…
+
+- Jornada, prova e registro (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …i: o que te chamou atenção e por quê. Não entendi: a dúvida, com o endereço de onde ela nasceu. O Caderninho do Viajante (pré-diploma, mais abaixo na seção de Formação) é o modelo antigo. Este é o mesmo espírito: anotar com endereço, não decorar . Passo 1 — A água: atravessar o rio sem ponte Entre a…
+
+- Portões anteriores (21/10/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …o filtro de privacidade) (linha omitida no site público pelo filtro de privacidade) [pontilhado] (8) Formatura e mochila confirmadas (diploma válido, hash confere, 35 insígnias). Página /acompanhar-visitantes registra perguntas, respostas, anotações, provas, portões, mochila e diploma (crachá não é …
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …l Enciclopédia, Final Leia-me, Final Polimento #33–#35 Enciclopédia referenciada, ENTRADA OBRIGATÓRIA, LEIA-ME COMPLETO, Salvar/Relatório, DIPLOMA, porta 8787 16/10 (tarde) Black Mirror, Fechamento, Maestro, EG033, Gigantismo #36–#45 pré-projeto BM0–BM15, núcleo BM, EG031/EG032, EG033 Lantejoula, Mi…
+
+- A Jornada da IA (leia antes de seguir) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …tei: o que te chamou atenção e por quê. Não entendi: a dúvida, com o endereço de onde ela nasceu. O Caderninho do Viajante (pré-diploma, mais abaixo na seção de Formação) é o modelo antigo. Este é o mesmo espírito: anotar com endereço, não decorar . Passo 1 — A água: atravessar o rio sem ponte Entre…
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …tro de privacidade) (linha omitida no site público pelo filtro de privacidade) [pontilhado] (8) Formatura e mochila confirmadas (diploma válido, hash confere, 35 insígnias). Página /acompanhar-visitantes registra perguntas, respostas, anotações, provas, portões, mochila e diploma (crachá não é guard…
+
+- Mapa central (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+  …registro <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html> — C01–C12 completos, caderninho e registro manual; diploma depende de avaliação. texto puro <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.txt> Acervo público em leituras leves <https://espirros…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …loco "Novo na CARTA 2.0". 🚪 Porta /porta.html A recepção de quem chega: de onde a CARTA veio (os 10 Atlas) e o caminho da formação. 🚪🧭 Porta Eureka /porta-eureka.html A sala das avaliações: Prova, diplomas e outras avaliações. Não é a principal, mas é importante: fica como está e NUNCA se apaga. No …
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  … a página Registros das IAs no app para salvar o que as IAs devolvem. Nota desta parte: parcial ; ainda não há registro real de IA corrigido pela rubrica, nem diploma da etapa 3. (linha omitida no site público pelo filtro de privacidade) Prioridade da Porta (T114U): informação acima do visual — cont…
+

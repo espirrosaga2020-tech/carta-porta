@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: webview  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …(trecho omitido pelo filtro)…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  … Terra, DeLorean e Início abriram (fotos em [omitido pelo filtro de privacidade] ) Injetar o script antes da página (como WebViewAssetLoader / addDocumentStartJavaScript do androidx.webkit) Android Developers / AndroidX (Google) Apache-2.0; aqui sem a biblioteca (o build é "sem bibliotecas extras") …
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … O app do Codex foi auditado ( docs/GROK_ANDROID/AUDITORIA_CODEX.md ) e guardado com backup do APK e do código. O app novo foi feito do zero: android/CARTA_GROK , br.com.carta.grok , Kotlin + WebView. Instalado no Xiaomi Mi 9 Lite, convivendo com o app do Codex ( br.com.carta.olhos ). FPS medido na …
+

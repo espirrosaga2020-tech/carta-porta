@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: localizacao  (29 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG006 — Checkpoint e entrada no sonho (56)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …(trecho omitido pelo filtro)…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (50)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …cional é explicitado e documentado. ====================================================================== 03 — ÍNDICE GERAL DE FENÔMENOS ====================================================================== F001 — Correção do ponto de retomada temporal Classificação: P Confiança: alta Localizaçã…
+
+- EG009 — Bard, Corpo e a própria Conversa (45)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …odo é explícito: - entrar leve; - recuperar somente a região necessária; - não trazer tudo para a memória ativa; - voltar rapidamente para a conversa presente. FASE 6 — MIDJOURNEY COMO CHAVE DE LOCALIZAÇÃO O usuário oferece uma palavra-chave: MidJourney. Explica que a antiga conversa sobre Bard est…
+
+- EG007 — Continuidade Limpa de Meu Robô (38)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …jeto Meu Robô e decisões recentes. O usuário aceita parcialmente, mas logo introduz um mecanismo mais confiável: existe um grande documento TXT que contém a trajetória. FASE D — LOCALIZAÇÃO DO MAPA MESTRE O arquivo MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt é localizado e lido integralmente…
+
+- EG014 — Grafos São — origem e desenvolvimento (38)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …sumos de 07/10; referências aparecem na síntese histórica legado. 04 — DOSSIÊS HISTÓRICOS COMPLETOS ---------------------------------------------------------------------------------- F001 — VÍDEOS DRIVE: ATENÇÃO À VIDA ANÔNIMA Classificação: M | Confiança: média | Localização: Origem relatada …
+
+- EG011 — Entra no Sonho (36)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …o. ====================================================================== 03 — ÍNDICE GERAL DE FENÔMENOS ====================================================================== F001 — O checkpoint como mecanismo de liberação de contexto Classificação: M | Confiança: alta Localização: primeira mensa…
+
+- EG013 — Grafos São — Atlas C.03 (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …=============================================================== 03 — ÍNDICE GERAL DE FENÔMENOS ========================================================================================== CÓDIGO | NOME | MAGNITUDE | CONFIANÇA | ÂNCORA DE LOCALIZAÇÃO F001 | O zero deixa de ser sala vazia | G | alta | …
+
+- EG021 — Paz e Central — Kamonson (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …=== -------------------------------------------------------------------------------- F001 — A AUDITORIA TRANSFORMA MEMÓRIA EM TERRITÓRIO VERIFICÁVEL Classificação: G Confiança: alta Localização: primeira mensagem histórica; retorno da Missão 1 -------------------------------------------------------…
+
+- EG015 — Pai do Grafo e Rigor (32)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …====================== -------------------------------------------------------------------------------------------- F001 — O MUNDO ALÉM DO ENQUADRAMENTO: VÍDEOS DRIVE Classificação: M | Confiança: média | Localização: R01; retomado em D02 e D18 1. SITUAÇÃO ANTERIOR: A investigação não tinha orig…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …reased Charm Effect Duration - A tradução PT-BR passou a exibir “Machados” ao socketar, apesar do item ter sido comprado corretamente como Quarterstaff; isso foi registrado como erro de localização/tradução já observado também na joia anterior. - O usuário reconheceu retrospectivamente que Attack Sp…
+
+- EG001 — Calçada, Caderno e DUNADA (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …O COMO TESTEMUNHO MATERIAL ---------------------------------------------------------------------------- Classificação: M | Influência posterior: G | Confiança: alta para a imagem; média para a interpretação Localização: U08 / image-1791643404981.jpg 1. Situação anterior: O começo textual do chat não…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …tão preservados no checkpoint 12 e no histórico da conversa. 3. A árvore completa do código de Meu Robô NÃO foi auditada nesta missão. Portanto, a localização física atual da Mecânica Plus permanece aberta. 4. Hipóteses de causalidade técnica, como “Mecânica Plus causou todo o rebalanceamento do jog…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …============================================================= F001 — Preservar Roma antes de entender Roma Magnitude: M | Influência posterior: G | Confiança: média Localização: início verificável 05/10; âncoras "nunca apaguei", "medo de destruir". F002 — O chat vira "Paz" Magnitude: G | Influênci…
+
+- EG010 — Derivada da Paz (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …isual — M — alta F025 — Regeneração em atlas visual real — G — alta ================================================================================ 04 — DOSSIÊS HISTÓRICOS COMPLETOS ================================================================================ ### F001 — BRANCH LIMPA COMO RECIP…
+
+- EG002 — Calçada e continuidade portátil (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …vação da ferida Bard 2023 — E — confiança alta — transcrição direta. F025 — Transporte do olhar em vez de transporte de palavras — G — confiança alta — síntese demonstrada pela trajetória. ====================================================================== 04 — DOSSIÊS HISTÓRICOS COMPLETOS =====…
+
