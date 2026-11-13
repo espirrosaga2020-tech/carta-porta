@@ -1,11 +1,7 @@
-BUSCA POR LINK — termo: gordinhas  (2 páginas; até 15 abaixo)
+BUSCA POR LINK — termo: gordinhas  (1 páginas; até 15 abaixo)
 Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
 
 - p02-manual-v12.html (5)
   https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
   …gual. (Fonte: tools/t152u/G0_BASELINE_3D.txt .) As divergências de contagem ganharam o lado vigente (87/73), as 17 candidatas e as 6 Gordinhas. (Fonte: registry/CONHECIMENTO_DIVERGENCIAS.v1.json .) 0.11.2 A contagem verdadeira 73 engrenagens oficiais, com prova. O Doc 04 fala em 96 = 62 + 6 Gordinha…
-
-- p02-t152u-novidades.html (1)
-  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
-  … sendo feito. Até ele sair, vale o registro do app: 73 engrenagens oficiais em 87 registros; o Doc 04 do Drive fala em 96 (62 + 6 Gordinhas + 28 do pacote Argon). Os dois números ficam anotados; quem decide é o Bruno. Base: 27 engrenagens ancestrais do Volume Zero (EG001–EG027); a enciclopédia cresc…
 

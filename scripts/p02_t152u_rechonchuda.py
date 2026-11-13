@@ -119,7 +119,7 @@ def bloco_curto(c):   # entrada tem de ficar < 15 KB (regressão t68u): versão 
 <li><b>Confirmação:</b> na <a href="chave-suprema2.txt">chave</a>, a palavra-chave começa com <code>OURO-</code> e termina em <code>-KUALA</code> (Koala com K). Diga ao Bruno a palavra exata e a frase de transporte abaixo.</li>
 <li><b>BUSCA POR LINK (sem JS):</b> abra <code>{B}busca/&lt;termo&gt;.html</code> ou <code>.txt</code> (minúsculas, sem acento, espaço = hífen). Ex.: <a href="busca/faisca.html">faisca</a> · <a href="busca/creuza.html">creuza</a> · <a href="busca/engrenagem.html">engrenagem</a> · <a href="busca/eg001.html">eg001</a>. Todos os termos: <a href="busca/index.html">busca/index.html</a>. (As caixas de busca abaixo precisam de JavaScript.)</li>
 <li><b>Onde fica cada coisa:</b> <a href="p02-t152u-portoes.html">90 portões T152U</a> · <a href="p02-manual-v12.html">manual v12</a> · <a href="enciclopedia/index.html">enciclopédia</a> · <a href="suprema2-mentes.html">mentes</a> · <a href="suprema2-app.html">app</a> · <a href="p02-t152u-novidades.html#programas">programas</a> · <a href="suprema2-acervo.html">acervo</a> · <a href="p02-todas-as-paginas.html">todas as páginas</a> · <a href="llms.txt">llms.txt</a></li>
-<li><b>Hoje:</b> T152U com 81/90 portões feitos (o resto: bingo dispensado, publicar o app não feito de propósito, 1 externo, 2 sem fonte). {E(c["texto"][:260])}</li>
+<li><b>Hoje:</b> T152U com 81/90 portões feitos (o resto: bingo dispensado, publicar o app não feito de propósito, 1 externo, 2 sem fonte). {E(c["texto"])}</li>
 </ol>
 </section>
 {FIM}"""

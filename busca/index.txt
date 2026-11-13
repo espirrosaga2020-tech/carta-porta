@@ -48,7 +48,7 @@ app (47) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/app.txt
 aprendi (21) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/aprendi.txt
 aprovacao (15) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/aprovacao.txt
 aqui (96) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/aqui.txt
-argon (3) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/argon.txt
+argon (2) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/argon.txt
 arquiteturas (4) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/arquiteturas.txt
 arquivo (97) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/arquivo.txt
 arquivos (62) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/arquivos.txt
@@ -377,13 +377,13 @@ gatilho (19) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gatilho
 gavetas (7) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gavetas.txt
 geolocalizacao (3) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/geolocalizacao.txt
 geral (54) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/geral.txt
-github (138) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/github.txt
+github (139) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/github.txt
 gk029 (14) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gk029.txt
 gk031 (7) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gk031.txt
 gk036 (7) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gk036.txt
 godot (37) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/godot.txt
 google (28) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/google.txt
-gordinhas (2) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gordinhas.txt
+gordinhas (1) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gordinhas.txt
 gorila (4) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gorila.txt
 gosta (13) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/gosta.txt
 graficos (28) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/graficos.txt
@@ -507,7 +507,7 @@ novidades (10) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/novid
 novo (79) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/novo.txt
 obrigatoria (25) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/obrigatoria.txt
 observacao (47) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/observacao.txt
-oficiais (8) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/oficiais.txt
+oficiais (7) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/oficiais.txt
 oficial (37) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/oficial.txt
 olhar (19) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/olhar.txt
 olhos (18) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/olhos.txt
@@ -523,7 +523,7 @@ ouro (50) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/ouro.txt
 ouro-suprema2 (16) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/ouro-suprema2.txt
 p001 (10) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/p001.txt
 p025 (10) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/p025.txt
-pacote (35) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/pacote.txt
+pacote (34) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/pacote.txt
 pagina (69) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/pagina.txt
 paginas (28) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/paginas.txt
 paineis (17) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/paineis.txt
@@ -624,9 +624,9 @@ reciprocidade (34) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/r
 recuperacao (28) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/recuperacao.txt
 reflete (3) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/reflete.txt
 refroes (1) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/refroes.txt
-registro (145) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/registro.txt
+registro (144) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/registro.txt
 registro-fonte (1) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/registro-fonte.txt
-registros (50) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/registros.txt
+registros (49) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/registros.txt
 registry (29) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/registry.txt
 regras (50) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/regras.txt
 relacionado (21) -> https://espirrosaga2020-tech.github.io/carta-porta/busca/relacionado.txt
