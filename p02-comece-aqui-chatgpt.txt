@@ -6,8 +6,9 @@ PORTA 02 — ORIENTAÇÃO PARA IAs (13/11/2026) — leia primeiro. Tudo funciona
 4) BUSCA POR LINK (sem JS): https://espirrosaga2020-tech.github.io/carta-porta/busca/<termo>.txt ou .html (minúsculas, sem acento, espaço = hífen). Ex.: https://espirrosaga2020-tech.github.io/carta-porta/busca/faisca.txt  https://espirrosaga2020-tech.github.io/carta-porta/busca/creuza.txt  https://espirrosaga2020-tech.github.io/carta-porta/busca/engrenagem.txt
    Lista de termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
 5) Todas as páginas: https://espirrosaga2020-tech.github.io/carta-porta/p02-todas-as-paginas.html · Portões T152U: https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html · Manual v12: https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
-6) Engrenagens: CENSO ÚNICO 13/11/2026: 115 engrenagens contadas uma por uma (Drive + PC + GitHub).
+6) Engrenagens: [CENSO-PENDENTE] O CENSO ÚNICO das engrenagens (13/11/2026) ainda está sendo feito. Até ele sair, vale o registro do app: 73 engrenagens oficiais em 87 registros; o Doc 04 do Drive fala em 96 (62 + 6 Gordinhas + 28 do pacote Argon). Os dois números ficam anotados; quem decide é o Bruno.
 === P02-T152U-FIM ===
+
 
 
 

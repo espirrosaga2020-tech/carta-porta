@@ -28,8 +28,10 @@ def depois_body(txt, novo):
 
 def censo(caminho):
     if caminho and Path(caminho).exists():
-        rows = list(csv.DictReader(open(caminho, encoding="utf-8")))
-        return {"ok": True, "n": len(rows), "texto": f"CENSO ÚNICO 13/11/2026: {len(rows)} engrenagens contadas uma por uma (Drive + PC + GitHub)."}
+        rows = list(csv.DictReader(open(caminho, encoding="utf-8-sig")))
+        n = sum(1 for r in rows if r.get("status") == "ENGRENAGEM")
+        return {"ok": True, "n": n, "texto": f"CENSO ÚNICO 13/11/2026: {n} engrenagens, contadas uma por uma no Drive, no PC e no GitHub "
+                f"(mais {sum(1 for r in rows if r.get('status','').startswith('REGISTRO'))} registros que não são engrenagem e {sum(1 for r in rows if r.get('status')=='REJEITADA')} rejeitadas)."}
     return {"ok": False, "texto": "[CENSO-PENDENTE] O CENSO ÚNICO das engrenagens (13/11/2026) ainda está sendo feito. "
             "Até ele sair, vale o registro do app: 73 engrenagens oficiais em 87 registros; o Doc 04 do Drive fala em 96 "
             "(62 + 6 Gordinhas + 28 do pacote Argon). Os dois números ficam anotados; quem decide é o Bruno."}

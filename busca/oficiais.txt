@@ -1,4 +1,4 @@
-BUSCA POR LINK — termo: oficiais  (7 páginas; até 15 abaixo)
+BUSCA POR LINK — termo: oficiais  (8 páginas; até 15 abaixo)
 Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
 
 - 5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u) (7)
@@ -20,6 +20,10 @@ Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.htm
 - Mapa de pastas e código (1)
   https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
   …convergencia/semantica.py Índice semântico opcional sobre P1 aprovado, no MESMO SQLite do Catálogo. src/carta/convergencia/sessoes_prova.py Camada de sessão e sorteio para as provas OFICIAIS do CARTA. src/carta/convergencia/simbolos.py Segmentação Unicode e ocorrências simbólicas; significado sempre…
+
+- p02-t152u-novidades.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …PENDENTE] O CENSO ÚNICO das engrenagens (13/11/2026) ainda está sendo feito. Até ele sair, vale o registro do app: 73 engrenagens oficiais em 87 registros; o Doc 04 do Drive fala em 96 (62 + 6 Gordinhas + 28 do pacote Argon). Os dois números ficam anotados; quem decide é o Bruno. Base: 27 engrenagen…
 
 - p02-t152u-portoes.html (1)
   https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
