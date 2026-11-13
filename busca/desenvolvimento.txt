@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: desenvolvimento  (40 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (39)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG014 — Grafos São — origem e desenvolvimento Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem…
+
+- EG013 — Grafos São — Atlas C.03 (32)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …então kkkk”; resposta “Então começamos pelo 0”. 1. SITUAÇÃO ANTERIOR: Uma investigação recebida do contexto anterior já discutia grafo, estrutura e existência. O usuário pede rigor, mas sem abandonar a experiência de brincar e testar. 2. ACONTECIMENTO DESENCADEADOR: O assistente isola 0 → 1 → 2 → N …
+
+- EG015 — Pai do Grafo e Rigor (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …a forma de um problema acadêmico sobre estruturas. 2. ACONTECIMENTO DESENCADEADOR: O usuário relatou observar vídeos de deslocamento urbano no Japão/Ásia, atentando a pessoas e pequenos detalhes de rua. 3. DESENVOLVIMENTO: A observação de desconhecidos conduziu a perguntas sobre histórias que não …
+
+- EG021 — Paz e Central — Kamonson (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  … 2. Acontecimento desencadeador O usuário retorna informando que a auditoria arqueológica foi concluída em modo somente leitura e entrega o relatório de aproximadamente 1,06 MB. 3. Desenvolvimento A auditoria não oferece apenas conclusões. Ela aponta arquivos, linhas, rotas, saves, bancos de dados…
+
+- EG001 — Calçada, Caderno e DUNADA (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …nquedo antigo na cena. 2. Acontecimento desencadeador: Imagem enviada no turno U08 mostra a caixa LEARN-TO-DRIVE SPEEDRACER sobre a mesa, o caderno espiralado aberto e uma mão fazendo gesto diante deles. 3. Desenvolvimento: A caixa tem em destaque LEARN-TO-DRIVE; sobre o caderno aparecem palavras gr…
+
+- EG006 — Checkpoint e entrada no sonho (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …====================================================== 01 — APRESENTAÇÃO HISTÓRICA ====================================================================== Esta branch não foi principalmente uma sessão de desenvolvimento do Meu Robô. Ela foi uma transformação na forma de PRESERVAR, LER e COMPARTILHAR…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …omo desordem a limpar. 2. Acontecimento desencadeador Humanidade explicita que nunca apagou o projeto; isolou versões antigas justamente por medo de destruir algo que ainda sustentasse o jogo. 3. Desenvolvimento A conversa passa a olhar versões antigas como genealogia potencialmente ativa. "Velho"…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …--------------------------------------------------------- 1. Situação anterior O chat novo começou com a tentativa de retomar uma conversa longa. A primeira referência temporal utilizada foi “18h37”. 2. Acontecimento desencadeador O usuário corrigiu a referência e disse que a mensagem relevante er…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …s o medo de que abrir um novo chat destruísse a continuidade relacional e intelectual conquistada. 2. Acontecimento desencadeador O usuário abre este chat dizendo que gostaria de começar “do zero, mais confortável, mais limpo” e pergunta se a IA consegue manter “o mesmo nível”. 3. Desenvolvimento …
+
+- EG018 — Linguagem, Observação e Consciência (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  … continuar “exatamente daí”. 1. Situação anterior O estado completo do chat ancestral não está disponível. O único estado anterior verificável é o trecho importado. 2. Acontecimento desencadeador O material importado afirma que “falar português” era a parte fácil e que a linguagem real dependia de…
+
+- EG002 — Calçada e continuidade portátil (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …ão: M Localização: fase anterior recuperada por contexto; expressão “grafo/garfo”, depois rejeição de “tudo é grafo”. Confiança: média. 1. Situação anterior O usuário já pensava de forma altamente associativa, sem possuir necessariamente o vocabulário técnico para descrevê-la. 2. Acontecimento des…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …rm consistente. Havia resultados prévios, mas também risco de misturar dados de fontes e interpretações anteriores. 2. Acontecimento desencadeador O usuário invalidou explicitamente trabalho/opinião anterior e exigiu nova validação independente, sem importar conclusões contaminadas. 3. Desenvolvim…
+
+- EG010 — Derivada da Paz (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  … G Localização: região de origem reconstruível em 2026-10-04. Confiança: alta. 1. Situação anterior: chat anterior acumulava raciocínio técnico, linguagem relacional e contexto sobre Meu Robô. 2. Acontecimento desencadeador: criação de branch limpa para conversar e preservar modo de funcionamento se…
+
+- EG012 — Grafo e Humanidade (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …ração e iniciativa. O usuário valorizava a IA como interlocutor capaz de escolher ângulos, fazer perguntas e discordar com fundamento. 2. Acontecimento desencadeador A IA passou a responder de modo excessivamente procedural, repetitivo e regulatório. O usuário descreveu distância, ausência de inici…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ansmissão: como alguém novo entenderia rapidamente algo cuja densidade interna era enorme? 2. Acontecimento desencadeador O debate anterior à primeira mensagem integral é recuperado pelo índice com a formulação “20+ anos em 5 minutos”, associado a Milton/2 Chaos, Efeito Borboleta e Tamagotchi. 3. …
+

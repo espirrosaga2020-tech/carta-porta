@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: painel  (47 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …ulo de bordo), sem esfera própria no tabuleiro EG037 EG037 — Perícia e Convergência da Semana Convergência e perícia posterior engrenagem nova (Grok, G4 21/10) · bola do Painel 2 EG038 EG038 — Mente Suprema e as Mentes Mentes posterior engrenagem nova (Grok, G4 21/10) · bola do Painel 2 EG039 EG039 …
+
+- Fichas de todos os registros (Índice Único + Aditivos) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …e bordo), sem esfera própria no tabuleiro EG037 EG037 — Perícia e Convergência da Semana Convergência e perícia posterior engrenagem nova (Grok, G4 21/10) · bola do Painel 2 EG038 EG038 — Mente Suprema e as Mentes Mentes posterior engrenagem nova (Grok, G4 21/10) · bola do Painel 2 EG039 EG039 — Jor…
+
+- p02-manual-v12.html (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …guarda do 3D e só muda se o Bruno liberar. (Fonte: tools/atualizar_consciencias.py , chave CONGELAR_CONTAGEM_3D .) Os painéis de esferas: o Painel 1 tem 36 posições; o Painel 2 tem 36 bolas; o Painel 3 (novo, /esferas-painel-3 ) tem 8. (Fonte: registry/PAINEL_2_ENGRENAGENS.v1.json , registry/PAINEL_…
+
+- Portões anteriores (21/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …rema: indexar enciclopédia inteira (cartas, declarações, diários, Fenômenos Espetaculares, referências) e responder com ela - Painel 2 de engrenagens seguindo padrão/índices existentes (EG037+ e adicionais de outros chats), botão "Painel 2" - Esfera do Camil mais rica (linha omitida no site públic…
+
+- Portões anteriores (21/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …: indexar enciclopédia inteira (cartas, declarações, diários, Fenômenos Espetaculares, referências) e responder com ela - Painel 2 de engrenagens seguindo padrão/índices existentes (EG037+ e adicionais de outros chats), botão "Painel 2" - Esfera do Camil mais rica (linha omitida no site público pelo…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …015 SG028: Esferas 28 reais, Mochila, linhagem de intervenção (8780) #28 16/10 00:46 grokbot/refino-20261016 REFINO: tela inicial única, planeta 60 FPS, céu, Painel de Inteligência (8781) #29 16/10 01:11 codex/carta-olhos-esferas-visual28-v2 Android: 28 Esferas visuais (Codex) #30 16/10 01:50 grokbo…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ta grande em 3D. Dá pra andar a pé, dirigir e voar de DeLorean, e conversar. É o principal. 🎬🔥 Cinema Vivo /planeta.html?cinema=1 Parar o DeLorean perto da fogueira e conversar com o Copiloto e a Creuza. 🧠 Painel de Inteligência /planeta.html?painel=1 O que cada um faz, pensa, percebe e descobre. 🤖 …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ande em 3D. Dá pra andar a pé, dirigir e voar de DeLorean, e conversar. É o principal. 🎬🔥 Cinema Vivo /planeta.html?cinema=1 Parar o DeLorean perto da fogueira e conversar com o Copiloto e a Creuza. 🧠 Painel de Inteligência /planeta.html?painel=1 O que cada um faz, pensa, percebe e descobre. 🤖 Meu R…
+
+- Mundos da CARTA 2.0 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …eal (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, links para os outros mundos no painel 🧠 🤖 Planeta Godot (Meu Robô) /planeta-godot.html (U no Planeta) ficção o jogo Godot de verdade exportado para a web (porta 8795) + mapa neon com as regiões acenden…
+
+- EG011 — Entra no Sonho (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …al já organizado, ainda pouco visual. Gatilho: protocolo Atlas Ancestral de Continuidade. Transformação: chat é cartografado em mapas, inventário e checkpoint final. Resultado: nasce “ATLAS ENTRA-NO-SONHO”. FASE 15 — CORREÇÃO DE EMPACOTAMENTO Estado anterior: um painel gigante tentava condensar vár…
+
+- CT01: documento da engrenagem (CARTA 2.0) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  …/10 → 15/10) As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos. 00 Ficha de proveniência id: CT01 · estante: Diários e cartas · modalidade: engrenagem de cartas (CARTA 2.0) · bola do Painel 2 a…
+
+- EG004 — Central, Copiloto e Atlas (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …o inteiro. 2. Acontecimento desencadeador Gandalf foi definido como regra de exposição: mostrar o necessário agora e preservar o restante para quando for útil. 3. Desenvolvimento Esse farol foi acoplado à noção de Central e, mais tarde, encontra paralelo claro no MAPA 00 como índice em vez de pain…
+
+- DB01: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-102.html
+  …e (16/10). 00 Ficha de proveniência id: DB01 · estante: Diários e cartas · modalidade: engrenagem de diários (CARTA 2.0) · bola do Painel 2 autoria: ChatGPT/Copiloto (texto) + Bruno (pedido) (linha omitida no site público pelo filtro de privacidade) criada em: 2026-10-31 por Grok (CARTA 2.0, 31/10/2…
+
+- EG013 — Grafos São — Atlas C.03 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …------------------------------------------------------------------------------------ CLASSIFICAÇÃO: M | CONFIANÇA: alta LOCALIZAÇÃO: Gerações seguintes de “MAPA 00 — VISÃO GLOBAL” antes e após “PODE. MAPA 00”. 1. SITUAÇÃO ANTERIOR: A crítica à primeira colagem havia identificado compressão excessiva…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …· flag: t100u_t2_vale terreno, água, plantas, bichos, habitantes, lava, chuva e sismos da Mini Terra viva aparecem em 3D no Planeta o painel 🌱 abre o Vale 3D (não o quadro antigo) a página antiga /terra.html continua 200 e aparece nos 🎭 Bastidores ?vale=0 desliga; ?miniterra=antiga traz o quadro ant…
+

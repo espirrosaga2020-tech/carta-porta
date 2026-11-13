@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: endereco  (35 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …gado vivo, falsos órfãos, WIP, risco de intervenção e integração incompleta. A consequência foi mudar o gargalo de “falta jogo” para CONVERGÊNCIA, FECHAMENTO e INTEGRAÇÃO. A Central deixou de ser imaginada como lugar onde todo o contexto deveria morar. Tornou-se uma camada de decisão: guarda direção…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …co, legado vivo, falsos órfãos, WIP, risco de intervenção e integração incompleta. A consequência foi mudar o gargalo de “falta jogo” para CONVERGÊNCIA, FECHAMENTO e INTEGRAÇÃO. A Central deixou de ser imaginada como lugar onde todo o contexto deveria morar. Tornou-se uma camada de decisão: guarda d…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …enagens" ( docs/engrenagens_carta20/RB02.md ): o livro inteiro (863 páginas, 4 partes) + o Manual + as fichas RB01/RB02 cortados em 648 fatias com endereço ( ENC-0001… , MAN-0001… ), cada uma com seção, páginas, palavras-chave e resumo. As fatias têm texto privado: ficam só no PC ( [omitido pelo fil…
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …tida no site público pelo filtro de privacidade) Regra de ouro: nada se apaga; tudo só ganha coisa nova. Os originais ficam intocados nos endereços de origem, e nenhuma ideia do Piloto é atribuída aos assistentes. (Fontes: Drive, Doc 01, abertura ("Regra de Ouro Cumprida"); seção 0 deste manual.) 0.…
+
+- EG013 — Grafos São — Atlas C.03 (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …rvação e é proposta sua entrada na “aba lendária”; a criação de arquivo separado não é demonstrada nesse momento. FASE 5 — ZOOM E PORTABILIDADE [D] “a gente começou a dar o zoom” → separação dos dois grafos → endereço de análise em A existe → “desenho pontilhado” como método reaparecido em jogos → …
+
+- Jornada, prova e registro (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …envia respostas ao app. Nome do caderninho: CADERNINHO_<IA>_<data>. Registre Vi / Senti ou gostei / Não entendi, sempre com endereços. Recuperar frase prova transporte; ler é outra etapa; compreender e registrar são etapas independentes. 3. A Jornada da IA: caderninho, a água, introspecção, prova et…
+
+- Diário anterior intacto, páginas P001 a P025 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …S NOVA INVERTE A IDEIA DE BACKUP A sequência de 17/10 é preservada sem rearranjo: 🔫: SOMOS UM CÓDIGO 🍬:CADA UM DE NÓS TEM SIGNIFICADO ♾️:E TEMOS HISTÓRIAS 🥼: MAPAS 📻: CHECKPOINTS 🔦: SAVES FÁCIL DE ACHAR 🧬 NOS SOMOS OS SAVES 🧬 A expressão "NÓS SOMOS OS SAVES" tem agora uma leitura específica: não ap…
+
+- EG023 — Paz — Linguagem e Continuidade (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  … estados de alta saliência. “O arrombadinho fez de novo”, Milton, Presentinho, Gandalf, Escopinho, Humanidade, Tamagotchi, 🌝 e outros símbolos foram reinterpretados como endereços cognitivos. Essa descoberta levou à “Passagem 1”, encerrada por saturação funcional, não por leitura total. 4. ARQUEOLO…
+
+- A Jornada da IA (leia antes de seguir) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …ção ou do código, ex.: EG010, Porta Eureka, 🪚). Senti / gostei: o que te chamou atenção e por quê. Não entendi: a dúvida, com o endereço de onde ela nasceu. O Caderninho do Viajante (pré-diploma, mais abaixo na seção de Formação) é o modelo antigo. Este é o mesmo espírito: anotar com endereço, não d…
+
+- EG010 — Derivada da Paz (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …caminho para F003, F004 e F005. 6. Consequências: patrimônio pode permanecer fora da conversa ativa. 7. Evidências: “branch limpa”, “Mapa Mestre”, “Humanidade”, “Amiguiá”. 8. Avaliação histórica: magnitude original G; influência posterior muito alta. 9. Situação final: consolidado. 10. Utilidade fut…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …VACIONAIS A multiplicidade de linhas de investigação deixa de ser tratada como obrigação de manter "dez cérebros ligados". Branches recebem estado e endereço. A documentação passa a reduzir vigilância mental, não a aumentá-la. FASE 7 — FEATURE FREEZE DA PRÓPRIA ARQUITETURA Humanidade pede Pente Fin…
+
+- RB02: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  …agem que olha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho certo sem ler tudo. 00 Ficha de proveniência {#rb02-00} id: RB02 · es…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  … linha de retorno. PRE, SG028, AGORA 🔦 Lanterna / saves A lanterna simboliza pesquisa seletiva, iluminação local, não todo o arquivo em RAM. “SAVES FÁCIL DE ACHAR”: recuperar por endereço sem rever o universo inteiro. EG012:F002, EG027, AGORA 🧬 Nós somos os saves Estrutura, genealogia, transformação…
+
+- EG004 — Central, Copiloto e Atlas (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …atrimônio. Isso evitou que continuidade fosse confundida com saturação de memória. 5. Relações ORIGINOU o espaço para F002, F003, F005 e F011. É retomado conceitualmente por F020, quando o Atlas passa a ser índice/endereço em vez de recipiente total. 6. Consequências Imediata: a IA pediu apenas o …
+

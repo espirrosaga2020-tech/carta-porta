@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: work  (32 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Celular sem cabo (app vc20, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …ivo, roda 2 vezes sem mudar nada): _fix_probe.tscn começava com BOM → "Parse Error: Expected '['". Regravado sem o BOM (mesmo texto). workshop.tscn apontava para res://game/workshop/workshop.gd , que não existia → criada uma "ponte" que faz extends do script de verdade ( game/workshop/workshop/works…
+
+- Celular sem cabo (app vc20, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …roda 2 vezes sem mudar nada): _fix_probe.tscn começava com BOM → "Parse Error: Expected '['". Regravado sem o BOM (mesmo texto). workshop.tscn apontava para res://game/workshop/workshop.gd , que não existia → criada uma "ponte" que faz extends do script de verdade ( game/workshop/workshop/workshop.g…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … O companheiro (Creuza, Copiloto ou Dobra; no futuro o corpo Metabot) src/carta/cinema_vivo/sessao.py SESSÃO e DIÁRIO: tudo que foi dito e visto vira linha JSONL em <workspace>/cinema_vivo/sessoes/<id>.jsonl, com projeção src/carta/cinema_vivo/turnos.py COORDENADOR DE TURNOS (doc 09 do PR #63): uma …
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …mpanheiro (Creuza, Copiloto ou Dobra; no futuro o corpo Metabot) src/carta/cinema_vivo/sessao.py SESSÃO e DIÁRIO: tudo que foi dito e visto vira linha JSONL em <workspace>/cinema_vivo/sessoes/<id>.jsonl, com projeção src/carta/cinema_vivo/turnos.py COORDENADOR DE TURNOS (doc 09 do PR #63): uma voz p…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  … bordo do projeto (repositório) P022 Qual é o nome da engrenagem de código EG022? Humanidade e Amiguiá: continuidade de Meu Robô Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) Paz, Central e Continuidade de Meu Robô Entra no Sonho P023 Qual é o nome da engrenagem de código EG023? Paz, Cent…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …sitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py P…
+
+- Resultado do aperfeiçoamento (31/10) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …(trecho omitido pelo filtro)…
+
+- AV03: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  …-099.html> AV03: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV03.md AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). 00 Ficha de…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …ada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligad…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ova página Registros das IAs ( /registros-ia.html ): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca sobrescreve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo filtro de privacidade) …
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  … foi ADOTADO (e testado) Ideia De onde veio Licença Como entrou na CARTA Teste Offline-first: fotografia + motor local (como o Workbox : "cache primeiro, rede depois") Google Workbox / web.dev (padrão de PWA) MIT (Workbox); aqui é código nosso , só o padrão tools/t101u/offline_planeta_snapshot.py fo…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ágina Registros das IAs ( /registros-ia.html ): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca sobrescreve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo filtro de privacidade) Prior…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …ADOTADO (e testado) Ideia De onde veio Licença Como entrou na CARTA Teste Offline-first: fotografia + motor local (como o Workbox : "cache primeiro, rede depois") Google Workbox / web.dev (padrão de PWA) MIT (Workbox); aqui é código nosso , só o padrão tools/t101u/offline_planeta_snapshot.py fotogra…
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …bém o botão para a nova página Registros das IAs ( /registros-ia.html ): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca sobrescreve). API só do dono: GET/POST /api/t89u/t112u/registros . (linha omitida no site público pelo fil…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … Terra) EA01_GROK 8789 ( não mexer ) #47/#48 CARTA OFICIAL ATUALIZADO CARTA_OFICIAL_ATUALIZADO 8790 painel + 8791 Terra #49 → #54 Os zips de cada versão estão no box em /workspace/carta_release/<versao>/ ; os SHA-256 estão no HISTORICO_DE_VERSOES.txt . 2.3 As fases recentes em detalhe (16 e 17/10) P…
+

@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: verdadeiros  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …arece o cartão 🛠️ Bastidores (dev) , que abre a lista de páginas de teste e versões guardadas com link para cada uma. Esc ou ✖ fecha. critério booleano (todos verdadeiros para fechar): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev [x] B…
+
+- Portões booleanos t89u (critérios e estado) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  … o cartão 🛠️ Bastidores (dev) , que abre a lista de páginas de teste e versões guardadas com link para cada uma. Esc ou ✖ fecha. critério booleano (todos verdadeiros para fechar): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev [x] Bastid…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … T100U (03/11/2026): portões para levar o DIAGNÓSTICO DOS SONHOS a 100% (docs/CARTA20/PORTOES_T100U.md). Tudo por acréscimo. src/carta/t100u/catalogo.py Catálogo T100U: portões t1..t17. Cada critério é booleano; o portão só fecha com TODOS verdadeiros (medidos, não prometidos). src/carta/t100u/flags…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …U (03/11/2026): portões para levar o DIAGNÓSTICO DOS SONHOS a 100% (docs/CARTA20/PORTOES_T100U.md). Tudo por acréscimo. src/carta/t100u/catalogo.py Catálogo T100U: portões t1..t17. Cada critério é booleano; o portão só fecha com TODOS verdadeiros (medidos, não prometidos). src/carta/t100u/flags.py F…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o APK que já está no celular. Isso é o portão g . Atualizar o app no celular (pedido de 02/11): FEITO (vc16), por outro agente, na varredura. 8. Os portões (o que está feito, o que falta e o critério de cada um) Um portão só "fecha" quando todos os itens do critério são verdadeiros e testados. O doc…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …laneta é o astro PORTÕES T100U — Diagnóstico dos Sonhos a 100% (03/11/2026) Regra: cada portão só fecha com todos os critérios verdadeiros, medidos (não prometidos). Tudo por acréscimo; nada apagado. Flags no PC: <workspace>/t100u_flags.json (ex.: {"t100u_t10_cris": true} ). Numa aba: ?t100u=0 desli…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … que já está no celular. Isso é o portão g . Atualizar o app no celular (pedido de 02/11): FEITO (vc16), por outro agente, na varredura. 8. Os portões (o que está feito, o que falta e o critério de cada um) Um portão só "fecha" quando todos os itens do critério são verdadeiros e testados. O document…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …a é o astro PORTÕES T100U — Diagnóstico dos Sonhos a 100% (03/11/2026) Regra: cada portão só fecha com todos os critérios verdadeiros, medidos (não prometidos). Tudo por acréscimo; nada apagado. Flags no PC: <workspace>/t100u_flags.json (ex.: {"t100u_t10_cris": true} ). Numa aba: ?t100u=0 desliga as…
+

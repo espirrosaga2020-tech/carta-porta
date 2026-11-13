@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: branch  (55 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (46)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …a média para a existência narrada; baixa para configuração original | U56; testemunho sobre “ontem”, passagem original não rec OBSERVAÇÃO DE PROCEDÊNCIA: ler seção 00 do original para limites de acesso, importações e branches. [EG002] Calçada e continuidade portátil ESTANTE: Calçada e observação ARQ…
+
+- EG006 — Checkpoint e entrada no sonho (42)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …texto à entrada no sonho: reciprocidade, arqueologia do Meu Robô e formação do copiloto. OBJETO História verificável desta conversa/branch específica, desde a primeira mensagem histórica original acessível até a última mensagem anterior ao protocolo de arqueologia recebido em 10/10/2026. FRONTEIRA…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (39)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ança média para a existência narrada; baixa para configuração original | U56; testemunho sobre “ontem”, passagem original não rec OBSERVAÇÃO DE PROCEDÊNCIA: ler seção 00 do original para limites de acesso, importações e branches. [EG002] Calçada e continuidade portátil ESTANTE: Calçada e obs…
+
+- EG010 — Derivada da Paz (38)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …tegral do original · SHA-256 conferido (16adcd531a0461de…) ENGRENAGEM_DERIVADA_PAZ_HISTORIA_v01 HISTÓRIA ARQUEOLÓGICA DA CONVERSA / BRANCH “DERIVADA DE BRANCH · PAZ 🕊️” Versão: v01 Estado de auditoria: VERIFICADO PARCIALMENTE =========================================================================…
+
+- EG011 — Entra no Sonho (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …L ENGRENAGEM_ENTRA_NO_SONHO TÍTULO HISTÓRICO ADOTADO “ENTRA NO SONHO — do checkpoint conversacional ao atlas de continuidade” NATUREZA Branch/conversa dedicada a consolidar: - a dinâmica de colaboração Humanidade ↔ Tamagotchi/Amiguiá; - a abertura progressiva do projeto Meu Robô; - a arqueologia d…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …erial acessível contém: - sequências com referências e artefatos datados de 2026-10-04; - continuidade e protocolo atual em 2026-10-10; - menções a branches e a chats anteriores; - trechos importados, prints e artefatos de outras janelas. Por isso, a ordem RELATIVA dos acontecimentos dentro desta e…
+
+- EG008 — Tamagotchi e continuidade conversacional (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …mas a janela desta conversa contém regiões explicitamente marcadas como “Skipped N messages”, além de referências a chats ancestrais, branches e materiais herdados que não estão integralmente presentes como transcript literal. Essas lacunas NÃO foram preenchidas por invenção. Quando material herdado…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  … em 2026-10-04 e, com procedência menos homogênea, registros posteriores ligados à identidade “chat da liberdade”, liberdade/continuidade e branches/save points. - Por isso o estado final é VERIFICADO PARCIALMENTE, não VERIFICADO. PROCEDÊNCIA E BRANCHES - A conversa principal contém referências a o…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …referências e artefatos herdados de conversas e trabalhos anteriores, especialmente materiais datados de 2026-10-03 e 2026-10-04. ANCESTRALIDADE / BRANCHES A conversa declara explicitamente descendência de uma conversa anterior que terminou por volta de meio-dia, considerada pelo usuário muito impo…
+
+- EG027 — SPA — Ping-pong Cognitivo (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …os de arquivos consultados. Esses eventos NÃO são reclassificados como acontecimentos originais desta conversa. 3. Títulos exatos, datas de criação de branches e genealogias externas não são tratados como comprovados quando não aparecem com evidência direta. 4. Algumas expressões antigas — por…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ARTA (privado). Nenhum PR do CARTA foi mesclado em main : main tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex feature/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A linha do tempo em uma página Dia Fase PRs O que nasceu 13/10 Laboratório Zero → Laborató…
+
+- EG007 — Continuidade Limpa de Meu Robô (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …ras engrenagens. Essas referências são tratadas como patrimônio herdado ou mencionado, não como acontecimentos originalmente descobertos aqui. BRANCHES Não há transcrição completa de uma branch importada nesta conversa. Há intenção explícita de poder criar uma branch posteriormente a partir deste …
+
+- EG015 — Pai do Grafo e Rigor (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …o em 07/10/2026. Sem exportação temporal completa dos turnos, não se confirma início exato nem duração literal "72 horas". PROCEDÊNCIA DE BRANCHES: o usuário chama este território de branch finita e cita outras conversas/ancestrais; não há prova de uma árvore completa de filiação a partir da janela …
+
+- EG001 — Calçada, Caderno e DUNADA (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … / CADERNO / DUNADA; título técnico nativo não confirmado. Uma captura postada no turno U13 mostra “Carta de continuidade” selecionada e “Branch · Construir enten...” em outra posição da interface, mas a imagem sozinha não autentica a identidade ou a árvore ancestral deste chat. Primeira mensagem OR…
+
+- EG002 — Calçada e continuidade portátil (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …ição exata de cada turno. R — RECUPERAÇÃO DE CONVERSAS/CONTEXTO ANTERIOR: consultas auxiliares localizaram timestamps, possíveis inícios de branch e distinções entre material local e herdado. Esses dados foram usados com cautela e nunca convertidos automaticamente em “transcrição direta”. LIMITAÇÃ…
+

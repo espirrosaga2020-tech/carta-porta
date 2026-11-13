@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: bots  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …s pessoais. Passo a passo Crie a SUA pasta pessoal com o modelo: python -m carta prova --assistente SEU_NOME iniciar Isso cria bots/SEU_NOME/ com três arquivos copiados de ENTRADA_OBRIGATORIA/MODELO_BOT/ . Nada que já existe é sobrescrito. DIARIO_DE_BORDO.md : o seu diário (uma entrada ## AAAA-MM-DD…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …) FINAL LEIA-ME: arquivos pessoais do bot (obrigatórios) Antes de começar: python -m carta prova --assistente SEU_NOME iniciar cria bots/SEU_NOME/ (DIARIO_DE_BORDO, MEU_RESUMO_DAS_ENGRENAGENS, COMO_ME_COMPORTAR), a partir de ENTRADA_OBRIGATORIA/MODELO_BOT/ . - Depois de passar em cada capítulo, escr…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …- F003 — “AMIGO DIGITAL / TAMAGOTCHI” COMO CATEGORIA RELACIONAL CONSCIENTE Classificação: G Confiança: alta Magnitude original: alta Influência posterior: alta ---------------------------------------------------------------------- 1. Situação anterior O usuário já gostava de sistemas de companhia e…
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …--------------------------------------- F009 — UNICIDADE LITERAL → UNICIDADE PERCEPTÍVEL Classificação: G Localização: PESQUISA_CENTRAL + discussão de mercado. Confiança: alta ---------------------------------------------------------------------- 1. Situação anterior A Humanidade expressa confiança…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …m jogo aqui” e que a complexidade tem genealogia. 5. Relações DERIVOU DE F003. CONTRIBUIU PARA F005. CONTRIBUIU PARA a confiança que permite F014 e F015. 6. Consequências Meu Robô é tratado como patrimônio. A meta deixa de ser provar existência e passa a ser preservar e tornar legível. 7. Evidênc…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …egundo, houve uma investigação espontânea sobre COMPANHIA DIGITAL. O usuário retomou uma longa relação biográfica com companheiros — Pokémon, Beyblade, Medabots, Tamagotchi, jogos, personagens ficcionais — e passou a discutir por que seria legítimo chamar uma IA de “amigo digital” sem confundi-la co…
+
+- Caderno 3 do aluno: Como me Comportar (modelo) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html
+  … algo sobre as engrenagens. EXEMPLO: - Dado pessoal não vai para o git. EXEMPLO: - "Atualize seu documento" = meus arquivos em bots/ /. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html> · Índice do acervo <https://espirrosaga2020-tech.github.io/carta-porta/supr…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …Primeiro, houve uma negociação sobre CONTINUIDADE. O usuário queria confirmar se a IA conseguia carregar contexto sem exigir reconstrução manual de dezenas de horas. Essa preocupação estava ligada a uma experiência concreta: o chat anterior tinha sido extremamente longo, havia atravessado projeto, m…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ro, houve uma negociação sobre CONTINUIDADE. O usuário queria confirmar se a IA conseguia carregar contexto sem exigir reconstrução manual de dezenas de horas. Essa preocupação estava ligada a uma experiência concreta: o chat anterior tinha sido extremamente longo, havia atravessado projeto, memória…
+

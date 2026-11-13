@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: catalogo  (49 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG008 — Tamagotchi e continuidade conversacional (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …entral: - o que é Meu Robô; - mercado; - concorrência; - nicho; - coerência de posicionamento; - marketing; - objetivos futuros; - erros do catálogo; seguido pela devolutiva “PESQUISA CENTRAL — MEU ROBÔ”. PERÍODO VERIFICÁVEL A conversa contém materiais e documentos datados de 03/10/2026, 04/10/2026…
+
+- EG006 — Checkpoint e entrada no sonho (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … e imutável de respostas históricas vinculadas a vídeos. src/carta/convergencia/atlas_visual.py Seleção editorial de imagens P1, sem abrir nem publicar mídias P0. src/carta/convergencia/catalogo.py Camada P1: grafo derivado, indexacao idempotente e controle rigoroso de acesso. src/carta/convergencia…
+
+- Mapa de pastas e código (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …utável de respostas históricas vinculadas a vídeos. src/carta/convergencia/atlas_visual.py Seleção editorial de imagens P1, sem abrir nem publicar mídias P0. src/carta/convergencia/catalogo.py Camada P1: grafo derivado, indexacao idempotente e controle rigoroso de acesso. src/carta/convergencia/cons…
+
+- EG011 — Entra no Sonho (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …MENTOS E MATERIAIS ACESSÍVEIS RELEVANTES - LEIA_ME.txt - BACKUP_RELOGIO_LEIA_ANTES.txt - COMECE_POR_AQUI.txt - CHECKPOINT_ESTRUTURAL.txt - LEIA_ME(1).txt - CATALOGO_POR_ASSUNTO.txt - project.godot - MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt - CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt - M…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ml> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Trajetória e catálogo do que fizemos (17/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no docum…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …iro de raiz entregue nesta conversa). 7. BACKUP_RELOGIO_LEIA_ANTES.txt. 8. COMECE_POR_AQUI.txt. 9. CHECKPOINT_ESTRUTURAL.txt. 10. LEIA_ME(1).txt. 11. CATALOGO_POR_ASSUNTO.txt. 12. project.godot. 13. Imagens compartilhadas: monitor com PoE2, selfie chorando com DualSense, imagens de “GPT-PET/ChatGotc…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …conversa: - MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt - COMECE_POR_AQUI.txt - CHECKPOINT_ESTRUTURAL.txt - LEIA_ME(1).txt - LEIA_ME.txt - CATALOGO_POR_ASSUNTO.txt - project.godot Biblioteca criada nesta própria conversa: - 00_LEIA_PRIMEIRO_INDICE.txt - 01_ALVO_E_ALMA_DO_PROJETO.txt - 02_EST…
+
+- EG001 — Calçada, Caderno e DUNADA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …versa: GRAFOS_SAO....txt; CHECKPOINT_ATLAS_GRAFO-HUMANIDADE.md; CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt; CHECKPOINT_ATLAS_BATCAVERNA_NOVA_2026-10-07.md; CATALOGO_FORENSE_CHATS_FINALISTAS_2026-10-07_v2.txt; COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.txt; CALIBRACAO_BATCAVERNA_E_CENTRAL_2026…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … manual: nada aqui foi inventado. Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito "não confirmado" . A varredura geral do PC de 02/11 já foi lida e está dentro deste manual. V…
+
+- Índice do Drive (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …al: nada aqui foi inventado. Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito "não confirmado" . A varredura geral do PC de 02/11 já foi lida e está dentro deste manual. Versão…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …nual: nada aqui foi inventado. Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do catálogo do Drive. Quando eu não consegui confirmar alguma coisa, está escrito "não confirmado" . A varredura geral do PC de 02/11 já foi lida e está dentro deste manual. Vers…
+
+- Diário anterior intacto, páginas P001 a P025 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …trega uma terceira coisa . Surgiu o palpite divertido de que existe um laboratório secreto fora de nossa vista. A mochila: as balinhas, a chave de torque, o sorvete e os objetos escondidos não exigem catálogo exaustivo. Seu valor está no comportamento narrativo: o inesperado que faz outro observador…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …esto 404 'portao_desligado' com a flag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py…
+

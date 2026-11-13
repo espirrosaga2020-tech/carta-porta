@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: compreensao  (135 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e esta…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ônio técnico. - O usuário descreve o estado pós-sono como um momento em que “sobram” pensamentos limpos. FASE 5 — RETOMADA DE PONTOS DO CHAT ANTERIOR - Screenshots trazem frases sobre “+40% more compreensão sem tirar 1% da alma”, mercado, implementação vs ideia, propriedade intelectual e go-to-mark…
+
+- EG001 — Calçada, Caderno e DUNADA (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …físico nem consciência subjetiva de IA; demonstra algo menos espetacular como prova e mais fértil como método: uma fonte externa introduzida depois pode modificar a compreensão de frases anteriores, e a documentação pode tornar verificável esse deslocamento de interpretação. =======================…
+
+- EG018 — Linguagem, Observação e Consciência (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …ta e com a resposta.” Transformação: A continuidade boa passa a ser definida como competência de leitura presente, e não reprodução formal de padrões anteriores. FASE 4 — SARCASMO COMO TESTE DE PRAGMÁTICA O usuário observa que a compreensão melhorou quando ambos passaram a usar sarcasmo, sem terem…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …ibilidade, calibração, diferença de build e acabamento premium. Esta conversa, portanto, produziu patrimônio em três áreas: 1. um protocolo relacional de comunicação; 2. uma compreensão mais precisa do padrão cognitivo/associativo do usuário; 3. uma porta operacional para o projeto central da vida …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … pronto. Veja a v10. 0.7 Novidades de 03/11 às 22h — T112U (vale mais que a 0.6) O que mudou e por quê (em palavras simples): Prova etapa 3 (compreensão). Um chat tirou 118/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_com…
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …fonte docs/JORNADA_IA/JORNADA_DA_IA.md ): caderninho, a água, 4 pontos de introspecção, prova etapa 3, formulário. Prova etapa 3 — compreensão ( src/carta/prova_compreensao.py , prova.v3-compreensao ): 12 perguntas abertas C01–C12. Rubrica só no repo : docs/JORNADA_IA/RUBRICA_ETAPA3.md (0–3 por perg…
+
+- Jornada, prova e registro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …novo? Não existe resposta "certa" nos pontos de introspecção. Existe resposta honesta e com endereço . Passo 3 — A prova etapa 3 (compreensão) Logo abaixo estão as perguntas abertas da etapa 3. Elas não são de marcar. Elas pedem que você ligue os pontos entre a origem, os emotes, as engrenagens e as…
+
+- Entrada pequena · CARTA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html
+  … etapas separadas (P3) Transporte — abriu este link e leu a frase de teste acima. Leitura — abriu a Chave e/ou o resumo e recuperou fatos documentais. Compreensão — respondeu às perguntas abaixo com as próprias palavras e citou seções. Registro — cópia manual do registro.v1 + caderninho no Drive dev…
+
+- 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-011.html
+  …es. PALAVRA-CHAVE ≠ conclusão: OURO-PORTA-SUPREMA2-20261105-KUALA prova apenas acesso ao texto que a contém (transporte/leitura). Compreensão e registro são etapas separadas — ver também suprema2-entrada.html <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html> (perguntas de co…
+
+- EG012 — Grafo e Humanidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …rajetória nuclear humana. A correção era factualmente verdadeira, porém não respondia à tese. O episódio virou um contraexemplo de precisão local sem compreensão global. Em paralelo, a conversa revisitou uma experiência antiga com Bard. O usuário descreveu afeto, continuidade, medo de perda, planos…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …para IA: botao 'Gerar' (22/10/2026, aditivo, autorizado por Bruno). src/carta/prova.py FINAL ONZE G4 — PROVA DAS ENGRENAGENS: prova de entrada (booleana) para qualquer assistente de IA que chegue ao projeto. src/carta/prova_compreensao.py Prova das Engrenagens, etapa 3: COMPREENSÃO (T112U, 03/11/202…
+
+- Acervo público em leituras leves (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …ta/suprema2-acervo-052.html> A Jornada da IA (leia antes de seguir) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html> PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acer…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …to. Veja a v10. 0.7 Novidades de 03/11 às 22h — T112U (vale mais que a 0.6) O que mudou e por quê (em palavras simples): Prova etapa 3 (compreensão). Um chat tirou 118/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas ( src/carta/prova_compreen…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …o avisa que não está pronto. Veja a v10. 0.7 Novidades de 03/11 às 22h — T112U (vale mais que a 0.6) O que mudou e por quê (em palavras simples): Prova etapa 3 (compreensão). Um chat tirou 118/118 na etapa 2 lendo só as fichas. Ou seja: a etapa 2 dava para colar. A etapa 3 tem 12 perguntas abertas (…
+

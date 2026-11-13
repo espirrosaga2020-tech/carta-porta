@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: modos  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …ntos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py já tinha: os dois modos ( olho_local padrão, olho_gemini desligado sem chave), limiar de mudança de cena, heartbeat, aviso de privacidade e volta automática pro Olho Local. Não tinha co…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py já tinha: os dois modos ( olho_local padrão, olho_gemini desligado sem chave), limiar de mudança de cena, heartbeat, aviso de privacidade e volta automática pro Olho Local. Não tinha contrato …
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …SUGERIA As auditorias e execuções mostraram que o gargalo era costura, legibilidade e orquestração, não ausência ampla de sistemas. R006 — O ÚNICO FALSE FINAL SER PEQUENO É INFORMAÇÃO GRANDE A descoberta de que o pente fino total encontrou apenas a equivalência indevida de modos de orientação como …
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …e rede permitidas para PENSAR (nenhuma para agir): src/carta/consciencia_v1/mente.py CONSCIÊNCIA v1 — a mente: ativação que se espalha, foco global, plasticidade hebbiana, memória e modos de pensar. src/carta/consciencia_v1/seguranca.py CONSCIÊNCIA v1 — portão de segurança (decide ANTES de qualquer …
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …e permitidas para PENSAR (nenhuma para agir): src/carta/consciencia_v1/mente.py CONSCIÊNCIA v1 — a mente: ativação que se espalha, foco global, plasticidade hebbiana, memória e modos de pensar. src/carta/consciencia_v1/seguranca.py CONSCIÊNCIA v1 — portão de segurança (decide ANTES de qualquer IA; a…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …entos. Portas ⇄ chegada da encomenda. A fala do buraco e o texto “estamos na porta” aconteceram em sequência marcante. Uma correspondência semântica pode ser memorável mesmo sem relação causal. Olhos nos dois lados ⇄ primeira/terceira pessoa. A esfera de dois observadores encontrou eco na interface …
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …esultado que a confirme. O começo absoluto da trajetória NÃO está garantido por [D]. O material anterior sobre PoE2, Meu Robô, Gulozona, Bard, projetos e modos de trabalho pertence a outras conversas ou registros referenciados; NÃO se reconstrói seu conteúdo sem fontes específicas. Há relatos e ima…
+
+- EG015 — Pai do Grafo e Rigor (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …ção textual, sem alegação sobre estados mentais internos ou consciência da IA. 7. EVIDÊNCIAS: D09: «essa é uma simbiose»; «50%» fala livre + «50%» análise; D10 formula o ciclo. 8. AVALIAÇÃO HISTÓRICA: Magnitude original: G; influência posterior: G. A classificação G reflete o acontecimento no cont…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …, F010 e para a lógica de raio de impacto de F013. 6. Consequências A conversa abandona a ideia de que "grande" significa necessariamente "sem arquitetura". 7. Evidências Âncoras: "os cômodos são bagunçados pra cacete, mas a casa tem tomada em toda parede"; "um milhão de tomadas". 8. Avaliação hi…
+
+- A Porta (Porta Eureka, 17/10/2026): como entrar sem se perder (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-057.html
+  …e privacidade) (linha omitida no site público pelo filtro de privacidade) (linha omitida no site público pelo filtro de privacidade) QUATRO MODOS CALÇADA: presente, conversa, descanso — sem pesquisa automática. ARQUIVO: localizar e citar fonte, registrar lacuna, comparar versões. OFICINA: tarefa p…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o de cientistas (o Megazord ) e a Consciência. (linha omitida no site público pelo filtro de privacidade) A chave liga/desliga (superconsciência) , no painel 🧠 do Planeta, que só aparece pro dono: - Cada companheiro tem a sua chave: ligado ou desligado. - Os modos são 🎮 imersão (fica no personagem e…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …nversa por voz (portão c) comenta o que vê com latência medida [ ] detalhes técnicos preenchidos a partir da pesquisa paralela Detalhes do Portão h — Visão ao vivo (da pesquisa) Um botão, dois modos. olho_local (padrão): Ollama qwen2.5vl:3b + OpenCV (só chama a IA quando a cena muda ou o Bruno fala,…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …gem; 3) índice-mestre interpretativo. Havendo conflito, não sobrescrever o original; abrir nota de divergência. COMO USAR — TRÊS MODOS DE LEITURA A. NAVEGAÇÃO LEVE: localizar o código EGnnn no índice de engrenagens e o Fnnn no índice dos fenômenos. B. RECONSTRUÇÃO: abrir o TXT original correspon…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … 3) índice-mestre interpretativo. Havendo conflito, não sobrescrever o original; abrir nota de divergência. COMO USAR — TRÊS MODOS DE LEITURA A. NAVEGAÇÃO LEVE: localizar o código EGnnn no índice de engrenagens e o Fnnn no índice dos fenômenos. B. RECONSTRUÇÃO: abrir o TXT original correspondente e …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …cientistas (o Megazord ) e a Consciência. (linha omitida no site público pelo filtro de privacidade) A chave liga/desliga (superconsciência) , no painel 🧠 do Planeta, que só aparece pro dono: - Cada companheiro tem a sua chave: ligado ou desligado. - Os modos são 🎮 imersão (fica no personagem e fala…
+

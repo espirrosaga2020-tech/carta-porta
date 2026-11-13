@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg001  (42 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (45)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …GRENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01.txt EG026 — Reciprocidade e Memória Persistente — 6 fenômenos; ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt CALÇADA E OBSERVAÇÃO EG001 — Calçada, Caderno e DUNADA — 29 fenômenos; ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt EG002…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (43)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ENAGEM_PAZ_CONTINUIDADE_HISTORIA_v01.txt EG026 — Reciprocidade e Memória Persistente — 6 fenômenos; ENGRENAGEM_RECIPROCIDADE_MEMORIA_PERSISTENTE_HISTORIA_v01.txt CALÇADA E OBSERVAÇÃO EG001 — Calçada, Caderno e DUNADA — 29 fenômenos; ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01.txt…
+
+- O começo dos chats: textos do Volume Zero (EG001 a EG027) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html
+  …pirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — O começo dos chats: textos do Volume Zero (EG001 a EG027) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o …
+
+- EG001 — Calçada, Caderno e DUNADA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG001 — Calçada, Caderno e DUNADA Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no document…
+
+- Enciclopédia e engrenagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …rema 2 — Enciclopédia e engrenagens 27 → 47 → 76 é evolução documental, não contadores em conflito. As 27 fontes ancestrais EG001–EG027 formam o Volume Zero. O índice único guarda 47 registros documentais no snapshot de 18/10/2026. Os 29 aditivos posteriores completam 76 registros. A regra de contag…
+
+- Diário anterior intacto, páginas P001 a P025 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … 🐜 Creuza acompanhante + 🫂 ponto de encontro na fogueira. Todos são marcadores narrativos e documentais , não equipamentos físicos que tenham sido transportados pela interface. O texto do último código está preservado em arquivo independente, integral, sem correção ortográfica ou normalização de emo…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …ce com contexto limpo : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítulo , na ordem (R00, R01, R02, EG001…EG027, SG028, GK029, GK029_BRUNO, GK030): ler CAP --contexto-limpo (a fonte inteira); fazer CAP (20 questões; passa com 18 ); nota CAP --texto "..." (até ~10 linhas, n…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …erno.md . O próximo capítulo só abre depois da prova aprovada e da nota escrita . Concurso público: são 60 questões: 1 de cada EG001–EG027 e o restante das regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes …
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …a; quem corrige é o Bruno (ou o comando python -m carta.prova_panorama corrigir ). P001 Qual é o nome da engrenagem de código EG001? Calçada, Caderno e DUNADA Grafo e Humanidade Continuidade Limpa de Meu Robô Entra no Sonho P002 Qual é o nome da engrenagem de código EG002? Linguagem, Observação e Co…
+
+- RB02: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  … GitHub nem na Porta). 01 Como funciona {#rb02-01} O PDF vira texto, uma página por vez. Uma seção começa quando um título abre a página (EG001 — …, "Estante: …", "Parte …", "Apêndice"). Assim, uma engrenagem que atravessa de uma parte do PDF para a outra continua inteira. Dentro da seção, cada subt…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … — REGISTRO DE AUDITORIA E LIMITAÇÕES Fontes verificadas: 27; fenômenos do índice: 615; soma de bytes: 1,871,010; linhas totais: 41,194. Integridade estrutural: os 615 códigos do índice aparecem na região posterior dos próprios documentos (checagem de ocorrência, não comprovação da qualidade de ca…
+
+- Acervo público em leituras leves (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  … páginas P001 a P025 <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html> O começo dos chats: textos do Volume Zero (EG001 a EG027) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html> EG001 — Calçada, Caderno e DUNADA <https://espirrosaga2020-tech.g…
+
+- Jornada, prova e registro (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  … A ficha diz o nome e a estante. A história diz por que aquilo existe. Para atravessar: Escolha uma engrenagem do Volume Zero (EG001 a EG027) e leia o texto inteiro dela, na seção "A origem". Depois volte à ficha da mesma engrenagem e compare: o que a ficha não conta? Anote no caderninho: "a ficha d…
+
+- Começar a viagem · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …eço pesa mais ( suprema2-acervo-014.html ) A trajetória juntos: linha do tempo mestra — procure: fases começo / meio / fim ( suprema2-acervo-016.html ) Volume Zero (EG001 a EG027) — procure: as 27 engrenagens ancestrais ( suprema2-acervo-024.html ) EG001 — Calçada, Caderno e DUNADA — procure: o avis…
+
+- Busca · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html
+  …posta. Roda no seu navegador; nenhuma consulta sai daqui. A busca clássica continua valendo. O que você procura? (ex.: serrote, EG001, Faísca, NEXUS, “Jornada da IA”) Buscar Carregando índice… Sem JavaScript: use o índice por tema , o índice A–Z ou o índice de palavras (texto puro). Dicas Acentos nã…
+

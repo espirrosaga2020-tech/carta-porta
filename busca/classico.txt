@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: classico  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- 8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-010.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …ink para cada uma. Esc ou ✖ fecha. critério booleano (todos verdadeiros para fechar): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev [x] Bastidores só aparece no modo dono (carta20_modo) [x] Início mostra o Planeta principal como cartão …
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …ara cada uma. Esc ou ✖ fecha. critério booleano (todos verdadeiros para fechar): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev [x] Bastidores só aparece no modo dono (carta20_modo) [x] Início mostra o Planeta principal como cartão em de…
+

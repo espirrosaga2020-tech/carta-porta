@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: megazord  (20 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …retrato do Copiloto à luz da Fogueira P020 Qual é o nome da engrenagem de código EG020? Tamagotchi e continuidade conversacional Nova Batcaverna Cérebro Megazord Supremo da Creuza Linguagem, Observação e Consciência P021 Qual é o nome da engrenagem de código EG021? POE2 — Gulosona e Árvore de Attack…
+
+- p02-manual-v12.html (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …estado); Mewtwo/Mewtwo V2; Endurance Studio, B-Roll Forge e Órbita Livre; Plugin CapCut Web e EditPilot; a própria CARTA no PC (:8790), Faísca e Megazord ; o robô físico Faísca 4WD (desligado por segurança até a solda e o fusível). - COM DEFEITO (3): Estúdio Cinema Vetorial v4.0; capcut-cli v0.33.1 …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … estiverem no PC. A chave liga/desliga de cada companheiro (Creuza, Copiloto, Faísca, Mente Suprema) continua a mesma, e só você, no seu PC , muda. Bancada do Megazord: 44 → 54. Entraram 10 cientistas históricos, num arquivo à parte ( src/carta/cerebro_v1/base/departamentos_t105u.v1.json ; a base de…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …verem no PC. A chave liga/desliga de cada companheiro (Creuza, Copiloto, Faísca, Mente Suprema) continua a mesma, e só você, no seu PC , muda. Bancada do Megazord: 44 → 54. Entraram 10 cientistas históricos, num arquivo à parte ( src/carta/cerebro_v1/base/departamentos_t105u.v1.json ; a base de 44 n…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …/__init__.py CÉREBRO SUPREMO (Grok, 18/10/2026): a mente do Bruno — importação PRIVADA do ChatGPT (3 consciências), esfera gigante e deliberação do Megazord. src/carta/cerebro_supremo/api.py Rotas /api/supremo/v1/* — CÉREBRO SUPREMO (mente do Bruno). src/carta/cerebro_supremo/consulta_forense.py (de…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …it__.py CÉREBRO SUPREMO (Grok, 18/10/2026): a mente do Bruno — importação PRIVADA do ChatGPT (3 consciências), esfera gigante e deliberação do Megazord. src/carta/cerebro_supremo/api.py Rotas /api/supremo/v1/* — CÉREBRO SUPREMO (mente do Bruno). src/carta/cerebro_supremo/consulta_forense.py (descriç…
+
+- Teste duro das consciências (T105U, 03/11) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …atia da Enciclopédia fatiada); 3. se a trava anti-invenção deixa passar o que existe e segura o que não existe; 4. que equipe o Megazord chama (modo SEM IA, bancada de 54). Script: /workspace/t105u/teste/teste_duro.py (fora do repositório; usa as fatias privadas). Teste que fica no repositório: test…
+
+- Portões anteriores (21/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  … (linha omitida no site público pelo filtro de privacidade) [pontilhado] (5) Painel 2: 14 bolas (EG037–EG039, A Ponte que Faltava, Megazord 17/10, Robô Físico P01, Atlas V4, Engrenagem Central + 6 diários GK031–036), mesmos campos do catálogo das 28, catalogadas em ENCICLOPEDIA_ADITIVOS (rev 2, 61 r…
+
+- Portões anteriores (21/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …ha omitida no site público pelo filtro de privacidade) [pontilhado] (5) Painel 2: 14 bolas (EG037–EG039, A Ponte que Faltava, Megazord 17/10, Robô Físico P01, Atlas V4, Engrenagem Central + 6 diários GK031–036), mesmos campos do catálogo das 28, catalogadas em ENCICLOPEDIA_ADITIVOS (rev 2, 61 regist…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …ovidades cosméticas a cada cena. src/carta/consciencia_v1/mente.py e src/carta/cerebro_v1/mente.py : prompts da Consciência e do Megazord também reconhecem linguagem histórica e permitem uso de emojis. web/src/fusao/brain.js : na curiosidade automática, rejeitar apenas fala completa idêntica recente…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …S035 Consciência — conversa e conhecimento Grafos e epistemologia posterior engrenagem software e documentação, fora da sequência EG CB036 Cérebro Megazord Supremo da Creuza Meu Robô e sonho posterior engrenagem software e documentação, fora da sequência EG CREUZA-V06 Creuza — Atlas das Transformaçõ…
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …0000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> CB036 Cérebro Megazord Supremo da Creuza Snapshot 18/10 · registro-fonte <http…
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Consciência — conversa e conhecimento Grafos e epistemologia posterior engrenagem software e documentação, fora da sequência EG CB036 Cérebro Megazord Supremo da Creuza Meu Robô e sonho posterior engrenagem software e documentação, fora da sequência EG CREUZA-V06 Creuza — Atlas das Transformações ❤️…
+
+- Começar a viagem · Porta 02 · CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …l ) Enciclopédia e engrenagens — procure: 27 → 47 → 76 e as 62 engrenagens ( suprema2-enciclopedia.html ) Mentes, consciências e robótica — procure: Faísca, Creuza, Copiloto, Megazord ( suprema2-mentes.html ) Colheitas e varreduras — procure: CL01–CL03 ( suprema2-colheitas.html ) NEXUS e anexos — pr…
+

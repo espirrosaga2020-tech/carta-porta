@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: faisca  (34 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões anteriores (21/10/2026) (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …as à Consciência e anotações do visitante; painel de acompanhamento - [omitido pelo filtro de privacidade] \ obrigatório (Faísca, Consciência, Visitantes, Mentes...), auto-salvar P2 Consciência entende tudo ao mesmo tempo (acerta 10 perguntas sobre cartas/diários/fenômenos) P3 Mente Suprema contém t…
+
+- p02-manual-v12.html (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …om a sua liberação, o arquivo de conhecimento de todas as mentes (Consciência, Mente Suprema com Creuza e Copiloto, Cérebro Supremo, Faísca e Creuza do Pokémon Vivo) agora diz 73 engrenagens / 87 registros , lista as 11 promovidas e as 17 candidatas como NÃO verificadas ("nunca apresentar como fato …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …a RB02? 3,5 s Nome certo ("Engrenagem das Engrenagens"); enfeitou um pouco Creuza Creuza, quem é você? 6,1 s Respondeu como ela mesma ✓ Faísca O que é a RB02? 3,7 s (1ª frase 1,8 s) Sabe o nome; explicação vaga Faísca Quantas engrenagens tem a Enciclopédia? 9,8 s (1ª frase 2,7 s) Não disse 59 (super…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …2? 3,5 s Nome certo ("Engrenagem das Engrenagens"); enfeitou um pouco Creuza Creuza, quem é você? 6,1 s Respondeu como ela mesma ✓ Faísca O que é a RB02? 3,7 s (1ª frase 1,8 s) Sabe o nome; explicação vaga Faísca Quantas engrenagens tem a Enciclopédia? 9,8 s (1ª frase 2,7 s) Não disse 59 (superconsc…
+
+- Estado atual — varredura geral (02/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …Brasília) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0…
+
+- Estado atual — varredura geral (02/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …lia) Feita só lendo, com UMA exceção, anotada abaixo: o Ollama estava desligado e foi ligado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0-cart…
+
+- Resultado do aperfeiçoamento (31/10) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  … Ver abaixo B1–B3 personas / quem sou eu / tom VERDADEIRO /api/personas/v1/quem-sou-eu?persona=dobra responde "A Dobra é o BRUNO…"; Faísca usa a ferramenta quem_sou_eu C1 Faísca abre já VERDADEIRO 1º texto ≤ 0,7 s em todas as perguntas C2 chaves rápidas (cache) VERDADEIRO busca_chave com TTL; testes…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …nto P015 Qual é o nome da engrenagem de código EG015? Linguagem, Observação e Consciência Pai do Grafo e Rigor Robótica: carrinho 4WD do Projeto Faísca (02–03/11/2026) Carta 2.0: diretriz geral de finalização (31/10/2026) P016 Qual é o nome da engrenagem de código EG016? A Fogueira que Não Precisa d…
+
+- Mentes, consciências e robótica (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- p02-t152u-novidades.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …e do Cinema Vetorial v4.0 e do Godot Boneco Palito não foi encontrada; nada inventado). Lista completa: p02-t152u-portoes.html . Faísca, Creuza e Copiloto Faísca : a mente rápida (modelo local qwen2.5 7B no PC do Bruno). Em 13/11: mediana de ~1 s por resposta curta, sem falar "Hmm", voz Piper (cadu)…
+
+- p02-t152u-portoes.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …alisada e preservada ("perguntar ao cérebro") FEITO 056 6 Robótica de bancada: rótulos honestos (simulado × medido) FEITO 057 6 Label da Faísca claro ("esconder/mostrar a Faísca") FEITO 058 6 Chaves Faísca/Creuza/Copiloto/Mente Suprema ligam no celular FEITO 059 6 Godot Boneco Palito: pasta não loca…
+
+- Consciências na CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …ve faz 🐜 Creuza sim instrução de modo + (pesquisa) blocos [C#] CONHECIMENTO COMPARTILHADO 🧑‍✈️ Copiloto sim idem 🧠 Mente Suprema sim idem ⚡ Faísca sim (Pokémon Vivo) instrução de modo; em pesquisa, perguntas longas usam o modelo "pensado" (gpt-oss na CPU, um por vez) — cuidado especial: desligada, a…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ce de busca só (SQLite FTS5). src/carta/alma.py PORTÃO SUPREMO 001 (21/10/2026) — a ALMA do CARTA como orientação de conversa (vale para Faísca, mentes, Consciência e Cérebro Supremo). src/carta/amigo_futuro/__init__.py CARTA Amigo do Futuro: núcleo aditivo e isolado de memória episódica. src/carta/…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … busca só (SQLite FTS5). src/carta/alma.py PORTÃO SUPREMO 001 (21/10/2026) — a ALMA do CARTA como orientação de conversa (vale para Faísca, mentes, Consciência e Cérebro Supremo). src/carta/amigo_futuro/__init__.py CARTA Amigo do Futuro: núcleo aditivo e isolado de memória episódica. src/carta/amigo…
+

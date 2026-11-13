@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: pagina  (69 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …entral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Diário anterior intacto, páginas P001 a P025 Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …entido antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão "Porta do Grok (pública)" com o link público e um texto pr…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o do túnel, que continua igual) apareceu o cartão "Porta do Grok (pública)" com o link público e um texto pronto …
+
+- p02-manual-v12.html (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …, /esferas-painel-3 ) tem 8. (Fonte: registry/PAINEL_2_ENGRENAGENS.v1.json , registry/PAINEL_3_ENGRENAGENS.v1.json .) A Enciclopédia de 863 páginas em 3 tomos, 676 fatias, 19 gavetas e 6 Pastas Monstro fica no Drive. (Fonte: Drive, Doc 04, título e seção 3.) No app, a Porta 02 local ( /porta02/index…
+
+- EG001 — Calçada, Caderno e DUNADA (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …gralmente recuperadas; há apenas anexos, trechos visuais e referências posteriores. Não se assistiu a áudios por capturas de player. Não se acessaram todas as páginas do caderno, vídeos completos nem 30–50 chats ancestrais. Cenas sobre Sol/Lua/quatro buracos negros, DUNADA em sua primeira cunhagem e…
+
+- Começar a viagem · Porta 02 · CARTA (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …a: escolha um roteiro, visite as salas, colecione selos e, no fim, leve seu cartão de viagem . Tudo o que é fato aponta para uma página já publicada; nada aqui substitui a fonte. Sem pressa: a visita pode ser curiosa e seletiva. Frases de prova continuam provando só acesso . Escolher roteiro Explora…
+
+- Jornada, prova e registro (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …ga o texto ao Bruno e declara registro pendente — não finge que gravou. Registro é cópia manual ao Bruno + caderninho; esta página não envia respostas ao app. Nome do caderninho: CADERNINHO_<IA>_<data>. Registre Vi / Senti ou gostei / Não entendi, sempre com endereços. Recuperar frase prova transpor…
+
+- Fim da página (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-115.html
+  …ada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Fim da página Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado d…
+
+- RB02: documento da engrenagem (CARTA 2.0) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  …rta20/RB02.md RB02 — Engrenagem das Engrenagens A engrenagem que olha para todas as outras: corta o livro da Enciclopédia (863 páginas, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho certo sem ler…
+
+- Página não encontrada · Porta 02 · CARTA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/404.html
+  …Página não encontrada · Porta 02 · CARTA 🛰️ Esta estrela não está no mapa (404) O endereço que você abriu não existe neste site. Nada foi apagado: a Porta 02 continua no mesmo luga…
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …ado] (2) 644 descobertas pré-classificadas: 209 prováveis / 435 duvidosas, com o porquê; nenhuma aprovada (todas CANDIDATA). Página /descobertas-triagem + [omitido pelo filtro de privacidade] [pontilhado] (3) Fala sem emoji: servidor (Piper) e voz do navegador (humano.js) tiram emoji; a tela continu…
+
+- Portões booleanos t89u (critérios e estado) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …erface e (quando tem tela) módulo JS em webdist/t89u/ [x] todas as flags começam desligadas; rotas dos portões respondem 404 portao_desligado [x] as 5 páginas carregam só o carregador (sem efeito com flags desligadas); arquivos novos no MANIFESTO_WEBDIST [x] nada apagado/movido; capturas do Planeta …
+
+- Portões booleanos t89u (critérios e estado) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …e e (quando tem tela) módulo JS em webdist/t89u/ [x] todas as flags começam desligadas; rotas dos portões respondem 404 portao_desligado [x] as 5 páginas carregam só o carregador (sem efeito com flags desligadas); arquivos novos no MANIFESTO_WEBDIST [x] nada apagado/movido; capturas do Planeta princ…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …, dois planetas, companheiros, fogueira, olhos/voz · flag: — FPS medido com todos ligados no PC e no celular (412x915) 0 erros de página ?t95u=0 e ?gN=0 continuam desligando numa aba Estado: ✅ fechado — E2E 03/11 14:56: g2..g9 ligados, PC 115,8 FPS / celular 118,6 FPS, 0 erros; ?t100u=0 e ?gN=0 desl…
+

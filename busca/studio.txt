@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: studio  (18 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ive, Doc "05 — Catálogo de aplicativos e seu estado funcional…", seção 1; resumido em registry/APPS_ESTADO_T152U.v1.json ) : - FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema …
+
+- p02-t152u-novidades.html (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …inel 3 com 8. Enciclopédia · busca "engrenagem" . Programas e softwares do ecossistema (estado anotado pelo Bruno) FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema Vetorial v1.…
+
+- Dobra: origem, personagem e portal (13/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …dobra e GET /api/characters : interfaces de leitura do papel/registro. 4. web/src/ui_v6.js : Dobra como opção de conversa. 5. web/src/studio.js : preset DOBRA , geometria 3D simples (três placas, rosto, pipa e porta sem nome), visual sem corpo rígido dedicado . 6. web/src/ui_mundos.js : NOVA aba 🚪 P…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … tempo em uma página Dia Fase PRs O que nasceu 13/10 Laboratório Zero → Laboratório Total → V3–V6 → P0–P12 → Fusão #1–#13 base local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F…
+
+- EG015 — Pai do Grafo e Rigor (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …ente visível documenta uma segunda transformação. O usuário nomeia a investigação "GRAFOS SÃO....", pergunta por que ela poderia interessar a estudiosos, fala de maneira associativa e constrói um experimento mental de condições mínimas, 0→1→2→N. A IA organiza o material, distingue modalidades de per…
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …dia, com a frase 'memória é pista; evidência é prova'. feito Meio (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD…
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …al e método de não conclusão. 9. SITUAÇÃO FINAL: Consolidado como título provisório/identidade local; tese e publicação permanecem abertas. 10. UTILIDADE FUTURA: Evitar completar retoricamente os pontos finais numa futura síntese. ----------------------------------------------------------------…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …imento de todas as consciências). A chave manual continua para o Bruno brincar. O que só o Bruno pode fazer: criar a chave do Gemini no AI Studio e colar no arquivo (se quiser o Olho Gemini); ligar a superconsciência da Faísca, se quiser que ela fale das engrenagens; abrir o app vc26 no celular e co…
+
+- RB01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …a Para que serve Grau de certeza Chassi acrílico 4WD de dois pisos, 4 motores TT amarelos (3–6 V) e 4 rodas — manual impresso ZK-4WD (mcustudio) corpo e tração filmado + compra ESP32 DOIT DevKit 30 pinos (WROOM-32, Wi-Fi e Bluetooth), ainda lacrado no saquinho antiestático cérebro embarcado filmado …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …palavra aplicada de modo informal à cognição associativa cresceu até a tese intuitiva "tudo é grafo". Em vez de ser simplesmente confirmada ou descartada, a tese foi desmontada em sucessivas objeções: formalismo não é ontologia, a palavra "estrutura" pode ser trivial, relações suscitam pergunta sobr…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …futada. src/carta/lab_chat.py FINALIZAÇÃO 17/10 — "Pergunte ao Lab": perguntas de bancada respondidas com contas e simulação de verdade. src/carta/lab_server.py Laboratório Total local server: static Studio 3D + guarded APIs on 127.0.0.1 only. src/carta/lego/__init__.py LEGO pela webcam (FINALIZAÇÃO…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Linha do tempo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …a, com a frase 'memória é pista; evidência é prova'. feito Meio (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …a aplicada de modo informal à cognição associativa cresceu até a tese intuitiva "tudo é grafo". Em vez de ser simplesmente confirmada ou descartada, a tese foi desmontada em sucessivas objeções: formalismo não é ontologia, a palavra "estrutura" pode ser trivial, relações suscitam pergunta sobre rela…
+

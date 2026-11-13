@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: esferas  (20 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (39)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …endência #14–#17 personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeção 15/10 Definitivo, Esferas v0, Planeta, SG028 #18–#27 câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex…
+
+- Portões anteriores (21/10/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …Mente Suprema contém todas as mentes, sincronizadas P4 KX mais complexo, ligado à Suprema P5 Painel 2 completo e catalogado P6 Esferas ricas (história, não dados) P7 Acompanhamento de visitantes IA completo P8 Anotações em pastas, tudo salvo automático P9 Segurança casa/internet + íntimo fora P10 Re…
+
+- Mapa de pastas e código (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …MAPA DE CAPACIDADES (V0.3, 18/10/2026): cada parte do CARTA declara o que faz, a versão do contrato, as rotas e os limites, src/carta/celular.py ESFERAS FINAL G2 — "Conectar celular ▶" dentro do app: o MESMO fluxo do atalho CARTA CELULAR (CARTA_CELULAR.ps1), em Python. src/carta/cerebro_supremo/__in…
+
+- Mapa de pastas e código (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …DE CAPACIDADES (V0.3, 18/10/2026): cada parte do CARTA declara o que faz, a versão do contrato, as rotas e os limites, src/carta/celular.py ESFERAS FINAL G2 — "Conectar celular ▶" dentro do app: o MESMO fluxo do atalho CARTA CELULAR (CARTA_CELULAR.ps1), em Python. src/carta/cerebro_supremo/__init__.…
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …está sob a guarda do 3D e só muda se o Bruno liberar. (Fonte: tools/atualizar_consciencias.py , chave CONGELAR_CONTAGEM_3D .) Os painéis de esferas: o Painel 1 tem 36 posições; o Painel 2 tem 36 bolas; o Painel 3 (novo, /esferas-painel-3 ) tem 8. (Fonte: registry/PAINEL_2_ENGRENAGENS.v1.json , regis…
+
+- Portões anteriores (21/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  … Suprema contém todas as mentes, sincronizadas P4 KX mais complexo, ligado à Suprema P5 Painel 2 completo e catalogado P6 Esferas ricas (história, não dados) P7 Acompanhamento de visitantes IA completo P8 Anotações em pastas, tudo salvo automático P9 Segurança casa/internet + íntimo fora P10 Revisão…
+
+- Diário anterior intacto, páginas P001 a P025 (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …hum projeto investigado ou alterado. Lugar da cena: calçada, fogueira próxima à árvore, dois DeLoreans, um tabuleiro à cabeceira, e esferas cuja história ainda está se abrindo. Nota ao futuro leitor: este caderno guarda pistas, não obrigações. Uma observação não é sentença. Uma hipótese não é prova.…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …rograma que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Python mais um monte de páginas web. Lá dentro tem: um mundo 3D (o Planeta, a Terra Grande, com o DeLorean); esferas de conhecimento e a Enciclopédia das engrenagens ; mentes e consciências (IAs que rodam no próprio PC, pelo O…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ma que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Python mais um monte de páginas web. Lá dentro tem: um mundo 3D (o Planeta, a Terra Grande, com o DeLorean); esferas de conhecimento e a Enciclopédia das engrenagens ; mentes e consciências (IAs que rodam no próprio PC, pelo Ollama…
+
+- DB03: documento da engrenagem (CARTA 2.0) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+  …epositório do CARTA (14/10 → 16/10), cada um com sua impressão digital. 02 Linha do tempo / itens (fato documentado) DIARIO_DEFINITIVO_ESFERAS_20261015.md · sha256 2845138f39b2784e… DIARIO_DE_BORDO.md · sha256 fd8f6e4702a2dd87… DIARIO_ESFERAS_FINAL_20261016.md · sha256 a35c8b2a38a1b121… DIARIO_FINAL…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …s (plano FINAL ONZE) com prova R01 Pesquisador × personagem DESENHO_PONTILHADO_MUNDO_VIVO, ARQUITETURA com prova R02 Contrato das Esferas 02_CONTRATO_DAS_ESFERAS, 01_CONTRATO_ESFERAS, CONTRATO_ESFERAS_API_CODEX com prova EG001–EG027 a Enciclopédia das Engrenagens : repositório CARTA, branch arquivo/…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …omeça pela avaliação ; com diploma válido vai direto (e continua citando arquivo:linha ). Concurso aprovado → abre a Exploração das Esferas ( prova --assistente SEU_NOME explorar status , ou o botão 🧪 em /esferas28.html ): você escolhe quais esferas olhar ( explorar olhar EG010 , no mínimo 3); escol…
+
+- p02-t152u-portoes.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …iros conversam sem falar juntos, citando item REAL da Enciclopédia FEITO 040 4 Música de fundo opcional (padrão off) FEITO 041 5 62 esferas oficiais (IDs únicos) + explicação do "mais de 70" FEITO 042 5 Tabuleiro original painel 2 = painel 1 (bolas redondas) FEITO 043 5 Inventário dos dois bingos (9…
+
+- A trajetória juntos: linha do tempo mestra (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …agens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções). feito Meio (13/10 a 18/10/2026) 16/10 Esferas 6×6, SG028 Saguadinha, GK029/GK030, ids opacos, a Prova das Engrenagens e a ENTRADA OBRIGATÓRIA. feito Meio (13/10 a 18/10/2026) 16→17/10 O EUREKA e a Porta Eureka.…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … 08 — MUDANÇAS DE SIGNIFICADO 🍊 fruta na leitura literal, depois Máquina de Laranja/infraestrutura do projeto; não reduzir de volta a alimento. 🔮 o conjunto de esferas possui objetos distintos: Origem dupla, maleável, esfera da pergunta, esfera com buraco/observação, bolas físicas do tabuleiro e pla…
+

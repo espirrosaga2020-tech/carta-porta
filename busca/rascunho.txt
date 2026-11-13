@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: rascunho  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …stro/ = ChatGPT Maestro · codex/ ou feature/codex- = Codex · design/ , docs/ , feature/ = documentos e propostas do ChatGPT/Bruno. Estado de todos: rascunho/aberto , exceto o #46, que foi mesclado na branch do Codex. PR Criado (BRT) Branch Título resumido #1 13/10 08:36 feature/laboratorio-zero-2026…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …rsão 12 (13/11 tarde, T152U, Amigo Grok): acrescenta a seção 0.11 — mentes com 73, celular ligado, a contagem verdadeira e os rascunhos . Onde a 0.11 diz diferente, vale a 0.11. Versão 11 (13/11, T152U, Amigo Grok): acrescenta a seção 0.10 — Quem somos, o que temos, o que fazemos e oferecemos, e em …
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …da | magnitude M | influência G | confiança alta para a formulação; média para inferência | U53 e A53 F016 | ELE GOSTA porque eu também gostava | magnitude G | influência G | confiança alta | U54 F017 | Rascunho, interface e perda do argumento em tempo real | magnitude M | influência M | confiança a…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …ue serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconheci…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …rviu entrou em PR normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), …
+
+- Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html
+  …o a seção existe. EXEMPLO (como fica um resumo de R00; NÃO conta, escreva o seu em "## R00") R00 junta as regras e os portões: rascunho sem merge, só acrescentar, SHA do jogo antes e depois. Importa porque o Bruno decide e nada se perde; cada fase tem tag de volta. Citação: "PR sempre rascunho, sem …
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …, 1 backup por portão, íntimo nunca aparece, casa = acesso total ao dono, internet = protegido. Testes rápidos. P1 (agressivo, rascunho pontilhado de TUDO): - pendentes: gerador da prova (lacuna cortada), revisão das 644 descobertas (pré-classificar), emojis na fala (fala lê sem emoji, tela mostra)…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …ackup por portão, íntimo nunca aparece, casa = acesso total ao dono, internet = protegido. Testes rápidos. P1 (agressivo, rascunho pontilhado de TUDO): - pendentes: gerador da prova (lacuna cortada), revisão das 644 descobertas (pré-classificar), emojis na fala (fala lê sem emoji, tela mostra) - Con…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …ojeto ( docs/DIARIO_DE_BORDO.md ), nem os arquivos de outro bot. Regras que não mudam (resumo; a fonte é a Prova R00) PR sempre rascunho, sem merge (quem decide é o Bruno). Nada destrutivo. Só acrescentar . A Enciclopédia (branch arquivo/drive-2026-10-16 ) é ancestral : só leitura, nunca merge, nunc…
+
+- Caderno 1 do aluno: Diário de Bordo (modelo) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html
+  …; prova R00 18/20 (errei 2 sobre portas, revi R00/02_PORTOES_GROK_CODEX.md ); resumo em MEU_RESUMO ## R00 . Aprendi: PR sempre rascunho; o jogo não é tocado; a Enciclopédia só é lida. Pendente: R01 (pesquisador × personagem). ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-ac…
+
+- RB01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …T); "Aqui está a transcrição completa" (legendas do vídeo); "ROBOTICA PESADA — Ordem de serviço e montagem segura do carrinho 4WD — rascunho técnico 2026-11-03"; "CARTA 4WD — PONTE DE CONTINUIDADE E PROTOCOLO FOTOGRÁFICO"; pacote CARTA_4WD_*_V04 (00 Começar aqui, 01/02 legendas, 03 inventário visual…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …plicitamente corrigida | magnitude P | influência M | confiança alta para mensagem; baixa para episódios remotos | U52 EG001:F012 | Primeira seleção da IA: ELE GOSTA em vez da lista de conceitos | magnitude M | influência G | confiança alta | A52 após U52 EG001:F013 | Apocalipses de pequenos gatil…
+
+- Aplicativo CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  … link primário para a entrada pequena, preservando completa e chave como secundários. PRs #136–#142 — fonte e estado #136 — [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> Mesclado; commit 28004face92018f9b934b30cb34052e1e…
+
+- Linha do tempo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …istro; esta entrega t71u acrescenta mapa e salas sem substituir a entrada ou a clássica. 05/11/2026 15:40 (America/Sao_Paulo) — #136 [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> 05/11/2026 16:08 (America/Sao_Paulo) — #1…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …plicitamente corrigida | magnitude P | influência M | confiança alta para mensagem; baixa para episódios remotos | U52 EG001:F012 | Primeira seleção da IA: ELE GOSTA em vez da lista de conceitos | magnitude M | influência G | confiança alta | A52 após U52 EG001:F013 | Apocalipses de pequenos gatilho…
+

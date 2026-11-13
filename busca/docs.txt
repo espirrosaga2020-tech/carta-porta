@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: docs  (68 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Índice do Drive (52)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (37)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …, sobre a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou. Depois do teste (T119U): o Bruno decidiu que o Ollama é a base do sistema e pod…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (37)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …re a Porta do Grok e a Jornada, foi respondida em 1,4 s, mas fraca: o índice da Consciência ainda não lê os documentos novos da T112U (docs/JORNADA_IA). Ela mesma disse que não tinha detalhes, ou seja, não inventou. Depois do teste (T119U): o Bruno decidiu que o Ollama é a base do sistema e pode fic…
+
+- p02-manual-v12.html (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …o PC dele (http://127.0.0.1:8790) e no celular; nada dela é publicado sem ordem dele. (Fonte: ordem do Bruno de 13/11/2026, registrada em docs/t152u/BLOCO7_PORTA02_LOCAL.md .) (linha omitida no site público pelo filtro de privacidade) Regra de ouro: nada se apaga; tudo só ganha coisa nova. Os origin…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …FIZEMOS Fontes: git log , a lista de PRs do GitHub ( gh pr list ), HISTORICO_DE_VERSOES.txt , LEIA-ME_COMPLETO.md , os diários docs/GROK_*/DIARIO.md e os checkpoints docs/GROK_*/CHECKPOINT* . Horários em Brasília (UTC-3). As datas de PR são as de criação no GitHub. Repositório: https://github.com/es…
+
+- Mentes, consciências e robótica (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- NEXUS e anexos (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- DB03: documento da engrenagem (CARTA 2.0) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+  …https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html> DB03: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/DB03.md DB03 — Diários e relatórios de bordo do projeto (repositório) Os diários e relatórios de bordo guardados no repositório do CARTA (14/10 → 16/…
+
+- Colheitas e varreduras (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …arta/webdist/ — 491 arquivos src/carta/terra/ — 17 arquivos tools/ — 103 arquivos tools/pc/ — 33 arquivos tests/ — 157 arquivos docs/ — 635 arquivos docs/CARTA20/ — 31 arquivos registry/ — 43 arquivos No PC do Bruno Instalação que roda: [omitido pelo filtro de privacidade] (servidor 8790 só no própr…
+
+- 5. SUPER ANEXOS YOUTUBE (bancada — links Drive oficiais t56u) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-007.html
+  …(trecho omitido pelo filtro)…
+
+- Versão CARTA 2.0 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …cervo.html> · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html> Versão CARTA 2.0 fonte: docs/CARTA20/VERSAO_CARTA20.md Versão CARTA20-20261031 (CARTA 2.0 · 31/10/2026) Identificador: CARTA20-20261031 Base: SUPREMO001-R3FINAL (main b26c6d1, PR #74). Nada foi apag…
+
+- Aplicativo CARTA (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …(trecho omitido pelo filtro)…
+
+- Linha do tempo (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …(trecho omitido pelo filtro)…
+

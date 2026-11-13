@@ -1,0 +1,7 @@
+BUSCA POR LINK — termo: lm2596  (1 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- RB01: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …ntação filmado + compra 2× DRV8833 (ponte H dupla) um canal por motor: M1–M4 compra; amostrado no vídeo XL4016 (com painel e dissipador) e LM2596 com display — conversores DISTINTOS XL4016 candidato para os motores; LM2596 para lógica/sensores filmado + compra Servo MG90S (Tower Pro) braço/"trombinh…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: laboratorio  (32 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …e observando <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html#p007> P.008 — Creuza: a pequena grande suspeita e seu laboratório de relações <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html#p008> P.009 — O caminho das referências: do caderno ao …
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ture/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A linha do tempo em uma página Dia Fase PRs O que nasceu 13/10 Laboratório Zero → Laboratório Total → V3–V6 → P0–P12 → Fusão #1–#13 base local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95,…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …o como “a cereja”, sobreviveu a várias alternativas e terminou como eixo estrutural do WS1. O quarto movimento foi a transformação da árvore em laboratório. A Time-Lost Very Large deixou de ser uma joia isolada e virou uma região econômica: cada small e notable dentro do raio passou a ser avaliado …
+
+- Mapa de pastas e código (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …sono. src/carta/amigo_futuro/server.py Gateway local experimental do CARTA Amigo do Futuro (apenas 127.0.0.1). src/carta/autoinspecao.py Laboratório de autoinspeção (autoinspecao.v1). src/carta/barramento.py BARRAMENTO DE COOPERAÇÃO (FINALIZAÇÃO 17/10): estado comum + eventos entre as partes do CART…
+
+- Mapa de pastas e código (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … src/carta/amigo_futuro/server.py Gateway local experimental do CARTA Amigo do Futuro (apenas 127.0.0.1). src/carta/autoinspecao.py Laboratório de autoinspeção (autoinspecao.v1). src/carta/barramento.py BARRAMENTO DE COOPERAÇÃO (FINALIZAÇÃO 17/10): estado comum + eventos entre as partes do CARTA. sr…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …lico pelo filtro de privacidade) Portões de hoje: docs/CARTA20/PORTOES_T100U.md . Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md (84%). 1. O que é a CARTA A CARTA é o seu laboratório pessoal. É um programa que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Python mais um m…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …pelo filtro de privacidade) Portões de hoje: docs/CARTA20/PORTOES_T100U.md . Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md (84%). 1. O que é a CARTA A CARTA é o seu laboratório pessoal. É um programa que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Python mais um monte …
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …da no site público pelo filtro de privacidade) Portões de hoje: docs/CARTA20/PORTOES_T100U.md . Diagnóstico dos sonhos: docs/CARTA20/DIAGNOSTICO_SONHOS.md (84%). 1. O que é a CARTA A CARTA é o seu laboratório pessoal. É um programa que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Py…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …♾️ Infinito Imagem de abertura, repetição e crescimento; não número literal infinito de dados. “E TEMOS HISTÓRIAS”: potencial de caminhos e expansão narrativa. PRE, AGORA 🥼 Laboratório / mapas Cena de ciência e laboratório, não demonstração experimental por si. “MAPAS”: o coro pede organização e exp…
+
+- EG021 — Paz e Central — Kamonson (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …is estreita. O resultado foi um mapa operacional muito menor que o relatório arqueológico e capaz de classificar CANÔNICO, PONTE LEGADA, LABORATÓRIO, MUSEU, WIP, risco e teste. Foi nesse ponto que Central + Satélites deixou de ser apenas uma proposta futura: a própria conversa percebeu que já estava…
+
+- A trajetória juntos: linha do tempo mestra (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …unidas na Enciclopédia, com a frase 'memória é pista; evidência é prova'. feito Meio (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD …
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  … corrige a identificação para Life. 3. Desenvolvimento: o foco sai do horror e vai para primeiro contato; um estímulo físico é aplicado antes de entender o significado possível para a criatura. 4. Transformação: nasce o contraste “tradução antes de intervenção” versus “intervenção antes de tradução”…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …rosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html> Análise do PR #99 (Olhos Vivos, Copiloto) Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026) Feita pelo Grok Bot em 03/11/2026 (tarefa t94u). O PR #99 não foi mesclado, nem fechado, nem alterado. O que serviu entrou em…
+
+- Linha do tempo (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …idas na Enciclopédia, com a frase 'memória é pista; evidência é prova'. feito Meio (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD de…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  … IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Análise do PR #99 (Olhos Vivos, Copiloto) Análise do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026) Feita pelo Grok Bot em 03/11/2026 (tarefa t94u). O PR #99 não foi mesclado, nem fechado, nem alterado. O que serviu entrou em PR n…
+

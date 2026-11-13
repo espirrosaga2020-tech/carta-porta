@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: apache-2  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …tes da página (como WebViewAssetLoader / addDocumentStartJavaScript do androidx.webkit) Android Developers / AndroidX (Google) Apache-2.0; aqui sem a biblioteca (o build é "sem bibliotecas extras") OfflineAssets.kt põe <script src="/__carta/offline_motor.js"> logo depois do <head> só no modo viagem …
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …a página (como WebViewAssetLoader / addDocumentStartJavaScript do androidx.webkit) Android Developers / AndroidX (Google) Apache-2.0; aqui sem a biblioteca (o build é "sem bibliotecas extras") OfflineAssets.kt põe <script src="/__carta/offline_motor.js"> logo depois do <head> só no modo viagem tests…
+

@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: valido  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  … (FINAL POLIMENTO) "Vai lá na enciclopédia" → rode primeiro python -m carta prova --assistente SEU_NOME enciclopedia . Sem diploma válido você começa pela avaliação ; com diploma válido vai direto (e continua citando arquivo:linha ). Concurso aprovado → abre a Exploração das Esferas ( prova --assist…
+
+- Portões anteriores (21/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  … de privacidade) (linha omitida no site público pelo filtro de privacidade) [pontilhado] (8) Formatura e mochila confirmadas (diploma válido, hash confere, 35 insígnias). Página /acompanhar-visitantes registra perguntas, respostas, anotações, provas, portões, mochila e diploma (crachá não é guardado…
+
+- Portões anteriores (21/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …rivacidade) (linha omitida no site público pelo filtro de privacidade) [pontilhado] (8) Formatura e mochila confirmadas (diploma válido, hash confere, 35 insígnias). Página /acompanhar-visitantes registra perguntas, respostas, anotações, provas, portões, mochila e diploma (crachá não é guardado). Fa…
+
+- EG004 — Central, Copiloto e Atlas (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …ém coerente com as definições dadas. R4 — O “PROBLEMA DE FORMATO” ERA UM MILTON A compactação visual poderia parecer detalhe de apresentação. O usuário demonstra que ela altera a utilidade estrutural: texto ilegível, competição entre regiões e impossibilidade de consulta seletiva. É um caso exempla…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … código em src/carta/bm/ , estado em registry/black_mirror_portoes.v1.json . Portão Nome Estado Evidência resumida BM0 diploma + checkpoint false (parcial) diploma FOFINHO válido; tag checkpoint-pre-black-mirror-20261016 só local + bundle BM1 pasta/porta nova, nada antigo tocado false conferência no…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …ção: 2026-10-02, início recuperável. Confiança: alta. 1. Situação anterior A conversa já estava tentando transformar Abyss em farm consistente. Havia resultados prévios, mas também risco de misturar dados de fontes e interpretações anteriores. 2. Acontecimento desencadeador O usuário invalidou exp…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …rmação “Sem pressa” ganha função histórica: proteção de identidade durante maturação. 5. Relações Conectado ao “5% diferente do sonho” do Mapa Mestre e ao problema de convergência. 6. Consequências Evita interpretar todo atraso como indecisão. Ao mesmo tempo, não elimina necessidade futura de play…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …no raio foram inicialmente estimadas e depois corretamente rebaixadas para hipótese. - A investigação histórica não reexecutou nem revalidou externamente a base de dados do jogo; registra o que foi pesquisado e consolidado naquele momento. ======================================================…
+
+- EG025 — POE2 — Milton e Value Engineering (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …iversalizar tudo Correção: universalizar apenas o que precisa existir em ambos ou o que está desligando indevidamente no WS1. ============================================================ 09 — DESCOBERTAS RETROSPECTIVAS ============================================================ R001 — Attack Spe…
+

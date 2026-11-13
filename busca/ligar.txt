@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: ligar  (34 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (51)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (47)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …neta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/1…
+
+- p02-manual-v12.html (39)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … Planeta é o astro, g2–g9 ligados, Vale 3D, barra de baixo com 6 botões, regiões, cartas, LEGO 'tá torto?', Porta 8792 aposentada, LIGAR mais rápido, app vc19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de …
+
+- p02-t152u-portoes.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …apa (M) cedo não dá TypeError FEITO 009 1 Rebuild + PR (CI verde) + instalar com backup + hash FEITO 010 1 Reinício/cache: religar e o Planeta continua certo FEITO 011 2 Esconder/mostrar HUD (tecla H e botão) FEITO 012 2 Rótulo "minimapa" opcional (só ícone) FEITO 013 2 modo visitante não cobre botõ…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …este t9 — Porta IA 8792: aposentada em favor da Porta do Grok (documentado, NADA apagado) Sonho: Porta IA 8792 · flag: t100u_t9_porta8792_aposentada doc explicando o porquê e como religar código da 8792 intacto Porta do Grok com filtro (só público) Estado: ✅ fechado — doc PORTA_8792_APOSENTADA.md; c…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …gitleaks. Porta Porta IA 8792 completo 100% t9: APOSENTADA em favor da Porta do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar. Celular App no celular parcial 99% T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Me…
+
+- RB01: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …entário filmado em um take só, ordem de serviço de solda com orçamento separado, plano de energia seguro e os portões antes de ligar qualquer coisa. 00 Ficha de proveniência {#rb01-00} id: RB01 · estante: Robótica do Bruno · modalidade: engrenagem de robótica física (CARTA 2.0) · gaveta ROBOTICA_DO_…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …aks. Porta Porta IA 8792 completo 100% t9: APOSENTADA em favor da Porta do Grok (docs/CARTA20/PORTA_8792_APOSENTADA.md). Nada apagado; dá para religar. Celular App no celular parcial 99% T101U: vc20 (1.16.0-carta20-t101u) instalado; testado em MODO AVIÃO com o PC DESLIGADO: Planeta (58 FPS), Meu Rob…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …t9 — Porta IA 8792: aposentada em favor da Porta do Grok (documentado, NADA apagado) Sonho: Porta IA 8792 · flag: t100u_t9_porta8792_aposentada doc explicando o porquê e como religar código da 8792 intacto Porta do Grok com filtro (só público) Estado: ✅ fechado — doc PORTA_8792_APOSENTADA.md; código…
+
+- Para IAs: como ler a CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  … Registro. O que somos hoje (03/11/2026) Um projeto de uma pessoa só, o Bruno, com várias IAs ajudando. Funciona no PC (atalhos LIGAR/DESLIGAR CARTA) e no celular (app versão 17). O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …a "só o que está nos trechos". 5 perguntas do acervo: 1ª frase 0,55–1,16 s. FEITO (falta: às vezes repete a mesma data/hora de outro contexto). - Pré-aquecimento ao ligar (modelo + cérebros + busca): 1ª fala 0,84 s (antes 14 s). FEITO. - KX: 76 histórias genéricas refeitas exigindo fonte que fale do…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …fora: 31/10, 12/12 OK (tools\pc\PORTA_IA_TESTE_MINIMO.ps1). A parte de dentro (Ollama + 8790) respondeu hoje no teste do Faísca. Para provar: ligar 8792 + túnel e rodar PORTA_IA_TESTE_MINIMO.ps1 -Externo , depois uma pergunta real de visitante (P9; pedir ok ao Bruno, grava). 4. Portões t89u (a–h) …
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  … o celular abre os mundos principais sozinho , sem cabo, sem Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CARTA (8790/8791) → fotografia com tools/t101u/offline_planeta_snapshot.py direto na pasta do build ( [omitido pelo filtro de privacidade] , nunca no repo) → 423 rotas, 3,…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …a: 31/10, 12/12 OK (tools\pc\PORTA_IA_TESTE_MINIMO.ps1). A parte de dentro (Ollama + 8790) respondeu hoje no teste do Faísca. Para provar: ligar 8792 + túnel e rodar PORTA_IA_TESTE_MINIMO.ps1 -Externo , depois uma pergunta real de visitante (P9; pedir ok ao Bruno, grava). 4. Portões t89u (a–h) Portã…
+

@@ -1,0 +1,23 @@
+BUSCA POR LINK — termo: verificador  (5 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  … datas diferentes e certas. FALTA: depois da 1ª frase o modelo ainda enfeita ("ficava horas observando"); portões e Pokémon Vivo não acharam trecho de conversa com fala. - Verificador de fatos (sem modelo): frase com data, nome, citação ou palavras que não estão na fonte sai. KX: 210 frases removida…
+
+- Portões anteriores (21/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …s diferentes e certas. FALTA: depois da 1ª frase o modelo ainda enfeita ("ficava horas observando"); portões e Pokémon Vivo não acharam trecho de conversa com fala. - Verificador de fatos (sem modelo): frase com data, nome, citação ou palavras que não estão na fonte sai. KX: 210 frases removidas; 15…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …a. src/carta/esferas_todas.py REFINO G2: TODAS as "esferas" que existem, de todas as fontes, rotuladas pela origem (nada inventado). src/carta/esp32.py P8 — Contrato ESP32 `carta.esp32.v1`, verificador determinístico, simulador e adaptador serial. src/carta/exploracao.py FINAL POLIMENTO G3 + G4 — Ex…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …c/carta/esferas_todas.py REFINO G2: TODAS as "esferas" que existem, de todas as fontes, rotuladas pela origem (nada inventado). src/carta/esp32.py P8 — Contrato ESP32 `carta.esp32.v1`, verificador determinístico, simulador e adaptador serial. src/carta/exploracao.py FINAL POLIMENTO G3 + G4 — Explora…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …FEITO 017 2 Chegar nas fogueiras (Cinema Vivo) FEITO 018 2 Viagem rápida ≥3 pontos no mapa 2D (sem endereço real) FEITO 019 2 Verificador de integridade no LIGAR (SÓ AVISA) + regra "nunca remendar bundle" FEITO 020 2 Edições soltas só-no-PC → fonte (tema.js, cyber.js/css, miniterra_planeta.js, teste…
+

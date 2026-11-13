@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: porto  (61 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a ver…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a ve…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …Manual de Tudo da CARTA (v10, 03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Manual de Tudo da CARTA (v10, 03/11/2026) 📘 MANUAL DE TUDO DA CARTA Manual e orientações · versão 10, de 03/11/2026 ~22h30 (horário de Brasília). A ve…
+
+- Portões booleanos t89u (critérios e estado) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos n…
+
+- Portões anteriores (21/10/2026) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões anteriores (21/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento …
+
+- Portões anteriores (21/10/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …Portões anteriores (21/10/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões anteriores (21/10/2026) 10 PORTÕES BOOLEANOS —…
+
+- Portões booleanos t89u (critérios e estado) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões booleanos t89u (critérios e estado…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e esta…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões T100U (03/11/2026): o Planeta é o astro Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antig…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …Portões T95U (03/11/2026): gráficos, mundos, personagens · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T95U (03/11/2026): gr…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …Portões T100U (03/11/2026): o Planeta é o astro · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T100U (03/11/2026): o Planeta …
+
+- Diagnóstico dos Sonhos (03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …Diagnóstico dos Sonhos (03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Diagnóstico dos Sonhos (03/11/2026) DIAGNÓSTICO DOS SONHOS — CARTA Atualizado em 03/11/2026 ~19:30 (horário de Brasília), depois da rodada T105U (robô…
+
+- Para IAs: como ler a CARTA (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …gua; só liga se pedir) e um mapa-mundo com um herói a cavalo inspirado em Heroes of Might and Magic 3. Tudo é feito em pequenos portões, cada um com teste e com volta atrás. Ver Portões T95U <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html#pg-portoes-t95u> . Atualização d…
+
+- 6. Portões (o que está pronto e o que falta) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-070.html
+  …entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 6. Portões (o que está pronto e o que falta) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no …
+
+- Diagnóstico dos Sonhos (03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …pois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de h…
+

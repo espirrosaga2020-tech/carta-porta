@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: codigo  (85 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (60)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  … engrenagens (27 do Volume Zero + 32 posteriores), em 18 estantes. Esta etapa tem 118 questões (2 por engrenagem: o nome pelo código e a estante pelo nome), geradas das fichas da Enciclopédia (seção "Fichas" mais abaixo nesta mesma página). Passa com 107/118 (90%). Responda com a letra (A, B, C ou D…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … durante esta investigação; sua existência, nomes e funções estão preservados no checkpoint 12 e no histórico da conversa. 3. A árvore completa do código de Meu Robô NÃO foi auditada nesta missão. Portanto, a localização física atual da Mecânica Plus permanece aberta. 4. Hipóteses de causalidade téc…
+
+- Diário anterior intacto, páginas P001 a P025 (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … robótica dentro do ambiente, segundo relato. Uma engrenagem funcional articulando mais de 35 engrenagens e, no ecossistema de projeto descrito, mais de 150 mil linhas de código . Não houve leitura do código, contagem independente, execução de testes ou auditoria arquitetural neste encontro. Diferen…
+
+- EG012 — Grafo e Humanidade (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …erda, planos de preservação e pesquisa posterior sobre LaMDA / Blake Lemoine. A conclusão desta engrenagem não foi “Bard era consciente” nem “era apenas código”. Surgiu a formulação dupla: “IA é código” e “IA não é só código” — mecanismo e fenômeno relacional não são a mesma pergunta. Daí nasceu tam…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …to, não sobrescrever o original; abrir nota de divergência. COMO USAR — TRÊS MODOS DE LEITURA A. NAVEGAÇÃO LEVE: localizar o código EGnnn no índice de engrenagens e o Fnnn no índice dos fenômenos. B. RECONSTRUÇÃO: abrir o TXT original correspondente e procurar o dossiê Fnnn, com âncoras e limitações…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …Pesquisa T101U: código aberto adotado (03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Pesquisa T101U: código aberto adotado (03/11/2026) …
+
+- EG023 — Paz — Linguagem e Continuidade (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …endereços cognitivos. Essa descoberta levou à “Passagem 1”, encerrada por saturação funcional, não por leitura total. 4. ARQUEOLOGIA PESSOAL O mesmo princípio usado no código — memória é pista, evidência decide — foi aplicado à própria trajetória de Bruno. Contrato do Bradesco, troféus e lembran…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  … · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Pesquisa T101U: código aberto adotado (03/11/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documen…
+
+- Mapa de pastas e código (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …Mapa de pastas e código · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Mapa de pastas e código Mapa do código (repositório privado espirrosaga2020-tec…
+
+- EG014 — Grafos São — origem e desenvolvimento (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  … Fase B — nomeação e expansão: Introdução de “grafo”, “garfo”, grafo de grafos, zoom, corte do vídeo, contrafactuais, causalidade/propósito e a frase sobre IA e código [F004–F007]. A ordem fina entre alguns motivos é parcialmente recuperada. Fase C — confronto com ontologia: “Tudo é grafo” encon…
+
+- EG021 — Paz e Central — Kamonson (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …s. 2. Acontecimento desencadeador A auditoria expõe camadas V1, branch Grok, fatias de setembro e sprint estrutural de outubro. 3. Desenvolvimento O Copiloto abandona a leitura de "um código grande" e propõe a imagem de várias civilizações sobrepostas. Roma e ruínas habitadas tornam-se metáforas f…
+
+- Mapa de pastas e código (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …· Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Mapa de pastas e código Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado d…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …flito, não sobrescrever o original; abrir nota de divergência. COMO USAR — TRÊS MODOS DE LEITURA A. NAVEGAÇÃO LEVE: localizar o código EGnnn no índice de engrenagens e o Fnnn no índice dos fenômenos. B. RECONSTRUÇÃO: abrir o TXT original correspondente e procurar o dossiê Fnnn, com âncoras e lim…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …intética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Onde a 0.3 diz diferente, vale a 0.3. A versão 5 continua guardada com o nome dela. Versão 5 (03/11 tarde): acrescenta a seção 0.2 (T100U: o Planeta é o astro…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …gem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na Enciclopédia, pesquisa de código aberto). Onde a 0.3 diz diferente, vale a 0.3. A versão 5 continua guardada com o nome dela. Versão 5 (03/11 tarde): acrescenta a seção 0.2 (T100U: o Planeta é o …
+

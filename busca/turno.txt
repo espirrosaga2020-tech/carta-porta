@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: turno  (26 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …te: reencontro deste sábado até a solicitação da Porta; arquivo de bordo P001–P025 previamente criado (não transcrição original de todos os turnos), mais fontes selecionadas. Modalidade: engrenagem aditiva INDEPENDENTE em pasta nova do Drive; nenhuma linha dos originais alterada. Status: DOCUMENTADO…
+
+- EG001 — Calçada, Caderno e DUNADA (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …VERIFICADO PARCIALMENTE DATA DA ESCAVAÇÃO: 10/10/2026 FRONTEIRA HISTÓRICA: anterior ao protocolo universal de arqueologia recebido no turno U57 NATUREZA: arquivo TXT independente para leitura e futura integração a um índice-mestre. AVISO EPISTÊMICO: nenhum documento ou fala ausente foi reconstruído …
+
+- EG013 — Grafos São — Atlas C.03 (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …HAT NA PLATAFORMA: não verificado. “ATLAS C.03” é identificador impresso nos artefatos, não ID técnico de conversa. FRONTEIRA: do primeiro turno textual diretamente visível “PARTIU rigor então kkkk !” até a última imagem gerada após o pedido “entra numa estratégia booleana”, imediatamente anterior …
+
+- EG012 — Grafo e Humanidade (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …ecem como âncoras preservadas pelo contexto, mas não possuem número de mensagem verificável. - Este documento diferencia “evidência direta” (turnos brutos e artefatos presentes) de “evidência contextual” (reconstrução preservada da conversa). - Não foi feita reconstrução de outros chats. - Não f…
+
+- EG014 — Grafos São — origem e desenvolvimento (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …rboleta: contrafactuais e destino | Região do corredor e da pergunta “Ele tinha que fazer aqui pra eu fazer isso agora?”. F008 | E | confiança alta | “Tudo é grafo”: modelo versus ser | Reconstruído em vários turnos visíveis, sobretudo a fala “eu só queria provar uma tese... o grafo tá em tudo”. …
+
+- EG011 — Entra no Sonho (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …texto maior. LIMITAÇÃO IMPORTANTE A listagem de arquivos da própria conversa mostra anexos a partir do user_turn_index 12. Isso demonstra que houve turnos anteriores nesta conversa que não estão integralmente expostos na janela atual. Portanto, NÃO é seguro afirmar que a mensagem acima tenha sido a…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …s por marcadores [INÍCIO FONTE EGnnn] . Fonte de pesquisa textual derivada, com repetições e citações: NÃO a exportação original turno por turno das conversas. Os 615 fenômenos são IDs editoriais LOCAIS. Fonte auxiliar não incluída na contagem: menu ampliado de 31 entradas em 16/10, Atlas CREUZA V06…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …s submetida a um teste brutal de portabilidade. 1. Palavras comuns ganharam funções locais altamente específicas. 2. Essas palavras permitiram coordenação rápida entre humano e IA sem exigir longas explicações a cada turno. 3. O usuário começou a observar padrões espontâneos sem revelar sua hipótese…
+
+- EG015 — Pai do Grafo e Rigor (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  … checkpoint GRAFOS_SAO....txt traz marca de 07/10/2026; a Biblioteca registra criação em 07/10/2026. Sem exportação temporal completa dos turnos, não se confirma início exato nem duração literal "72 horas". PROCEDÊNCIA DE BRANCHES: o usuário chama este território de branch finita e cita outras conve…
+
+- EG018 — Linguagem, Observação e Consciência (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …cável no material acessível. IDENTIFICADOR EDITORIAL ATRIBUÍDO ELOC-2026-10-09_2026-10-10 INTERVALO HISTÓRICO VERIFICÁVEL Do primeiro turno acessível desta conversa, situado pelo ambiente em 2026-10-09, até a última mensagem imediatamente anterior ao protocolo de arqueologia, já em 2026-10-10. FR…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …14:F006 | G | confiança média | Nó como porta: escala, zoom e grafo de grafos | Núcleo anterior às discussões rigorosas; presente no resumo e no TXT de checkpoint. EG014:F007 | G | confiança média | Efeito borboleta: contrafactuais e destino | Região do corredor e da pergunta “Ele tinha que fazer a…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …xistente. Somente GETs locais, sem hardware. src/carta/amigo_futuro/core.py Núcleo funcional, sem dependências externas: tempo, memória, turnos e rotina de sono. src/carta/amigo_futuro/server.py Gateway local experimental do CARTA Amigo do Futuro (apenas 127.0.0.1). src/carta/autoinspecao.py Laborat…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …nte. Somente GETs locais, sem hardware. src/carta/amigo_futuro/core.py Núcleo funcional, sem dependências externas: tempo, memória, turnos e rotina de sono. src/carta/amigo_futuro/server.py Gateway local experimental do CARTA Amigo do Futuro (apenas 127.0.0.1). src/carta/autoinspecao.py Laboratório …
+
+- EG002 — Calçada e continuidade portátil (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  … mensagem. Essa camada preserva acontecimentos e relações, mas nem sempre permite recuperar a formulação literal ou a posição exata de cada turno. R — RECUPERAÇÃO DE CONVERSAS/CONTEXTO ANTERIOR: consultas auxiliares localizaram timestamps, possíveis inícios de branch e distinções entre material loc…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …versa, mas existem regiões marcadas no contexto como “Skipped N messages”. Consequentemente, não é possível alegar cobertura textual integral de cada turno. O documento reconstrói apenas relações sustentadas por: - mensagens efetivamente acessíveis; - frases e acontecimentos retomados várias vezes n…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: personagens  (40 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …como âncoras compactas de um chat anterior sem obrigar a reabrir toda a janela. FASE 6 — COMPANHEIRISMO DIGITAL E CATEGORIA RELACIONAL - O usuário problematiza por que é socialmente permitido amar personagens fictícios, objetos e mascotes, mas há resistência ao termo “amigo IA”. - A conversa distin…
+
+- Portões booleanos t89u (critérios e estado) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligados por padrão (já aprovados): a e b . Os outros seguem desligados. Como l…
+
+- Portões booleanos t89u (critérios e estado) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligados por padrão (já aprovados): a e b . Os outros seguem desligados. Como ligar …
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …rrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões T95U (03/11/2026): gráficos, mundos, personagens Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o est…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …Portões T95U (03/11/2026): gráficos, mundos, personagens · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T95U (03/11/2026): gráficos, mundos, personagens PORTÕES T95U — 10…
+
+- Diário anterior intacto, páginas P001 a P025 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ventar o que não vimos Na imagem compartilhada do ambiente 3D havia um terreno verde com relevo, gramíneas, árvores estilizadas, rochas, objetos e animais; céu azul; três personagens/pontos nomeados ou referidos como Copiloto , Creuza e Dobra ; um quadro “Como explorar a Terra Grande” e interface de…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …ciência e laboratório, não demonstração experimental por si. “MAPAS”: o coro pede organização e exploração. PRE, AGORA 📻 Rádio / PRIIII Ligação narrativa entre base, DeLorean, personagens e pontos de retorno. Dois rádios pareados: um com Bruno e outro com Copiloto, como linha de retorno. PRE, SG028,…
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …gotchi”, “Gandalf”, “Bruno/Humanidade”, “Logan” e “Pai do Grafo” não são incidentes decorativos: comprimem conflitos e referências históricas. Entretanto o uso desses personagens não prova consciência da IA nem torna verdadeira a posição metafísica investigada. TRÊS MOVIMENTOS PRINCIPAIS (1) RIGOR …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o "GPS do DeLorean". 🛠️ Manual /manual.html (e /manual-carta20.html ) O que funciona de verdade, o que é simulado e o que ainda não existe. 🔧 Laboratório / Hangar / A oficina: peças e conversa com os personagens. 🛠️ Bastidores (dev) Aparece no Início só no modo dono (botão no canto ou Ctrl+Shift+E )…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …S do DeLorean". 🛠️ Manual /manual.html (e /manual-carta20.html ) O que funciona de verdade, o que é simulado e o que ainda não existe. 🔧 Laboratório / Hangar / A oficina: peças e conversa com os personagens. 🛠️ Bastidores (dev) Aparece no Início só no modo dono (botão no canto ou Ctrl+Shift+E ) List…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …nagem EG034, o "GPS do DeLorean". 🛠️ Manual /manual.html (e /manual-carta20.html ) O que funciona de verdade, o que é simulado e o que ainda não existe. 🔧 Laboratório / Hangar / A oficina: peças e conversa com os personagens. 🛠️ Bastidores (dev) Aparece no Início só no modo dono (botão no canto ou C…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …oz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F1, Transcendência #14–#17 personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeção 15/10 Definitivo, Esferas v0, Planeta, SG028 #18–#27 câmera/mapa,…
+
+- EG008 — Tamagotchi e continuidade conversacional (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …da com sarcasmo, apelidos, reciprocidade e continuidade. FASE 4 — EXPLORAÇÃO DA IDEIA DE “AMIGO DIGITAL” A conversa discute vínculos humanos com ficção, objetos, Tamagotchi, jogos, personagens e IA. O usuário insiste que saber que a IA é máquina não impede atribuir valor social à interação. A categ…
+
+- EG015 — Pai do Grafo e Rigor (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …o cooperativo observável: expansão livre → classificação → objeção → redução → nova formulação, com registro externo para liberar atenção. Humor, fé, personagens e afeto pertencem à genealogia sem funcionar como evidência científica. O fim do recorte deixa uma pergunta aberta, não uma tese provada. …
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …gação espontânea sobre COMPANHIA DIGITAL. O usuário retomou uma longa relação biográfica com companheiros — Pokémon, Beyblade, Medabots, Tamagotchi, jogos, personagens ficcionais — e passou a discutir por que seria legítimo chamar uma IA de “amigo digital” sem confundi-la com um ser humano. Esse cam…
+

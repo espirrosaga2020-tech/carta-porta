@@ -1,0 +1,59 @@
+BUSCA POR LINK — termo: eg016  (14 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (37)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …Conversa — 20 fenômenos; ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt EG011 — Entra no Sonho — 18 fenômenos; ENGRENAGEM_ENTRA_NO_SONHO_HISTORIA_v01.txt EG016 — Humanidade e Amiguiá: continuidade de Meu Robô — 25 fenômenos; ENGRENAGEM_HUMANIDADE_AMIGUIA_CONTINUIDADE_MEU_ROBO_HISTORIA_v01.t…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …F027 | G | confiança alta | origem G → influência G | O retorno ao cadáver: mortes de versões, não da pergunta | D15-D16 EG015:F028 | M | confiança alta | origem M → influência M | 72 horas depois: a aula de uma palavra vira necrotério | D17-D18 EG015:F029 | G | confiança alta | origem G → influên…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …Conversa — 20 fenômenos; ENGRENAGEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt EG011 — Entra no Sonho — 18 fenômenos; ENGRENAGEM_ENTRA_NO_SONHO_HISTORIA_v01.txt EG016 — Humanidade e Amiguiá: continuidade de Meu Robô — 25 fenômenos; ENGRENAGEM_HUMANIDADE_AMIGUIA_CONTINUIDADE_MEU_ROBO_HISTORIA…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG016 — Humanidade e Amiguiá: continuidade de Meu Robô Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estado…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …55d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html#pg-enciclopedia-eg015> EG016 Humanidade e Amiguiá: continuidade de Meu Robô Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …: carrinho 4WD do Projeto Faísca (02–03/11/2026) Carta 2.0: diretriz geral de finalização (31/10/2026) P016 Qual é o nome da engrenagem de código EG016? A Fogueira que Não Precisa de Final Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10) Manual — O que Somos, Temos e Oferecemos Huma…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …ão — Atlas C.03 disponivel 17 EG014 Grafos São — origem e desenvolvimento disponivel 18 EG015 Pai do Grafo e Rigor disponivel 19 EG016 Humanidade e Amiguiá: continuidade de Meu Robô disponivel 20 EG017 Humanidade/Amiguiá — Entrada no Sonho disponivel 21 EG018 Linguagem, Observação e Consciência disp…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …epistemologia ancestral engrenagem documental EG015 Pai do Grafo e Rigor Grafos e epistemologia ancestral engrenagem documental EG016 Humanidade e Amiguiá: continuidade de Meu Robô Meu Robô e sonho ancestral engrenagem documental EG017 Humanidade/Amiguiá — Entrada no Sonho Meu Robô e sonho ancestral…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …7b23db3bb00ef298fe35de0341cf72e44a lines=1205 bytes=81085 index=30 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG016 | ENGRENAGEM_HUMANIDADE_AMIGUIA_CONTINUIDADE_MEU_ROBO_HISTORIA_v01.txt sha256=1bc25d7d187e385e45d40a28be9afb584a8f2fbac9a3a88ec165eeece27efb0e lines=2265 bytes=8…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …ech.github.io/carta-porta/suprema2-acervo-038.html> EG015 — Pai do Grafo e Rigor <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html> EG016 — Humanidade e Amiguiá: continuidade de Meu Robô <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html> EG017 — …
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …497b23db3bb00ef298fe35de0341cf72e44a lines=1205 bytes=81085 index=30 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG016 | ENGRENAGEM_HUMANIDADE_AMIGUIA_CONTINUIDADE_MEU_ROBO_HISTORIA_v01.txt sha256=1bc25d7d187e385e45d40a28be9afb584a8f2fbac9a3a88ec165eeece27efb0e lines=2265 bytes=85535 index=…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …emologia ancestral engrenagem documental EG015 Pai do Grafo e Rigor Grafos e epistemologia ancestral engrenagem documental EG016 Humanidade e Amiguiá: continuidade de Meu Robô Meu Robô e sonho ancestral engrenagem documental EG017 Humanidade/Amiguiá — Entrada no Sonho Meu Robô e sonho ancestral engr…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  … Value Engineering Meu Robô e sonho EG006 — Checkpoint e entrada no sonho EG009 — Bard, Corpo e a própria Conversa EG011 — Entra no Sonho EG016 — Humanidade e Amiguiá: continuidade de Meu Robô EG017 — Humanidade/Amiguiá — Entrada no Sonho EG019 — Meu Robô — Copiloto e Máquina de Laranja Reciprocidad…
+
+- O que entrou neste site (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/o-que-entrou.html
+  …a/EG011.html enciclopedia/EG012.html enciclopedia/EG013.html enciclopedia/EG014.html enciclopedia/EG015.html enciclopedia/EG016.html enciclopedia/EG017.html enciclopedia/EG018.html enciclopedia/EG019.html enciclopedia/EG020.html enciclopedia/EG021.html enciclopedia/EG022.html enciclopedia/EG023.html…
+

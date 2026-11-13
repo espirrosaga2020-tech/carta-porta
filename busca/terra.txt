@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: terra  (46 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …10 (tarde) Black Mirror, Fechamento, Maestro, EG033, Gigantismo #36–#45 pré-projeto BM0–BM15, núcleo BM, EG031/EG032, EG033 Lantejoula, Mini Terra Simbólica Viva (154 requisitos) 16/10 (noite) Integração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únicas #46–#50 Mini Terra 8789, casca EA, 3D Web…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …iferente, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a…
+
+- Mapa de pastas e código (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …publicado. Pastas principais src/carta/ — 932 arquivos src/carta/t89u/ — 13 arquivos src/carta/webdist/ — 491 arquivos src/carta/terra/ — 17 arquivos tools/ — 103 arquivos tools/pc/ — 33 arquivos tests/ — 157 arquivos docs/ — 635 arquivos docs/CARTA20/ — 31 arquivos registry/ — 43 arquivos No PC do …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …nte, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4.…
+
+- Mapa de pastas e código (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …cado. Pastas principais src/carta/ — 932 arquivos src/carta/t89u/ — 13 arquivos src/carta/webdist/ — 491 arquivos src/carta/terra/ — 17 arquivos tools/ — 103 arquivos tools/pc/ — 33 arquivos tests/ — 157 arquivos docs/ — 635 arquivos docs/CARTA20/ — 31 arquivos registry/ — 43 arquivos No PC do Bruno…
+
+- p02-manual-v12.html (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ferente, vale a 0.5. A versão 7 continua guardada com o nome dela. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a …
+
+- Mundos da CARTA 2.0 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …s da CARTA 2.0 fonte: docs/CARTA20/MUNDOS_CARTA20.md Mundos na CARTA 2.0 (§6–§10) Mundo Onde Natureza O que tem na 2.0 🌍 Planeta (Terra Grande) /planeta.html ficção (simulação estilizada) 3D real (three.js), DeLorean com teclado numérico/setas, voo suave, dica que some quando a ajuda abre, links par…
+
+- EG004 — Central, Copiloto e Atlas (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … problemas sem consertá-los. Pouco depois, porém, uma atualização de estado importada alterou o terreno: MEU ROBÔ foi declarado “BASELINE VERDE / ENTERRADO PARA ESTA FASE”, com VERTICAL_SLICE_OK, SCRIPT_ERRORS=0 e uma lista extensa de sistemas tecnicamente fechados. O escopo então mudou do fechament…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …ma esse momento, retrospectivamente, de uma experiência do “sofisticado”: humor, correção, precisão, desambiguação e recalibração acontecendo ao vivo. A hipótese Marte/Terra reaparece como instrumento de crítica à proveniência: o mesmo sistema, se encontrado em Marte, poderia ser classificado de mo…
+
+- Diário anterior intacto, páginas P001 a P025 (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …boratório de engenharia aeroespacial e simulação de física, descritos por Bruno como muito realistas, com experiências em aerodinâmica e robótica. Um universo com planeta Terra, Sol, rotação/translação, terreno, fauna, fungos, cogumelos, água, calor, frio, decomposição, vulcões, fontes termais, biol…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …ina/Torre de Chips sobrevivem nos registros, surge a hipótese de que Mecânica Plus possa ter perdido entrada ou ter sido absorvida em vez de simplesmente apagada. Hipótese permanece aberta. FASE 19 — QUANTAS OUTRAS “PLUS” ESTÃO SOTERRADAS? A pergunta se amplia. O objetivo deixa de ser apenas reen…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …ris": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, bactér…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  … true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, bactérias, …
+
+- EG006 — Checkpoint e entrada no sonho (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …7-H08 O usuário entrega: - COMECE_POR_AQUI.txt; - CHECKPOINT_ESTRUTURAL.txt; - LEIA_ME(1).txt; - CATALOGO_POR_ASSUNTO.txt; - project.godot. A leitura muda. Não é mais “um esqueleto com algumas coisas”. Há: - luta com gramática própria; - 11 terras; - NPCs; - duplas; - apostas; - oficinas; - Hangar…
+
+- EG008 — Tamagotchi e continuidade conversacional (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …arketing e validação Classificação: G | Confiança: alta Localização: pedido “pesquisa central” e devolutiva organizada. F019 — Catálogo como fonte de verdade precisa de versionamento semântico Classificação: M | Confiança: alta Localização: correções de Vitrine, Nimbus, atos/terras e criador x pilo…
+

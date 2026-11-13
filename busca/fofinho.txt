@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: fofinho  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …, Grok): código em src/carta/bm/ , estado em registry/black_mirror_portoes.v1.json . Portão Nome Estado Evidência resumida BM0 diploma + checkpoint false (parcial) diploma FOFINHO válido; tag checkpoint-pre-black-mirror-20261016 só local + bundle BM1 pasta/porta nova, nada antigo tocado false confer…
+
+- Diplomas emitidos (registry/diplomas.json) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …tml> Diplomas emitidos (registry/diplomas.json) Assistente Emitido em Versão da prova codex 2026-10-16T10:50:41-0300 prova.v1 FOFINHO 2026-10-16T12:37:26-0300 prova.v1 Exemplo: o diploma do FOFINHO cobre 34 capítulos (de R00 a GK030), melhor nota no concurso 58/60, postura “participar”. Lembrete do …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …as por padrão, menos as de PADRAO_LIGADO (só depois do teste do portão passar). src/carta/t95u/olhos_voz.py T95U g9 (03/11/2026): conferência de "Olhos e voz" — SÓ LEITURA, nada é apagado nem movido. src/carta/terra/__init__.py MINI TERRA SIMBÓLICA VIVA (BG0, FOFINHO). Mundo que continua vivendo sem…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …r padrão, menos as de PADRAO_LIGADO (só depois do teste do portão passar). src/carta/t95u/olhos_voz.py T95U g9 (03/11/2026): conferência de "Olhos e voz" — SÓ LEITURA, nada é apagado nem movido. src/carta/terra/__init__.py MINI TERRA SIMBÓLICA VIVA (BG0, FOFINHO). Mundo que continua vivendo sem prot…
+

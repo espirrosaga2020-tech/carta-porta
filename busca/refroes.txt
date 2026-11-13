@@ -1,0 +1,7 @@
+BUSCA POR LINK — termo: refroes  (1 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …antia de autoria e segurança. Atualizada versão de prompt, sem privilégios adicionais. src/carta/cinema_vivo/mente.py : autoriza refrões e bordões contextualizados no Cinema Vivo, sem exigir novidades cosméticas a cada cena. src/carta/consciencia_v1/mente.py e src/carta/cerebro_v1/mente.py : prompts…
+

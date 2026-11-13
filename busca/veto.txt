@@ -1,0 +1,31 @@
+BUSCA POR LINK — termo: veto  (7 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-t152u-novidades.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …app — não feito de propósito, protótipo privado), 064 (teste com IAs de fora — externo) e 054/059 (relatórios: a fonte do Cinema Vetorial v4.0 e do Godot Boneco Palito não foi encontrada; nada inventado). Lista completa: p02-t152u-portoes.html . Faísca, Creuza e Copiloto Faísca : a mente rápida (mod…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …m registry/APPS_ESTADO_T152U.v1.json ) : - FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema Vetorial v1.0–v3.0; Estúdio Copiloto v0.1 e Estúdio Motion 4K; Raichu (transcrição P…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …bm/fisica.py BM2: física do mini planeta (verdade do MUNDO; só o PESQUISADOR vê). Passo fixo, sem nomes. src/carta/bm/genoma.py BM6: genoma = vetor de traços herdado com mutação; seleção só pelo ambiente físico (nenhuma regra de comportamento). src/carta/bm/materia.py BM3: matéria por PROPRIEDADES. …
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …sica.py BM2: física do mini planeta (verdade do MUNDO; só o PESQUISADOR vê). Passo fixo, sem nomes. src/carta/bm/genoma.py BM6: genoma = vetor de traços herdado com mutação; seleção só pelo ambiente físico (nenhuma regra de comportamento). src/carta/bm/materia.py BM3: matéria por PROPRIEDADES. Nenhu…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …não identidade transferida entre chats têm função de honestidade sobre execução/identidade, mas não podem ser interpretados como veto ao estilo, aos emojis e aos símbolos . Esse arquivo ancestral foi PRESERVADO. Alterações aditivas e cirúrgicas realizadas src/carta/fala.py : remove proibição express…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … BM2 física do planeta true queda livre < 1% contra √(2h/g); período 600,7 s × 600 s; estações ( test_bm_fisica.py ) BM3 matéria por propriedades true entidades = id opaco + vetor; reações reproduzíveis por semente BM4 água e ciclo true 2000 passos, massa conservada (erro ~2e-16) BM5 ecologia true 1…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …RIO do Super Flash V3: "clicar em gerar vídeo e só vem legenda" FEITO 052 6 Patch SQLite do Codex conferido/aplicado FEITO 054 6 Cinema Vetorial v4.0 "COM DEFEITO": anotar e propor RELATORIO 055 6 Oficina: foto analisada e preservada ("perguntar ao cérebro") FEITO 056 6 Robótica de bancada: rótulos …
+

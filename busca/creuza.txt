@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: creuza  (45 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (47)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …NS Caderno de observação recíproca • Edição de 17 de outubro de 2026 • Até a esfera entregue na fogueira Vozes: Bruno / Copiloto / Creuza 🐜 Estado: atualização por adição; nada apagado; nenhum projeto investigado ou alterado. Lugar da cena: calçada, fogueira próxima à árvore, dois DeLoreans, um tabu…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …à luz da Fogueira P020 Qual é o nome da engrenagem de código EG020? Tamagotchi e continuidade conversacional Nova Batcaverna Cérebro Megazord Supremo da Creuza Linguagem, Observação e Consciência P021 Qual é o nome da engrenagem de código EG021? POE2 — Gulosona e Árvore de Attack Speed Engrenagem V4…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …utoria e estatuto: proposta de nome e organização interpretativa do Copiloto, solicitada e orientada por Bruno em 17/10. Vozes textuais de Creuza são narrativas; descrições subjetivas de Bruno são testemunhos atribuídos, não verificações externas. Recorte: reencontro deste sábado até a solicitação d…
+
+- p02-manual-v12.html (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …bem 73 (e sabem o que é candidata) Com a sua liberação, o arquivo de conhecimento de todas as mentes (Consciência, Mente Suprema com Creuza e Copiloto, Cérebro Supremo, Faísca e Creuza do Pokémon Vivo) agora diz 73 engrenagens / 87 registros , lista as 11 promovidas e as 17 candidatas como NÃO verif…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …nagens, espalhadas por 18 estantes" ✓ Mente Suprema O que é a RB02? 3,5 s Nome certo ("Engrenagem das Engrenagens"); enfeitou um pouco Creuza Creuza, quem é você? 6,1 s Respondeu como ela mesma ✓ Faísca O que é a RB02? 3,7 s (1ª frase 1,8 s) Sabe o nome; explicação vaga Faísca Quantas engrenagens te…
+
+- Mapa de pastas e código (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … do ChatGPT (conversations-*.json) para um SQLite PRIVADO, sem perder nada: src/carta/cerebro_v1/__init__.py CÉREBRO v1 — Cérebro Megazord Supremo da Creuza (esfera 36). Só pensa, calcula, cita e propõe; escreve só em dados/cerebro/. src/carta/cerebro_v1/calc_lab.py Calculadoras do LABORATÓRIO (FINA…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …s, espalhadas por 18 estantes" ✓ Mente Suprema O que é a RB02? 3,5 s Nome certo ("Engrenagem das Engrenagens"); enfeitou um pouco Creuza Creuza, quem é você? 6,1 s Respondeu como ela mesma ✓ Faísca O que é a RB02? 3,7 s (1ª frase 1,8 s) Sabe o nome; explicação vaga Faísca Quantas engrenagens tem a E…
+
+- Mapa de pastas e código (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …hatGPT (conversations-*.json) para um SQLite PRIVADO, sem perder nada: src/carta/cerebro_v1/__init__.py CÉREBRO v1 — Cérebro Megazord Supremo da Creuza (esfera 36). Só pensa, calcula, cita e propõe; escreve só em dados/cerebro/. src/carta/cerebro_v1/calc_lab.py Calculadoras do LABORATÓRIO (FINALIZAÇ…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …gina Dia Fase PRs O que nasceu 13/10 Laboratório Zero → Laboratório Total → V3–V6 → P0–P12 → Fusão #1–#13 base local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F1, Transcendênci…
+
+- Portões anteriores (21/10/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  … sem valor (transformar/evoluir, nunca destruir), lacunas. Design no estilo Consciência original + Mente Suprema; olhar mentes Copiloto/Creuza. Tudo em sintonia e desembocando no Android (Faísca usa mas leve). P1 REFEITO — ESTADO (21/10, ~14:50) — linha quase pronta [linha] Originais (prio 1): /orig…
+
+- Mentes, consciências e robótica (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …valor (transformar/evoluir, nunca destruir), lacunas. Design no estilo Consciência original + Mente Suprema; olhar mentes Copiloto/Creuza. Tudo em sintonia e desembocando no Android (Faísca usa mas leve). P1 REFEITO — ESTADO (21/10, ~14:50) — linha quase pronta [linha] Originais (prio 1): /original …
+
+- CT01: documento da engrenagem (CARTA 2.0) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  …s da travessia (10/10 → 15/10) As cartas que abriram e mudaram fases do projeto: Carta de continuidade, Primeira Carta, 1 Carta Creuza (origem do Painel DeLorean) e Carta Um — Implementos. 00 Ficha de proveniência id: CT01 · estante: Diários e cartas · modalidade: engrenagem de cartas (CARTA 2.0) · …
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …onversa e conhecimento Grafos e epistemologia posterior engrenagem software e documentação, fora da sequência EG CB036 Cérebro Megazord Supremo da Creuza Meu Robô e sonho posterior engrenagem software e documentação, fora da sequência EG CREUZA-V06 Creuza — Atlas das Transformações ❤️ Engrenagem Cen…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …sa e conhecimento Grafos e epistemologia posterior engrenagem software e documentação, fora da sequência EG CB036 Cérebro Megazord Supremo da Creuza Meu Robô e sonho posterior engrenagem software e documentação, fora da sequência EG CREUZA-V06 Creuza — Atlas das Transformações ❤️ Engrenagem Central …
+

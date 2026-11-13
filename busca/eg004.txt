@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg004  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (34)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …inguagem, Observação e Consciência — 24 fenômenos; ENGRENAGEM_LINGUAGEM_OBSERVACAO_CONSCIENCIA_2026-10-09_2026-10-10_v01.txt CONTINUIDADE E BATCAVERNA EG004 — Central, Copiloto e Atlas — 20 fenômenos; ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt EG007 — Continuidade Limpa de Meu Robô …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …Linguagem, Observação e Consciência — 24 fenômenos; ENGRENAGEM_LINGUAGEM_OBSERVACAO_CONSCIENCIA_2026-10-09_2026-10-10_v01.txt CONTINUIDADE E BATCAVERNA EG004 — Central, Copiloto e Atlas — 20 fenômenos; ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt EG007 — Continuidade Limpa de …
+
+- EG004 — Central, Copiloto e Atlas (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG004 — Central, Copiloto e Atlas Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no document…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …y/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html#pg-enciclopedia-eg003> EG004 Central, Copiloto e Atlas Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …e Meu Robô Calçada, Sofisticado, Grafo e Rocky Grafos São — origem e desenvolvimento P004 Qual é o nome da engrenagem de código EG004? Central, Copiloto e Atlas Extraordinária — Ciência, Descobertas e Linguagem Diários do Grok (GK029 → GK036) Análises de vídeo: Dream Game Forgebound e Batcaverna (04…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …: não apenas documentos preservam o caminho; personagens, palavras, piadas, cenas e perspectivas funcionam como endereços para recuperar o contexto quando a conversa muda. Isso não significa que cada personagem possua memórias persistentes ou identidade subjetiva independente no sentido técnico ou b…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  … DUNADA disponivel 5 EG002 Calçada e continuidade portátil disponivel 6 EG003 Calçada, Sofisticado, Grafo e Rocky disponivel 7 EG004 Central, Copiloto e Atlas disponivel 8 EG005 Chat da Liberdade: POE2 e autonomia disponivel 9 EG006 Checkpoint e entrada no sonho disponivel 10 EG007 Continuidade Limp…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …ncestral engrenagem documental EG003 Calçada, Sofisticado, Grafo e Rocky Calçada e observação ancestral engrenagem documental EG004 Central, Copiloto e Atlas Continuidade e Batcaverna ancestral engrenagem documental EG005 Chat da Liberdade: POE2 e autonomia POE2 e métodos operacionais ancestral engr…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …: 1,871,010; linhas totais: 41,194. Integridade estrutural: os 615 códigos do índice aparecem na região posterior dos próprios documentos (checagem de ocorrência, não comprovação da qualidade de cada dossiê). Duplicatas: • ENGRENAGEM_CALCADA_CADERNO_DUNADA_20261010_HISTORIA_v01(1).txt = ENGRENAGE…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …25cbf1b4c00995064593de84cd1493051df lines=677 bytes=50945 index=20 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG004 | ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt sha256=332d2b8550550f9434e27576f7db4397e74a71cbbb7ed61be1f7a65c4ee80c32 lines=1443 bytes=61149 inde…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …rema2-acervo-026.html> EG003 — Calçada, Sofisticado, Grafo e Rocky <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html> EG004 — Central, Copiloto e Atlas <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html> EG005 — Chat da Liberdade: POE2 e autonomia…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …1d25cbf1b4c00995064593de84cd1493051df lines=677 bytes=50945 index=20 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG004 | ENGRENAGEM_CENTRAL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt sha256=332d2b8550550f9434e27576f7db4397e74a71cbbb7ed61be1f7a65c4ee80c32 lines=1443 bytes=61149 index=20 missin…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …ral engrenagem documental EG003 Calçada, Sofisticado, Grafo e Rocky Calçada e observação ancestral engrenagem documental EG004 Central, Copiloto e Atlas Continuidade e Batcaverna ancestral engrenagem documental EG005 Chat da Liberdade: POE2 e autonomia POE2 e métodos operacionais ancestral engrenage…
+
+- Enciclopédia das Engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/index.html
+  … continuidade portátil EG003 — Calçada, Sofisticado, Grafo e Rocky EG027 — SPA — Ping-pong Cognitivo Continuidade e Batcaverna EG004 — Central, Copiloto e Atlas EG007 — Continuidade Limpa de Meu Robô EG020 — Nova Batcaverna POE2 e métodos operacionais EG005 — Chat da Liberdade: POE2 e autonomia EG02…
+
+- O que entrou neste site (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/o-que-entrou.html
+  …mestre.html — 27 linha(s) omitida(s) enciclopedia/EG001.html enciclopedia/EG002.html enciclopedia/EG003.html enciclopedia/EG004.html enciclopedia/EG005.html enciclopedia/EG006.html enciclopedia/EG007.html enciclopedia/EG008.html enciclopedia/EG009.html enciclopedia/EG010.html enciclopedia/EG011.html…
+

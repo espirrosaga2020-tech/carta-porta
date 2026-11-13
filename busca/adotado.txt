@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: adotado  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …l <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Pesquisa T101U: código aberto adotado (03/11/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substit…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …Pesquisa T101U: código aberto adotado (03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Pesquisa T101U: código aberto adotado (03/11/2026) Pesquisa T101U…
+
+- Gráficos no PC (T105U) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  …-porta/suprema2-acervo-089.html> Gráficos no PC (T105U) fonte: docs/CARTA20/GRAFICOS_PC_T105U.md Gráficos no PC — o que já foi adotado e se existe ray tracing (T105U, 03/11/2026) Pergunta do Bruno: "o que já foi adotado das pesquisas de código aberto (Google etc.) e se existe ray tracing de verdade …
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …================================================================== IDENTIFICADOR ESTÁVEL ENGRENAGEM_ENTRA_NO_SONHO TÍTULO HISTÓRICO ADOTADO “ENTRA NO SONHO — do checkpoint conversacional ao atlas de continuidade” NATUREZA Branch/conversa dedicada a consolidar: - a dinâmica de colaboração Humanida…
+
+- EG012 — Grafo e Humanidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …ULO DA CONVERSA Não verificável com segurança no material bruto atualmente acessível. “GRAFO-HUMANIDADE” é um identificador descritivo adotado nesta própria conversa para o Atlas produzido ao final do período histórico, não uma alegação sobre o título de interface do chat. FRONTEIRA HISTÓRICA Este …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …onentes, montagens, programas, referencias, diario). A CARTA só lista nomes e tamanhos em /api/t89u/t101u/robotica . Nada foi inventado. Pesquisa de código aberto: o que foi adotado, por quê e a licença: docs/CARTA20/PESQUISA_T101U.md . Continua DESLIGADO esperando você: as 3 decisões da seção 0.2 (…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …vo-089.html> Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html> Pesquisa T101U: código aberto adotado (03/11/2026) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html> Celular sem cabo (ap…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …es, montagens, programas, referencias, diario). A CARTA só lista nomes e tamanhos em /api/t89u/t101u/robotica . Nada foi inventado. Pesquisa de código aberto: o que foi adotado, por quê e a licença: docs/CARTA20/PESQUISA_T101U.md . Continua DESLIGADO esperando você: as 3 decisões da seção 0.2 (perso…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …pes na arena e save: 9 de 9 ( tools\t101u\teste_meu_robo_lojas.py , precisa do Playwright). (linha omitida no site público pelo filtro de privacidade) Pesquisa de código aberto: o que foi adotado, por quê e a licença: docs/CARTA20/PESQUISA_T101U.md . Continua DESLIGADO esperando você: as 3 decisões …
+

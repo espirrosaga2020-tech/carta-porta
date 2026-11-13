@@ -3,3 +3,6 @@ PORTA 02 — CHANGELOG (gerado) · 10/11/2026
 p02-prototipo-1 · 10/11/2026 · base 8b4fe864 · 205 publicações · 140 na busca nova
   + camada aditiva: entrada com faixa PORTA 02, viagem, roteiros, surpresa, legado, busca nova, índices TXT, catálogo, registro v2, 404
   = originais preservados: só blocos marcados P02 em suprema2-entrada.html/.txt, suprema2-mapa.html/.txt, suprema2-busca.html, llms.txt, sitemap.xml
+
+p02-t152u · 13/11/2026 · orientação para IAs no topo, menu, novidades, 90 portões, manual v12 filtrado, busca POR LINK (886 termos em busca/), todas as páginas
+  = só blocos marcados P02-T152U; nada apagado

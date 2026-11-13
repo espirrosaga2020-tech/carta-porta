@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: pull  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Aplicativo CARTA (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …tado #136 — [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> Mesclado; commit 28004face92018f9b934b30cb34052e1e7f709bd #137 — t47u — Atlas V5 preenchido + setores CL + UX neon/mic <https://github.com/espirrosaga2020-tech/CA…
+
+- Linha do tempo (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …ca/Sao_Paulo) — #136 [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> 05/11/2026 16:08 (America/Sao_Paulo) — #137 t47u — Atlas V5 preenchido + setores CL + UX neon/mic <https://github.com/espirrosaga2020-tech/CARTA/pull/137…
+
+- Mentes, consciências e robótica (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json> https://github.com/espirrosaga2020-tech/CARTA/pull/137 <https://github.com/espirrosaga…
+
+- Colheitas e varreduras (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …ttps://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/CONSCIENCIAS_CONHECIMENTO.v1.json> https://github.com/espirrosaga2020-tech/CARTA/pull/136 <https://github.com/espirrosaga2020-tech/CARTA/pull/136> Prova de acesso desta sala: SUPREMA2-COLHEITAS-T71U .…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …odoviária 10/6: confirmar se o cálculo do t11 é o que você quer. - Robô físico: escolher o hardware (OpenBot ou outro). - Abrir o Ollama (e, se quiser, ollama pull qwen2.5vl:3b ) para o olho local e as fontes ao vivo. (linha omitida no site público pelo filtro de privacidade) Atualização T112U (03/1…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …ária 10/6: confirmar se o cálculo do t11 é o que você quer. - Robô físico: escolher o hardware (OpenBot ou outro). - Abrir o Ollama (e, se quiser, ollama pull qwen2.5vl:3b ) para o olho local e as fontes ao vivo. (linha omitida no site público pelo filtro de privacidade) Atualização T112U (03/11/202…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …igar o Ollama (t116u). Os modelos já estavam baixados em [omitido pelo filtro de privacidade] , então não foi preciso baixar nada (sem pull ). Como ligar: dois cliques em [omitido pelo filtro de privacidade] . Ele liga o Ollama só neste PC (127.0.0.1:11434) e descarrega o modelo da placa depois de 2…
+

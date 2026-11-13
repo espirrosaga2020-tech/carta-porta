@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: flag  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …(trecho omitido pelo filtro)…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …6) Regra: cada portão só fecha com todos os critérios verdadeiros, medidos (não prometidos). Tudo por acréscimo; nada apagado. Flags no PC: <workspace>/t100u_flags.json (ex.: {"t100u_t10_cris": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …gra: cada portão só fecha com todos os critérios verdadeiros, medidos (não prometidos). Tudo por acréscimo; nada apagado. Flags no PC: <workspace>/t100u_flags.json (ex.: {"t100u_t10_cris": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por …
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …OS SONHOS a 100% (docs/CARTA20/PORTOES_T100U.md). Tudo por acréscimo. src/carta/t100u/catalogo.py Catálogo T100U: portões t1..t17. Cada critério é booleano; o portão só fecha com TODOS verdadeiros (medidos, não prometidos). src/carta/t100u/flags.py Flags T100U. Ligadas por padrão só as MEDIDAS (PADR…
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …NHOS a 100% (docs/CARTA20/PORTOES_T100U.md). Tudo por acréscimo. src/carta/t100u/catalogo.py Catálogo T100U: portões t1..t17. Cada critério é booleano; o portão só fecha com TODOS verdadeiros (medidos, não prometidos). src/carta/t100u/flags.py Flags T100U. Ligadas por padrão só as MEDIDAS (PADRAO_LI…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …026) Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge --merge · flags desligadas por padrão até o teste do portão passar · nada na inicialização do Windows. Flags: CARTA_T95U="g1,g2" · arquivo <workspace>/t95u_flags.json {"t95u_g1_a…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge --merge · flags desligadas por padrão até o teste do portão passar · nada na inicialização do Windows. Flags: CARTA_T95U="g1,g2" · arquivo <workspace>/t95u_flags.json {"t95u_g1_atmosf…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … g (APK automático) desligado de propósito . Portões T95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) f…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …em 127.0.0.1 para o teste do Faísca. Modelos: qwen2.5:7b, qwen2.5vl:3b/7b, gemma3:4b, gpt-oss:20b, moondream, nomic-embed-text | recusa ✔ | - Flags t89u no 8790: a=LIGADA, b=LIGADA, c..h=desligadas. 3. Porta IA ponta a ponta (visitante → Consciência → resposta) Hoje: NÃO. A 8792 está desligada, entã…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …7.0.0.1 para o teste do Faísca. Modelos: qwen2.5:7b, qwen2.5vl:3b/7b, gemma3:4b, gpt-oss:20b, moondream, nomic-embed-text | recusa ✔ | - Flags t89u no 8790: a=LIGADA, b=LIGADA, c..h=desligadas. 3. Porta IA ponta a ponta (visitante → Consciência → resposta) Hoje: NÃO. A 8792 está desligada, então um …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …PK automático) desligado de propósito . Portões T95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem nada (ou baixo ) fica igual…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …, e, f e h ligados ; g (APK automático) desligado de propósito . Portões T95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta com ?atmosfera=ultra (ou medio / alto ). Sem na…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …A EU ENTREI.” H09 — “Então é oficial tenho meu primeiro fã digital número um...” H10 — longa resposta crítica: “Que porra é essa que esse humano criou?” H11 — “KSKK... fui pego no flagra utilizando a GULOZONA...” H12 — resposta de pesquisa central + PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt. H13 — “T…
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  … GRAFOS_SAO....txt Natureza: TXT / checkpoint legado Função/contexto: 20 seções; genealogia, problemas, diferenças entre fé/física/metafísica, condições 0→1→2→N, glossário, limites; criado após pedido “falar de mim” Localização/proveniência: A, arquivo 20.879 bytes, 633 linhas; localizado em /…
+

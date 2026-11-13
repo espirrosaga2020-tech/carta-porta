@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: copie  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Formulário de Registro (copie, preencha e devolva ao Bruno) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-055.html
+  …central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Formulário de Registro (copie, preencha e devolva ao Bruno) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no docume…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …dade descartava como repetida uma fala semelhante, não apenas uma duplicata literal. - registry/personagens_ficcionais.v1.json : copies_identity=false e não identidade transferida entre chats têm função de honestidade sobre execução/identidade, mas não podem ser interpretados como veto ao estilo, ao…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …: no Início ( http://127.0.0.1:8790/inicio.html ), no cartão "Porta pra IA" , deixe o nome chatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não encontrado", o túnel não ligou: volte ao passo 3. Cole o texto num chat nov…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …Início ( http://127.0.0.1:8790/inicio.html ), no cartão "Porta pra IA" , deixe o nome chatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não encontrado", o túnel não ligou: volte ao passo 3. Cole o texto num chat novo do …
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …RENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html> Formulário de Registro (copie, preencha e devolva ao Bruno) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-055.html> 4. Forma…
+
+- Jornada, prova e registro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …nha e não está escrita assim em lugar nenhum? Mostre os dois endereços. onde olhar: qualquer parte; o caderninho Formulário de Registro (copie, preencha e devolva ao Bruno) Preencha tudo em texto e entregue ao Bruno. Ele cola no app CARTA, na página Registros das IAs, e salva. REGISTRO DE VIAGEM DA …
+
+- Começar a viagem · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …quão seguro estou): [IDEIA] O QUE EU IMAGINEI (não é fato): DÚVIDAS (com o endereço de onde nasceram): ESTADO DE ACESSO (o que abriu / o que falhou: URL + erro): PRÓXIMO EXPERIMENTO PROPOSTO: FIM DO REGISTRO 💬 Continuar esta viagem no ChatGPT [OBSERVAÇÃO] Não há chat integrado nesta página. Copie o …
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …e. Gere o link: no Início ( http://127.0.0.1:8790/inicio.html ), no cartão "Porta pra IA" , deixe o nome chatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não encontrado", o túnel não ligou: volte ao passo 3. Cole o text…
+

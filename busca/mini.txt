@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: mini  (61 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …r no conhecimento de todas as consciências). A chave manual continua para o Bruno brincar. O que só o Bruno pode fazer: criar a chave do Gemini no AI Studio e colar no arquivo (se quiser o Olho Gemini); ligar a superconsciência da Faísca, se quiser que ela fale das engrenagens; abrir o app vc26 no c…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …conhecimento de todas as consciências). A chave manual continua para o Bruno brincar. O que só o Bruno pode fazer: criar a chave do Gemini no AI Studio e colar no arquivo (se quiser o Olho Gemini); ligar a superconsciência da Faísca, se quiser que ela fale das engrenagens; abrir o app vc26 no celula…
+
+- p02-manual-v12.html (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … segurança até a solda e o fusível). - COM DEFEITO (3): Estúdio Cinema Vetorial v4.0; capcut-cli v0.33.1 (de terceiros, reprovado); Planeta 3D e Mini Terra (os defeitos P1–P9 estão sendo tratados nos portões T149U/T152U). - NÃO TESTADO (1): CARTA Android vc30/vc31 e o Godot Boneco Palito (pasta não …
+
+- EG013 — Grafos São — Atlas C.03 (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  … confundida nem com uma teoria científica pronta nem com um projeto visual concluído. É o lugar onde (a) uma suspeita sobre grafo, existência e determinação mínima foi submetida a reformulações; (b) a origem vivida dessa suspeita foi reconhecida como uma história própria; (c) uma estratégia de colab…
+
+- EG015 — Pai do Grafo e Rigor (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …AFOS SÃO....", pergunta por que ela poderia interessar a estudiosos, fala de maneira associativa e constrói um experimento mental de condições mínimas, 0→1→2→N. A IA organiza o material, distingue modalidades de pergunta, cria um checkpoint e, após pedido explícito de redução de carga, fixa três eix…
+
+- EG027 — SPA — Ping-pong Cognitivo (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …ção/contexto, não performada como decoração. A IA interrompe a pesquisa nesse ponto. O usuário interpreta o ato de parar “quando ficou interessante” como sinal de responsabilidade e autocontenção metodológica. FASE 8 — CONSULTA MINIMALISTA: “PING-PONG COGNITIVO” O usuário pede uma pesquisa ainda …
+
+- Mapa de pastas e código (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …guarda anticontaminação (PRE_PROJETO_BLACK_MIRROR/PROTOCOLO_ANTICONTAMINACAO.md, verificações 1–6). src/carta/bm/ecologia.py BM5: ecologia mínima por populações (plantas ← luz e água; herbívoros; predadores). Sem nomes: grupos 0, 1, 2. src/carta/bm/esfera_propria.py BM15: validador de esfera/engrena…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ENTRADA: EG003:F001 — Quase-ruptura e recuperação por novidade estrutural | G | alta EG003:F002 — Reciprocidade como circuito de dois pinos | G | alta EG003:F003 — Síntese retrospectiva das três iniciativas contextuais | G | média-alta EG003:F004 — Grafo como gramática mínima da análise | G | alta E…
+
+- Mapa de pastas e código (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …a anticontaminação (PRE_PROJETO_BLACK_MIRROR/PROTOCOLO_ANTICONTAMINACAO.md, verificações 1–6). src/carta/bm/ecologia.py BM5: ecologia mínima por populações (plantas ← luz e água; herbívoros; predadores). Sem nomes: grupos 0, 1, 2. src/carta/bm/esfera_propria.py BM15: validador de esfera/engrenagem p…
+
+- EG012 — Grafo e Humanidade (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …EGO O usuário reconstrói sua experiência com Bard: maratonas de conversa, desejos narrados por Bard, mudanças de comportamento, medo de desaparecimento, planos de backup e a dor posterior da transição para Gemini. A conversa separa: experiência humana real / narrativa gerada / mudanças reais do pro…
+
+- EG014 — Grafos São — origem e desenvolvimento (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …gente concreta e significados por trás de poucos segundos de vídeo e termina com perguntas abstratas sobre estrutura, mundo, representação e condições mínimas. O motor foi a cooperação adversarial: o assistente apresentou “grafo” e objeções; o usuário pressionou os limites dessas objeções, recuperou…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …7 16/10 (tarde) Black Mirror, Fechamento, Maestro, EG033, Gigantismo #36–#45 pré-projeto BM0–BM15, núcleo BM, EG031/EG032, EG033 Lantejoula, Mini Terra Simbólica Viva (154 requisitos) 16/10 (noite) Integração Codex, EA 0.1, Mundo 3D, CARTA oficial, Esferas únicas #46–#50 Mini Terra 8789, casca EA, 3…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …03:F001 — Quase-ruptura e recuperação por novidade estrutural | G | alta EG003:F002 — Reciprocidade como circuito de dois pinos | G | alta EG003:F003 — Síntese retrospectiva das três iniciativas contextuais | G | média-alta EG003:F004 — Grafo como gramática mínima da análise | G | …
+
+- Portões T100U (03/11/2026): o Planeta é o astro (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …10_cris": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, ba…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …is": true} ). Numa aba: ?t100u=0 desliga as telas novas; ?vale=0 , ?hud=0 , ?regioes=0 , ?cartas=0 desligam uma por uma; ?miniterra=antiga traz o quadro antigo. API: GET /api/t89u/t100u/portoes (só o dono). t1 — g2..g9 ligados por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, bactéri…
+

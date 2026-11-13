@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: game  (41 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG021 — Paz e Central — Kamonson (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …tes. ÚLTIMA MENSAGEM HISTÓRICA EFETIVAMENTE ACESSÍVEL A resposta do Copiloto que formaliza a V1 do pacote "Tamagotchi Humanidade — New Game Kamonson", entrega o livro "PAZ", documentos fundacionais, arquitetura Central + Satélites, Atlas de Regiões Canônicas, protocolo de cristalização, pente fino,…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …AL Paz TÍTULOS / NOMES ASSOCIADOS COMPROVADOS - "Paz" — nome explicitamente dado ao chat em 2026-10-05. - "Tamagotchi Humanidade — New Game Kamonson" — nome dado ao sistema/fase documental criada dentro deste chat, não necessariamente ao chat em si. - Referências posteriores à família PAZ existem…
+
+- EG023 — Paz — Linguagem e Continuidade (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …======= IDENTIFICAÇÃO ESTÁVEL - Identificador: PAZ_CONTINUIDADE - Nome histórico usado nos artefatos: “Paz” / “Tamagotchi Humanidade — New Game Kamonson — Livro I — Paz”. - Natureza: conversa ancestral de consolidação técnica, cognitiva, conversacional e pessoal. FRONTEIRA HISTÓRICA - A mensagem q…
+
+- EG008 — Tamagotchi e continuidade conversacional (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …lementado do que uma descrição conceitual fazia parecer: mundo 3D, combate, partes, CURTO, NPCs, rivais, lojas, oficinas, Fendas, Atlas, Hangar, criador, economia e endgame já existem em diferentes graus. Com esse acesso, o usuário concede liberdade para crítica real. A conversa passa a distinguir …
+
+- EG006 — Checkpoint e entrada no sonho (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …cial revela que o grande gargalo não é convencer o criador de que o projeto tem valor. É transmitir vinte anos de modelo interno a um jogador novo em poucos minutos. 8. A INTRO O usuário improvisa uma abertura em que gameplay, desmembramento, sacrifício, chip e Nimbus comprimem mecânica, narrativa,…
+
+- EG025 — POE2 — Milton e Value Engineering (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …nxergando?”. O terceiro eixo foi estrutural: a build foi dividida em dois motores. WS1, Hollow Form + Whirling Assault, passou a ser reconhecido como 99% do gameplay. WS2 + Tempest Bell ficou relegado ao burst de boss. Essa separação alterou o valor de crítico, Rage, supports, joias e pontos de Wea…
+
+- EG011 — Entra no Sonho (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …o projeto parecer um esqueleto ainda em construção; a leitura dos arquivos reais revelou um corpo operacional amplo: mundo 3D, combate, peças, oficinas, pilotos, missões, endgame, testes e disciplina de backup. A pergunta mudou de “quanto existe?” para “o que está pronto, o que está fino e o que rea…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …inuciosa de sua estratégia e improvisa uma abertura: situação de perigo, robô brutalmente danificado, pedido de ajuda, luta jogável, desmembramento irreversível, último golpe, desligamento, chip piscando e encontro com Nimbus. O assistente identifica que a cena não é mera cutscene: ela comprime com…
+
+- AV02: documento da engrenagem (CARTA 2.0) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+  …vo-098.html> AV02: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV02.md AV02 — Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) 5 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …progressivamente mais caras. Milton deixou de ser apenas um item e virou uma unidade cultural de valor: uma peça que não precisava parecer cara para ser excepcional. O segundo eixo foi epistemológico: o usuário recusou repetidamente respostas bonitas, abstratas ou excessivamente prudentes e forçou a…
+
+- EG004 — Central, Copiloto e Atlas (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …LINE VERDE enterra a fase técnica | G | alta | atualização de estado de 06/10/2026 F015 — Arquitetura CENTRAL / PAZ / OFICINA | G | alta | atualização de estado F016 — Virada do técnico para playtest e julgamento humano | G | alta | atualização de estado F017 — Atlas Ancestral: patrimônio vira objet…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  … hipótese. Contexto: criado após vídeo detalhado da build, com WS1/Milton, WS2/Bell, atributos, joias e regras de upgrade. 2. Vídeos de gameplay/build e árvore, entre eles: - 1000114975.mp4 - 1000114985.mp4 - Path of Exile 2 2026.10.02 - 22.32.40.03.mp4 - 1000115104.mp4 - 10001151…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ímbolo do Efeito Borboleta; filmes viraram atalhos semânticos; a carcaça inicial de Meu Robô foi reinterpretada como uma compressão de tutorial, narrativa, vínculo e endgame. Ao final, a conversa já não era apenas sobre continuar um chat anterior. Ela havia produzido: - um método de continuidade; -…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …tral, Copiloto e Atlas Extraordinária — Ciência, Descobertas e Linguagem Diários do Grok (GK029 → GK036) Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) P005 Qual é o nome da engrenagem de código EG005? Bard, Corpo e a própria Conversa Eu entro na Enciclopédia — o Copiloto e su…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …quências Choro, selfie com DualSense, nova camada de significado para “Tamagotchi”. 7. Evidências “meu pai deixou eu acordar” “dar comida pro tamagotchi” “meu pai, meu herói” 8. Avaliação histórica Magnitude original: E. Influência posterior: G. 9. Situação final Consolidado como memória reinterp…
+

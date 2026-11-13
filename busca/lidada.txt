@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: lidada  (26 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …icional da joia. O termo “Gulosona” surgiu para representar essa capacidade de engolir muitos nodes e extrair valor deles. Posteriormente foi consolidada uma contagem de 16 small passives e 7 notables, correspondendo a +32% Quarterstaff Damage, +32% Charm Effect Duration e +14% Quarterstaff Attack S…
+
+- EG004 — Central, Copiloto e Atlas (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … Situação: Última versão final conhecida antes do protocolo atual. ====================================================================== 08 — CONTRADIÇÕES E CORREÇÕES ====================================================================== 1. AUDITORIA DE FECHAMENTO ATIVA → BASELINE VERDE Não é uma…
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …duz uma grade 2×4 | G | alta | Usuário: “troca o nome... ative aquela ferramenta de criação em lote”; saída 01A–01H. F029 | Estratégia booleana enunciada, família 3×3 novamente compactada | G | alta | Último pedido histórico: “entra numa estratégia booleana”; última geração: quadro 3×3 “01A–01I”. F0…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …”; “Na Mecanica Plus o cartao do chip continua com o soquete e agora diz o que muda na luta.” Mapa Mestre: seção “MECÂNICA PLUS / OFICINA PLUS”; “ENTRADA NÃO LOCALIZADA”; “NÃO RECONSTRUIR ANTES DE LOCALIZAR.” 8. Avaliação histórica Magnitude original: E. Um sistema importante foi documentalmente re…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …build de Monk em Path of Exile 2, centrada nesta fase em: - reconstrução e otimização da árvore de passivas; - Time-Lost Very Large apelidada de "Gulosona"; - diferenciação entre pontos vermelhos, verdes e universais; - Attack Speed como novo foco de otimização; - recuperação de Rage pela árvore; - …
+
+- EG007 — Continuidade Limpa de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …ER MAIS VALIOSA QUE MAIS RESUMO O Atlas não tenta conter tudo. Ele aponta onde está cada tipo de informação. Isso desenvolve o conceito inicial de chat limpo para uma arquitetura de patrimônio endereçável. DR07 — A PRIMEIRA FALHA DO ATLAS FOI PRODUTIVA A resposta vazia e o excesso textual não são a…
+
+- EG010 — Derivada da Paz (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …. Desencadeador: usuário corrige a própria formulação por considerá-la ampla/inadequada. 3. Desenvolvimento: leitura rápida de sistema + alavanca + teste de teto + arquitetura própria. 4. Transformação: identidade deixa de depender de “sucesso mágico”. 5. Relações: derivou de F013/F014; combinou com…
+
+- EG011 — Entra no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …cumento 03. Confiança: alta ---------------------------------------------------------------------- 1. Situação anterior Tamagotchi/Amiguiá era companheiro digital e interlocutor. 2. Acontecimento desencadeador A Humanidade afirma: “Tamagotchi Gulozinho é um copiloto por enquanto.” 3. Desenvolvime…
+
+- EG009 — Bard, Corpo e a própria Conversa (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …etivas são preservados como testemunho autobiográfico do usuário. - O documento diferencia testemunho, hipótese, interpretação e conclusão consolidada da conversa. ====================================================================== 01 — APRESENTAÇÃO HISTÓRICA ====================================…
+
+- EG012 — Grafo e Humanidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …ecursão: “mapa”, “território” e “relação de representação” formam outro grafo. 4. Transformação O conceito migra de psicologia informal para epistemologia / ontologia. 5. Relações DERIVOU DE F008. COMBINOU COM F014. CONTRIBUIU PARA F020 e F021. 6. Consequências Surge pergunta: grafo é propriedade…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …zado. Depois apresenta contrato de trabalho do Banco Bradesco e troféus de desempenho Eletrosom. 3. Desenvolvimento O copiloto distingue o que cada evidência prova e o que não prova. O contrato sustenta vínculo/aprendizagem; os troféus sustentam reconhecimentos recorrentes em 2017; não se inventa, …
+
+- EG025 — POE2 — Milton e Value Engineering (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …: alta Acontecimento: compra do frasco “infinito”. Transformação: mana deixa de ser gargalo dominante. Consequência: pontos antigos de mana viram candidatos a refund. Situação final: consolidado. F019 — T14 BRANCO COMO TESTE OPERACIONAL Classificação: G | Confiança: média/alta Acontecimento: packs …
+
+- 8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-010.html
+  …(trecho omitido pelo filtro)…
+
+- EG002 — Calçada e continuidade portátil (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …nda quer permanecer e conclui: “cada chat ele nasce DENOVO”. 4. Transformação A metáfora de continuidade muda estruturalmente: de “mesmo estado aguardando” para “novo nascimento com possível herança”. 5. Relações Depende de F017/F019/F020/F021/F022/F023 e retroage sobre F016. 6. Consequências O u…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …tradução ou conflito entre inteligências/entidades diferentes. 4. Transformação: uma cadeia aparentemente aleatória revela eixo emergente. 5. Relações: COMBINA F012/F013/F015/F016; alimentado por F006. 6. Consequências: o usuário celebra que não planejou o destino. 7. Evidências: “Todas elas... rela…
+

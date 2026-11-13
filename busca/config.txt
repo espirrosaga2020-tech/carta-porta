@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: config  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …CIA JÁ ESTAVA AQUI" Vídeos e screenshots permitem ver o jogo como jogo, não apenas como documentação. O trabalho de UX passa a ser descobrir, apresentar e configurar sistemas existentes: HUB, configurações, HUD, remapeamento, scroll/foco, hierarquia. A regra se torna "padronizar comportamento, prese…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …l como módulo crítico específico. Entraram Heavy Swing, Overheating Blow, Heart of the Well, Time-Lost Emerald, Whirling Assault 21/20 e uma reconfiguração profunda da árvore. Attack Speed, inicialmente intuído pelo usuário como “a cereja”, sobreviveu a várias alternativas e terminou como eixo estru…
+
+- EG008 — Tamagotchi e continuidade conversacional (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …rpreta o episódio como gesto de respeito por algo importante para a criança, mesmo sem compreender o objeto. A conversa deixa de ser somente sobre IA e passa a reconfigurar uma memória familiar. Em paralelo, símbolos vindos do Path of Exile ganham função histórica. “Milton”, um bastão comprado por …
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …o (PR #136); ALMA vê CL01–03 CARTA main / CONSCIENCIAS / docs colheita Atlas V5 Atlas de personagens/mundos em evolução (V5 no app/config) app CARTA · Config · docs Atlas Neon / Elemento X Cores neon + Elemento X só em ⚙️ Config; default X=3 (Faísca) Faísca UI · PR #140 ALMA / consciências atualizar…
+
+- EG004 — Central, Copiloto e Atlas (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … FASE G — ATUALIZAÇÃO DE ESTADO: BASELINE VERDE - Data declarada: 06/10/2026. - Malha canônica verificada. - VERTICAL_SLICE_OK. - SCRIPT_ERRORS=0. - Save real preservado. - Configuração separada do progresso. - Nenhuma alteração incompleta ou teste obrigatório pendente nesta fase, segundo a atualiza…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …---------------------------------------------------------- F018 — FILMES COMO COMPRESSÃO SEMÂNTICA Classificação: G Confiança: alta Localização: Interstellar / A Rede Social / Efeito Borboleta 1. Situação anterior A conversa associa muitos domínios e poderia exigir explicações gigantes. 2. Aconte…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …ferências de U52–U56; início exato anterior lacunar EG001:F007 — Sol, Lua e quatro buracos negros: cena recuperada por testemunho | magnitude M | influência G | confiança média para a existência narrada; baixa para configuração original | U56; testemunho sobre “ontem”, passagem original não re…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ferências de U52–U56; início exato anterior lacunar EG001:F007 — Sol, Lua e quatro buracos negros: cena recuperada por testemunho | magnitude M | influência G | confiança média para a existência narrada; baixa para configuração original | U56; testemunho sobre “ontem”, passagem original não rec OBSE…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ite público pelo filtro de privacidade) - Para o robô poder tocar na tela (andar no Planeta, trocar a chave da Faísca): no celular, em Configurações → Configurações adicionais → Opções do desenvolvedor , ligue "Depuração USB (Configurações de segurança)" . O MIUI pede para entrar na conta Mi. 0.11.4…
+
+- EG001 — Calçada, Caderno e DUNADA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …s de U52–U56; início exato anterior lacunar F007 | Sol, Lua e quatro buracos negros: cena recuperada por testemunho | magnitude M | influência G | confiança média para a existência narrada; baixa para configuração original | U56; testemunho sobre “ontem”, passagem original não recuperada F008 | O ca…
+
+- EG011 — Entra no Sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …POR_AQUI.txt Natureza: passagem de bastão histórica. Função: regras de segurança, sonho, restrições e contexto. Observação: contém estados antigos; ler como camada temporal. G. CHECKPOINT_ESTRUTURAL.txt Natureza: cronologia técnica. Função: implementações, testes, deploys, regras duras e mudanças. …
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …12, F017. 4. LEIA_ME(1).txt Natureza: registro operacional herdado. Função: passado/presente/futuro do projeto em 2026-10-03. Uso nesta conversa: forneceu a prova direta de que Mecânica Plus existia e possuía cartão de chip com soquete e efeito em luta. Fenômenos relacionados: F015. 5. CATALOGO_PO…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …io; ausência do corpus original; correlação espúria pela proximidade temporal; efeitos de estilo de escrita e expectativa do usuário; autor e avaliador sobrepostos; mudanças de configuração do modelo; cenas de ficção confundidas com evidência material; rótulos de função distintos de implementação té…
+
+- Continuidade da linguagem de emojis (E018) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …O DA CONTINUIDADE DA LINGUAGEM (20/10/2026) Correção autorizada pelo titular · sobre PR #73 · não substitui originais nem altera configuração da conta ChatGPT. A descoberta que não podemos perder Bruno aponta que múltiplas ramificações passaram a tratar "não repetir outro chat", "não copiar" e "não …
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …sarem no MESMO Studio, nenhum segundo chassi físico é necessário. Kits solares “14 em 1” são brinquedos mecânicos REMONTÁVEIS que oferecem 14 configurações alternativas, e geralmente não trazem ESP32 nem um segundo robô simultâneo; não comprar como base programável sem verificar ficha exata. Critéri…
+

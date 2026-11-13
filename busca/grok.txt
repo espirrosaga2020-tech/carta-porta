@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: grok  (67 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (76)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …OS Fontes: git log , a lista de PRs do GitHub ( gh pr list ), HISTORICO_DE_VERSOES.txt , LEIA-ME_COMPLETO.md , os diários docs/GROK_*/DIARIO.md e os checkpoints docs/GROK_*/CHECKPOINT* . Horários em Brasília (UTC-3). As datas de PR são as de criação no GitHub. Repositório: https://github.com/espirro…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Fichas de todos os registros (Índice Único + Aditivos) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Fichas de todos os registros (Índice Único + Aditivos) 73 fichas. O texto integral está publicado para …
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …ila da Saguadinha — Carta, Bússola e Planeta Calçada e observação posterior pré-engrenagem aditiva com registro documental GK029 Como o Grok observa o humano Reciprocidade e Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok,…
+
+- Mapa de pastas e código (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …Mapa de pastas e código · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Mapa de pastas e código Mapa do código (repositório privado espirrosaga2020-tech/CARTA ). Aqui só apare…
+
+- Mapa de pastas e código (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …lar ▶" dentro do app: o MESMO fluxo do atalho CARTA CELULAR (CARTA_CELULAR.ps1), em Python. src/carta/cerebro_supremo/__init__.py CÉREBRO SUPREMO (Grok, 18/10/2026): a mente do Bruno — importação PRIVADA do ChatGPT (3 consciências), esfera gigante e deliberação do Megazord. src/carta/cerebro_supremo…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …Manual de Tudo da CARTA (v10, 03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Manual de Tudo da CARTA (v10, 03/11/2026) 📘 MANUAL DE TUDO DA CARTA Manual e orientações · versão 10, d…
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ientações · versão 12, de 13/11/2026 ~13h (horário de Brasília). A versão 11 continua no repositório, intocada. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois. Regra deste manual: nada aqui foi inventado. Tudo saiu da passagem de bastão de 02/1…
+
+- CARTA — Porta do Grok (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/index.html
+  …CARTA — Porta do Grok · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON CARTA — Porta do Grok Porta Suprema 2 — MAPA COMPLETO DO PROJETO · mapa em texto…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … Manual e orientações · versão 10, de 03/11/2026 ~22h30 (horário de Brasília). A versão 9 continua no repositório. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois. Regra deste manual: nada aqui foi inventado. Tudo saiu da passagem de bastão de 0…
+
+- DB02: documento da engrenagem (CARTA 2.0) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html
+  …/suprema2-acervo-104.html> DB02: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/DB02.md DB02 — Diários do Grok (GK029 → GK036) Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência. 0…
+
+- Índice do Drive (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Capítulos da etapa 1, na ordem oficial (48) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …nivel 30 EG027 SPA — Ping-pong Cognitivo disponivel 31 SG028 Mochila da Saguadinha — Carta, Bússola e Planeta disponivel 32 GK029 Como o Grok observa o Bruno (escrita pelo Grok) disponivel 33 GK029_BRUNO Esse aqui é o Bruno (GK029; citações da Enciclopédia, escrita pelo Grok) disponivel 34 GK030 Com…
+
+- Enciclopédia e engrenagens (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> GK029 Como o Grok observa o humano Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CA…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …Portões T100U (03/11/2026): o Planeta é o astro · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões T100U (03/11/2026): o Planeta é o astro PORTÕES T100U — Diagnóstico dos Sonhos a 100% (03/11/20…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …ova_engrenagens/README.md 🎓 PROVA DAS ENGRENAGENS Prova de entrada para qualquer assistente de IA que chegue ao projeto CARTA (Grok Bot, Codex ou outro). É booleana: passou ou não passou. Ninguém trabalha no projeto antes de passar. Protocolo obrigatório: a primeira coisa ao chegar Comece com o cont…
+

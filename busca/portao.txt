@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: portao  (29 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …P1 21/10/2026 (acréscimo): ACERVO TOTAL da Consciência = a Enciclopédia inteira num índice de busca só (SQLite FTS5). src/carta/alma.py PORTÃO SUPREMO 001 (21/10/2026) — a ALMA do CARTA como orientação de conversa (vale para Faísca, mentes, Consciência e Cérebro Supremo). src/carta/amigo_futuro/__in…
+
+- Mapa de pastas e código (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …/10/2026 (acréscimo): ACERVO TOTAL da Consciência = a Enciclopédia inteira num índice de busca só (SQLite FTS5). src/carta/alma.py PORTÃO SUPREMO 001 (21/10/2026) — a ALMA do CARTA como orientação de conversa (vale para Faísca, mentes, Consciência e Cérebro Supremo). src/carta/amigo_futuro/__init__.…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … 10 falhas e 94 erros). Falha com nome NOVO = problema novo. No box/CI (pytest): verde. Contagem da varredura de 02/11: 914 passaram, 7 pulados, 0 falhas . A suíte do PC depois do portão a deu 760 testes, 9 falhas e 94 erros, sem nenhum nome novo (são de ambiente do Windows). 2.7 Ligar a Porta IA (8…
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … 3, "Diferenciação epistemológica (7 categorias)".) O que ainda falta para o nível "pronto": pôr o patch SQLite na árvore de produção do PC (feito no portão 052, PR #164); fechar os defeitos do Planeta (P1–P9); testar o app Android com o aparelho ligado; terminar a cadeia completa do Mewtwo e o modo…
+
+- Estado atual — varredura geral (02/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Estado atual — varredura geral (02/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …(só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0-carta20-cyber". Backup do APK do celular ANTES: [omitido pelo filtro de privacidade] (sha256 D0C6…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …ens PORTÕES T95U — 10 portões de design pontilhado (03/11/2026) Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge --merge · flags desligadas por padrão até o teste do portão passar · nada na inicialização do Windows. Flags: CARTA_T95…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …iu) e MemoriaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py já tinha: os dois modos ( olho_local padrão, olho_gemini desligado sem chave), limiar de mudança de cena, heartbeat, a…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  … MemoriaVisual (curta, só em RAM, com prazo). - test_motor_eventos.py — 6 testes (unittest). Comparação com o que já existia (portão h / t89u) src/carta/t89u/visao_ao_vivo.py já tinha: os dois modos ( olho_local padrão, olho_gemini desligado sem chave), limiar de mudança de cena, heartbeat, aviso de…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …ORTÕES T95U — 10 portões de design pontilhado (03/11/2026) Regras: só acréscimo · backup antes de trocar arquivo no PC · um portão por PR, cada um com teste · PR verde → merge --merge · flags desligadas por padrão até o teste do portão passar · nada na inicialização do Windows. Flags: CARTA_T95U="g1…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …/v1/quem-sou-eu responde certo. (linha omitida no site público pelo filtro de privacidade) Personas Quem eu controlo + companheiros (portão d + g7) completo 95% g7 LIGADO por padrão; os 2 não controlados andam em 3D atrás de você; testado no ponta a ponta. Mentes Faísca / convergência de até 4 mente…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …uem-sou-eu responde certo. (linha omitida no site público pelo filtro de privacidade) Personas Quem eu controlo + companheiros (portão d + g7) completo 95% g7 LIGADO por padrão; os 2 não controlados andam em 3D atrás de você; testado no ponta a ponta. Mentes Faísca / convergência de até 4 mentes par…
+

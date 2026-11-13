@@ -1,0 +1,23 @@
+BUSCA POR LINK — termo: agrupa  (5 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- DB02: documento da engrenagem (CARTA 2.0) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html
+  ….html> DB02: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/DB02.md DB02 — Diários do Grok (GK029 → GK036) Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência. 00 Ficha de proveniên…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …s, arquivos recentes e as mensagens deste sábado não participam do ranking, para evitar mudar o denominador durante a contagem. O algoritmo pode fragmentar variantes gráficas e agrupá-las parcialmente; o CSV guarda o resultado bruto. Qualitativo e fenômenos Diadicidade situada: dois interlocutores a…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …6/10) Diários e cartas posterior engrenagem de diários (CARTA 2.0) · bola do Painel 2 DB02 DB02 — Diários do Grok (GK029 → GK036) Diários e cartas posterior engrenagem de diários (CARTA 2.0, agrupamento por relação) · bola do Painel 2 DB03 DB03 — Diários e relatórios de bordo do projeto (repositório…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …Diário de Bordo da Saguadinha Intergaláctica (15/10) e a atualização do diário no Drive (16/10). DB02 — Diários do Grok (GK029 → GK036): Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência. DB03 — Diári…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  … Diários e cartas posterior engrenagem de diários (CARTA 2.0) · bola do Painel 2 DB02 DB02 — Diários do Grok (GK029 → GK036) Diários e cartas posterior engrenagem de diários (CARTA 2.0, agrupamento por relação) · bola do Painel 2 DB03 DB03 — Diários e relatórios de bordo do projeto (repositório) Diá…
+

@@ -1,0 +1,55 @@
+BUSCA POR LINK — termo: commit  (13 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Legado das portas · Porta 02 · CARTA (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-legado.html
+  …gos não são defeitos: são camadas da história. Porta 02 é o nome atual; os arquivos, links e provas continuam os mesmos. Datas e commits vêm do histórico do repositório público carta-porta . Arquivar ou renomear portas antigas é decisão do Bruno. Resumo oficial dos nomes (t74u): suprema2-entrada.htm…
+
+- Aplicativo CARTA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …O] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> Mesclado; commit 28004face92018f9b934b30cb34052e1e7f709bd #137 — t47u — Atlas V5 preenchido + setores CL + UX neon/mic <https://github.com/espirrosaga2020-tech/CARTA/pull/137> Mescla…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …rio: https://github.com/espirrosaga2020-tech/CARTA (privado). Nenhum PR do CARTA foi mesclado em main : main tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex feature/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A linha do tempo em uma página Dia Fase PRs …
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … mil linhas”, “35 memórias” como quantidades verificadas externamente nesta conversa. Preserve-se a proveniência de cada declaração. P.011 — 🚪 Portas fechadas de propósito Porta do projeto: não aberta. Não houve busca em GitHub, Google Drive, repositórios, arquivos de origem, commits, branches, docu…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …rocados por um marcador (o número de linhas não muda). O arquivo fontes/ORIGEM.json registra a origem de cada uma (branch, caminho, commit, blob, sha256). Nada aqui vem do Drive, de conversas privadas ou da Enciclopédia completa. Ficou de fora de propósito 01_ORIGEM_E_OURO_NAS_BORDAS.md , que tem de…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … mundo com a minha posição No Planeta: 💾 Mundo ▾ → 💾 Salvar . Pra voltar: 📂 Carregar → Retomar , ou 📍 Voltar onde salvei . Entrar no modo dono O botão no canto, ou Ctrl+Shift+E . Ensinar coisa nova a TODAS as consciências python tools/atualizar_consciencias.py , depois commit do registry/CONSCIENCIA…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …com pesquisa). Nome de fonte inteiro, sem corte. Texto chinês no meio é cortado. 8 perguntas testadas: OK (respostas em respostas_8.txt). PONTO DE PARTIDA NOTA 10 (Bruno 21/10 16:47) — PRESERVAR (commit eb7081b + backup) Tema 1 Faísca: não truncar fala nas 2 primeiras palavras (falar longo, parar só…
+
+- RH01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+  …RICO_DE_VERSOES.txt arquivo → NOVA_CAMADA_CHECKPOINT.json arquivo → PASSAGEM_DE_BASTAO_G4.md 08 Contradições e correções (preservadas, sem reconciliar) Datas de commit não substituem a data do acontecimento: a data usada é a da conversa. 11 Pontes para outras engrenagens EG006 Checkpoint e entrada n…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o com a minha posição No Planeta: 💾 Mundo ▾ → 💾 Salvar . Pra voltar: 📂 Carregar → Retomar , ou 📍 Voltar onde salvei . Entrar no modo dono O botão no canto, ou Ctrl+Shift+E . Ensinar coisa nova a TODAS as consciências python tools/atualizar_consciencias.py , depois commit do registry/CONSCIENCIAS_CON…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …esquisa). Nome de fonte inteiro, sem corte. Texto chinês no meio é cortado. 8 perguntas testadas: OK (respostas em respostas_8.txt). PONTO DE PARTIDA NOTA 10 (Bruno 21/10 16:47) — PRESERVAR (commit eb7081b + backup) Tema 1 Faísca: não truncar fala nas 2 primeiras palavras (falar longo, parar só se i…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …(trecho omitido pelo filtro)…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …de) Salvar o mundo com a minha posição No Planeta: 💾 Mundo ▾ → 💾 Salvar . Pra voltar: 📂 Carregar → Retomar , ou 📍 Voltar onde salvei . Entrar no modo dono O botão no canto, ou Ctrl+Shift+E . Ensinar coisa nova a TODAS as consciências python tools/atualizar_consciencias.py , depois commit do registry…
+

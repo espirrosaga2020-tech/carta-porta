@@ -1,0 +1,31 @@
+BUSCA POR LINK — termo: vc16  (7 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …iência: segue a seção 2.7, passo a passo. Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechado…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …a: segue a seção 2.7, passo a passo. Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, …
+
+- p02-manual-v12.html (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …ência: segue a seção 2.7, passo a passo. Como estava em 02/11 (varredura) — o de hoje está na seção 0.1 logo abaixo: Celular no app vc16 (1.12.0) , instalado por cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Estado atual — varredura geral (02/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …igado (só em 127.0.0.1) para testar o Faísca do APK novo. Nada foi apagado ou movido. Segredos: só caminhos. 1. Celular — APK vc16 (portão g) Aparelho: Mi 9 Lite (3610a429), pelo cabo USB. Antes: vc15 "1.11.0-carta20-cyber". Backup do APK do celular ANTES: [omitido pelo filtro de privacidade] (sha25…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  … novo só no final, versionCode maior flag: t89u_g_apk (desligada) Python: carta/t89u/apk.py critério booleano (todos verdadeiros para fechar): [x] versionCode novo > 15 (nunca rebaixa) — vc16 "1.12.0-carta20-t89u" (02/11) [x] gerado só quando o Bruno pedir para instalar no celular — pedido t93u (02/…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  … só no final, versionCode maior flag: t89u_g_apk (desligada) Python: carta/t89u/apk.py critério booleano (todos verdadeiros para fechar): [x] versionCode novo > 15 (nunca rebaixa) — vc16 "1.12.0-carta20-t89u" (02/11) [x] gerado só quando o Bruno pedir para instalar no celular — pedido t93u (02/11) […
+

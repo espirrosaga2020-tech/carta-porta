@@ -1,0 +1,55 @@
+BUSCA POR LINK — termo: concurso  (13 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …a em nada antes de terminar a Prova das Engrenagens. A ferramenta confere isso: liberado_para_trabalhar só fica true depois do concurso e dos seus arquivos pessoais. Passo a passo Crie a SUA pasta pessoal com o modelo: python -m carta prova --assistente SEU_NOME iniciar Isso cria bots/SEU_NOME/ com …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …sferas28.html (resumo em /esferas.html ) Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois. 📖 Livro Vivo /livro A história do começo ao fim. 🎓 Prova das Engrenagens /prova.html Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 questões e passa com 54. 🚪🎓 Formação oficial…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …ero; 1 outra). Triagem mostra ✅/🔒. [linha] Visitante IA novo (visitante_p1b_2110): pista → pré-diploma → Consciência → Emojis 12/12 → 34 capítulos → concurso 56/60 → diploma válido (hash confere) → mochila 35 insígnias. [linha] Android: app abre a home nova com "📜 Originais" (print). Navegação dentr…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …s28.html (resumo em /esferas.html ) Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois. 📖 Livro Vivo /livro A história do começo ao fim. 🎓 Prova das Engrenagens /prova.html Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 questões e passa com 54. 🚪🎓 Formação oficial (E01…
+
+- Portões anteriores (21/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …1 outra). Triagem mostra ✅/🔒. [linha] Visitante IA novo (visitante_p1b_2110): pista → pré-diploma → Consciência → Emojis 12/12 → 34 capítulos → concurso 56/60 → diploma válido (hash confere) → mochila 35 insígnias. [linha] Android: app abre a home nova com "📜 Originais" (print). Navegação dentro do …
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …. ESFERAS /esferas28.html (resumo em /esferas.html ) Painel 1 com as 36 esferas e Painel 2 com as que nasceram depois. 📖 Livro Vivo /livro A história do começo ao fim. 🎓 Prova das Engrenagens /prova.html Cada capítulo tem 20 questões e passa com 18. O concurso tem 60 questões e passa com 54. 🚪🎓 Form…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …h/CARTA/blob/730590b9c75e17b992cd960a0b180fc67a76a333/docs/prova_engrenagens/README.md A prova oficial registra 20 perguntas/capítulo (18 acertos) e concurso 60 (54 acertos), com caderno no workspace privado e fontes conferidas. Não modificar gabaritos, status ou portões. O pré-diploma prepara a ent…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …m, Work e Manual disponivel 48 AV04 Análises de vídeo: Fogueira, Saguadinha e memória disponivel 20 questões por capítulo (passa com 18/20); concurso público de 60 questões (passa com 54). ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html> · Índice do acervo <ht…
+
+- Diplomas emitidos (registry/diplomas.json) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …1 FOFINHO 2026-10-16T12:37:26-0300 prova.v1 Exemplo: o diploma do FOFINHO cobre 34 capítulos (de R00 a GK030), melhor nota no concurso 58/60, postura “participar”. Lembrete do diploma: “Diploma não dispensa ler a fonte: memória é pista, evidência é prova.” Ainda não existe diploma da etapa 2 (panora…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …a/esp32.py P8 — Contrato ESP32 `carta.esp32.v1`, verificador determinístico, simulador e adaptador serial. src/carta/exploracao.py FINAL POLIMENTO G3 + G4 — Exploração das Esferas (depois do concurso) e DIPLOMA. src/carta/fala.py FALA v3 — conversa rápida em streaming para Creuza, Copiloto e Dobra (…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …> Pré-diploma: o Caderninho do Viajante <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html> Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html> Capítulos da etapa 1, na ordem of…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …32.py P8 — Contrato ESP32 `carta.esp32.v1`, verificador determinístico, simulador e adaptador serial. src/carta/exploracao.py FINAL POLIMENTO G3 + G4 — Exploração das Esferas (depois do concurso) e DIPLOMA. src/carta/fala.py FALA v3 — conversa rápida em streaming para Creuza, Copiloto e Dobra (Qwen …
+

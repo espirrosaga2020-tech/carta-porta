@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: vc21  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Celular sem cabo (app vc20, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …filtro de privacidade] . T102U (03/11/2026 ~17h, horário de Brasília): Planeta Godot LEVE dentro do celular O que mudou: o APK vc21 (1.17.0-carta20-t102u, 82,6 MB) leva uma versão leve do jogo Godot (Porto Parafuso) em /godot_leve/ . Antes o jogo tinha 154 MB de pacote (texturas sem perda); a versão…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …m o PC DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/CELULAR_SEM_CABO_T101U.md). T102U: vc21 (1.17.0-carta20-t102u, 82,6 MB) leva o Planeta Godot LEVE dentro (texturas WebP com perda: pck 154 → 38 MB); em modo avião o Porto Parafuso abriu…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …C DESLIGADO: Planeta (58 FPS), Meu Robô, Mini Terra, DeLorean e Início abrem do próprio celular (docs/CARTA20/CELULAR_SEM_CABO_T101U.md). T102U: vc21 (1.17.0-carta20-t102u, 82,6 MB) leva o Planeta Godot LEVE dentro (texturas WebP com perda: pck 154 → 38 MB); em modo avião o Porto Parafuso abriu e de…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …0-t103u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado. FPS do Godot no celular: medido sem tocar na tela, pelo adb logcat (linh…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …ó posição, nada removido). T102U (03/11 ~17h): o "Godot dentro do APK" saiu na versão LEVE (texturas WebP com perda: pacote 154 → 38 MB, APK vc21 com 82,6 MB). No celular real, em modo avião, o jogo abriu e desenhou sem mexer no User-Agent nem na camada de hardware do app; as 3 armadilhas não aparec…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …3u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado. FPS do Godot no celular: medido sem tocar na tela, pelo adb logcat (linha CAR…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …ição, nada removido). T102U (03/11 ~17h): o "Godot dentro do APK" saiu na versão LEVE (texturas WebP com perda: pacote 154 → 38 MB, APK vc21 com 82,6 MB). No celular real, em modo avião, o jogo abriu e desenhou sem mexer no User-Agent nem na camada de hardware do app; as 3 armadilhas não apareceram …
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …4 (1.18.2-carta20-t103u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21, 03/11 ~17h30). Fica registrado como teste manual aprovado. FPS do Godot no celular: medido sem tocar na tela, pelo …
+

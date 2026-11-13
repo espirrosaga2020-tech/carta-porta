@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: mesclado  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Aplicativo CARTA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …— [RASCUNHO] t41u — CL01–CL03 Colheita NEXUS 29/10–05/11 (não mesclar) <https://github.com/espirrosaga2020-tech/CARTA/pull/136> Mesclado; commit 28004face92018f9b934b30cb34052e1e7f709bd #137 — t47u — Atlas V5 preenchido + setores CL + UX neon/mic <https://github.com/espirrosaga2020-tech/CARTA/pull/1…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …e PR são as de criação no GitHub. Repositório: https://github.com/espirrosaga2020-tech/CARTA (privado). Nenhum PR do CARTA foi mesclado em main : main tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex feature/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …do PR #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026) Feita pelo Grok Bot em 03/11/2026 (tarefa t94u). O PR #99 não foi mesclado, nem fechado, nem alterado. O que serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascun…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  … #99 — "Laboratório Olhos Vivos" (Copiloto, 03/11/2026) Feita pelo Grok Bot em 03/11/2026 (tarefa t94u). O PR #99 não foi mesclado, nem fechado, nem alterado. O que serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): …
+

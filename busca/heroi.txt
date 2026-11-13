@@ -1,0 +1,59 @@
+BUSCA POR LINK — termo: heroi  (14 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …eb/public/t95u/LICENCAS.md . g1 — inspiração extra: Heroes of Might and Magic 3 (pedido t97u, 03/11/2026) Vista de mapa-mundo (câmera alta e inclinada, norte para cima) com um herói a cavalo (estandarte e capa). Clique no chão = caminho de setas verdes ; o herói cavalga até lá e o mundo carrega em v…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …blic/t95u/LICENCAS.md . g1 — inspiração extra: Heroes of Might and Magic 3 (pedido t97u, 03/11/2026) Vista de mapa-mundo (câmera alta e inclinada, norte para cima) com um herói a cavalo (estandarte e capa). Clique no chão = caminho de setas verdes ; o herói cavalga até lá e o mundo carrega em volta …
+
+- p02-t152u-portoes.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …s de fora; RELATORIO = fonte não encontrada. nº bloco portão estado 001 1 G0 foto/backup/hashes + hash do main FEITO 002 1 Herói NÃO liga sozinho (fonte) FEITO 003 1 Botão opcional e discreto do herói + ?heroi=1 continua ligando FEITO 004 1 Câmera 3ª/1ª pessoa SEGUINDO personagem e carro (aventura i…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …scenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30) foi escrita antes da varredura geral do PC…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …a a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30) foi escrita antes da varredura geral do PC sair…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …centa a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1. Versão 3: a versão 1 (~20h30) foi escrita antes da varredura geral do PC …
+
+- Diagnóstico dos Sonhos (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  … com o Bruno. Gráficos Gráficos estilo Witcher 3 / BG3 (f + g1) parcial 85% g1 ligado no preset medido; ?atmosfera=baixo volta. Gráficos Mapa do herói estilo HoMM3 parcial 90% Ligado; clique no chão = herói anda. Gráficos Visual cyber/neon nas telas completo 100% Em todas as telas; ✨ ou ?cyber=0 des…
+
+- Diagnóstico dos Sonhos (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …o Bruno. Gráficos Gráficos estilo Witcher 3 / BG3 (f + g1) parcial 85% g1 ligado no preset medido; ?atmosfera=baixo volta. Gráficos Mapa do herói estilo HoMM3 parcial 90% Ligado; clique no chão = herói anda. Gráficos Visual cyber/neon nas telas completo 100% Em todas as telas; ✨ ou ?cyber=0 desliga.…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …o 17). O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um herói a cavalo inspirado em Heroes of Might and Magic 3. Tudo é feito em pequenos portões, cada um com teste e com volta atrás. Ver Portões T95U <https://espirrosaga2020-te…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ura infantil. DEPOIS: gesto de amor/respeito interpretado na vida adulta. A nova leitura não apaga as “lapadas”, a raiva antiga nem a dureza. 5. Relações DERIVOU DE F009/F010/F015. CONTRIBUIU PARA F017. COMBINOU COM F020 (Interstellar). FOI PRESERVADO em F023/F025. 6. Consequências Emoção intensa.…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …o brinquedo. 4. Transformação O usuário reinterpreta um gesto antigo e diz sentir mais carinho e zelo pelo pai, descrevendo o momento como reconciliação interna. 5. Relações PREPARADO POR F006/F007. DEPENDEU DO AMBIENTE REPARADO EM F011. CONTRIBUIU PARA F015. 6. Consequências Choro, selfie com Du…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  … não acontece. O arquivo do PC não foi mexido (regra: não trocar o que funciona) — fica anotado como pendência. No app, o botão "🐎 Mapa do herói · sair" nascia em top: 64px e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido). T1…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …. O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um herói a cavalo inspirado em Heroes of Might and Magic 3. Tudo é feito em pequenos portões, cada um com teste e com volta atrás. Ver Portões T95U . Atualização da tarde (03/11/20…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …acontece. O arquivo do PC não foi mexido (regra: não trocar o que funciona) — fica anotado como pendência. No app, o botão "🐎 Mapa do herói · sair" nascia em top: 64px e cobria o painel do topo; o kit do celular agora desce esse botão para perto da barra de baixo (só posição, nada removido). T102U (…
+

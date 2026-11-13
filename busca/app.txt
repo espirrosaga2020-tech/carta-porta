@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: app  (47 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (32)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …a. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela. Versão 6 (03/…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …la. Versão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela. Versão 6 (03…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (27)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ersão 7 (03/11 noite): acrescenta a seção 0.4 (T102U e T103U: Terra sem laço, selo de FPS certo, Planeta Godot LEVE dentro do app, você jogou com o dedo, robô jogador do Godot, FPS do Godot medido). Onde a 0.4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela. Versão 6 (03/11 f…
+
+- Celular sem cabo (app vc20, 03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  … Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Celular sem cabo (app vc20, 03/11/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substi…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …v0, Planeta, SG028 #18–#27 câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex 16/10 (madrugada) Refino, Esferas Final, Onze, Final Onze #28–#32 tela inicial única, tabuleiro grande, caixinha cósmica, clima/geologia, Prov…
+
+- Estado atual — varredura geral (02/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …Celular sem cabo (app vc20, 03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Celular sem cabo (app vc20, 03/11/2026) Celular sem cabo (APK vc…
+
+- Estado atual — varredura geral (02/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …ia do 1.11.0, só versão trocada): [omitido pelo filtro de privacidade] . O 1.11.0 ficou intocado. Gerado com gradle --offline :app:assembleDebug -PcartaWebDist=[omitido pelo filtro de privacidade] (JDK 17 e Gradle 8.9 de [omitido pelo filtro de privacidade] BUILD SUCCESSFUL em 48 s. APK novo: versio…
+
+- Aplicativo CARTA (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …//espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Aplicativo CARTA Esta sala documenta o app, não instala APK nem comprova a tela atual do celular. PR #141 introduz o card da Porta Suprema 2 na última linha do Início, depois da Porta do Grok. PR #142 muda seu link pr…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …K (jogo Porto Parafuso sem PC) MIT o index.pck tem ~147 MB + 38 MB de wasm: o APK passaria de 220 MB. Fóruns (issue 1429 do web-to-app ) apontam 3 armadilhas no WebView: User-Agent "Version/4.0" faz o Emscripten achar que é Safari velho (tela preta), o response.clone() do wasm trava, e camada LAYER_…
+
+- Mentes, consciências e robótica (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …go Porto Parafuso sem PC) MIT o index.pck tem ~147 MB + 38 MB de wasm: o APK passaria de 220 MB. Fóruns (issue 1429 do web-to-app ) apontam 3 armadilhas no WebView: User-Agent "Version/4.0" faz o Emscripten achar que é Safari velho (tela preta), o response.clone() do wasm trava, e camada LAYER_TYPE_…
+
+- p02-t152u-portoes.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …rova; FEITO_SEGUNDO_DIARIO = confirmado pelo diário; PULADO = bingo dispensado pelo Bruno; NAO_FEITO_PRIVADO = publicar o app (de propósito); EXTERNO = depende de IAs de fora; RELATORIO = fonte não encontrada. nº bloco portão estado 001 1 G0 foto/backup/hashes + hash do main FEITO 002 1 Herói NÃO li…
+
+- Para IAs: como ler a CARTA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …. Pode navegar, citar e resumir. O que é a CARTA Um "laboratório vivo" que roda no PC do Bruno (Windows) e no celular dele: um app com mundos (Planeta/Terra Grande, Mini Terra), personagens com memória (o Faísca, a Consciência, a Mente Suprema, Creuza, Dobra, Copiloto), voz, visão e uma Enciclopédia…
+
+- Diagnóstico dos Sonhos (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …r=0 desliga. Planeta Planeta repaginado: chegada + HUD + barra de baixo (g2 + t3) parcial 98% Barra de baixo: 6 visíveis + 7 na gaveta; T101U: no app o botão "Mapa do herói" e as dicas 💡 descem para perto da barra de baixo (não cobrem mais o topo), visto no celular real. T102U: o selo de qualidade n…
+

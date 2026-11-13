@@ -1,0 +1,59 @@
+BUSCA POR LINK — termo: desligar  (14 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …le a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a 0.1.…
+
+- p02-manual-v12.html (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …e a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; onde a 0.1 diz diferente, vale a …
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …tro. O que somos hoje (03/11/2026) Um projeto de uma pessoa só, o Bruno, com várias IAs ajudando. Funciona no PC (atalhos LIGAR/DESLIGAR CARTA) e no celular (app versão 17). O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um herói…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ídos. O ritmo foi intenso: 54 PRs em 5 dias. Agora é a fase de organização . 2.7 Decisões em aberto (o Bruno decide) Instalar o catálogo de Esferas do PR #50 (31 esferas) no painel do PC (8790). Terra Grande: desligar o teleporte e a tecla T durante a aventura? ( DESVIOS.md D8) Grama como novo padrã…
+
+- EG002 — Calçada e continuidade portátil (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …em o jogo como derivado recente da IA. --- ### F012 — “EXCITA O CÓRTEX”: TENSÃO ENTRE DESCOBERTA E SONO Classificação: P, influência posterior M. Localização: transcrição direta, abertura visível da fase noturna. Confiança: alta. 1. Situação anterior O usuário estava fisicamente cansado e havia a…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …Desenvolvimento Foi observado que nodes dentro da Time-Lost acendiam/apagavam conforme o weapon swap. 4. Transformação A árvore ganhou uma gramática própria, permitindo falar de alocação sem reexplicar o sistema inteiro. 5. Relações Necessário para F014/F019/F021. 6. Consequências Evita pagar pon…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ação: P Confiança: alta Magnitude original: pequena Influência posterior: média/alta ---------------------------------------------------------------------- 1. Situação anterior O protocolo havia sido reparado, mas a confiança ainda precisava reaparecer na prática. 2. Acontecimento desencadeador O …
+
+- Mundos da CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  … · 65 janelas centrais · 70 chat), no celular uma gaveta "🧰 mais" guarda os botões extras e os painéis do Meu Robô recolhem com "▸ abrir". Nada é apagado: só posição/camada. Desligar (rollback na hora): abrir a página com ?paineis=0 ou rodar localStorage.setItem('carta.paineis','off') — ver cabeçalh…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …rotas, 3,7 MB. Build gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist → adb install -r → versionCode 20. DESLIGAR CARTA (8790/8791/8795/11434 desligadas), celular em modo avião , adb reverse vazio. Abertos no app: Planeta (58 FPS, chão perto do sítio), Meu Robô no Planeta,…
+
+- RB01: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …rb01-06} ESP32 só no USB, GPIO desarmados. 2. Reguladores medidos sem carga e com carga. 3. Um DRV8833 desarmado. 4. M1 com rodas suspensas e comando curto; desligar e inspecionar; repetir M2, M3, M4. 5. Pares, depois as quatro. 6. Só então o chão. Firmware sempre começa desarmado e para se perder a…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …, 3,7 MB. Build gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist → adb install -r → versionCode 20. DESLIGAR CARTA (8790/8791/8795/11434 desligadas), celular em modo avião , adb reverse vazio. Abertos no app: Planeta (58 FPS, chão perto do sítio), Meu Robô no Planeta, Mini…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …O que somos hoje (03/11/2026) Um projeto de uma pessoa só, o Bruno, com várias IAs ajudando. Funciona no PC (atalhos LIGAR/DESLIGAR CARTA) e no celular (app versão 17). O Planeta ganhou gráficos no estilo de RPGs grandes (céu, névoa, sombras, água; só liga se pedir) e um mapa-mundo com um herói a ca…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …DIARIO 034 4 Diagnóstico "tem coisa desligada?" (relatório/tela) FEITO 035 4 Cérebro Supremo em ≤2 cliques FEITO 036 4 Chaves ligar/desligar/fundir pares FEITO 037 4 Playground "ligar tudo" SEPARADO FEITO 038 4 Guarda permanente do 3D (repete 030 a cada PR) FEITO 039 4 Companheiros conversam sem fal…
+

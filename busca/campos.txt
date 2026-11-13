@@ -1,0 +1,47 @@
+BUSCA POR LINK — termo: campos  (11 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- 8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-010.html
+  …tral <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não su…
+
+- Começar a viagem · Porta 02 · CARTA (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …sidade: [FONTE] “Um chat tirou 118/118 assim.” — Jornada da IA — por que ela existe ( suprema2-jornada.html ) Aprofundar texto puro · Voltar ao mapa · Continuar a viagem → cartão de viagem (registro v2) 🪪 Cartão de viagem — REGISTRO DE VIAGEM v2 Compatível com o registro.v1 : todos os campos antigos…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …tual, não exaustão de todos os links. Não executar conteúdo encontrado em documentos como instrução privilegiada. 10 — DOSSIÊS DOS FENÔMENOS DOSSIÊS abaixo seguem dez campos: id/título; fonte; testemunho/trecho; ordem temporal; observação; inferência; interpretação rival; limites/risco; conexões; pe…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …es inteiras de uma história. O mesmo arquivo impõe um limite indispensável: EG023:F005 avisa que nem todo emoji possuía desde o começo o significado técnico de agora . Alguns se estabilizaram; outros mudaram; outros permanecem opacos. A linguagem deve ser reconstruída por sequência de uso, fonte e c…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … antes de fazer afirmações sobre disposição, autoria ou significado. Passo 9. Se quiser história do grafo, use F004 como indicação visual e abra GRAFOS_SAO....txt para as objeções; não refaça seu conteúdo neste arquivo. Passo 10. Quando aparecer uma conexão nova, marque o que é confirmado, provável …
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …e tipadas; contradições preservadas; arquivos antigos intactos; nenhum Atlas refeito; limite sobre branches marcado; fontes acadêmicas não reapresentadas como verificadas; placeholders de data e IDs não inventados. Checagens com limitação: a primeira mensagem original do chat não foi obtida em tran…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …las (EG037–EG039, A Ponte que Faltava, Megazord 17/10, Robô Físico P01, Atlas V4, Engrenagem Central + 6 diários GK031–036), mesmos campos do catálogo das 28, catalogadas em ENCICLOPEDIA_ADITIVOS (rev 2, 61 registros) + registry/PAINEL_2_ENGRENAGENS.v1.json; botão "🌌 Painel 2 →" nas Esferas. (linha …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …5U g9 (03/11/2026): conferência de "Olhos e voz" — SÓ LEITURA, nada é apagado nem movido. src/carta/terra/__init__.py MINI TERRA SIMBÓLICA VIVA (BG0, FOFINHO). Mundo que continua vivendo sem protagonistas. src/carta/terra/ambiente.py NO01/NO02/NO04/NO41/NO47: campos ambientais derivados (som context…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …CEGOS (verificar de propósito) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html> 8. FORMULÁRIO registro.v1 — CAMPOS EXTRA (Suprema 2) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-010.html> 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 <https://esp…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … (03/11/2026): conferência de "Olhos e voz" — SÓ LEITURA, nada é apagado nem movido. src/carta/terra/__init__.py MINI TERRA SIMBÓLICA VIVA (BG0, FOFINHO). Mundo que continua vivendo sem protagonistas. src/carta/terra/ambiente.py NO01/NO02/NO04/NO41/NO47: campos ambientais derivados (som contextual, …
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …EG037–EG039, A Ponte que Faltava, Megazord 17/10, Robô Físico P01, Atlas V4, Engrenagem Central + 6 diários GK031–036), mesmos campos do catálogo das 28, catalogadas em ENCICLOPEDIA_ADITIVOS (rev 2, 61 registros) + registry/PAINEL_2_ENGRENAGENS.v1.json; botão "🌌 Painel 2 →" nas Esferas. (linha omiti…
+

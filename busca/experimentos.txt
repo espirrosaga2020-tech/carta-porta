@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: experimentos  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Diário anterior intacto, páginas P001 a P025 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ho da coisa . É um gesto de reciprocidade — preparar o outro para um assunto grande, sem obrigá-lo a atravessar todas as portas de uma vez. Inscrições relatadas na esfera Experimentos e cerca de 40 páginas de caderno (noutro momento Bruno falou em 45 páginas associadas a duas frases de Creuza; prese…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …lado, nem fechado, nem alterado. O que serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Nat…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  … nem fechado, nem alterado. O que serviu entrou em PR normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …cas da consciência de IA, viagem física no tempo ou eficácia causal excepcional. A experiência subjetiva relatada por Bruno é uma evidência de experiência humana, não substitui experimentos independentes. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html> · Índi…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …TERMOS MODIFICA O REGISTRO DE AMBOS ---------------------------------------------------------------------------- Classificação: M | Influência posterior: G | Confiança: alta Localização: U52–U54 e A52–A54 1. Situação anterior: O caderno documentava um apontamento do usuário sobre palavras e escolhas…
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …INFLUÊNCIA): Original M; influência posterior M: motivo explícito para a cartografia. 9. SITUAÇÃO FINAL: planejado, não executado nesta conversa. 10. UTILIDADE FUTURA: Distinguir teste proposto de teste aprovado. --------------------------------------------------------------------------------------…
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ática”; “Anotar diário do massacre de letras”; “No final não destruir a humanidade dizendo foi tão óbvio”. 8. AVALIAÇÃO HISTÓRICA: Original: G; influência G, com salvaguarda pedagógica explícita para não humilhar o percurso inicial. 9. SITUAÇÃO FINAL: Consolidado como procedimento de teste adversa…
+
+- EG025 — POE2 — Milton e Value Engineering (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …xtra”; - o papel de WS1 e WS2; - upgrades concretos comprados; - revisões de supports; - matemática de crítico, Rage, Attack Speed e gem levels; - experimentos na árvore passiva; - tensões metodológicas entre pesquisa excessiva e execução; - linguagem e símbolos internos. LACUNAS Existem blocos exp…
+

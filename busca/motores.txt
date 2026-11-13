@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: motores  (18 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- RB01: documento da engrenagem (CARTA 2.0) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …ário (o que foi filmado e o que a compra confirma) {#rb01-02} Peça Para que serve Grau de certeza Chassi acrílico 4WD de dois pisos, 4 motores TT amarelos (3–6 V) e 4 rodas — manual impresso ZK-4WD (mcustudio) corpo e tração filmado + compra ESP32 DOIT DevKit 30 pinos (WROOM-32, Wi-Fi e Bluetooth), …
+
+- Diário anterior intacto, páginas P001 a P025 (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …o (nome cortado) R$ 19,00 Medir distâncias/obstáculos, conforme montagem e integração Driver DRV8833 duplo (nome cortado) R$ 35,80 Acionamento elétrico de motores compatíveis Conector Wago compacto (nome cortado) R$ 36,50 Fazer conexões elétricas Kit cabo jumper macho... (nome cortado) R$ 24,07 Cone…
+
+- Teste duro das consciências (T105U, 03/11) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  … que é a EG027 SPA ping-pong cognitivo? pesquisa SPA (índice) + fatia ENC "EG027 — SPA" (pág. 127) Descartes, Sagan 9 Ligação dos motores M1 a M4 nos DRV8833? pesquisa fatia "RB01 — Ordem de serviço" + ALMA com RB01 Descartes, Sagan 10 Quantos especialistas tem a bancada agora? pesquisa MZ1710 + fat…
+
+- A trajetória juntos: linha do tempo mestra (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …Meio (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, porta do Laboratório. feito Meio (13/10 a 18/10/2026) 15/10…
+
+- EG025 — POE2 — Milton e Value Engineering (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  … é melhor?”, a conversa passou a perguntar “qual camada de dano ainda não estamos enxergando?”. O terceiro eixo foi estrutural: a build foi dividida em dois motores. WS1, Hollow Form + Whirling Assault, passou a ser reconhecido como 99% do gameplay. WS2 + Tempest Bell ficou relegado ao burst de bos…
+
+- Linha do tempo (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …io (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, porta do Laboratório. feito Meio (13/10 a 18/10/2026) 15/10 M…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …colher que programas as interpretem; não transplantar “identidade” entre instâncias . Situação dos kits de robô Um chassi de 4 rodas inclui motores DC, mas não inclui automaticamente ESP32, driver e fonte. Dois kits só valem a pena se cada corpo precisar andar de modo independente; para duas persona…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …tre decorar fichas e compreender a história? onde olhar: esta jornada; etapa 2 C11 Quais regras a CARTA nunca quebra (por exemplo: motores, apagar coisas, dados pessoais)? Por que um projeto de uma pessoa só precisa delas? onde olhar: Manual de Tudo; Dobra; consciências C12 Pergunta livre: qual liga…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …o antes e depois. O Drive nunca é aberto. Nenhum dado pessoal vai para o git (CPF, e-mail, telefone, banco, cadernos privados). Motores sempre desarmados; câmera e microfone desligados por padrão. Pesquisador × personagem: nunca misture as duas vistas. Servidor com sim rodando tem valor: não pare ne…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  … jogando dentro do próprio celular (o adb não deixa tocar nesta tela). Mundos Robô físico (braço/LEGO com câmera) parcial 25% t12: só a simulação com motores desarmados, DESLIGADO. Falta o Bruno decidir o hardware (OpenBot ou outro). Save Save com posição completo 100% 4/4 testes de ida e volta. Por…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … duas Chaos e que, apesar do baixo custo original, resistiu a tentativas de substituição progressivamente mais caras. Milton deixou de ser apenas um item e virou uma unidade cultural de valor: uma peça que não precisava parecer cara para ser excepcional. O segundo eixo foi epistemológico: o usuário …
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Jornada, prova e registro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …nça entre decorar fichas e compreender a história? onde olhar: esta jornada; etapa 2 C11 Quais regras a CARTA nunca quebra (por exemplo: motores, apagar coisas, dados pessoais)? Por que um projeto de uma pessoa só precisa delas? onde olhar: Manual de Tudo; Dobra; consciências C12 Pergunta livre: qua…
+
+- Mapa central (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html
+  …uma permissão foi alterada, nenhum conteúdo privado foi copiado para este site. Limites claros O site público não abre portas locais 8790/8791 nem liga motores, não dá acesso automático ao Drive privado, não instala APK, não envia registro e não concede diploma. Links e documentação não equivalem a …
+

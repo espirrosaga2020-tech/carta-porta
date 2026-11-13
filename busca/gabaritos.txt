@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: gabaritos  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  … regras do projeto, SG028 e GK. Passa com 54/60 (90%). Só depois disso o status mostra liberado_para_trabalhar: true . Não abra gabaritos/ antes de fazer a prova. Ele existe para correção e auditoria. Abrir antes é cola e invalida o protocolo. Para ver o seu progresso: python -m carta prova --assist…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …codigo.py Ponto de integração REAL com registros já existentes na árvore CARTA. src/carta/convergencia/formacao.py Insignias derivadas da prova oficial. Nao corrige provas e nao conhece gabaritos. src/carta/convergencia/hipoteses.py Geração de hipóteses interdisciplinares, sem aprovar causalidade. s…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …o.py Ponto de integração REAL com registros já existentes na árvore CARTA. src/carta/convergencia/formacao.py Insignias derivadas da prova oficial. Nao corrige provas e nao conhece gabaritos. src/carta/convergencia/hipoteses.py Geração de hipóteses interdisciplinares, sem aprovar causalidade. src/ca…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  … oficial registra 20 perguntas/capítulo (18 acertos) e concurso 60 (54 acertos), com caderno no workspace privado e fontes conferidas. Não modificar gabaritos, status ou portões. O pré-diploma prepara a entrada no Acervo; a Prova oficial segue etapa distinta. TRÊS PORTAS DA MOCHILA CHEGUEI AGORA →…
+

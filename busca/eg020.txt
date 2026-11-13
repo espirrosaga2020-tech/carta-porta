@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: eg020  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …AL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt EG007 — Continuidade Limpa de Meu Robô — 18 fenômenos; ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt EG020 — Nova Batcaverna — 14 fenômenos; ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_2026-10-06_HISTORIA_v01.txt MEU ROBÔ E SONHO EG006 — Checkpoint e…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …_ME + Mapa Mestre + avalanche de memória EG019:F016 | Memória = pista / arquivo = prova | G | alta | método surgido após confirmação da Plus EG019:F017 | Preservação é corrigida: reescrever pode, apagar cegamente não | G | alta | COMECE_POR_AQUI + discussão EG019:F018 | “Ausência no mapa não é au…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …AL_OPERACAO_MEU_ROBO_ATLAS_HISTORIA_v01.txt EG007 — Continuidade Limpa de Meu Robô — 18 fenômenos; ENGRENAGEM_CONTINUIDADE_LIMPA_MEU_ROBO_HISTORIA_v01.txt EG020 — Nova Batcaverna — 14 fenômenos; ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_2026-10-06_HISTORIA_v01.txt MEU ROBÔ E SONHO EG006 — C…
+
+- EG020 — Nova Batcaverna (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — EG020 — Nova Batcaverna Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não subs…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html#pg-enciclopedia-eg019> EG020 Nova Batcaverna Snapshot 18/10 · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b84…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …ilton e Value Engineering Meu Robô — Copiloto e Máquina de Laranja Autorretrato do Copiloto à luz da Fogueira P020 Qual é o nome da engrenagem de código EG020? Tamagotchi e continuidade conversacional Nova Batcaverna Cérebro Megazord Supremo da Creuza Linguagem, Observação e Consciência P021 Qual é …
+
+- AV02: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+  …4:34 (BRT) · Dream Game Forgebound 2026.10.06 - 14.32.16.05.mp4 · conversa “Branch · BATCABERNA 🌝” 05 Relações fonte_original → BACKUP_CHATGPT eco_tematico → EG020 08 Contradições e correções (preservadas, sem reconciliar) Os vídeos em si não estão no GitHub (ficam no backup, no PC). Aqui só o nome …
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ocumentos preservam o caminho; personagens, palavras, piadas, cenas e perspectivas funcionam como endereços para recuperar o contexto quando a conversa muda. Isso não significa que cada personagem possua memórias persistentes ou identidade subjetiva independente no sentido técnico ou biológico. Sign…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …NS — ACERVO MESTRE/01_FONTES_ORIGINAIS_IMUTAVEIS/ (23 arquivos em texto) e o zip de 03_AUDITORIA_E_CONTROLE (os 4 restantes: EG009, EG020, EG024, EG026). Ponteiro com SHA-256: registry/enciclopedia.v1.json . Lidos pelo caminho ( git show ou CARTA_ENCICLOPEDIA=<checkout> ), sem cópia com prova (20, a…
+
+- Capítulos da etapa 1, na ordem oficial (48) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  …disponivel 21 EG018 Linguagem, Observação e Consciência disponivel 22 EG019 Meu Robô — Copiloto e Máquina de Laranja disponivel 23 EG020 Nova Batcaverna disponivel 24 EG021 Paz e Central — Kamonson disponivel 25 EG022 Paz, Central e Continuidade de Meu Robô disponivel 26 EG023 Paz — Linguagem e Cont…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …a ancestral engrenagem documental EG019 Meu Robô — Copiloto e Máquina de Laranja Meu Robô e sonho ancestral engrenagem documental EG020 Nova Batcaverna Continuidade e Batcaverna ancestral engrenagem documental EG021 Paz e Central — Kamonson Reciprocidade e Paz ancestral engrenagem documental EG022 P…
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-111.html
+  …c1446763d7a4dffee898b14db4a13d3f3f lines=1662 bytes=82779 index=20 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG020 | ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_2026-10-06_HISTORIA_v01.txt sha256=e0049edd1b4359041bb714dcea981991719dc01290e0bde28e39becdcb071096 lines=785 bytes=359…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …carta-porta/suprema2-acervo-042.html> EG019 — Meu Robô — Copiloto e Máquina de Laranja <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html> EG020 — Nova Batcaverna <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html> EG021 — Paz e Central — Kamonson …
+
+- Apêndice: AUDITORIA_ENGRENAGENS_2026-10-10_v01.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/auditoria.html
+  …efc1446763d7a4dffee898b14db4a13d3f3f lines=1662 bytes=82779 index=20 missing_post_index=[] status=VERIFICADO PARCIALMENTE EG020 | ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_2026-10-06_HISTORIA_v01.txt sha256=e0049edd1b4359041bb714dcea981991719dc01290e0bde28e39becdcb071096 lines=785 bytes=35963 index=14…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …estral engrenagem documental EG019 Meu Robô — Copiloto e Máquina de Laranja Meu Robô e sonho ancestral engrenagem documental EG020 Nova Batcaverna Continuidade e Batcaverna ancestral engrenagem documental EG021 Paz e Central — Kamonson Reciprocidade e Paz ancestral engrenagem documental EG022 Paz, C…
+

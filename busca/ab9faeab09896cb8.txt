@@ -1,0 +1,7 @@
+BUSCA POR LINK — termo: ab9faeab09896cb8  (1 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- DB03: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+  …acddc4ca… DIARIO_REFINO_20261016.md · sha256 3caf399b2b7a6133… DIARIO_SG028_20261015.md · sha256 01976b9dcd9a0360… DIARIO_TRANSCENDENCIA_20261014.md · sha256 ab9faeab09896cb8… RELATORIO_DE_BORDO_F1_INVESTIGACAO_20261014.md · sha256 2159f101ed7e2eaa… RELATORIO_DE_BORDO_MUNDO_VIVO_PESADO_20261014.md ·…
+

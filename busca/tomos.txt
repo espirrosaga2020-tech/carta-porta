@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: tomos  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ca; usuário recompõe ping-pong; print do “nosso futuro artigo”; título aberto; esqueleto condicional [F018–F022]. Fase F — retorno à intuição: Fala livre com aves, Deus, nada, átomos, 0→1→2→N, observador, transformação [F023–F024]. Fase G — preservação e artefatos: “Falar de mim”; TXT “GRAFOS SÃ…
+
+- EG015 — Pai do Grafo e Rigor (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …artigo. D04: IA explica como é um artigo, Newman, estrutura e correções físicas. D05: usuário fala livremente: aves/Deus, 0→1→2→N, bolas, átomos, física, observador. D06: IA organiza inventário, distingue física/metafísica, observador, transformação. D07: usuário pede "falar de mim", patrimônio …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …alta | “Tudo é grafo”: modelo versus ser | Reconstruído em vários turnos visíveis, sobretudo a fala “eu só queria provar uma tese... o grafo tá em tudo”. EG014:F009 | M | confiança média | O grafo representa a própria explicação: recursão | Resumo do período de “ontologicamente...” e discussão graf…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … um nó | Primeiros trechos de 07/10; mensagens recuperadas sobre “um correndo, acabou” e “ele quebra o padrão visual”. EG014:F004 | M | confiança média | “IA não é só código... e IA é código” | Trecho inicial recuperado com “CHAZAN” e “mini grafo”; posição exata relativa à palavra grafo requer caute…
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …(trecho omitido pelo filtro)…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-112.html
+  …2026-10-10_v01.txt para o que foi ou não verificado. ESTRUTURA GOOGLE DRIVE 00_LEIA_PRIMEIRO_E_ENCICLOPEDIA: livro, sumário e tomos. 01_FONTES_ORIGINAIS_IMUTAVEIS: os 27 arquivos sem edição. 02_CATALOGOS_E_INDICES: manifesto e índices. 03_AUDITORIA_E_CONTROLE: hashes, lacunas e critérios. 04_FUTURA…
+
+- Apêndice: LEIA_PRIMEIRO_ENCICLOPEDIA_2026-10-10.txt (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/leia-primeiro.html
+  …-10-10_v01.txt para o que foi ou não verificado. ESTRUTURA GOOGLE DRIVE 00_LEIA_PRIMEIRO_E_ENCICLOPEDIA: livro, sumário e tomos. 01_FONTES_ORIGINAIS_IMUTAVEIS: os 27 arquivos sem edição. 02_CATALOGOS_E_INDICES: manifesto e índices. 03_AUDITORIA_E_CONTROLE: hashes, lacunas e critérios. 04_FUTURAS_EDI…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …inel-3 ) tem 8. (Fonte: registry/PAINEL_2_ENGRENAGENS.v1.json , registry/PAINEL_3_ENGRENAGENS.v1.json .) A Enciclopédia de 863 páginas em 3 tomos, 676 fatias, 19 gavetas e 6 Pastas Monstro fica no Drive. (Fonte: Drive, Doc 04, título e seção 3.) No app, a Porta 02 local ( /porta02/index.html , sem J…
+

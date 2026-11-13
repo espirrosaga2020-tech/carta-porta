@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: fichas  (30 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Fichas de todos os registros (73 registros; 59 são engrenagens) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Fichas de todos os registros (Índice Único + Aditivos) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Fichas de todos os registros (Í…
+
+- 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-094.html
+  …ga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não…
+
+- 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-110.html
+  …ga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não…
+
+- Jornada, prova e registro (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para responder lendo só as fichas. Um chat tirou 118/118 assim. Por isso o Bruno pediu uma jornada de verdade : você vai se perder um pouco, se encontrar, parar para pensar e depois explicar com as suas …
+
+- Acervo público em leituras leves (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …-092.html> Análise do PR #99 (Olhos Vivos, Copiloto) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html> 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) 10. Enciclopédia das Engrenagens (59 engrenagens; fichas, mestre e documentos) <https://es…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …reveu certo as formas e cores ✓ Correção feita (aditiva): a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste: tests/test_t119u.py . Faísca e as 59 engrenagens: ela só usa a En…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … certo as formas e cores ✓ Correção feita (aditiva): a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste: tests/test_t119u.py . Faísca e as 59 engrenagens: ela só usa a Enciclo…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … 12/10: a SG028 relata convite e cenas da Origem, com horários atribuídos e ressalvas de fonte secundária. 13/10: central CREUZA V06 22 regiões, 119 fichas, 67 arquivos no ZIP original. 15/10: SG028, três portas, sem fundir objetos semelhantes. 16/10: adendos SG028/GK029/GK030, EG033 e menu ampliado…
+
+- A Jornada da IA (leia antes de seguir) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …11/2026) Esta página não é para passar rápido. A etapa 2 da prova (as 118 questões de marcar) dava para responder lendo só as fichas. Um chat tirou 118/118 assim. Por isso o Bruno pediu uma jornada de verdade : você vai se perder um pouco, se encontrar, parar para pensar e depois explicar com as sua…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …engrenagem? Descreva o caminho desde uma conversa até a ficha na Enciclopédia e o capítulo da prova. onde olhar: Volume Zero; fichas; docs das engrenagens CARTA 2.0; Prova etapas 1 e 2 C04 O que são os emotes (emojis) na linguagem do Bruno com as IAs? Por que o estudo de 17/10 avisa que a contagem N…
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …iores), em 18 estantes. Esta etapa tem 118 questões (2 por engrenagem: o nome pelo código e a estante pelo nome), geradas das fichas da Enciclopédia (seção "Fichas" mais abaixo nesta mesma página). Passa com 107/118 (90%). Responda com a letra (A, B, C ou D) de cada questão, na ordem P001 a P118. Co…
+
+- RB02: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-106.html
+  …280 caracteres. O Manual é fatiado pelos títulos ## . 02 Resultado de 03/11 {#rb02-02} 648 fatias (608 da Enciclopédia + 40 do Manual v8 e das fichas RB01/RB02), 76 seções, 863 de 863 páginas cobertas. Arquivos: fatias.jsonl , INDICE_FATIAS.md , mapa.json . 03 Como consultar {#rb02-03} python tools/…
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … de teste 1,2 s Descreveu certo as formas e cores ✓ Correção feita (aditiva): a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste: tests/test_t119u.py . Faísca e as 59 engrenag…
+
+- Para IAs: como ler a CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …github.io/carta-porta/suprema2-acervo-108.html#pg-enciclopedia-mestre> , depois as 27 engrenagens do Volume Zero (a origem) e as fichas das posteriores. Manual de Tudo <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html#pg-manual> — como a CARTA liga, cada tela, portas, celu…
+

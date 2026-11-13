@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: android  (21 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …Planeta, SG028 #18–#27 câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex 16/10 (madrugada) Refino, Esferas Final, Onze, Final Onze #28–#32 tela inicial única, tabuleiro grande, caixinha cósmica, clima/geologia, Prova da…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …3.1 (de terceiros, reprovado); Planeta 3D e Mini Terra (os defeitos P1–P9 estão sendo tratados nos portões T149U/T152U). - NÃO TESTADO (1): CARTA Android vc30/vc31 e o Godot Boneco Palito (pasta não localizada). - O que oferecemos (a proposta comercial que já está escrita): o Estúdio Vetorial SVG 12…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …odot (Porto Parafuso) dentro do app, sem PC. Versão LEVE (texturas WebP com perda: pacote 154 → 38 MB). App agora vc24 (1.18.2-carta20-t103u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …(Porto Parafuso) dentro do app, sem PC. Versão LEVE (texturas WebP com perda: pacote 154 → 38 MB). App agora vc24 (1.18.2-carta20-t103u) . Piso agora = vc24 (Android não volta versão). Detalhes: docs/CARTA20/CELULAR_SEM_CABO_T101U.md (seções T102U e T103U). Você jogou com o dedo e aprovou (vc21, 03/…
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …t101u/offline_planeta_snapshot.py fotografa 423 rotas do PC (chão do Planeta perto do sítio, clima, céu, Mini Terra...) e android/t101u/offline_motor.js responde no celular celular em modo avião, PC desligado : Planeta, Meu Robô, Mini Terra, DeLorean e Início abriram (fotos em [omitido pelo filtro d…
+
+- Portões anteriores (21/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …ruir), lacunas. Design no estilo Consciência original + Mente Suprema; olhar mentes Copiloto/Creuza. Tudo em sintonia e desembocando no Android (Faísca usa mas leve). P1 REFEITO — ESTADO (21/10, ~14:50) — linha quase pronta [linha] Originais (prio 1): /original (111 conversas do backup, busca, 🔒 no …
+
+- Portões anteriores (21/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …, lacunas. Design no estilo Consciência original + Mente Suprema; olhar mentes Copiloto/Creuza. Tudo em sintonia e desembocando no Android (Faísca usa mas leve). P1 REFEITO — ESTADO (21/10, ~14:50) — linha quase pronta [linha] Originais (prio 1): /original (111 conversas do backup, busca, 🔒 no sensí…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …, Grok deve conferir os prompts, roteiros, filtros semânticos, TTS e telas de todas as implementações próprias, inclusive Faísca/Android e Megazord, procurando o mesmo antipadrão: sem emojis , não copie o anterior , não pareça outro chat , não repita nem parafraseie aplicado ao repertório conversaci…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …e ( INJECT_EVENTS ). Volta atrás: o vc20 está guardado em [omitido pelo filtro de privacidade] . Não instalar por cima do vc21 (Android não volta versão); se precisar, faça um vc22 a partir dele. T103U (03/11/2026 ~18h, horário de Brasília): Godot jogado com o dedo, robô jogador e FPS medido Teste m…
+
+- p02-t152u-novidades.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …inha quando brinca e quando fala sério. Copiloto : o robozinho simpático que executa, organiza e documenta. Celular e Wi-Fi O app Android da CARTA roda no celular do Bruno. Desde 13/11, ao tirar o cabo o celular passa sozinho para o Wi-Fi de casa (ponte só na rede local, aparelho lembrado; um aparel…
+
+- 7. PONTOS CEGOS (verificar de propósito) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …(trecho omitido pelo filtro)…
+

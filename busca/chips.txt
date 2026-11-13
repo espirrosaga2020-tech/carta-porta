@@ -1,0 +1,15 @@
+BUSCA POR LINK — termo: chips  (3 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  … Mecânica Plus, inicialmente lembrada de forma nebulosa, foi confirmada em arquivos históricos. A lembrança do usuário então disparou uma avalanche: tuning avançado, chips, soquetes, baterias, núcleos, materiais, oficinas e possível pressão sobre o balanceamento. A descoberta mais importante não fo…
+
+- EG021 — Paz e Central — Kamonson (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …erior A Mecânica Plus era lembrada como algo importante, mas havia incerteza sobre sua localização e estado real. 2. Acontecimento desencadeador A auditoria encontra mecanica_plus.gd, chips_v2.gd, chips_v1.json, rotas de UI, craft, integração de combate e save. 3. Desenvolvimento O Copiloto interp…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …========== A. MEU ROBÔ Natureza: Projeto de jogo já existente e canônico antes desta conversa. Função nesta engrenagem: Primeiro grande projeto real recebido pela nova Central. Estado histórico local: Entrou em fase de fechamento; posteriormente declarado BASELINE VERDE / ENTERRADO PARA ESTA FASE…
+

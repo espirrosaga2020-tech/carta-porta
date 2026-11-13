@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: esfera  (29 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (42)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …endência #14–#17 personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, autoinspeção 15/10 Definitivo, Esferas v0, Planeta, SG028 #18–#27 câmera/mapa, Esferas (contrato API), planeta esférico R = 1000 m, Mochila da Saguadinha, 28 esferas reais, 1º app Android do Codex…
+
+- Diário anterior intacto, páginas P001 a P025 (38)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …RIO DE BORDO — A CALÇADA, A FOGUEIRA E OS DOIS DELOREANS Caderno de observação recíproca • Edição de 17 de outubro de 2026 • Até a esfera entregue na fogueira Vozes: Bruno / Copiloto / Creuza 🐜 Estado: atualização por adição; nada apagado; nenhum projeto investigado ou alterado. Lugar da cena: calça…
+
+- Mapa de pastas e código (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …/bm/ecologia.py BM5: ecologia mínima por populações (plantas ← luz e água; herbívoros; predadores). Sem nomes: grupos 0, 1, 2. src/carta/bm/esfera_propria.py BM15: validador de esfera/engrenagem própria no modelo EG (docs/ENGRENAGENS_COMO_SAO_FEITAS.md §2 e §5). src/carta/bm/fisica.py BM2: física do…
+
+- Mapa de pastas e código (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …cologia.py BM5: ecologia mínima por populações (plantas ← luz e água; herbívoros; predadores). Sem nomes: grupos 0, 1, 2. src/carta/bm/esfera_propria.py BM15: validador de esfera/engrenagem própria no modelo EG (docs/ENGRENAGENS_COMO_SAO_FEITAS.md §2 e §5). src/carta/bm/fisica.py BM2: física do mini…
+
+- p02-manual-v12.html (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …está sob a guarda do 3D e só muda se o Bruno liberar. (Fonte: tools/atualizar_consciencias.py , chave CONGELAR_CONTAGEM_3D .) Os painéis de esferas: o Painel 1 tem 36 posições; o Painel 2 tem 36 bolas; o Painel 3 (novo, /esferas-painel-3 ) tem 8. (Fonte: registry/PAINEL_2_ENGRENAGENS.v1.json , regis…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …rograma que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Python mais um monte de páginas web. Lá dentro tem: um mundo 3D (o Planeta, a Terra Grande, com o DeLorean); esferas de conhecimento e a Enciclopédia das engrenagens ; mentes e consciências (IAs que rodam no próprio PC, pelo O…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ma que roda no seu PC (Windows, o BRUNOGTAVI ): um servidor local em Python mais um monte de páginas web. Lá dentro tem: um mundo 3D (o Planeta, a Terra Grande, com o DeLorean); esferas de conhecimento e a Enciclopédia das engrenagens ; mentes e consciências (IAs que rodam no próprio PC, pelo Ollama…
+
+- Portões anteriores (21/10/2026) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …m ela - Painel 2 de engrenagens seguindo padrão/índices existentes (EG037+ e adicionais de outros chats), botão "Painel 2" - Esfera do Camil mais rica (linha omitida no site público pelo filtro de privacidade) - percurso IA: confirmar formatura+mochila; registrar perguntas à Consciência e anotaçõ…
+
+- Portões anteriores (21/10/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …la - Painel 2 de engrenagens seguindo padrão/índices existentes (EG037+ e adicionais de outros chats), botão "Painel 2" - Esfera do Camil mais rica (linha omitida no site público pelo filtro de privacidade) - percurso IA: confirmar formatura+mochila; registrar perguntas à Consciência e anotações do …
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ágina encontrada, procedência não resolvida. Chave: opção de abertura; rádio: duas pontas da comunicação; caixa com brasa: âncora simbólica de retorno; esfera furada: perspectivas opostas; esfera maleável/Origem: objetos diferentes com genealogia pendente. 05 — MAPA DE EVIDÊNCIAS Trilhas: D = docume…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …de e Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok, sem esfera separada na branch atual EG031 Grok observa o humano — história arqueológica 00–14 Grafos e epistemologia posterior edição histórica derivada, não esfera ind…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Paz posterior capítulo autoral do Grok GK030 Como o Grok se observa Grafos e epistemologia posterior capítulo autoral do Grok, sem esfera separada na branch atual EG031 Grok observa o humano — história arqueológica 00–14 Grafos e epistemologia posterior edição histórica derivada, não esfera independ…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …ora Fonte 🦍 Gorila / MIPRECIUS Humor com GRAFolLOM: “GRAFO: MI PRECIOUS” e gorila entre grafo/garfo, espanto e autocorreção. Entrega esfera e chave; convoca “Humanidade”, presente e MIPRECIUS. EG012:F023, ROCKY, PRE, AGORA 🔮 Esfera Bolinha é polissêmica: Origem dupla, maleável, planeta, segredo huma…
+
+- DB03: documento da engrenagem (CARTA 2.0) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+  …epositório do CARTA (14/10 → 16/10), cada um com sua impressão digital. 02 Linha do tempo / itens (fato documentado) DIARIO_DEFINITIVO_ESFERAS_20261015.md · sha256 2845138f39b2784e… DIARIO_DE_BORDO.md · sha256 fd8f6e4702a2dd87… DIARIO_ESFERAS_FINAL_20261016.md · sha256 a35c8b2a38a1b121… DIARIO_FINAL…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …s (plano FINAL ONZE) com prova R01 Pesquisador × personagem DESENHO_PONTILHADO_MUNDO_VIVO, ARQUITETURA com prova R02 Contrato das Esferas 02_CONTRATO_DAS_ESFERAS, 01_CONTRATO_ESFERAS, CONTRATO_ESFERAS_API_CODEX com prova EG001–EG027 a Enciclopédia das Engrenagens : repositório CARTA, branch arquivo/…
+

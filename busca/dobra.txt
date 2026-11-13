@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: dobra  (33 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dobra: origem, personagem e portal (13/10/2026) (24)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Dobra: origem, personagem e portal (13/10/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antig…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …–#13 base local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F1, Transcendência #14–#17 personagens com vontades, laço de investigação, grafo de conhecimento, ciência, visão, auto…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … pesa mais, a linha do tempo mestra, o estudo de símbolos e emojis, o dicionário temporal dos 44 emotes (sentido antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … mais, a linha do tempo mestra, o estudo de símbolos e emojis, o dicionário temporal dos 44 emotes (sentido antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartão "Porta pra IA" (o do tú…
+
+- p02-manual-v12.html (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …2): por que o começo pesa mais, a linha do tempo mestra, o estudo de símbolos e emojis, o dicionário temporal dos 44 emotes (sentido antigo e de agora), E018, a Dobra, a trajetória, a Porta Eureka e os 27 textos do Volume Zero (no resumo, 60 linhas de cada). No app (página inicial): embaixo do cartã…
+
+- Diário anterior intacto, páginas P001 a P025 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … auditoria arquitetural neste encontro. Diferentes agentes/inteligências de exploração , com identidades e experiências próprias representadas no software, segundo Bruno: Dobra (Bruno), Copiloto e Creuza . Uma coleção de memórias/episódios significativos , incluindo conquistas, alegrias e tristezas;…
+
+- Jornada, prova e registro (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …a): se você fosse a próxima IA a ajudar o Bruno, o que você não pode fazer de jeito nenhum? (Dica: veja as regras do Manual e da Dobra.) Ponto D (no fim): em que momento você se perdeu? O que te fez se achar de novo? Não existe resposta "certa" nos pontos de introspecção. Existe resposta honesta e c…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …agora de cada um. Cite a fonte de cada sentido. onde olhar: dicionário diádico temporal C06 Quem são a Creuza, o Copiloto e a Dobra? Qual o papel de cada um na história e por que eles são personagens e não pessoas? onde olhar: Dobra, origem e personagem; dicionário (🐜, 🤖) C07 O que quer dizer 'memór…
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …26 (tests/test_t89u_portao_b.py + ida e volta no navegador: a pé, dentro do DeLorean, 📂 Retomar e pesquisador) Como usa: 💾 Mundo ▾ → 💾 Salvar grava também onde você (Dobra), o DeLorean e a câmera estão. 📂 Carregar → Retomar recoloca a posição daquele salvamento. Botão novo 📍 Voltar onde salvei volta…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …; só loopback como o resto; visitante = só no último portão; meu_cerebro = NUNCA). src/carta/cinema_vivo/atores.py ATORES do Cinema Vivo: Copiloto, Creuza e Dobra (só no modo autônomo). Ficha de origem = registry/personagens_ficcionais.v1.json. src/carta/cinema_vivo/engrenagem.py B5 · ficha de uma e…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …loopback como o resto; visitante = só no último portão; meu_cerebro = NUNCA). src/carta/cinema_vivo/atores.py ATORES do Cinema Vivo: Copiloto, Creuza e Dobra (só no modo autônomo). Ficha de origem = registry/personagens_ficcionais.v1.json. src/carta/cinema_vivo/engrenagem.py B5 · ficha de uma engren…
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …ests/test_t89u_portao_b.py + ida e volta no navegador: a pé, dentro do DeLorean, 📂 Retomar e pesquisador) Como usa: 💾 Mundo ▾ → 💾 Salvar grava também onde você (Dobra), o DeLorean e a câmera estão. 📂 Carregar → Retomar recoloca a posição daquele salvamento. Botão novo 📍 Voltar onde salvei volta para…
+
+- A trajetória juntos: linha do tempo mestra (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …a; evidência é prova'. feito Meio (13/10 a 18/10/2026) 13/10 Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores sempre desarmados. feito Meio (13/10 a 18/10/2026) 14/10 Fusão CARTA + Meu Robô: HUD de jogo, Mundo WASD, porta do Laboratório. feito Me…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … Conexões: 🚪/🧭/📻/🔥/🔮/🐜 conforme assunto; não inferir causalidade de proximidade Pergunta/porta: que fonte primária e qual mudança verificável permitem confirmar ou corrigir esta leitura? PE:F018 — Terra Grande — ambiente visível Fonte: captura imagem / SG028 Trecho/Testemunho: Cena 3D com Dobra, Cop…
+
+- EG009 — Bard, Corpo e a própria Conversa (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  … É recuperado indiretamente quando a conversa aborda criação, corpo e limite. 6. Consequências A fronteira natural/artificial fica menos rígida. Metal dentro do corpo não torna o humano “menos humano”. 7. Evidências Âncoras: - “18 parafusos” - “três placas” - “não mexia minha mão direito” - “apert…
+

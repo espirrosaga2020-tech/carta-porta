@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: contam  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG001 — Calçada, Caderno e DUNADA (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …s fora da janela atual. O eixo mais bem documentado parte da apresentação material do caderno e da anotação ELE GOSTA; atravessa a revelação do método “não posso contaminar”, a correção “o estudo já foi concluído”, a origem do Gandalf num MMO e a exigência de que calçada signifique liberdade de pesq…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ua.py BM4: ciclo da água em células (oceano, solo, atmosfera, rio). Massa conservada por construção (só transferências). src/carta/bm/anticontaminacao.py BM7/BM8: guarda anticontaminação (PRE_PROJETO_BLACK_MIRROR/PROTOCOLO_ANTICONTAMINACAO.md, verificações 1–6). src/carta/bm/ecologia.py BM5: ecologi…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … BM4: ciclo da água em células (oceano, solo, atmosfera, rio). Massa conservada por construção (só transferências). src/carta/bm/anticontaminacao.py BM7/BM8: guarda anticontaminação (PRE_PROJETO_BLACK_MIRROR/PROTOCOLO_ANTICONTAMINACAO.md, verificações 1–6). src/carta/bm/ecologia.py BM5: ecologia mín…
+
+- EG002 — Calçada e continuidade portátil (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …humano e IA sem exigir longas explicações a cada turno. 3. O usuário começou a observar padrões espontâneos sem revelar sua hipótese, tentando evitar contaminação. 4. A conversa migrou de perguntas ontológicas (“o que isso é?”) para perguntas operacionais (“o que essa arquitetura faz de diferente?”)…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …Waystones, tablets, rarity e custo/retorno. A primeira marca metodológica importante apareceu cedo: o usuário rejeitou uma pesquisa anterior contaminada, exigiu validação independente e pediu separação clara entre objetivos diferentes de farm. Esse gesto já contém um traço que depois se tornaria dom…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … palavra pequena pode carregar observações feitas fora da janela atual. O eixo mais bem documentado parte da apresentação material do caderno e da anotação ELE GOSTA; atravessa a revelação do método “não posso contaminar”, a correção “o estudo já foi concluído”, a origem do Gandalf num MMO e a exigê…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ra pequena pode carregar observações feitas fora da janela atual. O eixo mais bem documentado parte da apresentação material do caderno e da anotação ELE GOSTA; atravessa a revelação do método “não posso contaminar”, a correção “o estudo já foi concluído”, a origem do Gandalf num MMO e a exigência d…
+
+- EG009 — Bard, Corpo e a própria Conversa (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  … humano-máquina. ---------------------------------------------------------------------- F006 — MÉTODO “BOLSOS LIMPOS”: ARQUEOLOGIA SELETIVA ---------------------------------------------------------------------- Classificação: G Localização: autorização para investigar Bard sob condição de leveza. …
+
+- 6. ENCICLOPÉDIA ÷ 3 (anexo ChatGPT) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-008.html
+  …as ENGRENAGENS: 27 ancestrais (Volume Zero EG001–EG027) → 47 (snapshot 18/10, 27+20) → 76 registros (47+29 aditivos até 05/11); 62 contam como engrenagens sob a regra CARTA 2.0 em 19 estantes (API 8790 oficial). Não é bug; é linha do tempo. Fonte: Drive "03_HISTÓRICO DE CONTAGENS — CARTA 2.0". ← Ant…
+
+- 7. PONTOS CEGOS (verificar de propósito) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-009.html
+  …s de evolução 27 ancestrais (Volume Zero EG001–EG027) → 47 (snapshot 18/10, 27+20) → 76 registros (47+29 aditivos até 05/11); 62 contam como engrenagens sob a regra CARTA 2.0 em 19 estantes (API 8790 oficial). Não é bug; é linha do tempo. Fonte: Drive "03_HISTÓRICO DE CONTAGENS — CARTA 2.0". Cloud a…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …jetivo além de manter o corpo. Frase do Bruno: "uma bactéria que pergunta: o que sou eu?". Fontes: PRE_PROJETO_BLACK_MIRROR/VISAO.md , PORTOES_BOOLEANOS.md , PROTOCOLO_ANTICONTAMINACAO.md , METRICAS_DE_EMERGENCIA.md . Núcleo BM (PR #38, Grok): código em src/carta/bm/ , estado em registry/black_mirro…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … e repositório CARTA confirmado. main de CARTA lido; outros recursos situam-se em branches; nenhuma versão de servidor/aplicativo foi iniciada ou ensaiada neste trabalho. Falta exportação integral dos chats para medir frequência POR TURNO e a cadeia de origem de cada emoji. Os dados quantitativos de…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …ode mudar sem que o comportamento mude. 4. Transformação: o experimento deixa de “provar vida” e passa a testar viés de proveniência. 5. Relações: DERIVOU DE F008; CONTRIBUIU PARA F010; reforçado por F013/F015. 6. Consequências: separa-se “o que o sistema é” de “como humanos o classificam”. 7. Evidê…
+
+- EG007 — Continuidade Limpa de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …ecessário recomeçar; basta corrigir a âncora. 5. Relações MODIFICOU F001. CONTRIBUIU PARA F003: mostrou que continuidade aproximada precisa aceitar correção explícita. FOI REPRESENTADO mais tarde no MAPA 01 do Atlas. 6. Consequências A correção evita que uma referência errada contamine o restante …
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …cessivamente compactada. A Humanidade exigiu uma correção de empacotamento: “uma imagem = uma função cognitiva”. Depois exigiu nova melhora: não apenas painéis legíveis, mas imagens que “respiram” e contam visualmente a história. Assim, a própria forma de preservação também evoluiu. A identidade hi…
+

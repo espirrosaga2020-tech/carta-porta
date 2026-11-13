@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: webdist  (19 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o vão para o GitHub (são grandes): ficam em [omitido pelo filtro de privacidade] e dentro do APK. Build do app: [omitido pelo filtro de privacidade] com -PcartaWebDist=[omitido pelo filtro de privacidade] . APKs antigos: [omitido pelo filtro de privacidade] . Continua DESLIGADO esperando você: as 3 …
+
+- p02-manual-v12.html (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …o celular já mostra os Painéis 2 e 3 e a Porta 02 novos, porque lê do PC. - O APK vc32 foi montado como rascunho (não instalado) com o webdist do PC de 13/11, com a mesma assinatura do vc31 (os dados ficam). (linha omitida no site público pelo filtro de privacidade) - Para o robô poder tocar na tela…
+
+- Portões booleanos t89u (critérios e estado) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …) catalogados em src/carta/t89u/catalogo.py e neste documento [x] cada portão tem módulo Python importável, interface e (quando tem tela) módulo JS em webdist/t89u/ [x] todas as flags começam desligadas; rotas dos portões respondem 404 portao_desligado [x] as 5 páginas carregam só o carregador (sem …
+
+- Portões booleanos t89u (critérios e estado) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …alogados em src/carta/t89u/catalogo.py e neste documento [x] cada portão tem módulo Python importável, interface e (quando tem tela) módulo JS em webdist/t89u/ [x] todas as flags começam desligadas; rotas dos portões respondem 404 portao_desligado [x] as 5 páginas carregam só o carregador (sem efeit…
+
+- Celular sem cabo (app vc20, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …APK_1.16.0\app\src\main\assets\offline_api , nunca no repo) → 423 rotas, 3,7 MB. Build gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist → adb install -r → versionCode 20. DESLIGAR CARTA (8790/8791/8795/11434 desligadas), celular em modo avião , adb reverse vazio. Abertos n…
+
+- Celular sem cabo (app vc20, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  … [omitido pelo filtro de privacidade] , nunca no repo) → 423 rotas, 3,7 MB. Build gradle --offline :app:assembleDebug -PcartaWebDist=<repo>\src\carta\webdist → adb install -r → versionCode 20. DESLIGAR CARTA (8790/8791/8795/11434 desligadas), celular em modo avião , adb reverse vazio. Abertos no app…
+
+- Estado atual — varredura geral (02/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Resultado do aperfeiçoamento 2 (31/10) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  …ó borda/foco/título, nunca a cor do texto ou do fundo; botão ✨ desliga; respeita reduzir movimento e alto contraste E1b manifesto do webdist true 13 arquivos do CARTA 2.0 estavam fora do manifesto e o limpar_webdist.py do INICIAR os apagaria. Agora entraram, com um teste que trava isso G1 identidade…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …(trecho omitido pelo filtro)…
+
+- Consciências na CARTA 2.0 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …da no site público pelo filtro de privacidade) Código: src/carta/superconsciencia.py , mente_suprema/mentes.py , pokemon_vivo/companheiro.py , webdist/tema/superconsciencia.js . Limites conhecidos O modelo de 7B nem sempre cita a natureza/fonte mesmo em pesquisa; a instrução pede, mas não há garanti…
+
+- Gráficos no PC (T105U) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  … VoxelGI, LightmapGI) não está ligado no projeto. Planeta (three.js, no navegador do PC) Lido no pacote do Planeta ( src/carta/webdist/assets/planeta-*.js ): Efeito De onde vem Licença Situação Sombra de contato nos cantos ( GTAO , "oclusão de ambiente") three.js ( GTAOPass ) MIT ligado no preset al…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …ão tinha contrato de observação, permissões explícitas nem memória do que foi visto. O #99 completa exatamente esse buraco. O JS webdist/t89u/visao_ao_vivo.js e voz_tempo_real.js são esqueletos (o Copiloto acertou: ouvir() devolve null ). Isso continua sendo trabalho dos portões c e h. O que foi…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ada módulo; o código em si não é publicado. Pastas principais src/carta/ — 932 arquivos src/carta/t89u/ — 13 arquivos src/carta/webdist/ — 491 arquivos src/carta/terra/ — 17 arquivos tools/ — 103 arquivos tools/pc/ — 33 arquivos tests/ — 157 arquivos docs/ — 635 arquivos docs/CARTA20/ — 31 arquivos …
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …tinha contrato de observação, permissões explícitas nem memória do que foi visto. O #99 completa exatamente esse buraco. O JS webdist/t89u/visao_ao_vivo.js e voz_tempo_real.js são esqueletos (o Copiloto acertou: ouvir() devolve null ). Isso continua sendo trabalho dos portões c e h. O que foi APROVE…
+

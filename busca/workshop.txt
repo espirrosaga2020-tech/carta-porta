@@ -1,0 +1,19 @@
+BUSCA POR LINK — termo: workshop  (4 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Celular sem cabo (app vc20, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …ivo, roda 2 vezes sem mudar nada): _fix_probe.tscn começava com BOM → "Parse Error: Expected '['". Regravado sem o BOM (mesmo texto). workshop.tscn apontava para res://game/workshop/workshop.gd , que não existia → criada uma "ponte" que faz extends do script de verdade ( game/workshop/workshop/works…
+
+- Celular sem cabo (app vc20, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …roda 2 vezes sem mudar nada): _fix_probe.tscn começava com BOM → "Parse Error: Expected '['". Regravado sem o BOM (mesmo texto). workshop.tscn apontava para res://game/workshop/workshop.gd , que não existia → criada uma "ponte" que faz extends do script de verdade ( game/workshop/workshop/workshop.g…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …o de privacidade] ROBO\JOGO nunca é mexido): python tools\t103u\godot_leve_consertos.py [omitido pelo filtro de privacidade] (BOM do _fix_probe.tscn , ponte do workshop.gd , filtro do export, comando "porto", linha de FPS e versão web mais leve). Pode rodar de novo: não muda nada da segunda vez. Min…
+

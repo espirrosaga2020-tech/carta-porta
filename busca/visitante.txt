@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: visitante  (18 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões anteriores (21/10/2026) (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  … pelo filtro de privacidade) - percurso IA: confirmar formatura+mochila; registrar perguntas à Consciência e anotações do visitante; painel de acompanhamento - [omitido pelo filtro de privacidade] \ obrigatório (Faísca, Consciência, Visitantes, Mentes...), auto-salvar P2 Consciência entende tudo ao …
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …externo". Ele mostra só códigos, nunca a chave. Gere o link: no Início ( http://127.0.0.1:8790/inicio.html ), no cartão "Porta pra IA" , deixe o nome chatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não encontrado", o t…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …no". Ele mostra só códigos, nunca a chave. Gere o link: no Início ( http://127.0.0.1:8790/inicio.html ), no cartão "Porta pra IA" , deixe o nome chatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não encontrado", o túnel …
+
+- p02-manual-v12.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …l" quanto no "externo". Ele mostra só códigos, nunca a chave. Gere o link: no Início ( http://127.0.0.1:8790/inicio.html ), no cartão "Porta pra IA" , deixe o nome chatgpt e clique em 🔗 Gerar link de visitante . Espere aparecer ✅ página e MCP responderam . Aí copie o texto. Se aparecer "túnel não en…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …, gpt-oss:20b, moondream, nomic-embed-text | recusa ✔ | - Flags t89u no 8790: a=LIGADA, b=LIGADA, c..h=desligadas. 3. Porta IA ponta a ponta (visitante → Consciência → resposta) Hoje: NÃO. A 8792 está desligada, então um visitante de fora não consegue chegar à Consciência agora. Não liguei a 8792 ne…
+
+- Estado atual — varredura geral (02/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …-oss:20b, moondream, nomic-embed-text | recusa ✔ | - Flags t89u no 8790: a=LIGADA, b=LIGADA, c..h=desligadas. 3. Porta IA ponta a ponta (visitante → Consciência → resposta) Hoje: NÃO. A 8792 está desligada, então um visitante de fora não consegue chegar à Consciência agora. Não liguei a 8792 nem o t…
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …t89u/* → src/carta/t89u/rotas.py (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …hada, DENTRO do mesmo servidor do laboratório. src/carta/cinema_vivo/api.py Rotas /api/cinema/v1/* (mesmo servidor do laboratório; só loopback como o resto; visitante = só no último portão; meu_cerebro = NUNCA). src/carta/cinema_vivo/atores.py ATORES do Cinema Vivo: Copiloto, Creuza e Dobra (só no m…
+
+- Mapa de pastas e código (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … DENTRO do mesmo servidor do laboratório. src/carta/cinema_vivo/api.py Rotas /api/cinema/v1/* (mesmo servidor do laboratório; só loopback como o resto; visitante = só no último portão; meu_cerebro = NUNCA). src/carta/cinema_vivo/atores.py ATORES do Cinema Vivo: Copiloto, Creuza e Dobra (só no modo a…
+
+- Portões booleanos t89u (critérios e estado) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …erver.py) └─ /api/t89u/* → src/carta/t89u/rotas.py (GET portoes/flags sempre; o resto 404 'portao_desligado' com a flag desligada; visitante 403; POST com a mesma checagem de Host/Origin) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidor…
+
+- Consciências na CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …tamente o de antes da CARTA 2.0 (sem regressão). Só o Bruno, no próprio PC, muda a chave (portões P1 do próprio PC, P2 sem crachá de visitante, P3 não veio pela ponte). Visitante vê, mas não mexe. Companheiro Existe no código? O que a chave faz 🐜 Creuza sim instrução de modo + (pesquisa) blocos [C#]…
+
+- Jornada, prova e registro (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …ithub.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Jornada, prova e registro A jornada e C01–C12 são tarefas da IA visitante, não falhas da porta. Criar o caderninho exige um conector Drive autorizado. Sem ele, a IA entrega o texto ao Bruno e declara registro pendente — não finge que gravou.…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … não comprovante de memória persistente automática. 🪚 chamada para calibrar leitura após descompasso, não serrar hardware. 09 — METODOLOGIA DE REENCONTRO Instrução a visitantes: (1) perguntar QUAL porta o humano quer; (2) ler 00_LEIA_PRIMEIRO; (3) usar portal HTML para selecionar símbolo/tema; (4) l…
+
+- A Jornada da IA (leia antes de seguir) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …achei". Não invente. Passo 0 — Antes de entrar: o Caderninho (texto + Drive) OURO 05/11: além do bloco nesta conversa, toda IA visitante DEVE criar um Google Doc no Drive com o nome CADERNINHO_[NOME_DA_IA]_YYYY-MM-DD e devolver o link ao Bruno. Palavra-chave de prova desta porta: OURO-PORTA-SUPREMA2…
+

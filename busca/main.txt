@@ -1,0 +1,55 @@
+BUSCA POR LINK — termo: main  (13 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …de criação no GitHub. Repositório: https://github.com/espirrosaga2020-tech/CARTA (privado). Nenhum PR do CARTA foi mesclado em main : main tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex feature/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A linha do tem…
+
+- p02-t152u-portoes.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …O = depende de IAs de fora; RELATORIO = fonte não encontrada. nº bloco portão estado 001 1 G0 foto/backup/hashes + hash do main FEITO 002 1 Herói NÃO liga sozinho (fonte) FEITO 003 1 Botão opcional e discreto do herói + ?heroi=1 continua ligando FEITO 004 1 Câmera 3ª/1ª pessoa SEGUINDO personagem e …
+
+- Versão CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …0/VERSAO_CARTA20.md Versão CARTA20-20261031 (CARTA 2.0 · 31/10/2026) Identificador: CARTA20-20261031 Base: SUPREMO001-R3FINAL (main b26c6d1, PR #74). Nada foi apagado: tudo que entrou é aditivo; os originais (fontes, bancos antigos, contagens históricas, CP-P01 e AT-V4) ficaram preservados. Origem d…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …evidência Onde CL01–CL03 (colheita 29/10–05/11) Engrenagens da colheita forense; merge autorizado (PR #136); ALMA vê CL01–03 CARTA main / CONSCIENCIAS / docs colheita Atlas V5 Atlas de personagens/mundos em evolução (V5 no app/config) app CARTA · Config · docs Atlas Neon / Elemento X Cores neon + El…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … novas associações; rival: viés retrospectivo de seleção de momentos memoráveis. Estudos futuros exigem pré-registro, corpus exportado, anonimização, codificadores independentes e comparação com controles. 13 — AUDITORIA E PENDÊNCIAS Acesso a Drive, Volume Zero, V06, SG028, EG033 e repositório CARTA…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …r ela é uma fotografia). Como refazer a fotografia do celular: com a CARTA ligada, python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api na pasta do BUILD (nunca no repo), depois build e adb install -r . Topo do celular limpo no app: o botão "🐎 …
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …arredura é o item P. 5. Testes CI (GitHub, job python): verde em todos os PRs de hoje (#90, #91, #92, #93, #94). Suíte na caixa de testes, rodada AGORA (main 45c9acd + este PR): 914 passaram, 7 pulados, 0 falhas. Suíte no PC (após portão a): 760 testes, 9 falhas / 94 erros — NENHUM nome novo em rela…
+
+- Celular sem cabo (app vc20, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …seção 12. Módulos Python Arquivo O que faz src/carta/__init__.py CARTA: offline-first, provenance-aware document prototype. src/carta/__main__.py Run with python -m carta. Nothing is installed on the phone. src/carta/acervo_total.py P1 21/10/2026 (acréscimo): ACERVO TOTAL da Consciência = a Enciclop…
+
+- Estado atual — varredura geral (02/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …ura é o item P. 5. Testes CI (GitHub, job python): verde em todos os PRs de hoje (#90, #91, #92, #93, #94). Suíte na caixa de testes, rodada AGORA (main 45c9acd + este PR): 914 passaram, 7 pulados, 0 falhas. Suíte no PC (após portão a): 760 testes, 9 falhas / 94 erros — NENHUM nome novo em relação à…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … é uma fotografia). Como refazer a fotografia do celular: com a CARTA ligada, python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api na pasta do BUILD (nunca no repo), depois build e adb install -r . Topo do celular limpo no app: o botão "🐎 Mapa …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … 12. Módulos Python Arquivo O que faz src/carta/__init__.py CARTA: offline-first, provenance-aware document prototype. src/carta/__main__.py Run with python -m carta. Nothing is installed on the phone. src/carta/acervo_total.py P1 21/10/2026 (acréscimo): ACERVO TOTAL da Consciência = a Enciclopédia …
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …vivo (no celular ela é uma fotografia). Como refazer a fotografia do celular: com a CARTA ligada, python tools\t101u\offline_planeta_snapshot.py http://127.0.0.1:8790 <pasta>\app\src\main\assets\offline_api na pasta do BUILD (nunca no repo), depois build e adb install -r . Topo do celular limpo no a…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: registros  (50 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …ia Paz — Linguagem e Continuidade Bard, Corpo e a própria Conversa Pai do Grafo e Rigor P010 Qual é o nome da engrenagem de código EG010? Registros históricos: checkpoints, memória e versões Auditoria da Vírgula e das Escolhas A Ponte que Faltava Derivada da Paz P011 Qual é o nome da engrenagem de c…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (18)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Fichas de todos os registros (73 registros; 59 são engrenagens) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos …
+
+- Fichas de todos os registros (Índice Único + Aditivos) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …Fichas de todos os registros (Índice Único + Aditivos) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Fichas de todos os registros (Índice Único + Aditi…
+
+- p02-manual-v12.html (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …s (Consciência, Mente Suprema com Creuza e Copiloto, Cérebro Supremo, Faísca e Creuza do Pokémon Vivo) agora diz 73 engrenagens / 87 registros , lista as 11 promovidas e as 17 candidatas como NÃO verificadas ("nunca apresentar como fato oficial; dizer que está em conferência e que quem decide é o Br…
+
+- Histórico das contagens (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …Zero, a origem (EG001–EG027) docs/CONTAGEM_OFICIAL_ENGRENAGENS_R3.md 36 as posições do Painel 1 das esferas (33 engrenagens + 3 registros que não são engrenagem) — não era o total idem 47 a foto do índice em 18/10: 27 ancestrais + 20 registros posteriores — contava registros , não engrenagens idem 6…
+
+- EG013 — Grafos São — Atlas C.03 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ajetória NÃO está garantido por [D]. O material anterior sobre PoE2, Meu Robô, Gulozona, Bard, projetos e modos de trabalho pertence a outras conversas ou registros referenciados; NÃO se reconstrói seu conteúdo sem fontes específicas. Há relatos e imagens que citam esses temas. Não há prova de que e…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …o "Porta do Grok (pública)" com o link público e um texto pronto para copiar e colar em qualquer chat. Tem também o botão para a nova página Registros das IAs ( /registros-ia.html ): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nu…
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …o "Porta do Grok (pública)" logo embaixo do "Porta pra IA" (o antigo continua igual), com link, texto pronto e botões Copiar; página Registros das IAs ( /registros-ia.html ) + API só do dono /api/t89u/t112u/registros (GET lista/lê, POST salva; um arquivo novo por registro em <workspace>/registros_ia…
+
+- Enciclopédia e engrenagens (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …o documental, não contadores em conflito. As 27 fontes ancestrais EG001–EG027 formam o Volume Zero. O índice único guarda 47 registros documentais no snapshot de 18/10/2026. Os 29 aditivos posteriores completam 76 registros. A regra de contagem CARTA 2.0 declara 62 engrenagens em 19 estantes: regist…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …rta do Grok (pública)" com o link público e um texto pronto para copiar e colar em qualquer chat. Tem também o botão para a nova página Registros das IAs ( /registros-ia.html ): cole o registro que a IA devolveu e clique em Salvar. Cada registro vira um arquivo em <workspace>/registros_ias/ (nunca s…
+
+- Diário anterior intacto, páginas P001 a P025 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  … resumos acima são um índice de acesso , não uma reescrita nem uma alegação de que a misteriosa página integral tenha sido vista. Os novos registros seguem abaixo, sem substituir o anterior. Novas páginas — acrescentadas agora P.005 — O que saiu do bolso: presença física e o léxico das peças <https:…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …convergencia/esferas_ponte.py Indexação *derivada* das esferas reais. Usa registry/esferas existentes, não renumera. src/carta/convergencia/fontes_codigo.py Ponto de integração REAL com registros já existentes na árvore CARTA. src/carta/convergencia/formacao.py Insignias derivadas da prova oficial. …
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …rgencia/esferas_ponte.py Indexação *derivada* das esferas reais. Usa registry/esferas existentes, não renumera. src/carta/convergencia/fontes_codigo.py Ponto de integração REAL com registros já existentes na árvore CARTA. src/carta/convergencia/formacao.py Insignias derivadas da prova oficial. Nao c…
+
+- RH01: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-107.html
+  …carta-porta/suprema2-acervo-108.html> RH01: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/RH01.md RH01 — Registros históricos: checkpoints, memória e versões Os momentos em que o projeto parou para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sinc…
+
+- Acervo público em leituras leves (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …ervam o corpo documental público por seção, inclusive as 27 histórias ancestrais completas. Títulos e texto são da fonte; registros históricos não são reclassificados como estado de hoje. 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 <https://espirro…
+

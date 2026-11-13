@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: coordenadas  (20 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG020 — Nova Batcaverna (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …ma carinha e outra pombinha”. - O conteúdo integral desse ancestral não é reconstruído aqui. - Um documento de continuidade é referido como COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.txt. - Uma primeira tentativa/V1 é mencionada em associação ao erro “library file not found”. - “Meu Robô 20…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (29)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …ICAL_SLICE_2026-10-06.txt - DIARIO_FECHAMENTO_TOTAL_2026-10-06.txt - MARCO_BASELINE_TOTAL_2026-10-06.txt - LEIA_ME.txt / LEIA_ME(4).txt - COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06.txt - COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.txt - CALIBRACAO_BATCAVERNA_E_CENTRAL_2026-10-06.txt - vídeos D…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …F007 — Grafo e “pente fino” viram método de leitura | G | alta | mensagem sobre grafo/concatenação OBSERVAÇÃO DE PROCEDÊNCIA: ler seção 00 do original para limites de acesso, importações e branches. [EG020] Nova Batcaverna ESTANTE: Continuidade e Batcaverna ARQUIVO: ENGRENAGEM_NOVA_BATCAVERNA_CONTIN…
+
+- EG001 — Calçada, Caderno e DUNADA (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …NIDADE.md; CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt; CHECKPOINT_ATLAS_BATCAVERNA_NOVA_2026-10-07.md; CATALOGO_FORENSE_CHATS_FINALISTAS_2026-10-07_v2.txt; COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.txt; CALIBRACAO_BATCAVERNA_E_CENTRAL_2026-10-06.txt; ATLAS_CONTINUIDADE_LIMPA_CHECKPOINT.txt; …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …nte fino” viram método de leitura | G | alta | mensagem sobre grafo/concatenação OBSERVAÇÃO DE PROCEDÊNCIA: ler seção 00 do original para limites de acesso, importações e branches. [EG020] Nova Batcaverna ESTANTE: Continuidade e Batcaverna ARQUIVO: ENGRENAGEM_NOVA_BATCAVERNA_CONTINUIDADE_…
+
+- EG002 — Calçada e continuidade portátil (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …ha mão”. 8. Avaliação histórica Magnitude original média; influência posterior grande porque muda a estratégia de preservação. 9. Situação final Consolidado como erro produtivo. 10. Utilidade futura Lembra que continuidade não é só conteúdo correto; é também capacidade de permanecer no objeto emo…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …nova Central. Relação: antecede e é testado por F009. 11. TAMAGOTCHI_HUMANIDADE_NEW_GAME_KAMONSON_LIVRO_I_PAZ_2026-10-05.pdf/.docx Natureza: memória cultural/narrativa. Função: registrar origem e sentido da Central; não substituir protocolo operacional. 12. 08_TRATADO_DE_PAZ_RAMIFICACOES_E_SAVES_O…
+
+- EG027 — SPA — Ping-pong Cognitivo (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …TEFATOS ====================================================================== A conversa não criou um projeto técnico novo nem modificou artefatos antigos. Ela consultou, de maneira seletiva, patrimônio já existente. Artefatos efetivamente mencionados/consultados durante o território histórico: …
+
+- EG004 — Central, Copiloto e Atlas (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …das e Endgame. Sistemas posteriormente declarados tecnicamente fechados para a fase: boot/título/slots; save; campanha/selos; Ada/Diário; Hangar/equipar; reparo/melhoria; Mecânica Plus; craft; lojas; mundo/rotas; combate estrutural; famílias; Fendas; Atlas; HUB; Configurações; micro-orientação; ver…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …o em destaque [x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam respondendo 200 Portão b — SAVE do mundo com posição do jogador, DeLorean e coordenadas flag: t89u_b_save_posicao ( LIGADA por padrão desde 02/11/2026 , depois do teste de ida e volta; desliga com {"t89u_b_save_posic…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …irmação da Plus EG019:F017 | Preservação é corrigida: reescrever pode, apagar cegamente não | G | alta | COMECE_POR_AQUI + discussão EG019:F018 | “Ausência no mapa não é ausência no território” | G | média-alta | hipótese de desacoplamento de navegação EG019:F019 | Arqueologia substitui reconstru…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …destaque [x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam respondendo 200 Portão b — SAVE do mundo com posição do jogador, DeLorean e coordenadas flag: t89u_b_save_posicao ( LIGADA por padrão desde 02/11/2026 , depois do teste de ida e volta; desliga com {"t89u_b_save_posicao": …
+
+- EG007 — Continuidade Limpa de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …itamente. 10. IMAGEM EXISTENTE x IMAGEM LEGÍVEL Erro adicional: alguns mapas estavam textuais demais. Correção: reempacotamento visual seletivo. Resultado: conteúdo preservado; forma melhorada. ====================================================================== 09 — DESCOBERTAS RETROSPECTIVAS =…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …"PERSONALIDADE" FOI REFINADA A ideia inicial poderia ser lida como tom e estilo. Foi corrigida para "interface cognitiva": comportamento emergente entre Humanidade e Copiloto. C005 — "LINHAS" FORAM REFINADAS PARA "REGIÕES" Coordenadas de linha foram consideradas frágeis para transferência cognitiva…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …o: - vídeo = caminho real; - screenshot = região/raio; - banco/árvore digital = nome e texto do node. 4. Transformação O problema de visão passa a ser um problema de correspondência de coordenadas e nomes. 5. Relações DEPENDEU DE F002, F010 e F011. CONTRIBUIU PARA F013 e F018. 6. Consequências O …
+

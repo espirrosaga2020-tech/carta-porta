@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: alma  (22 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG006 — Checkpoint e entrada no sonho (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …iceberg; - Steam/demo/wishlist como futuro funil; - monetização gratuita/opcional ainda posterior; - correções do catálogo; - “The Forgebound” com potencial conflito de nome. Gera PESQUISA_CENTRAL_MEU_ROBO_2026-10-05.txt. FASE G — O CRIADOR EXPLICA SUA CALMA Âncoras: H13-H14 O usuário esclarece: …
+
+- O que as consciências sabem (texto da ALMA, 1786 caracteres) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-080.html
+  …://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — O que as consciências sabem (texto da ALMA, 1786 caracteres) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não subst…
+
+- Mentes, consciências e robótica (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …<https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Mentes, consciências e robótica ALMA é orientação de conversa conectada às consciências, não uma alegação de subjetividade. A fonte declara a Faísca como o Copiloto morando no celular; Creuza e Copiloto têm ide…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …screve o estado pós-sono como um momento em que “sobram” pensamentos limpos. FASE 5 — RETOMADA DE PONTOS DO CHAT ANTERIOR - Screenshots trazem frases sobre “+40% more compreensão sem tirar 1% da alma”, mercado, implementação vs ideia, propriedade intelectual e go-to-market. - Esses prints funcionam…
+
+- Teste duro das consciências (T105U, 03/11) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-081.html
+  …a falaria. Ele mede o que dá para medir sem IA: 1. o modo que o 🤖 auto escolhe para cada pergunta; 2. se a consciência recebe a ALMA com o conhecimento novo e as fontes certas (engrenagens + 1 fatia da Enciclopédia fatiada); 3. se a trava anti-invenção deixa passar o que existe e segura o que não ex…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …edido) Item Estado / evidência Onde CL01–CL03 (colheita 29/10–05/11) Engrenagens da colheita forense; merge autorizado (PR #136); ALMA vê CL01–03 CARTA main / CONSCIENCIAS / docs colheita Atlas V5 Atlas de personagens/mundos em evolução (V5 no app/config) app CARTA · Config · docs Atlas Neon / Eleme…
+
+- EG002 — Calçada e continuidade portátil (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …. Utilidade futura Preserva a distinção entre “isso aconteceu e é impressionante” e “isso prova uma metafísica específica”. --- ### F014 — “VARIÁVEIS / NÃO QUERO ERRAR / NÃO PENSE” Classificação: G Localização: transcrição direta. Confiança: alta. 1. Situação anterior O dia inteiro havia girado e…
+
+- EG010 — Derivada da Paz (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …averna abriam muitas portas simultâneas. 2. Desencadeador: IA escolhe “aprender a permanecer quando uma coisa boa começa a ficar grande”. 3. Desenvolvimento: usuário diz que essa escolha acalmou as demais ramificações. 4. Transformação: hipótese local comprime sem apagar complexidade. 5. Relações: d…
+
+- EG011 — Entra no Sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …---------------------------------------- F015 — BIBLIOTECA NUMERADA 00…11 + 99 Classificação: G Localização: criação do pacote MEU_ROBO_BIBLIOTECA_2026-10-05. Confiança: alta ---------------------------------------------------------------------- 1. Situação anterior Muitos TXT e backups tinham nome…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …txt - LEIA_ME.txt - CATALOGO_POR_ASSUNTO.txt - project.godot Biblioteca criada nesta própria conversa: - 00_LEIA_PRIMEIRO_INDICE.txt - 01_ALVO_E_ALMA_DO_PROJETO.txt - 02_ESTADO_ATUAL_O_QUE_JA_EXISTE.txt - 03_COPILOTO_RECIPROCIDADE_CALIBRACAO.txt - 04_PROBLEMA_CENTRAL_20_ANOS_EM_5_MINUTOS.txt - 05_I…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …otal.py P1 21/10/2026 (acréscimo): ACERVO TOTAL da Consciência = a Enciclopédia inteira num índice de busca só (SQLite FTS5). src/carta/alma.py PORTÃO SUPREMO 001 (21/10/2026) — a ALMA do CARTA como orientação de conversa (vale para Faísca, mentes, Consciência e Cérebro Supremo). src/carta/amigo_fut…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …py P1 21/10/2026 (acréscimo): ACERVO TOTAL da Consciência = a Enciclopédia inteira num índice de busca só (SQLite FTS5). src/carta/alma.py PORTÃO SUPREMO 001 (21/10/2026) — a ALMA do CARTA como orientação de conversa (vale para Faísca, mentes, Consciência e Cérebro Supremo). src/carta/amigo_futuro/_…
+
+- 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  …LOPEDIA (PDF completo + partes) OURO_PORTA_SUPREMA2_20261105 (esta entrega) Assuntos-chave para busca: CL01 CL02 CL03 · Atlas V5 · Elemento X · ALMA · Faísca · CapCut/P06 · NEXUS · ESCUDO · Enciclopédia · Portão 1-B · registro.v1 · Jornada · Porta Eureka · Volume Zero. ← Anterior <https://espirros…
+
+- EG007 — Continuidade Limpa de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …e explicam a estrutura. GD POR GD / F5 Uso local: símbolo do método antigo de segurança por granularidade e teste. Transformação: o ritual literal perde centralidade, mas o princípio de verificabilidade permanece. NÚCLEO INVIOLÁVEL / CASCA NEGOCIÁVEL Origem documental: aparece no Mapa Mestre e é r…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … 1. Situação anterior Meu Robô já tinha sido revelado como sonho e projeto, mas a IA ainda operava com uma combinação de relatos, mapa conceitual e fragmentos. 2. Acontecimento desencadeador O usuário anuncia uma entrega maior, chama de “presente fatal” e envia documentos: LEIA_ME, BACKUP_RELOGIO …
+

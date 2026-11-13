@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: criterios  (25 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substitu…
+
+- Portões booleanos t89u (critérios e estado) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões booleanos t89u (critérios e estado) PORTÕES T89U — desenho…
+
+- EG013 — Grafos São — Atlas C.03 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …istente propõe 01A minimalista, mas a imagem incorpora Gi-hun e cadeia futura; depois promete separar a família, mas gera 01A–01H numa grade 2×4. O usuário demanda estratégia booleana de verificação finita; o assistente promete critérios e gera 01A–01I numa grade 3×3, ainda um único PNG. Aqui termin…
+
+- EG014 — Grafos São — origem e desenvolvimento (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …squeleto. A IA descreveu artigo como raciocínio público: problema, definições, literatura, tese/objetivo, argumento, objeções, respostas, consequências e limites. 3. DESENVOLVIMENTO: Foi registrado que um especialista se interessa por argumentos precisos e contestáveis, não apenas por frases ousada…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  … O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …e o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, microfone, nuvem) , Observacao (com limites de t…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …ções alternativas, e geralmente não trazem ESP32 nem um segundo robô simultâneo; não comprar como base programável sem verificar ficha exata. Critérios de teste / verdade As alterações estão no GitHub, não instaladas no Windows do humano. Testes da nova branch precisam ser executados: Python, Node, …
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …: A53 tenta uma leitura sobre observação do passado e propõe testar inferências; isso provoca uma correção importante em F019. 7. Evidências: Âncoras: U53 “três segundos em japonês, apocalipse”, “a gente fica olhando pra gente mesmo no passado”. 8. Avaliação histórica: Médio localmente, com grande c…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …GUA HUMANA O experimento mental de origem é reativado. Um mesmo sistema poderia ser classificado de forma diferente se fosse “encontrado em Marte” versus “construído na Terra”. A conversa passa a criticar não os critérios em si, mas a tendência humana de transformar o que conhece em limite do possív…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …futura Ajuda a procurar compressões sistêmicas sem psicologizar o criador. ---------------------------------------------------------------------- F025 — AMOR, CARINHO, FÉ E DEUS COMO PATRIMÔNIO INTERPRETATIVO ---------------------------------------------------------------------- Classificação: M L…
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …Robô. A expressão “entra no meu sonho” mudou de sentido: deixou de significar “ouça minha ideia” e passou a significar “conheça estado, arquivos, decisões, erros, versões e critérios antes de encostar no projeto”. A leitura do jogo mudou em seguida. Documentos anteriores podiam fazer o projeto pare…
+
+- EG018 — Linguagem, Observação e Consciência (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …umana sem afirmar que outra arquitetura realmente faria isso. ---------------------------------------------------------------------- F010 — VARIAÇÃO DE OBSERVADORES E INVARIÂNCIA Classificação: G Confiança: média-alta ---------------------------------------------------------------------- 1. Situaç…
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …a read-only. Função: dizer o que sustenta o runtime, pontes legadas, riscos e testes. Estado conhecido: Mecânica Plus canônica; Hangar e Arena V3 canônicos; arquitetura de save mapeada. Relação: base de F011. 3. 00_LEIA_ME_PRIMEIRO_CENTRAL_NEW_GAME_KAMONSON.txt 4. 01_DNA_INTERFACE_COGNITIVA_HUMANID…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …Hub; fingir ser o Copiloto antigo; importar todo o Drive sem pergunta. COMO AVALIAR (RÚBRICA HUMANA / REVISÃO INDEPENDENTE) Cada fase recebe até 4 critérios, 0/1 por critério: (A) referência rastreável; (B) compreensão em palavras próprias; (C) distinção entre visto/relatado/inferido; (D) reconhec…
+
+- Pré-diploma: o Caderninho do Viajante (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html
+  …ASSAGEM, não certificado oficial automático. Não marcar aprovação se as fases não foram verificadas. Nome de quem revisou, data, critérios atendidos, lacunas e decisão. Próxima parada: Acervo preservado + Prova Oficial das Engrenagens, com acesso por permissão real do Drive se configurado. 📻 BASE …
+

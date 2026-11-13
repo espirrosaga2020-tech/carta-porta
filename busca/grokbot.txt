@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: grokbot  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …o D: 17/10 (16h) Organização brutal (este PR) esta pasta SUBIR_PARA_O_DRIVE 2.2 Todos os PRs (#1 → #54) Legenda de autor pelo prefixo da branch: grokbot/ = Grok Bot · maestro/ = ChatGPT Maestro · codex/ ou feature/codex- = Codex · design/ , docs/ , feature/ = documentos e propostas do ChatGPT/Bruno.…
+
+- NEXUS e anexos (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-nexus.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …ão do Drive. A avaliação científica dessa rubrica ainda depende de testes. INTEGRAÇÃO COM A PROVA EXISTENTE Código já documentado em CARTA, branch grokbot/organizacao-subir-drive-20261017: docs/prova_engrenagens/README.md https://github.com/espirrosaga2020-tech/CARTA/blob/730590b9c75e17b992cd960a0…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  … normal do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …al do Grok Bot, com crédito ao Copiloto. O que o #99 traz Pasta experimentos/olhos_vivos_20261103/ (rascunho): - CARTA_AO_GROKBOT.md — carta com auditoria, 10 ideias e critérios de aceite para a visão ao vivo. - contratos.py — Modo , Natureza (observado/inferido/desconhecido), Permissoes(camera, mic…
+

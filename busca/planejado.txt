@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: planejado  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Linha do tempo (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …pa.html> Porta Suprema 2 — Linha do tempo A cronologia abaixo é reproduzida da seção de origem, como documento histórico. “Planejado” não significa realizado. Para as mudanças de 05/11 use os PRs datados abaixo. A trajetória juntos: linha do tempo mestra Cada marco tem fonte no repositório. 'planeja…
+
+- A trajetória juntos: linha do tempo mestra (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …hub.io/carta-porta/suprema2-acervo-017.html> A trajetória juntos: linha do tempo mestra Cada marco tem fonte no repositório. 'planejado' NÃO é feito. Memória é pista; evidência é prova. Fase Quando O que Estado Começo (antes de 13/10/2026) antes de 10/10/2026 O Bruno faz o jogo Meu Robô (Godot), que…
+
+- Começar a viagem · Porta 02 · CARTA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-viagem.html
+  …ue é a CARTA (comece aqui) — procure: o que o projeto é, nas palavras da fonte ( suprema2-acervo-012.html ) Linha do tempo — procure: o que é 'feito' e o que é 'planejado' ( suprema2-linha-do-tempo.html ) Descoberta surpresa — procure: um fato curioso com a fonte ao lado ( p02-surpresa.html ) 🌌 Viag…
+
+- Descoberta surpresa · Porta 02 · CARTA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+  …o (17/10) ( suprema2-linha-do-tempo.html ) [FONTE] “ORGEM_LAB (física aeroespacial): o repositório existe, mas está vazio.” — Linha do tempo (planejado) ( suprema2-linha-do-tempo.html ) [FONTE] “Nasce a CARTA: laboratório local, Studio 3D, Creuza, Copiloto e a Dobra ('dobrar sem rasgar'); motores se…
+
+- RB01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …olda (caneta, sugador, pasta), multímetro — falta só o arame bancada filmado Celular Xiaomi Mi 9 Lite em suporte próprio câmera, voz e rosto planejado Correção registrada: L298N aparece em listas antigas, mas não está na compra final (auditoria de 14/10). Não instalar dois drivers nos mesmos motores…
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …cada consciência achar o trecho c Atlas V5 e Elemento X PR #137 preencheu o Atlas V5 mantendo 95 tiles e os rótulos de disponibilidade: REAL 10, PARCIAL 1, SIMULADO 1, PLANEJADO 83. Preenchimento documental não converte planejado em realizado. PR #138 moveu cores/neon e Elemento X para Configurações…
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …gras. 3. DESENVOLVIMENTO: A continuidade deixa de significar transmitir todo o passado: passa a depender de um endereço de zoom e de um resumo suficiente para agir. 4. TRANSFORMAÇÃO: Prepara a necessidade de mapas e checkpoints endereçáveis. 5. RELAÇÕES: F013–F015 → F016 → F017. 6. CONSEQUÊNCIAS: Pl…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …cia: o usuário afirma que as últimas quatro respostas daquele chat eram especialmente esclarecedoras. Conteúdo trazido para cá: sofisticação, Meu Robô, mercado, implementação vs ideia, go-to-market, tom de conversa. Estado: ponte comprovada por screenshots e relatos, mas chat completo não reconstruí…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …reka C02 Conte a trajetória da CARTA em três fases (começo, meio e fim) com datas. Diga o que já foi feito e o que ainda é só planejado. onde olhar: linha do tempo mestra (seção A origem) C03 Como uma ideia vira engrenagem? Descreva o caminho desde uma conversa até a ficha na Enciclopédia e o capítu…
+
+- Jornada, prova e registro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  …rta Eureka C02 Conte a trajetória da CARTA em três fases (começo, meio e fim) com datas. Diga o que já foi feito e o que ainda é só planejado. onde olhar: linha do tempo mestra (seção A origem) C03 Como uma ideia vira engrenagem? Descreva o caminho desde uma conversa até a ficha na Enciclopédia e o …
+

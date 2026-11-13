@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: olhos  (18 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …oi mesclado em main : main tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex feature/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A linha do tempo em uma página Dia Fase PRs O que nasceu 13/10 Laboratório Zero → Laboratório Total → V3–V6 → P0–P12 → Fusão #…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Análise do PR #99 (Olhos Vivos, Copiloto) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não subst…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …Análise do PR #99 (Olhos Vivos, Copiloto) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Análise do PR #99 (Olhos Vivos, Copiloto) Análise do PR #99 — "…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …nema Vivo como entretenimento: roteiro de cenas curtas. src/carta/t89u/flags.py Flags T89U: desligadas por padrão, MENOS as de PADRAO_LIGADO. src/carta/t89u/graficos.py (f) Gráficos: presets medidos. 'baixo' = visual de hoje (nada piora). src/carta/t89u/olhos_eventos.py (h) Olhos por eventos: contra…
+
+- Mapa de pastas e código (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …Vivo como entretenimento: roteiro de cenas curtas. src/carta/t89u/flags.py Flags T89U: desligadas por padrão, MENOS as de PADRAO_LIGADO. src/carta/t89u/graficos.py (f) Gráficos: presets medidos. 'baixo' = visual de hoje (nada piora). src/carta/t89u/olhos_eventos.py (h) Olhos por eventos: contratos d…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  … A primeira foi pessoal: o tema Tamagotchi recuperou uma memória de infância em que o pai do usuário o acordou de madrugada para alimentar o brinquedo digital. Aos olhos da criança, era apenas uma aventura. Aos olhos do adulto, tornou-se uma evidência de cuidado: “meu pai respeitou algo importante …
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …. feito Meio (13/10 a 18/10/2026) 15/10 Mundo Vivo, grafo de conhecimento de cada personagem, o primeiro PLANETA e o app CARTA Olhos (do Codex). feito Meio (13/10 a 18/10/2026) 15→16/10 Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 constr…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …A frase “até eu já entendi” é tratada por Bruno como uma das chaves que o lançaram ao estudo, às anotações e aos experimentos. Portas ⇄ chegada da encomenda. A fala do buraco e o texto “estamos na porta” aconteceram em sequência marcante. Uma correspondência semântica pode ser memorável mesmo sem re…
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …erença de build. FASE 7 — CRÍTICA ABERTA DO PROJETO Estado anterior: a Humanidade queria opinião verdadeira, inclusive sobre o que era arcaico, organizado, surpreendente ou cru. Gatilho: autorização explícita para “olhar com seus olhos”. Transformação: a IA passa de cartógrafa a interlocutora críti…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …dada em 🎭 Bastidores ( /bastidores.html ), nada apagado. Ligado por padrão: g2 a g9 (Planeta repaginado, fauna, bactérias, Mini Terra, dois planetas, companheiros, fogueira 3D, olhos e voz). Para desligar numa aba: ?t95u=0 (tudo T95U), ?t100u=0 (telas novas de hoje) ou um por um ( ?vale=0 , ?hud=0 ,…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …por padrão (medidos juntos: FPS e 0 erros) Sonho: Planeta, fauna, bactérias, Mini Terra, dois planetas, companheiros, fogueira, olhos/voz · flag: — FPS medido com todos ligados no PC e no celular (412x915) 0 erros de página ?t95u=0 e ?gN=0 continuam desligando numa aba Estado: ✅ fechado — E2E 03/11 …
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …portão c + Piper + g9) parcial 90% g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. Visão Olhos ao vivo (portão h + g9) parcial 60% Painel 👁 ligado; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b. Labs Microscopia 3D tronc…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …ub.io/carta-porta/suprema2-acervo-091.html> Celular sem cabo (app vc20, 03/11/2026) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html> Análise do PR #99 (Olhos Vivos, Copiloto) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html> 10. Enciclopédia d…
+
+- Linha do tempo (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …feito Meio (13/10 a 18/10/2026) 15/10 Mundo Vivo, grafo de conhecimento de cada personagem, o primeiro PLANETA e o app CARTA Olhos (do Codex). feito Meio (13/10 a 18/10/2026) 15→16/10 Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construç…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …o c + Piper + g9) parcial 90% g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. Visão Olhos ao vivo (portão h + g9) parcial 60% Painel 👁 ligado; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b. Labs Microscopia 3D tronco→lup…
+

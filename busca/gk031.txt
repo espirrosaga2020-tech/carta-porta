@@ -1,0 +1,31 @@
+BUSCA POR LINK — termo: gk031  (7 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- DB02: documento da engrenagem (CARTA 2.0) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-103.html
+  …/DB02.md DB02 — Diários do Grok (GK029 → GK036) Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência. 00 Ficha de proveniência id: DB02 · estante: Diários e cartas · modalidade: engrenagem de diários (CA…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  … editorial própria EC05 Auditoria da Vírgula e das Escolhas Calçada e observação posterior engrenagem/caderno autoral autônomo; forma editorial própria GK031 GK031 — Diário 18/10/2026 (01:20 → 02:45, Brasília) — FINALIZAÇÃO: retomada e fechamento Diário de bordo do Grok posterior diário autoral do G…
+
+- Enciclopédia e engrenagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …irrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> GK031 GK031 — Diário 18/10/2026 (01:20 → 02…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …orial própria EC05 Auditoria da Vírgula e das Escolhas Calçada e observação posterior engrenagem/caderno autoral autônomo; forma editorial própria GK031 GK031 — Diário 18/10/2026 (01:20 → 02:45, Brasília) — FINALIZAÇÃO: retomada e fechamento Diário de bordo do Grok posterior diário autoral do Grok (…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …5) Painel 2: 14 bolas (EG037–EG039, A Ponte que Faltava, Megazord 17/10, Robô Físico P01, Atlas V4, Engrenagem Central + 6 diários GK031–036), mesmos campos do catálogo das 28, catalogadas em ENCICLOPEDIA_ADITIVOS (rev 2, 61 registros) + registry/PAINEL_2_ENGRENAGENS.v1.json; botão "🌌 Painel 2 →" na…
+
+- Mentes, consciências e robótica (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …o Drive (16/10). DB02 — Diários do Grok (GK029 → GK036): Agrupa, sem copiar, os diários de bordo do Grok que já estavam na Enciclopédia (GK031–GK036) e os diários GK029 de Eureka, Finalização e Convergência. DB03 — Diários e relatórios de bordo do projeto (repositório): Os diários e relatórios de bo…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …inel 2: 14 bolas (EG037–EG039, A Ponte que Faltava, Megazord 17/10, Robô Físico P01, Atlas V4, Engrenagem Central + 6 diários GK031–036), mesmos campos do catálogo das 28, catalogadas em ENCICLOPEDIA_ADITIVOS (rev 2, 61 registros) + registry/PAINEL_2_ENGRENAGENS.v1.json; botão "🌌 Painel 2 →" nas Esf…
+

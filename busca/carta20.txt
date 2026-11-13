@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: carta20  (41 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (41)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …r versão menor que 17. Portões antigos: a, b, c, d, e, f e h ligados ; g (APK automático) desligado de propósito . Portões T95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Plane…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (34)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …são menor que 17. Portões antigos: a, b, c, d, e, f e h ligados ; g (APK automático) desligado de propósito . Portões T95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no Planeta: abra o Planeta co…
+
+- p02-manual-v12.html (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …actos. Nunca instalar versão menor que 17. Portões antigos: a, b, c, d, e, f e h ligados ; g (APK automático) desligado de propósito . Portões T95U (lista em docs/CARTA20/PORTOES_T95U.md ): 10 portões, um por PR, cada um com teste e flag própria. g1 — gráficos estilo Witcher 3 / Baldur's Gate 3 no P…
+
+- Versão CARTA 2.0 (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  ….html> · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html> Versão CARTA 2.0 fonte: docs/CARTA20/VERSAO_CARTA20.md Versão CARTA20-20261031 (CARTA 2.0 · 31/10/2026) Identificador: CARTA20-20261031 Base: SUPREMO001-R3FINAL (main b26c6d1, PR #74). Nada foi apagado: …
+
+- Diagnóstico dos Sonhos (03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …5:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). Geral: 86% nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 f…
+
+- Diagnóstico dos Sonhos (03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  … depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–Z), checkpoints 28–39, portões T89U, T95U e T100U (docs/CARTA20/PORTOES_T100U.md) e o teste ponta a ponta de hoje (40 de 40 itens ok no PC, 109,6 s). Geral: 86% nos 32 sonhos/pedidos de antes (13 completos, 19 parciais, 0 faltan…
+
+- CT02: documento da engrenagem (CARTA 2.0) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html
+  …ga2020-tech.github.io/carta-porta/suprema2-acervo-102.html> CT02: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/CT02.md CT02 — Carta 2.0: diretriz geral de finalização (31/10/2026) A carta-ordem do Bruno que autorizou a CARTA 2.0: engrenagens por estrutura, consciências, Drive,…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …fechar): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev [x] Bastidores só aparece no modo dono (carta20_modo) [x] Início mostra o Planeta principal como cartão em destaque [x] nenhum arquivo apagado ou movido; todas as URLs antigas conti…
+
+- Estado atual — varredura geral (02/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …(trecho omitido pelo filtro)…
+
+- Histórico das contagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  …· Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html> Histórico das contagens fonte: docs/CARTA20/HISTORICO_DE_CONTAGENS.md Histórico de contagens das engrenagens (CARTA 2.0) Documento de versão. Os números históricos ficam aqui e nos documentos de versão , não na…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …(trecho omitido pelo filtro)…
+
+- Portões booleanos t89u (critérios e estado) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …r): [x] páginas dev (Mini Terra, /meu-robo-planeta.html, páginas -antes/-v0/-classico) listadas em Bastidores/Dev [x] Bastidores só aparece no modo dono (carta20_modo) [x] Início mostra o Planeta principal como cartão em destaque [x] nenhum arquivo apagado ou movido; todas as URLs antigas continuam …
+
+- Mundos da CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  …ml> · Próxima → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html> Mundos da CARTA 2.0 fonte: docs/CARTA20/MUNDOS_CARTA20.md Mundos na CARTA 2.0 (§6–§10) Mundo Onde Natureza O que tem na 2.0 🌍 Planeta (Terra Grande) /planeta.html ficção (simulação estilizada) 3D real (thre…
+
+- Celular sem cabo (app vc20, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …ch.github.io/carta-porta/suprema2-acervo-093.html> Celular sem cabo (app vc20, 03/11/2026) Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026 O que mudou: o celular abre os mundos principais sozinho , sem cabo, sem Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CART…
+
+- AV01: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+  …ga2020-tech.github.io/carta-porta/suprema2-acervo-097.html> AV01: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV01.md AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10) 12 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta…
+

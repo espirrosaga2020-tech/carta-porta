@@ -1,0 +1,7 @@
+BUSCA POR LINK — termo: sdfgi  (1 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Gráficos no PC (T105U) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  … calculados de um jeito bem mais barato. O Godot 4 não tem ray tracing por hardware (RTX); o que ele tem de iluminação global (SDFGI, VoxelGI, LightmapGI) não está ligado no projeto. Planeta (three.js, no navegador do PC) Lido no pacote do Planeta ( src/carta/webdist/assets/planeta-*.js ): Efeito De…
+

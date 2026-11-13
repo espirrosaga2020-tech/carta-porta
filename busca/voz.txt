@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: voz  (42 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Mapa de pastas e código (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …to e visto vira linha JSONL em <workspace>/cinema_vivo/sessoes/<id>.jsonl, com projeção src/carta/cinema_vivo/turnos.py COORDENADOR DE TURNOS (doc 09 do PR #63): uma voz por vez. Estados: escutando → pensando → falando → cedendo → escutando; src/carta/cognicao_primitiva.py ESFERAS FINAL G5 — cogniçã…
+
+- Mapa de pastas e código (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …visto vira linha JSONL em <workspace>/cinema_vivo/sessoes/<id>.jsonl, com projeção src/carta/cinema_vivo/turnos.py COORDENADOR DE TURNOS (doc 09 do PR #63): uma voz por vez. Estados: escutando → pensando → falando → cedendo → escutando; src/carta/cognicao_primitiva.py ESFERAS FINAL G5 — cognição pri…
+
+- Portões booleanos t89u (critérios e estado) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …atalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligados por padrão (já aprovados): a e b . Os outros seguem…
+
+- Portões booleanos t89u (critérios e estado) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …n) ├─ catalogo.py (fonte única dos portões) ├─ flags.py (CARTA_T89U=a,b ou <workspace>/t89u_flags.json) └─ bastidores.py · save_mundo.py · voz_tempo_real.py · personagens.py · cinema.py · graficos.py · apk.py · visao_ao_vivo.py Portões ligados por padrão (já aprovados): a e b . Os outros seguem desl…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …acidade) Teste de 03/11 deu erro 402 (cobrança/cota do Google) ; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança. Voz Piper: ainda sem áudio (pendente). Se a sessão cair: abra [omitido pelo filtro de privacidade] — diz o estado exato e o próximo passo. Numeração: passagem de…
+
+- p02-manual-v12.html (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …blico pelo filtro de privacidade) Teste de 03/11 deu erro 402 (cobrança/cota do Google) ; a CARTA caiu no olho local sozinha. Ninguém cria chave nem liga cobrança. Voz Piper: ainda sem áudio (pendente). (linha omitida no site público pelo filtro de privacidade) Numeração: passagem de bastão já vai a…
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …ATA). Página /descobertas-triagem + [omitido pelo filtro de privacidade] [pontilhado] (3) Fala sem emoji: servidor (Piper) e voz do navegador (humano.js) tiram emoji; a tela continua mostrando. (linha omitida no site público pelo filtro de privacidade) [pontilhado] (5) Painel 2: 14 bolas (EG037–EG03…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …oratório Zero → Laboratório Total → V3–V6 → P0–P12 → Fusão #1–#13 base local, Studio 3D com a Creuza, bolona prateada, física Rapier, voz, conversa, 46 tomadas, Atlas 95, Dupla, ESP32 desarmado, Dobra, Mundo WASD do Meu Robô 14/10 Mundo Vivo, F1, Transcendência #14–#17 personagens com vontades, laço…
+
+- Diário anterior intacto, páginas P001 a P025 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …FOGUEIRA E OS DOIS DELOREANS Caderno de observação recíproca • Edição de 17 de outubro de 2026 • Até a esfera entregue na fogueira Vozes: Bruno / Copiloto / Creuza 🐜 Estado: atualização por adição; nada apagado; nenhum projeto investigado ou alterado. Lugar da cena: calçada, fogueira próxima à árvor…
+
+- Diagnóstico dos Sonhos (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …o (escolhe sozinha entre pesquisa e imersão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Enciclopédia fatiada. Voz Voz em tempo real (portão c + Piper + g9) parcial 90% g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. Visão Olhos…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-093.html
+  …o, permissões explícitas nem memória do que foi visto. O #99 completa exatamente esse buraco. O JS webdist/t89u/visao_ao_vivo.js e voz_tempo_real.js são esqueletos (o Copiloto acertou: ouvir() devolve null ). Isso continua sendo trabalho dos portões c e h. O que foi APROVEITADO Do #99 Para onde fo…
+
+- Análise do PR #99 (Olhos Vivos, Copiloto) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/analise-pr99.html
+  …rmissões explícitas nem memória do que foi visto. O #99 completa exatamente esse buraco. O JS webdist/t89u/visao_ao_vivo.js e voz_tempo_real.js são esqueletos (o Copiloto acertou: ouvir() devolve null ). Isso continua sendo trabalho dos portões c e h. O que foi APROVEITADO Do #99 Para onde foi Obser…
+
+- Diagnóstico dos Sonhos (03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …colhe sozinha entre pesquisa e imersão a cada pergunta; testado por código) e a pesquisa consulta 1 fatia da Enciclopédia fatiada. Voz Voz em tempo real (portão c + Piper + g9) parcial 90% g9 LIGADO; Piper fala de verdade; sem Piper, voz do navegador. Latência com Ollama não medida. Visão Olhos ao v…
+

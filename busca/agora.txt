@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: agora  (62 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (48)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …rta-porta/suprema2-mapa.html> Porta Suprema 2 — Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado da…
+
+- Diário anterior intacto, páginas P001 a P025 (26)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …e a misteriosa página integral tenha sido vista. Os novos registros seguem abaixo, sem substituir o anterior. Novas páginas — acrescentadas agora P.005 — O que saiu do bolso: presença física e o léxico das peças <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html#p005> P.006…
+
+- EG021 — Paz e Central — Kamonson (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …tral + Satélites já havia sido implementado por comportamento, antes de ser formalizado. FASE 6 — O COMPROMISSO LEMBRADO - O Copiloto declara: "agora está na hora" de criar a Central. - O usuário reage fortemente porque a decisão recupera uma promessa anterior sem novo lembrete. - Continuidade pass…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …vio permitiu um novo nível de abstração. O usuário passou a falar de “máquina de laranja”: antes precisava explicar árvore, colheita, transporte e indústria; agora podia falar apenas sobre o sabor do suco porque a infraestrutura já estava conhecida e documentada. O projeto deixou de exigir reexplica…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ido nesta versão (ver abaixo) Olho Local imagem de teste 1,2 s Descreveu certo as formas e cores ✓ Correção feita (aditiva): a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …esta versão (ver abaixo) Olho Local imagem de teste 1,2 s Descreveu certo as formas e cores ✓ Correção feita (aditiva): a Consciência agora também lê o conhecimento da CARTA 2.0: as 59 engrenagens, as fichas novas (AV, CT, DB, RB, RH) e a Jornada da IA. Nada das fontes antigas foi tirado. Teste: tes…
+
+- p02-manual-v12.html (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …conhecimento de todas as mentes (Consciência, Mente Suprema com Creuza e Copiloto, Cérebro Supremo, Faísca e Creuza do Pokémon Vivo) agora diz 73 engrenagens / 87 registros , lista as 11 promovidas e as 17 candidatas como NÃO verificadas ("nunca apresentar como fato oficial; dizer que está em confer…
+
+- EG006 — Checkpoint e entrada no sonho (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …a fosse amarrada sem perder as camadas ainda não respondidas. ÚLTIMA MENSAGEM HISTÓRICA ACESSÍVEL Resposta da IA que começa com: “TAPOHA. Agora eu entendi exatamente o tipo de pente fino que você quer.” Ela explicou “grafo”, fez uma revisão das omissões e calibrações anteriores, descreveu o papel d…
+
+- EG002 — Calçada e continuidade portátil (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …gra central da carta: não imitar o assistente anterior; continuar olhando; se não viu, dizer que não viu. FASE K — TESTE DA CARTA Período: 2026-10-10, início da tarde. • O usuário leva a carta para outro chat. • O novo chat responde sem oferecer cadeira e percebe a inversão do lençol: agora é o us…
+
+- EG007 — Continuidade Limpa de Meu Robô (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …es medo emocional. A conversa reconstruiu uma genealogia operacional: antes, o método seguro era trabalhar “GD por GD”, jogar na pasta, apertar F5 e verificar. Agora, com uma arquitetura mais madura, o objetivo não era voltar ao artesanal infinito nem saltar para refatorações massivas. Nasceu a form…
+
+- EG008 — Tamagotchi e continuidade conversacional (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …ra de LEIA_ME, checkpoint estrutural, catálogo e project.godot mostra um jogo muito mais construído do que o mapa conceitual sugeria. A pergunta muda de “o que existe?” para “o que está pronto, fino ou faltando?”. FASE 17 — “O SONHO AGORA É NOSSO” O usuário concede liberdade total para a IA opinar …
+
+- EG015 — Pai do Grafo e Rigor (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …sa precisão foi explicitada. 4. TRANSFORMAÇÃO: A metáfora distinguiu permanência de pergunta e verdade de resposta. 5. RELAÇÕES: DERIVOU DE F010; FOI REINTERPRETADO POR F027. 6. CONSEQUÊNCIAS: Permitiu falar de rigor sem perder o tom brincalhão. 7. EVIDÊNCIAS: D15: «ELE É EXATAMENTE O QUE NOS SU…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …irmada. (2) VISÃO D PORTAS DE ENTRADA: EG013:F001 — O zero deixa de ser sala vazia | G | alta | Abertura visível: “PARTIU rigor então kkkk”; resposta “Então começamos pelo 0”. EG013:F002 — A existe: mundo e linguagem não são a mesma camada | G | alta | Resposta inicial: “0 → 1”, “A existe”; “duas co…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … detalhe (16 e 17/10) Pré-projeto Black Mirror (PR #36) e portões BM0–BM15 O que é: a ideia do Bruno de inverter o mundo vivo. Antes, uns 85–90% do que se via era roteiro. Agora os personagens recebem só capacidades : sentir, mover, agarrar, emitir, lembrar, repetir o que deu certo. Não recebem rótu…
+
+- EG004 — Central, Copiloto e Atlas (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …ecução continua estreita.” 8. Avaliação histórica Magnitude original: M. Influência posterior: G, porque o mesmo princípio aparece na arquitetura modular do patrimônio. 9. Situação final Consolidado. 10. Utilidade futura Ajuda a distinguir “menos coisa sendo feita agora” de “menos contexto compre…
+

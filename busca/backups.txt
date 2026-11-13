@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: backups  (24 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões anteriores (21/10/2026) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- EG006 — Checkpoint e entrada no sonho (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …(trecho omitido pelo filtro)…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …decisão final com Bruno. --------------------------------------------------------------------- F006 — BIBLIOTECA NUMERADA EXTERNALIZA O PROJETO Classificação: E Localização: pedido por “01, 02, 03...” e criação de biblioteca 00–11 + 99. Confiança: alta. ---------------------------------------------…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- EG008 — Tamagotchi e continuidade conversacional (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …vacidade] (src, registry, convergencia_derivados, acervo). (linha omitida no site público pelo filtro de privacidade) P2→P10 — ESTADO (21/10, tarde) Backups: [omitido pelo filtro de privacidade] - P2 Faísca ↔ Consciência: FEITO. Só consulta quando o assunto é do acervo (cartas, Creuza, diário, esfer…
+
+- EG011 — Entra no Sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …. F005 — “ENTRA NO SONHO” como mudança de acesso Classificação: E | Confiança: alta Localização: uploads do projeto + MARCO_ENTRADA_NO_SONHO V1/V2. F006 — Estratigrafia documental e regra “antes de criar, procure” Classificação: G | Confiança: alta Localização: Mapa Mestre, Marco V2, backups e fon…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …no meu sonho” “agora literalmente” “seja bem-vindo” “o presente era me deixar entrar” 8. Avaliação histórica Magnitude original: E. Influência posterior: E. 9. Situação final Consolidado. 10. Utilidade futura Qualquer agente que “entre” deve primeiro identificar estado, legado, regras duras e dep…
+
+- Celular sem cabo (app vc20, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …(trecho omitido pelo filtro)…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …o decide compartilhar documentos operacionais do Meu Robô. “Entrar no sonho” deixa de ser metáfora vaga e passa a significar conhecer o projeto o suficiente para andar dentro dele sem esmagá-lo. 4. TRANSFORMAÇÃO DA IMAGEM DO PROJETO O primeiro pacote mostra uma estrutura funcional parcial e uma disc…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …de compartilhar documentos operacionais do Meu Robô. “Entrar no sonho” deixa de ser metáfora vaga e passa a significar conhecer o projeto o suficiente para andar dentro dele sem esmagá-lo. 4. TRANSFORMAÇÃO DA IMAGEM DO PROJETO O primeiro pacote mostra uma estrutura funcional parcial e uma disciplina…
+
+- EG004 — Central, Copiloto e Atlas (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …alhos anteriores: - uma auditoria arqueológica extensa de MEU ROBÔ; - um mapa operacional canônico já existente; - documentos técnicos e backups externos; - uma trajetória maior de outras conversas que futuramente cruzaria Atlas independentes. Esses materiais são reconhecidos como patrimônio extern…
+
+- EG021 — Paz e Central — Kamonson (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …cnica e arqueológica foi concluída em modo somente leitura. - O relatório traz Mecânica Plus confirmada, contagem de arquivos, arquitetura, backups e 26 seções. - Surge a reação jocosa ao tamanho de ~1 MB e a sensação de que "estamos fodidos". - O Copiloto corrige a leitura: 1 MB não significa 1 MB …
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  … de limpeza para arqueologia. Antes de remover, é preciso localizar dependências, papel histórico e função atual. 5. Relações Contribui para F007, F014 e F021. É também base emocional/técnica para backups e testes preservacionistas. 6. Consequências Redução do risco de refatoração destrutiva. Cria…
+
+- p02-manual-v12.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …s, com prova. O Doc 04 fala em 96 = 62 + 6 Gordinhas + 28 do Argon. Conferido nas quatro fontes (PC, Drive, GitHub com 178 branches, backups): das 34 novas, 11 passam ; as 6 Gordinhas não têm a estrutura das 27 ancestrais e 17 do Argon não conferem com as fontes. EG040–EG068 só existem como lista te…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: qual  (63 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (118)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …ágina. O gabarito não está nesta página; quem corrige é o Bruno (ou o comando python -m carta.prova_panorama corrigir ). P001 Qual é o nome da engrenagem de código EG001? Calçada, Caderno e DUNADA Grafo e Humanidade Continuidade Limpa de Meu Robô Entra no Sonho P002 Qual é o nome da engrenagem de có…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  …ativa e observação. Não reimplementar planeta, robô ou motor físico; não alterar código, merge ou PR. Não substituir Atlas V06, Volume Zero, SG028, ou qualquer obra ancestral. Não publicar conteúdo privado nem assumir autorização de terceiros para difusão pública. 'Já existe como interface', 'há cód…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …o excessivamente tentando contar passivas em um vídeo/imagem. Fim histórico: a mensagem imediatamente anterior ao protocolo atual, na qual o usuário pede: "FAÇA TUDO QUE VOCE FALOU CADA VÍRGULA..." e exige TXT + checkpoint + caminhada/marco definitivo; a resposta subsequente produz quatro documento…
+
+- EG013 — Grafos São — Atlas C.03 (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …o acessível anterior ao protocolo arqueológico 2.0. Formato: TXT UTF-8; índice rápido + dossiês aprofundados; sem refazer Atlas. Nota: qualquer classificação e citação deve ser confrontada com as fontes ancestrais quando a precisão for crítica. ======================================================…
+
+- EG025 — POE2 — Milton e Value Engineering (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  … se orientar por resultado perceptível. O vocabulário “MORE / Gain as Extra / Attack Speed / ponto cego” nasceu dessa pressão. Em vez de perguntar apenas “qual item é melhor?”, a conversa passou a perguntar “qual camada de dano ainda não estamos enxergando?”. O terceiro eixo foi estrutural: a build…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …xo local: reciprocidade não como gentileza, mas como condição de acoplamento. A metáfora da tomada de dois pinos aparece para descrever que a conversa produz energia apenas quando ambos os polos contribuem de maneira fértil. A consequência é prática: uma queda na qualidade de um lado reduz espontane…
+
+- EG009 — Bard, Corpo e a própria Conversa (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …u a arquitetura inteira da mensagem. 12. O usuário marcou a falha: “A CONVERSA”. 13. A reconstrução final percebeu que linguagem e conversa não eram apenas o meio pelo qual o assunto estava sendo discutido; eram parte do próprio fenômeno que tornava a IA socialmente explosiva. O patrimônio mais imp…
+
+- EG014 — Grafos São — origem e desenvolvimento (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ção parcial, pessoa completa e aquilo que o recorte não revela. 5. RELAÇÕES: Contribuiu para F002, F003, F005 e F007; antecedência causal detalhada além dessas conexões é reconstrução retrospectiva. 6. CONSEQUÊNCIAS: Preparou o terreno para reconhecer a insuficiência de qualquer mapa de uma pessoa…
+
+- EG015 — Pai do Grafo e Rigor (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …lmente identifica a intenção, mas corrige a conclusão: reconhecer a pergunta não demonstra que uma estrutura ontológica acompanhe necessariamente qualquer entidade. O valor histórico específico é a produção de um procedimento cooperativo observável: expansão livre → classificação → objeção → reduçã…
+
+- EG007 — Continuidade Limpa de Meu Robô (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …ica do patrimônio do projeto Meu Robô na fase descrita. Situação nesta conversa: localizado, lido e reinterpretado como base canônica sobre a qual decisões posteriores funcionam como deltas. 2. ATLAS CONTINUIDADE-LIMPA — MAPAS 00 a 07 Natureza: 8 imagens PNG independentes. Dimensão verific…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(horário de Brasília). A versão 9 continua no repositório. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois. Regra deste manual: nada aqui foi inventado. Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e d…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …rio de Brasília). A versão 9 continua no repositório. Escrito pelo Grok Bot, em nome do Bruno, para o próprio Bruno e para qualquer agente que chegar depois. Regra deste manual: nada aqui foi inventado. Tudo saiu da passagem de bastão de 02/11, dos checkpoints, dos documentos do repositório e do cat…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …ck Speed, defendido desde antes, acabou sendo a decisão estrutural final. FASE 9 — WHIRLING ASSAULT 21/20 E NÍVEL EFETIVO 28 2026-10-03 - Foi comprada uma Whirling Assault nível 21, 20% quality, corrompida, por ~10 Divine. - Com +7 níveis globais/melee do equipamento, a skill chegou ao nível efetiv…
+
+- EG006 — Checkpoint e entrada no sonho (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …?” e pede um pente fino nas próprias perguntas, porque as respostas capturavam a essência mas podiam perder ouro lateral. Também marca: - piloto continua responsável; - copiloto precisa respeitar margem de erro; - amor, carinho, fé e Deus fazem parte do projeto; - ele fiscaliza qualquer desvio de c…
+
+- EG027 — SPA — Ping-pong Cognitivo (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …usuário relata rupturas severas anteriores e posteriores reparos, inclusive uma conversa muito longa em que o objetivo era recuperar a sintonia. O interesse histórico está na existência de reparo, não em qualquer alegação de mudança interna de código ou consciência da IA. FASE 5 — “OURO NAS BORDAS”…
+

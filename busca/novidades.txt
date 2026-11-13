@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: novidades  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …c19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  … Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança; ond…
+
+- p02-t152u-novidades.html (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …Novidades 13/11/2026 · Porta 02 · CARTA ← Entrada da Porta 02 · todas as páginas · busca por link Novidades de 13/11/2026 — o estado da CARTA hoje Plano T152U (90 portões, 9 blocos…
+
+- p02-manual-v12.html (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …19). Onde a 0.2 diz diferente, vale a 0.2. A versão 4 continua guardada com o nome dela. Versão 4 (03/11): acrescenta a seção 0.1 (novidades de 03/11: atalhos LIGAR/DESLIGAR, app vc17, portões T95U, gráficos estilo Witcher 3 / BG3 e o mapa do herói estilo Heroes 3). O resto é a versão 3 sem mudança;…
+
+- 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-001.html
+  …rrosaga2020-tech.github.io/carta-porta/chave.txt> . Esta página (tudo-suprema2.html) NÃO substitui a clássica — ela a completa com as novidades de 04–05/11/2026. Chave desta porta: chave-suprema2.txt <https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt> · resumo: tudo-suprema2-resu…
+
+- Continuidade da linguagem de emojis (E018) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  … privilégios adicionais. src/carta/cinema_vivo/mente.py : autoriza refrões e bordões contextualizados no Cinema Vivo, sem exigir novidades cosméticas a cada cena. src/carta/consciencia_v1/mente.py e src/carta/cerebro_v1/mente.py : prompts da Consciência e do Megazord também reconhecem linguagem hist…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …002.html> 1. O QUE É / POR QUE ESTA PORTA EXISTE <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html> 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html> 3. VARREDURA — ONDE ESTÃO AS C…
+
+- CARTA — Porta do Grok (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/index.html
+  …lms-full.txt · carta.json · sitemap.xml 🔑🚪 Porta Suprema 2 (RECHEADA) · ouro 05/11/2026 Mesmo formato da porta clássica, recheada com as novidades 04–05/11. A porta clássica ( tudo.html ) continua intacta. tudo-suprema2.html — página completa recheada tudo-suprema2-resumo.html — versão menor chave-s…
+
+- Busca · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-busca.html
+  …primeiro as páginas com todas elas. Códigos como EG001, RB01, CL02 vão direto para a ficha. Índices em texto: tema · A–Z · cronologia · novidades . Porta 02 Intergaláctica · camada aditiva sobre a Porta Suprema 2 · protótipo 10/11/2026 (America/Sao_Paulo). Site público e só de leitura: não abre a CA…
+

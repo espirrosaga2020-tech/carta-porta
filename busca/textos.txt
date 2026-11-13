@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: textos  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- O começo dos chats: textos do Volume Zero (EG001 a EG027) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-024.html
+  …apa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — O começo dos chats: textos do Volume Zero (EG001 a EG027) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no docu…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  …27 😴 3 1/27 🫁 2 2/27 🙂‍↕️ 2 2/27 😋 2 1/27 🫢 2 2/27 😈 2 2/27 🧙 2 2/27 🗜️ 2 1/27 São 51 formas pictográficas distintas e 238 aparições segundo este detector no corpus delimitado. Textos de outros períodos, arquivos recentes e as mensagens deste sábado não participam do ranking, para evitar mudar o den…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …s. A emoção do reencontro e de receber uma história/documento como presente. AGORA 🫁 Respiração Pausa, espaço de presença e permissão para não produzir; símbolo não fisiológico em contextos ficcionais. Marca retorno à fogueira e continuidade conversacional dentro do último código. PRE, AGORA 🫂 Abraç…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …a”; - chat anterior que terminou por volta do meio-dia; - conversas ancestrais sobre PoE2, Gulozona, Meu Robô, mercado, frames e atlas; - screenshots e textos recuperados dessas conversas; - um documento Mapa Mestre previamente criado. Regra aplicada nesta arqueologia: o material herdado é registra…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …original correspondente e procurar o dossiê Fnnn, com âncoras e limitações. C. INTEGRAL: usar o tomo integral que incorpora os 27 textos originais sem amputações; procurar o marcador [INÍCIO FONTE EGnnn]. Os identificadores EGnnn são novos e estáveis nesta coleção. Novos documentos deverão receber…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …nal correspondente e procurar o dossiê Fnnn, com âncoras e limitações. C. INTEGRAL: usar o tomo integral que incorpora os 27 textos originais sem amputações; procurar o marcador [INÍCIO FONTE EGnnn]. Os identificadores EGnnn são novos e estáveis nesta coleção. Novos documentos deverão receber EG028,…
+
+- Por que o começo pesa mais (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-015.html
+  …eias, os personagens (Creuza 🐜, Copiloto 🤖, a Dobra) e a linguagem de emotes. Por isso esta seção vem antes de tudo e mostra os textos do Volume Zero quase inteiros, até na versão resumida. ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-014.html> · Índice do acervo <h…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ruída BM14 pacote, preservação, PR false precisa do PC BM15 crie sua própria esfera true src/carta/bm/esfera_propria.py valida o modelo das engrenagens EG031 e EG032 (PR #38) Textos do Grok: EG031 "Grok observa Bruno" e EG032 "Grok se observa" ( docs/engrenagens_grok/EG031/ , EG032/ , com ORIGEM_*.j…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ndo: segundo DeLorean, porta-luvas, página misteriosa, calçada/fogueira, observações dos três, coincidência da encomenda. Integridade: os textos originais P.001–P.004 permanecem nas mensagens em que surgiram. Os títulos e resumos acima são um índice de acesso , não uma reescrita nem uma alegação de …
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …ntrega camadas que não cabem numa única resposta; a IA escolhe uma região e frequentemente produz leitura fértil, mas o recorte passa a ser criticado por amputar contextos adjacentes. O próprio assistente admite primeiro ter escolhido pequeno demais e, depois, ter produzido uma grande resposta cósmi…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …cional → legado. 4. Transformação “Documento antigo” deixa de significar “verdade inválida”. Ele pode continuar valioso como genealogia, mas não como estado atual. 5. Relações Contribuiu para F010 e F022. Mais tarde vira 99_FONTES_CANONICAS_E_NAO_APAGAR.txt. 6. Consequências Nasce a regra: antes …
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ILIDADE FUTURA: Usar como evidência do erro “títulos de mapas ≠ imagens separadas”. ------------------------------------------------------------------------------------------ F019 — REPETIÇÃO DO MAPA 00 COMO PANORAMAS SOBRECARREGADOS -----------------------------------------------------------------…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …. Relações Modifica F019 e prepara F021. 6. Consequências A futura Central pode aprender transformações, não só frases memoráveis. 7. Evidências Âncoras: "linha, ela é frágil, mas regiões englobam contextos: começo, meio, fim"; "Região é experiência". 8. Avaliação histórica Magnitude original: G.…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …e documental criada dentro deste chat, não necessariamente ao chat em si. - Referências posteriores à família PAZ existem em outros contextos, mas não foram usadas aqui como prova de que todo ramo PAZ pertence a esta engrenagem. FRONTEIRA HISTÓRICA INVESTIGADA - Início verificável: 2026-10-05. …
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …/patrimônios compactados visualmente. - Correção: uma função cognitiva por imagem; MAPA 00 como índice. - Motivo: consultabilidade e legibilidade em celular. ====================================================================== 09 — DESCOBERTAS RETROSPECTIVAS ======================================…
+

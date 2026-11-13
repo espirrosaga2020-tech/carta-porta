@@ -1,0 +1,11 @@
+BUSCA POR LINK — termo: 12 diba  (2 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …5 — Catálogo de aplicativos e seu estado funcional…", seção 1; resumido em registry/APPS_ESTADO_T152U.v1.json ) : - FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema Vetorial v1…
+
+- p02-t152u-novidades.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …8. Enciclopédia · busca "engrenagem" . Programas e softwares do ecossistema (estado anotado pelo Bruno) FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema Vetorial v1.0–v3.0; Est…
+

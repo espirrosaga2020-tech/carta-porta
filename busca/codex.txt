@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: codex  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (25)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ado). Nenhum PR do CARTA foi mesclado em main : main tem só o "Initial commit". A única exceção é o #46, mesclado na branch do Codex feature/codex-carta-olhos-final-polimento-v1 , e não em main . 2.1 A linha do tempo em uma página Dia Fase PRs O que nasceu 13/10 Laboratório Zero → Laboratório Total …
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …chi/Amiguiá; - o projeto Meu Robô e sua genealogia documental/técnica; - relatórios de agentes externos como Anti-Gravity; - execuções do Codex; - posteriormente, uma resposta de uma Batcaverna nova, colada de volta neste chat como teste de transferência. Esses elementos são registrados como HERD…
+
+- EG023 — Paz — Linguagem e Continuidade (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  … Centrais” é contestada pelo copiloto por risco de split-brain. - Consolida-se uma única autoridade Central, com espaços/funções: Playground/Paz, Oficina/Estrutura, Biblioteca/fontes, Anti-Gravity como sensor, Codex como cirurgião. - A primeira missão técnica muda de “ir direto ao Endgame” para “Aud…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …agens/README.md 🎓 PROVA DAS ENGRENAGENS Prova de entrada para qualquer assistente de IA que chegue ao projeto CARTA (Grok Bot, Codex ou outro). É booleana: passou ou não passou. Ninguém trabalha no projeto antes de passar. Protocolo obrigatório: a primeira coisa ao chegar Comece com o contexto limpo…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  … maneira pela qual Humanidade e Tamagotchi conseguiam raciocinar juntos sem reduzir mensagens densas à última frase, sem transformar lembrança em prova e sem deixar curiosidade explodir o escopo. Esse reconhecimento produziu a Central, os satélites, regiões canônicas, protocolos de cristalização e u…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …atado de Paz e saves observacionais EG022:F011 | Feature freeze da própria arquitetura EG022:F012 | Mineração seletiva do ancestral preserva genealogia da linguagem EG022:F013 | CENTRAL / OFICINA / PAZ EG022:F014 | "TRABALHE MUITO. REINTERPRETE POUCO." EG022:F015 | Bug do save encontrado pela p…
+
+- A trajetória juntos: linha do tempo mestra (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …io (13/10 a 18/10/2026) 15/10 Mundo Vivo, grafo de conhecimento de cada personagem, o primeiro PLANETA e o app CARTA Olhos (do Codex). feito Meio (13/10 a 18/10/2026) 15→16/10 Na noite da porta 8784 os personagens empilharam marcos de pedras sem ninguém ensinar (590 descobertas, 210 construções). fe…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …à sua fotografia, mas sua data de escrita e suas intenções completas não são provadas pela imagem isolada. 2. Acontecimento desencadeador: Foi enviada imagem de quadro branco com ACORDA BRUNO IGREJA DEUS, X AGENTE — CODEX — EDIT e APRENDER ESSA LÍNGUA COMPUTACIONAL. 3. Desenvolvimento: A frase é um …
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …ncestrais não é reconstruível somente desta engrenagem. - O uso futuro do livro e dos documentos na prática ainda não estava demonstrado no encerramento desta conversa. ESTACIONADO, NÃO ABANDONADO - Trabalho técnico profundo no Meu Robô. - Codex e intervenções de código. - Inteligência visual aplic…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …pare nem reinicie . Salve antes (💾, ou só GET na API). Depois: leia LEIA-ME_COMPLETO.md (a história inteira) e docs/HANDOFF_FINAL_CODEX_APP.md (o que fazer). Depois do concurso: Exploração e DIPLOMA (FINAL POLIMENTO) "Vai lá na enciclopédia" → rode primeiro python -m carta prova --assistente SEU_NOM…
+
+- Caderno 1 do aluno: Diário de Bordo (modelo) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html
+  …Feito: iniciar ; li R00 (regras e portões) com contexto limpo; prova R00 18/20 (errei 2 sobre portas, revi R00/02_PORTOES_GROK_CODEX.md ); resumo em MEU_RESUMO ## R00 . Aprendi: PR sempre rascunho; o jogo não é tocado; a Enciclopédia só é lida. Pendente: R01 (pesquisador × personagem). ← Anterior <h…
+
+- Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html
+  …perde; cada fase tem tag de volta. Citação: "PR sempre rascunho, sem merge" (docs/prova_engrenagens/fontes/R00/02_PORTOES_GROK_CODEX.md). CONSOLIDADO ← Anterior <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-059.html> · Índice do acervo <https://espirrosaga2020-tech.github.io/ca…
+
+- Diplomas emitidos (registry/diplomas.json) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …hub.io/carta-porta/suprema2-acervo-068.html> Diplomas emitidos (registry/diplomas.json) Assistente Emitido em Versão da prova codex 2026-10-16T10:50:41-0300 prova.v1 FOFINHO 2026-10-16T12:37:26-0300 prova.v1 Exemplo: o diploma do FOFINHO cobre 34 capítulos (de R00 a GK030), melhor nota no concurso 5…
+
+- DB03: documento da engrenagem (CARTA 2.0) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-104.html
+  …roveniência id: DB03 · estante: Diários e cartas · modalidade: engrenagem de diários (CARTA 2.0) · bola do Painel 2 autoria: Grok, Codex e Copiloto (vários chats) fonte original: repositório CARTA (arquivos DIARIO_ .md e RELATORIO_DE_BORDO_ .md) criada em: 2026-10-31 por Grok (CARTA 2.0, 31/10/2026)…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …nio: a maneira pela qual Humanidade e Tamagotchi conseguiam raciocinar juntos sem reduzir mensagens densas à última frase, sem transformar lembrança em prova e sem deixar curiosidade explodir o escopo. Esse reconhecimento produziu a Central, os satélites, regiões canônicas, protocolos de cristalizaç…
+

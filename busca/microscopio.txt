@@ -1,0 +1,47 @@
+BUSCA POR LINK — termo: microscopio  (11 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …s Acontecimentos . Não sumiu. 🏔️ Mundo 3D /mundo3d.html Caminhar pela Mini Terra com a Creuza e o Copiloto. Hoje fica nos Bastidores. 🚗 DeLorean /delorean.html Modo desenvolvedor: a página antiga da Mini Terra. 🔬 Microscópio do tronco /microscopio.html Três escalas em 3D (tronco, lupa ×20, micro ×40…
+
+- Mundos da CARTA 2.0 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-087.html
+  … mapa neon com as regiões acendendo 🌱 Mini Terra /terra.html ficção simulação ecológica pequena (servidor local), legado preservado 🔬 Microscópio do tronco /microscopio.html ciência × ficção marcadas três escalas em 3D (Tronco · Lupa ×20 · Micro ×400), barra de escala, seres clicáveis §8 Voo suave (…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ntecimentos . Não sumiu. 🏔️ Mundo 3D /mundo3d.html Caminhar pela Mini Terra com a Creuza e o Copiloto. Hoje fica nos Bastidores. 🚗 DeLorean /delorean.html Modo desenvolvedor: a página antiga da Mini Terra. 🔬 Microscópio do tronco /microscopio.html Três escalas em 3D (tronco, lupa ×20, micro ×400). C…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …É o motor dos Acontecimentos . Não sumiu. 🏔️ Mundo 3D /mundo3d.html Caminhar pela Mini Terra com a Creuza e o Copiloto. Hoje fica nos Bastidores. 🚗 DeLorean /delorean.html Modo desenvolvedor: a página antiga da Mini Terra. 🔬 Microscópio do tronco /microscopio.html Três escalas em 3D (tronco, lupa ×2…
+
+- Versão CARTA 2.0 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-083.html
+  …o Planeta Godot real; mapa neon legível; DeLorean (numérico/setas + dica que não cobre o painel de ajuda) /planeta.html , /planeta-godot.html §9–10 Microscópio 3D tronco → lupa → micro, ciência separada da ficção /microscopio.html §11 Só modelos reais instalados, lista ao vivo do Ollama docs/CARTA20…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …gas 200 3 g3 t95u_g3_fauna Fauna viva ≥ 6 espécies; instanciada (≤ 2 ms/quadro no alto); flag off = igual 4 g4 t95u_g4_bacterias Bactérias / microscópio abre/fecha com 1 botão; crescimento determinístico testado; simulador intacto 5 g5 t95u_g5_miniterra Recursos da Mini Terra no Planeta cada recurso…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …ligado; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b. Labs Microscopia 3D tronco→lupa→micro parcial 70% /microscopio.html responde 200; só testes automáticos. Labs Bactérias no Planeta (g4) completo 95% LIGADO por padrão; crescimento determinístico testado; FPS ok n…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …l.py (c) Conversa por voz em tempo real: STT → IA → TTS de ponta a ponta. src/carta/t95u/__init__.py T95U (03/11/2026): 10 portões de design pontilhado. Acréscimo; nada do T89U muda. src/carta/t95u/bacterias.py t95u g4 (03/11/2026): regras das colônias do microscópio (referência em Python; o JS web/…
+
+- Diagnóstico dos Sonhos (03/11/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …o; Gemini só com aviso e volta ao local (402). Falta Ollama ligado + qwen2.5vl:3b. Labs Microscopia 3D tronco→lupa→micro parcial 70% /microscopio.html responde 200; só testes automáticos. Labs Bactérias no Planeta (g4) completo 95% LIGADO por padrão; crescimento determinístico testado; FPS ok no pon…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …(c) Conversa por voz em tempo real: STT → IA → TTS de ponta a ponta. src/carta/t95u/__init__.py T95U (03/11/2026): 10 portões de design pontilhado. Acréscimo; nada do T89U muda. src/carta/t95u/bacterias.py t95u g4 (03/11/2026): regras das colônias do microscópio (referência em Python; o JS web/src/t…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t95u.html
+  …00 3 g3 t95u_g3_fauna Fauna viva ≥ 6 espécies; instanciada (≤ 2 ms/quadro no alto); flag off = igual 4 g4 t95u_g4_bacterias Bactérias / microscópio abre/fecha com 1 botão; crescimento determinístico testado; simulador intacto 5 g5 t95u_g5_miniterra Recursos da Mini Terra no Planeta cada recurso aces…
+

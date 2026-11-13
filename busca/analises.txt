@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: analises  (19 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- PROVA DAS ENGRENAGENS, etapa 2 (T107U, 03/11/2026): o panorama de todas as 59 engrenagens (36)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-066.html
+  …agem de código EG004? Central, Copiloto e Atlas Extraordinária — Ciência, Descobertas e Linguagem Diários do Grok (GK029 → GK036) Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) P005 Qual é o nome da engrenagem de código EG005? Bard, Corpo e a própria Conversa Eu entro na Encic…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …co de autoria humana · bola do Painel 2 RH01 RH01 — Registros históricos: checkpoints, memória e versões Registros históricos posterior engrenagem de registros (CARTA 2.0) · bola do Painel 2 AV01 AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10) Análises de vídeo posterior…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  … autoria humana · bola do Painel 2 RH01 RH01 — Registros históricos: checkpoints, memória e versões Registros históricos posterior engrenagem de registros (CARTA 2.0) · bola do Painel 2 AV01 AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10) Análises de vídeo posterior engr…
+
+- Capítulos da etapa 1, na ordem oficial (48) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-065.html
+  … 43 CT02 Carta 2.0: diretriz geral de finalização disponivel 44 RH01 Registros históricos: checkpoints, memória e versões disponivel 45 AV01 Análises de vídeo: Path of Exile 2, Gulosona e Milton disponivel 46 AV02 Análises de vídeo: Dream Game Forgebound e Batcaverna disponivel 47 AV03 Análises de v…
+
+- Enciclopédia e engrenagens (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …ria e versões Aditivo posterior · registro-fonte <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_ADITIVOS.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPED…
+
+- Mentes, consciências e robótica (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …u para se lembrar: checkpoints da branch e do ORIGEM-LAB, a memória persistente, a sincronização das engrenagens e o histórico de versões. AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10): 12 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta u…
+
+- EG021 — Paz e Central — Kamonson (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …-------------------------------------------------- F003 — MECÂNICA PLUS DEIXA DE SER LENDA E VIRA SISTEMA CONFIRMADO Classificação: G Confiança: alta Localização: auditoria e primeiras análises -------------------------------------------------------------------------------- 1. Situação anterior A Me…
+
+- AV01: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+  …carta-porta/suprema2-acervo-097.html> AV01: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV01.md AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10) 12 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando…
+
+- AV02: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+  …carta-porta/suprema2-acervo-098.html> AV02: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV02.md AV02 — Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) 5 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando …
+
+- AV03: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  …carta-porta/suprema2-acervo-099.html> AV03: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV03.md AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa f…
+
+- AV04: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html
+  …carta-porta/suprema2-acervo-100.html> AV04: documento da engrenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV04.md AV04 — Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10) 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a c…
+
+- EG025 — POE2 — Milton e Value Engineering (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …Transformação: procurar efeito funcional e preço anômalo, não nome bonito. Relações: contribuiu para F009, F010, F015 e F016. Consequências: “Milton” vira filtro econômico. Situação final: consolidado. F004 — SEPARAÇÃO WS1/WS2 E O REBAIXAMENTO DO BELL Classificação: G | Confiança: alta Situação ant…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  … cola num chat novo (solto na raiz, de propósito). 📘 MANUAL E ORIENTAÇÕES: este manual (Doc + PDF). ENCICLOPÉDIA DAS ENGRENAGENS, ACERVO MESTRE: Dentro dela fica ⚙️ CARTA 2.0 (o projeto atual, com a passagem de bastão por versão _v5, _v6, _v7…). E o livro da Enciclopédia em PDF (863 páginas). 🎥 Anál…
+
+- Histórico das contagens (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-084.html
+  … estrutural (§2) — toda unidade com identidade, fonte, conteúdo próprio e lugar na estante é engrenagem; diários, cartas, registros e análises de vídeo passam a contar; CP-P01 e AT-V4 reavaliadas /api/enciclopedia/v1/publico , /api/enciclopedia/v1/criterio , registry/ENCICLOPEDIA_ADITIVOS.v1.json (r…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …0/2026) — camada compatível POR CIMA da Consciência v1. src/carta/convergencia/__init__.py CARTA Convergência: adaptador opt-in de contexto e modelo Ollama local. src/carta/convergencia/analises_historicas.py (descrição omitida pelo filtro) src/carta/convergencia/analises_video.py Arquivo privado e …
+

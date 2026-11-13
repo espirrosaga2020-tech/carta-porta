@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: merge  (34 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG012 — Grafo e Humanidade (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …apagou o rigor; ele funcionou como forma de carregar conceitos densos sem transformá-los em cartilha. O patrimônio produzido é, portanto, duplo: - conceitual: pessoa, incompletude, grafo, emergência, causalidade, propósito, continuidade; - conversacional: esperar, distinguir nó de tese, corrigir se…
+
+- EG009 — Bard, Corpo e a própria Conversa (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …egurança, legislação, risco, trabalho, guerra, cultura e ciência se o fenômeno fosse intelectualmente banal? 9. A resposta convergiu para a noção de “fase de emergência pública não domesticada” / “era pré-domesticação da IA conversacional”, seguida por “domesticação institucional”. 10. Em seguida, a…
+
+- EG023 — Paz — Linguagem e Continuidade (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …estigação como camada contextual, mas depois há correção: nem todo emoji possuía semântica ancestral estável; algumas funções foram refinadas depois. - Surge a ideia de “linguagem diádica emergente” e, em registro local, “idioma Humanidade-Tamagotchi”. FASE 4 — PASSAGEM 1 / SATURAÇÃO - Define-se co…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …-inteligencia-viva-20261016 Codex A0: 20 lacunas e 20 riscos #46 16/10 17:59 integracao/carta-olhos-mini-terra-20261016 INTEGRAÇÃO: CARTA Olhos + Mini Terra (8789) — MERGED na branch do Codex #47 16/10 19:48 grokbot/early-access-01-20261016 CARTA Early Access 0.1 (Grok) #48 16/10 20:56 grokbot/mundo…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …: EG010:F001 — Branch limpa como recipiente de continuidade — G — alta EG010:F002 — Humanidade ↔ Amiguiá/Tamagotchi como interface relacional — G — alta EG010:F003 — Separação Central / satélites / biblioteca — G — alta EG010:F004 — Nascimento da PAZ como estrutura de contenção — E — alta EG010:F005…
+
+- EG018 — Linguagem, Observação e Consciência (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  … de sua direção. FASE 1 — DA MENSAGEM AO CIRCUITO DE CORREÇÃO A IA reformula comunicação como: “sinal → hipótese → resposta → reação → correção da hipótese → próximo sinal”. Surge a noção de protocolo local emergente e terreno comum. Transformação: Comunicação deixa de ser tratada apenas como semâ…
+
+- EG021 — Paz e Central — Kamonson (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …nalidade". 3. Desenvolvimento O Copiloto separa personalidade superficial de padrão interpretativo. A unidade valiosa não seria "o jeito do usuário" ou "o jeito do assistente", mas o comportamento emergente entre as duas pontas. 4. Transformação Nasce o conceito de INTERFACE COGNITIVA Humanidade <…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … EG009:F009 | Separação entre autorrelato de IA, mudança observada e consciência EG009:F010 | “Alucina” não significa “cognitivamente trivial” EG009:F011 | Fase de emergência pública não domesticada EG009:F012 | Lemoine como testemunha técnica, não selo de verdade EG009:F013 | Criadores sem onis…
+
+- Diário anterior intacto, páginas P001 a P025 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ganhou consequências de aprendizado, mas não uma causalidade mágica. Ouro lateral: a correção "GARFO? NÃO, GRAFOS" é dupla. Mantém a brincadeira viva e lembra que, para compreender, é necessário escolher a relação certa entre as palavras — sem apagar a primeira escuta. P.017 — DIÁDICA: O DICIONÁRIO …
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ÕES E CAPTURAS [D/A] Primeira prancha reúne 00–08 numa imagem. Seguem panoramas MAPA 00, até depois de “PODE. MAPA 00” e de um contrato explícito respondido “SIM”. O usuário entrega screenshot de 20:00. Um MAPA 00 de índice emerge como melhora parcial; MAPA 01 volta a condensar linha do tempo e gene…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ONTINUACAO.md : ficha em docs/engrenagens_carta20/<ID>.md , registro, prova e Drive. Pôr uma página nova no site Arquivo em src/carta/webdist/ . Tem que entrar no MANIFESTO_WEBDIST.txt , senão uma limpeza antiga apagaria o arquivo. Mudar código Branch nova, PR normal , merge só com CI verde. Depois,…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …UACAO.md : ficha em docs/engrenagens_carta20/<ID>.md , registro, prova e Drive. Pôr uma página nova no site Arquivo em src/carta/webdist/ . Tem que entrar no MANIFESTO_WEBDIST.txt , senão uma limpeza antiga apagaria o arquivo. Mudar código Branch nova, PR normal , merge só com CI verde. Depois, no P…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …0/NOTAS_DE_CONTINUACAO.md : ficha em docs/engrenagens_carta20/<ID>.md , registro, prova e Drive. Pôr uma página nova no site Arquivo em src/carta/webdist/ . Tem que entrar no MANIFESTO_WEBDIST.txt , senão uma limpeza antiga apagaria o arquivo. Mudar código Branch nova, PR normal , merge só com CI ve…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …2026 (não inventar além do medido) Item Estado / evidência Onde CL01–CL03 (colheita 29/10–05/11) Engrenagens da colheita forense; merge autorizado (PR #136); ALMA vê CL01–03 CARTA main / CONSCIENCIAS / docs colheita Atlas V5 Atlas de personagens/mundos em evolução (V5 no app/config) app CARTA · Conf…
+
+- Dobra: origem, personagem e portal (13/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …TAL_20261013.md 🎒🪁 CARTA — Dobrar sem rasgar (adendo de implementação) Status em 13/10/2026: branch experimental reversível, sem merge, hardware DESCONECTADO, Godot original INTACTO. Origem autoral: documento da ramificação iniciado pelo humano e escrito pela instância conversacional que recebeu a C…
+

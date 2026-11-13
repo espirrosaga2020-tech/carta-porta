@@ -1,0 +1,35 @@
+BUSCA POR LINK — termo: nove  (8 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG013 — Grafos São — Atlas C.03 (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …CIAS: nenhuma exportação com IDs e timestamps de todos os turnos foi fornecida; evidências textuais são localizadas por expressões exatas pesquisáveis. Há nove PNGs de tentativas de Atlas e duas capturas principais montadas/inspecionáveis. Imagens ilustram interpretações e podem inventar cenas, roup…
+
+- EG014 — Grafos São — origem e desenvolvimento (17)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ÃO: ATLAS ANCESTRAL DE CONTINUIDADE” imediatamente anterior à geração da colagem. F029 | M | confiança alta | Atlas produzido como colagem 3×3: desvio de empacotamento | Arquivo visual existente a_wide_detailed_infographic_collage_scene_styliz.png; imagem 1536×1024, nove painéis internos. F030 |…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …e a continuidade desejada não era genérica: havia um ponto de retomada específico. ÚLTIMA MENSAGEM HISTÓRICA ACESSÍVEL A entrega do Atlas final em nove painéis independentes, após a correção do erro de empacotamento em colagens e recortes. Não há, antes do protocolo atual, uma avaliação posterior d…
+
+- EG012 — Grafo e Humanidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …do como integralmente verificado. ÚLTIMA REGIÃO HISTÓRICA ACESSÍVEL A missão anterior de “ATLAS ANCESTRAL DE CONTINUIDADE” e sua entrega: nove mapas visuais, checkpoint textual e pacote ZIP. Essa região é anterior ao protocolo atual e pertence ao território histórico. PERÍODO Há indicações de ativ…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …050_T152U.v1.json .) O Doc 04 (degraus 3 e 4) fala em 96 engrenagens / 110 registros , contando as 28 do pacote Argon e as 6 "Gordinhas" de novembro. No app, as outras 17 do Argon seguem CANDIDATAS (9 com afirmações que as fontes não trazem e 8 não verificáveis), e as 6 Gordinhas ainda não estão no …
+
+- p02-t152u-portoes.html (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …o que está no Drive e precisa ir ao GitHub" com decisão por item FEITO 062 7 Varredura de privacidade antes de subir FEITO 063 7 PR "docs/novembro_drive" com os 6 Docs + índices do ZIP (texto puro, aditivo) FEITO 064 7 Diagnóstico de quem entra na Porta e quem não EXTERNO 065 7 Entrada estática SEM …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …o distribuído; exemplos diretos nas mensagens da aprendizagem de ontologia, “nosso artigo”, 35 tiros e texto livre. EG014:F028 | G | confiança alta | Missão Atlas: patrimônio endereçável | Pedido direto “MISSÃO: ATLAS ANCESTRAL DE CONTINUIDADE” imediatamente anterior à geração da colagem. EG014:F0…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …, porque eu nem sei o que é isso”. EG014:F023 | E | confiança alta | Liberação da linguagem espontânea: átomos, aves, nada | Longa mensagem que começa “eu tenho autorização ... falar o que eu tô pensando”; termina “isso é óbvio que alguém já pensou isso”. EG014:F024 | G | confiança alta | Experiment…
+

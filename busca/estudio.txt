@@ -1,0 +1,27 @@
+BUSCA POR LINK — termo: estudio  (6 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- p02-manual-v12.html (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …rive, Doc "05 — Catálogo de aplicativos e seu estado funcional…", seção 1; resumido em registry/APPS_ESTADO_T152U.v1.json ) : - FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema…
+
+- p02-t152u-novidades.html (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …ainel 3 com 8. Enciclopédia · busca "engrenagem" . Programas e softwares do ecossistema (estado anotado pelo Bruno) FUNCIONAIS (7): Estúdio SVG 12 DIBA (V1, V2 intocável, V3 com bancada retrátil); 12 DIBA Lab e Museu Vetorial V3 offline (49 SVGs); Super Flash 2030 V2/V2.1; Estúdio Cinema Vetorial v1…
+
+- EG015 — Pai do Grafo e Rigor (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …mente visível documenta uma segunda transformação. O usuário nomeia a investigação "GRAFOS SÃO....", pergunta por que ela poderia interessar a estudiosos, fala de maneira associativa e constrói um experimento mental de condições mínimas, 0→1→2→N. A IA organiza o material, distingue modalidades de pe…
+
+- EG014 — Grafos São — origem e desenvolvimento (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …tal e método de não conclusão. 9. SITUAÇÃO FINAL: Consolidado como título provisório/identidade local; tese e publicação permanecem abertas. 10. UTILIDADE FUTURA: Evitar completar retoricamente os pontos finais numa futura síntese. ---------------------------------------------------------------…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … palavra aplicada de modo informal à cognição associativa cresceu até a tese intuitiva "tudo é grafo". Em vez de ser simplesmente confirmada ou descartada, a tese foi desmontada em sucessivas objeções: formalismo não é ontologia, a palavra "estrutura" pode ser trivial, relações suscitam pergunta sob…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ra aplicada de modo informal à cognição associativa cresceu até a tese intuitiva "tudo é grafo". Em vez de ser simplesmente confirmada ou descartada, a tese foi desmontada em sucessivas objeções: formalismo não é ontologia, a palavra "estrutura" pode ser trivial, relações suscitam pergunta sobre rel…
+

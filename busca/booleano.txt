@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: booleano  (16 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões booleanos t89u (critérios e estado) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …da.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Portões booleanos t89u (critérios e estado) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no docume…
+
+- Portões booleanos t89u (critérios e estado) (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …Portões booleanos t89u (critérios e estado) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões booleanos t89u (critérios e estado) PORTÕE…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …do Manual. src/carta/t100u/__init__.py T100U (03/11/2026): portões para levar o DIAGNÓSTICO DOS SONHOS a 100% (docs/CARTA20/PORTOES_T100U.md). Tudo por acréscimo. src/carta/t100u/catalogo.py Catálogo T100U: portões t1..t17. Cada critério é booleano; o portão só fecha com TODOS verdadeiros (medidos, …
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …nual. src/carta/t100u/__init__.py T100U (03/11/2026): portões para levar o DIAGNÓSTICO DOS SONHOS a 100% (docs/CARTA20/PORTOES_T100U.md). Tudo por acréscimo. src/carta/t100u/catalogo.py Catálogo T100U: portões t1..t17. Cada critério é booleano; o portão só fecha com TODOS verdadeiros (medidos, não p…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …ecebem rótulo, receita nem objetivo além de manter o corpo. Frase do Bruno: "uma bactéria que pergunta: o que sou eu?". Fontes: PRE_PROJETO_BLACK_MIRROR/VISAO.md , PORTOES_BOOLEANOS.md , PROTOCOLO_ANTICONTAMINACAO.md , METRICAS_DE_EMERGENCIA.md . Núcleo BM (PR #38, Grok): código em src/carta/bm/ , e…
+
+- RB01: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-105.html
+  …*_V04 (00 Começar aqui, 01/02 legendas, 03 inventário visual, 04 engenharia elétrica e ordem de solda, 05 fabricante, 06 cem portões booleanos, 07 varredura de 9.460 quadros, 99 relatório científico, Atlas V04 de 22 pranchas, Caderno forense V04). criada em: 2026-11-03 por Grok (T105U) · regra: defi…
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …, conclusão ontológica não implicada. [F012] 06. Cadeia surpreendente do vídeo versus objetivo providencial demonstrado: finalidade indeterminada; fé e interpretação pessoal podem coexistir com cautela evidencial. [F006] 07. Mapa de navegação versus mapa que já contém todo o conteúdo: transformação …
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …da para Batcaverna nova e Central. TEMAS PRINCIPAIS - continuidade entre chats; - interface cognitiva humano-IA; - Central + Satélites; - documentação e cristalização; - grafo / regiões / coordenadas; - preservação de legado; - arqueologia técnica; - agentes de IA como sensores/executores; - fecham…
+
+- Portões T95U (03/11/2026): gráficos, mundos, personagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html
+  …/t95u/portoes . Código: src/carta/t95u/ (catálogo + flags) · teste do esqueleto: tests/test_t95u_portoes.py . # id flag portão critério booleano (todos têm que ser verdade) 1 g1 t95u_g1_atmosfera Gráficos estilo The Witcher 3 / Baldur's Gate 3 (prioridade nº 1, t96u) baixo = igual a hoje; ultra liga…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …ma → <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-075.html> Portões anteriores (21/10/2026) 10 PORTÕES BOOLEANOS — CARTA (pedido do Bruno, 21/10 13:41) Regras: aditivo, nada apagado, 1 backup por portão, íntimo nunca aparece, casa = acesso total ao dono, internet = protegido. …
+
+- Resultado do aperfeiçoamento (31/10) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …(trecho omitido pelo filtro)…
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …arta-porta/suprema2-acervo-071.html> Portões T95U (03/11/2026): gráficos, mundos, personagens <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-072.html> Portões booleanos t89u (critérios e estado) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html> Portõe…
+
+- Colheitas e varreduras (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-colheitas.html
+  …(trecho omitido pelo filtro)…
+
+- Índice do Drive (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-drive.html
+  …(trecho omitido pelo filtro)…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-antigos.html
+  …o Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Portões anteriores (21/10/2026) 10 PORTÕES BOOLEANOS — CARTA (pedido do Bruno, 21/10 13:41) Regras: aditivo, nada apagado, 1 backup por portão, íntimo nunca aparece, casa = acesso total ao dono, internet = protegido. Teste…
+

@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: resumos  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …, pessoas anônimas, corredor, frase de Gi-hun e “pessoas são...” [F001–F003]; Big Mac/nugget/Bard/Christopher [F031]. A origem exata se conhece por trechos e resumos. Fase B — nomeação e expansão: Introdução de “grafo”, “garfo”, grafo de grafos, zoom, corte do vídeo, contrafactuais, causalidade/pr…
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …ar. Protocolo obrigatório: a primeira coisa ao chegar Comece com o contexto limpo. Não traga conversa anterior. Carregue só os resumos : python -m carta prova resumo CAP . Os resumos são curtos para você não precisar carregar 80 mil linhas. Para cada capítulo, na ordem oficial: Leia a fonte inteira:…
+
+- EG013 — Grafos São — Atlas C.03 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …A (ORIGEM / INFLUÊNCIA): Original G; influência posterior G: orienta crítica sobre critério de saída. 9. SITUAÇÃO FINAL: contradito pelo contrato; intenção do modelo indeterminável pelos resultados. 10. UTILIDADE FUTURA: Distinguir falha objetiva de hipótese sobre motivação interna. ---------------…
+
+- EG023 — Paz — Linguagem e Continuidade (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …ue, ao deixar de carregar todo o contexto, também estaria “dando descanso pro copiloto”. - Há material anterior desta mesma trajetória disponível por resumos, documentos, arquivos e referências internas, inclusive estados de 2026-10-05 e documentos de 2026-10-06, mas o início completo e contínuo do …
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …s dos três, coincidência da encomenda. Integridade: os textos originais P.001–P.004 permanecem nas mensagens em que surgiram. Os títulos e resumos acima são um índice de acesso , não uma reescrita nem uma alegação de que a misteriosa página integral tenha sido vista. Os novos registros seguem abaixo…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …ia posterior: G | Confiança: alta Localização: U55; A55 1. Situação anterior: O usuário percebeu que estava trazendo informação com crescente densidade sem receber uma integração proporcional. 2. Acontecimento desencadeador: U55 exige procurar chats, documentos, galeria, fotos, checkpoints, Beyblade…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … A Humanidade cria uma nova Central de operação. - Impõe transferência progressiva de contexto. - Proíbe pesquisa, documentos, resolução de projetos e grandes resumos prematuros. - Função histórica: estabelecer leveza operacional antes de importar patrimônio. FASE B — PRIMEIRO PACOTE DE CALIBRAÇÃO …
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …. Confiança: alta ---------------------------------------------------------------------- 1. Situação anterior Referências a filmes, projetos, builds e memórias podiam parecer desvios de assunto quando observadas linearmente. 2. Acontecimento desencadeador A Humanidade explica que muitas referência…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …agem 3×3: desvio de empacotamento | Arquivo visual existente a_wide_detailed_infographic_collage_scene_styliz.png; imagem 1536×1024, nove painéis internos. EG014:F030 | M | confiança alta | O descompasso entre precisão conceitual e formato final | Comparação direta entre requisito de Atlas e o únic…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …esposta visível ao discurso espontâneo e descrição do TXT posteriormente entregue. EG014:F025 | G | confiança alta | “Falar de mim”: historicidade do percurso e escopo | Pedido “🚐 vamos viajar ... falar de mim ... explicar porque o escopo tá tão enorme”. EG014:F026 | G | confiança alta | Checkpoint …
+

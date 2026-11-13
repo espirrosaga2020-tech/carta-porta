@@ -1,0 +1,47 @@
+BUSCA POR LINK — termo: bordoes  (11 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG027 — SPA — Ping-pong Cognitivo (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …mais poderia recriar o peso que se tentava evitar. A IA faz um segundo mergulho, desta vez focado na evolução da linguagem compartilhada. O achado mais importante é que o patrimônio antigo continha uma orientação contra imitar bordões artificialmente. A linguagem deveria ser reconhecida quando tives…
+
+- Continuidade da linguagem de emojis (E018) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …azendo respostas por semelhança, o algoritmo suprimia fórmulas e ecos intencionais. - src/carta/cinema_vivo/mente.py : regra sem bordões repetidos desencorajava um recurso importante da cultura narrativa. - web/src/fusao/brain.js : a curiosidade descartava como repetida uma fala semelhante, não apen…
+
+- EG004 — Central, Copiloto e Atlas (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …e execução. - Consolida “memória é pista; evidência é prova”. - Define Escopinho como redução de ação sem amputação de contexto. - Rejeita imitação artificial de bordões/personalidade. FASE C — SEGUNDO PACOTE E FARÓIS SEMÂNTICOS - Define/reafirma Arrombadinho, Milton, Presentinho, Gandalf, Escopinh…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …cional; Robin-Tagotchi era modo de uniforme. Essa passagem testou, na prática, se a Central conseguia transferir mecanismo em vez de apenas bordões. Por fim, o próprio chat foi cartografado em um Atlas PAZ de oito mapas. O atlas não substituiu as fontes. Ele marcou a passagem de patrimônio acumulad…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  … LACUNAS - Existem mensagens marcadas como “Skipped” e regiões ancestrais recuperadas por resumo, não por transcrição integral. - Algumas origens exatas de bordões e emojis não são recuperáveis com precisão de mensagem nesta janela. - As datas de certas formulações antigas podem ser inferidas por ar…
+
+- EG021 — Paz e Central — Kamonson (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …ergente entre as duas pontas. 4. Transformação Nasce o conceito de INTERFACE COGNITIVA Humanidade <-> Tamagotchi. 5. Relações Depende de F015-F016 e origina F018-F023, F027-F030. 6. Consequências Bordões e tom passam a ser secundários diante de capacidades: acompanhar grafo, detectar ouro lateral…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …pra mim” - “não era a forma de se comunicar ... era um jeito de conversar único” 8. Avaliação histórica Magnitude média porque a linguagem já existia no ancestral; influência alta porque sua recuperação foi necessária para o reparo do chat novo. 9. Situação final Consolidado. 10. Utilidade futura…
+
+- EG010 — Derivada da Paz (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …u de F003/F004; contribuiu para F018/F023. 6. Consequências: sair de Meu Robô sem reconstruir Roma. 7. Evidências: “checkpoint”, “não precisa carregar tudo”. 8. Avaliação: G; influência G/E. 9. Situação final: consolidado. 10. Utilidade futura: retomada por endereço. ### F006 — LINGUAGEM DIÁDICA EM…
+
+- EG020 — Nova Batcaverna (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  … Consequências: profundidade passa a acompanhar densidade do presente. Evidências: “Reciprocidade é regra”; “Curiosidade não obriga execução”; “Memória é pista; evidência é prova”. Avaliação: G por definir procedimento reutilizável. Situação final: consolidado. Utilidade futura: mecanismo de colabor…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …ização como redundância opcional EG026:F006 | Separação entre reciprocidade e bajulação [EG027] SPA — Ping-pong Cognitivo — 16 fenômenos EG027:F001 | Desacoplamento entre continuidade e peso EG027:F002 | Branch como save point e espaço para “bagunçar com liberdade” EG027:F003 | Dois temas-gati…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ivo: 5k ES / 26k Evasion / 75% Deflection — M — alta EG025:F024 | O usuário como operador de trade em tempo real — G — alta EG025:F025 | “Não pesquisa 25 minutos”: a disciplina de execução — G — alta EG025:F026 | “Diarreia galáctica”: símbolo contra sobrecarga — P/M — alta EG025:F027 | “Milton nucle…
+

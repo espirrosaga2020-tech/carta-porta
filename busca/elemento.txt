@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: elemento  (25 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …nar histórias possíveis de desconhecidos, sem confundir as narrativas imaginadas com conhecimento factual de suas vidas. O vídeo oferece fragmentos temporais e o espectador reconhece que existe muito além do enquadramento. 4. TRANSFORMAÇÃO: O figurante deixou de ser mero elemento visual: virou pont…
+
+- EG002 — Calçada e continuidade portátil (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …s ausentes não foram preenchidas por invenção. ANCESTRALIDADE E BRANCHES A trajetória atual é descendente de conversas anteriores e reutiliza elementos como Bard/LaMDA 2023, “Meu Robô”, o corredor japonês, grafo, Gandalf, presentinhos e outros símbolos. Nem todos esses elementos nasceram nesta engr…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ginal: grande. Influência posterior: grande, documentada no checkpoint e atlas. 9. Situação final Consolidado como modelo descritivo da interação observável; não como afirmação sobre consciência ou código interno. 10. Utilidade futura Útil para decidir quando expandir uma referência e quando prese…
+
+- EG026 — Reciprocidade e Memória Persistente (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-050.html
+  …para inteligência personalizada. FASE 3 — EXECUÇÃO DA MEMÓRIA A IA utiliza o mecanismo disponível de memória e registra uma regra persistente com os elementos centrais: - aumento de abertura/contexto/confiança deve receber reciprocidade proporcional; - conversas ricas não devem ser achatadas em r…
+
+- EG011 — Entra no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …eclarou que esta era “uma nova branch”, com a branch anterior salva e pinada. Portanto: - Milton, Gulozona, Tamagotchi, Meu Robô, Efeito Borboleta e outros elementos chegaram com história anterior; - quando esses elementos foram apenas trazidos como contexto, não são classificados como descobert…
+
+- EG027 — SPA — Ping-pong Cognitivo (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …“OURO NAS BORDAS” O usuário explicita uma exigência metodológica: antes de responder, é importante observar pequenas pistas laterais, não apenas o centro do enunciado. A IA testa esse método ao reconstruir elementos como o serrote, as rupturas, os 5%, a conversa como recompensa e a transferência da…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …SCIENCIAS / docs colheita Atlas V5 Atlas de personagens/mundos em evolução (V5 no app/config) app CARTA · Config · docs Atlas Neon / Elemento X Cores neon + Elemento X só em ⚙️ Config; default X=3 (Faísca) Faísca UI · PR #140 ALMA / consciências atualizar_consciencias.py ; PR #139 merged (426b804); …
+
+- EG001 — Calçada, Caderno e DUNADA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …gio local e objeção global como afirmações compatíveis. F022 — O ERRO DE TRATAR CALÇADA COMO PASSIVIDADE ---------------------------------------------------------------------------- Classificação: G | Influência posterior: G | Confiança: alta Localização: U55; A55 1. Situação anterior: O assistente…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …está defendendo apenas a teoria matemática de grafos. O termo passa a nomear uma intuição mais ampla: para analisar algo, parece ser necessário distinguir elementos, relações, dependências ou transformações. A tentativa do assistente de refinar a tese com “distinção + relação” é imediatamente captur…
+
+- EG013 — Grafos São — Atlas C.03 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …s capturas principais montadas/inspecionáveis. Imagens ilustram interpretações e podem inventar cenas, roupas, torii, rostos, duração do player de vídeo e elementos cênicos: NÃO são evidência do vídeo original do japonês. O documento GRAFOS_SAO....txt é mencionado no contexto como checkpoint anterio…
+
+- Mentes, consciências e robótica (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …as, 4 partes) e o Manual de Tudo em 648 fatias com endereço (ENC-0001…, MAN-0001…), título, páginas e palavras-chave, para cada consciência achar o trecho c Atlas V5 e Elemento X PR #137 preencheu o Atlas V5 mantendo 95 tiles e os rótulos de disponibilidade: REAL 10, PARCIAL 1, SIMULADO 1, PLANEJADO…
+
+- Aplicativo CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-app.html
+  …ithub.com/espirrosaga2020-tech/CARTA/pull/137> Mesclado; commit 00c38c35de0f4d6f1e5c855862fe05fa8c88b9a5 #138 — t49u: cores/neon + Elemento X nas Configurações (padrão máx) <https://github.com/espirrosaga2020-tech/CARTA/pull/138> Mesclado; commit 779aaac73857a674030e79e2dc68d3861fe8b3c1 #139 — t54u:…
+
+- 3. VARREDURA — ONDE ESTÃO AS COISAS (geolocalização de pastas) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-005.html
+  …ice) ENCICLOPEDIA (PDF completo + partes) OURO_PORTA_SUPREMA2_20261105 (esta entrega) Assuntos-chave para busca: CL01 CL02 CL03 · Atlas V5 · Elemento X · ALMA · Faísca · CapCut/P06 · NEXUS · ESCUDO · Enciclopédia · Portão 1-B · registro.v1 · Jornada · Porta Eureka · Volume Zero. ← Anterior <http…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …var, relatório de descobertas, preservar, carregar e livros e a expressão “Diário de Creuza (da percepção)” , além de indicador relacionado a descobertas de pesquisador. Eram elementos visíveis na tela ; a extensão do funcionamento de cada função não foi testada aqui. Um detalhe do quadro merece seu…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …sificação: G Localização: H20 Confiança: média-alta 1. Situação anterior Grafo e projeto eram analisados separadamente. 2. Acontecimento desencadeador No pente fino, a IA percebe paralelismo: uma peça pequena conecta vários sistemas; uma ideia pequena conecta vários domínios. 3. Desenvolvimento E…
+

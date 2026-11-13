@@ -1,0 +1,39 @@
+BUSCA POR LINK — termo: baseline  (9 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG004 — Central, Copiloto e Atlas (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …s apontados na atualização de MEU ROBÔ não foram abertos nesta conversa durante a arqueologia atual. 2. A auditoria técnica que levou ao “BASELINE VERDE” aconteceu fora desta engrenagem; aqui recebemos seu resultado consolidado. 3. A genealogia anterior de símbolos como Milton, Gandalf, Presentinho,…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (16)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …LIGENCIA_VISUAL_UX_2026-10-06.txt - RELATORIO_ORQUESTRACAO_VERTICAL_SLICE_2026-10-06.txt - DIARIO_FECHAMENTO_TOTAL_2026-10-06.txt - MARCO_BASELINE_TOTAL_2026-10-06.txt - LEIA_ME.txt / LEIA_ME(4).txt - COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06.txt - COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …ncia posterior: alta como correção epistemológica. 9. Situação final Parcialmente demonstrado como teto; não demonstrado como resultado atual. 10. Utilidade futura Nunca usar "+40%" como baseline até a contagem final de alocação. ------------------------------------------------------------------…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …perder o estado anterior. 7. Evidências Âncoras: CHECKPOINT_POE2_BUILD_2026-10-02.txt; “não substituir fatos confirmados por memória aproximada”. 8. Avaliação histórica Grande, com influência extraordinária na continuidade técnica. 9. Situação final Consolidado; documento preservado. 10. Utilida…
+
+- EG020 — Nova Batcaverna (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …ilidade futura: mapa de retomada seletiva. F003 — ESTADO HERDADO DE “MEU ROBÔ 2026” Classificação: M | Confiança: média/alta Situação anterior: novo chat precisava saber “onde estávamos”. Gatilho: o assistente relata estado técnico herdado das Coordenadas. Desenvolvimento: aparecem BASELINE VERDE, …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  … à última frase, sem transformar lembrança em prova e sem deixar curiosidade explodir o escopo. Esse reconhecimento produziu a Central, os satélites, regiões canônicas, protocolos de cristalização e uma arquitetura de continuidade. Depois, o próprio método recém-formalizado voltou ao Meu Robô. Em ve…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ima frase, sem transformar lembrança em prova e sem deixar curiosidade explodir o escopo. Esse reconhecimento produziu a Central, os satélites, regiões canônicas, protocolos de cristalização e uma arquitetura de continuidade. Depois, o próprio método recém-formalizado voltou ao Meu Robô. Em vez de a…
+
+- EG025 — POE2 — Milton e Value Engineering (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …E 10D Classificação: M | Confiança: alta Acontecimento: Megalo 10d e Heart 10d. Transformação: Milton vira símbolo de timing, preço anômalo e qualidade inesperada. Situação final: consolidado. F028 — CHECKPOINT COMO FONTE DE VERDADE Classificação: G | Confiança: alta Acontecimento: checkpoint defin…
+
+- p02-manual-v12.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …as.py ; PR #172.) A guarda do 3D ganhou o hash novo só desse arquivo; o visual 3D continua byte a byte igual. (Fonte: tools/t152u/G0_BASELINE_3D.txt .) As divergências de contagem ganharam o lado vigente (87/73), as 17 candidatas e as 6 Gordinhas. (Fonte: registry/CONHECIMENTO_DIVERGENCIAS.v1.json .…
+

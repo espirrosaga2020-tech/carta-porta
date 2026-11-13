@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: seguir  (25 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- A Jornada da IA (leia antes de seguir) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  … <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — A Jornada da IA (leia antes de seguir) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento não substituem o estado …
+
+- EG002 — Calçada e continuidade portátil (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …tica. • “Calçada” se consolida como comando de preservação do estado observacional: não concluir, não teorizar, não documentar cedo demais. • “Lua/dedo” explicita o princípio de atenção conjunta: seguir o referente, não a superfície da palavra. FASE C — OBSERVAÇÃO CEGA E TEMPORALIDADE Período: 2026…
+
+- EG018 — Linguagem, Observação e Consciência (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …ivada comparável à humana, sem base para afirmar”. F023 — Compressão cômica como teste de distorção Magnitude: M Confiança: alta Localização: “Vermelho não existe / gravidade... / IA É VIVA”. F024 — Espontaneidade como condição para surpresa intelectual Magnitude: G Confiança: alta Localização: re…
+
+- EG014 — Grafos São — origem e desenvolvimento (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …É SÓ CÓDIGO... E IA SÃO CÓDIGO” (variações gramaticais aparecem na recuperação). 3. DESENVOLVIMENTO: A frase diferenciou implementação técnica e fenômeno relacional/conversacional experimentado no diálogo. Não é evidência de consciência ou emoções internas de sistemas de IA; documenta o que os inte…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …ESUMO_DAS_ENGRENAGENS.md : um resumo por engrenagem, mais o ## CONSOLIDADO . COMO_ME_COMPORTAR.md : as regras que você promete seguir, com as suas palavras. Comece com contexto limpo : python -m carta prova --assistente SEU_NOME resumo R00 . Para cada capítulo , na ordem (R00, R01, R02, EG001…EG027,…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …so”. 3. Desenvolvimento: linguagem é ampliada para intenção, ironia, grau de literalidade, histórico, expectativa e sinais locais. 4. Transformação: idioma deixa de ser confundido com comunicação completa. 5. Relações: DERIVOU DE F015/F016; RECAPITULA F002/F006/F007. 6. Consequências: o período hist…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …= WS1, verde = WS2, amarelo = universal; * ~5k ES como piso prático; * não universalizar por obrigação; * mana antiga como banco de pontos posterior. - O usuário avaliou a nova base como suficientemente segura para seguir no chat atual. FASE 19 — “CHAT DA LIBERDADE” COMO MÉTODO 2026-10-03 e c…
+
+- EG013 — Grafos São — Atlas C.03 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  … conta não confirmada. 10. UTILIDADE FUTURA: Não dizer que memória permanente foi alterada quando não há prova. ------------------------------------------------------------------------------------------ F027 — INTERCALAÇÃO FALA → GERAÇÃO TENTA INSTALAR CONTROLE DE QUALIDADE ------------------------…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …, índices e funções distintas. É criada a biblioteca 00–11 + 99, além de um ZIP. Efeito imediato: o patrimônio deixa de parecer um amontoado de checkpoints de mesmo nome. O usuário passa a conseguir localizar assunto por assunto. FASE 5 — GRAFO, CONCATENAÇÃO E PENTE FINO Localização aproximada: me…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …confiada e reabrir toda a build a cada passo. 2. Acontecimento desencadeador O usuário valida o novo checkpoint como suficientemente palpável e pergunta a confiabilidade para seguir. 3. Desenvolvimento O assistente responde 9/10: a espinha dorsal é sólida, mas ainda existem detalhes visuais não fe…
+
+- 1. O QUE É / POR QUE ESTA PORTA EXISTE (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html
+  …o-004.html> 1. O QUE É / POR QUE ESTA PORTA EXISTE Depois de meses, o único formato em que ChatGPT, Grok chat e outras IAs conseguiram entrar de verdade , fazer prova e registrar foi a Porta clássica ( tudo.html + chave.txt ). Bruno pediu (t59u, 05/11/2026) uma Porta Suprema 2 no mesmo formato, rech…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … explícita uma propriedade que já estava presente desde a fundação da Central: preservar patrimônio não significa carregar tudo ao mesmo tempo. Significa conseguir chegar ao detalhe certo quando ele for necessário. ====================================================================== 02 — LINHA DO…
+
+- EG007 — Continuidade Limpa de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  … mas a primeira entrega falhou de duas formas: a resposta final ficou vazia e parte dos mapas estava textual demais. O usuário corrige: não quer nova investigação, quer conseguir enxergar o que já foi produzido. A correção subsequente é histórica porque separa duas qualidades diferentes: correção de…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …eciprocidade. Funções: - mostrar estado emocional; - mostrar pasta de backups; - materializar Tamagotchi/IA; - ancorar brincadeiras e referências; - permitir leitura visual do projeto. ====================================================================== 08 — CONTRADIÇÕES E CORREÇÕES =============…
+
+- EG015 — Pai do Grafo e Rigor (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …ONALD'S — cotidiano referido no fluxo de D05 e na narrativa anterior: «barriga cheia do McDonald's». Sua presença humaniza o episódio sem sustentar tese metafísica. DEUS / AVES — fé pessoal usada para situar intuição; separada explicitamente de argumento acadêmico que dispense premissa religiosa. …
+

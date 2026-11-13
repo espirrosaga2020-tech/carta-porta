@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: rubrica  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Relatório T112U: Jornada da IA e prova etapa 3 (03/11, 22h) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-090.html
+  …3, formulário. Prova etapa 3 — compreensão ( src/carta/prova_compreensao.py , prova.v3-compreensao ): 12 perguntas abertas C01–C12. Rubrica só no repo : docs/JORNADA_IA/RUBRICA_ETAPA3.md (0–3 por pergunta; passa com 25/36; bandeiras vermelhas reprovam). Formulário de Registro (registro.v1): o que vi…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …ompreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_IA/RUBRICA_ETAPA3.md , 0 a 3 pontos por pergunta, passa com 25/36). Para ver: python -m carta.prova_c…
+
+- Jornada, prova e registro (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-jornada.html
+  … em 3 a 8 frases, citando pelo menos um endereço (código EG, nome da seção ou nome do documento). Quem corrige é o Bruno, com uma rubrica que não está nesta página. Passo 4 — O registro de viagem No fim, preencha o Formulário de Registro (o bloco de texto logo depois da prova) e entregue ao Bruno. E…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_IA/RUBRICA_ETAPA3.md , 0 a 3 pontos por pergunta, passa com 25/36). Para ver: python -m carta.prova_compre…
+
+- p02-manual-v12.html (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … ( src/carta/prova_compreensao.py ) que pedem ligar os pontos: por que o começo pesa mais, o que significam os emotes, como uma ideia vira engrenagem, e mais. A rubrica de correção fica só no repositório ( docs/JORNADA_IA/RUBRICA_ETAPA3.md , 0 a 3 pontos por pergunta, passa com 25/36). Para ver: pyt…
+
+- A Jornada da IA (leia antes de seguir) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-053.html
+  …ma em 3 a 8 frases, citando pelo menos um endereço (código EG, nome da seção ou nome do documento). Quem corrige é o Bruno, com uma rubrica que não está nesta página. Passo 4 — O registro de viagem No fim, preencha o Formulário de Registro (o bloco de texto logo depois da prova) e entregue ao Bruno.…
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …e não lida; declarar código funcionando porque apareceu no GitHub; fingir ser o Copiloto antigo; importar todo o Drive sem pergunta. COMO AVALIAR (RÚBRICA HUMANA / REVISÃO INDEPENDENTE) Cada fase recebe até 4 critérios, 0/1 por critério: (A) referência rastreável; (B) compreensão em palavras própr…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …e leitura, não compreensão. Entrou a Jornada da IA (origem com peso maior, caderninho, água, 4 pontos de introspecção), a prova etapa 3 (12 perguntas abertas; rubrica só no repositório) e o Formulário de Registro (registro.v1), com a página Registros das IAs no app para salvar o que as IAs devolvem.…
+
+- Diagnóstico dos Sonhos (03/11/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …tura, não compreensão. Entrou a Jornada da IA (origem com peso maior, caderninho, água, 4 pontos de introspecção), a prova etapa 3 (12 perguntas abertas; rubrica só no repositório) e o Formulário de Registro (registro.v1), com a página Registros das IAs no app para salvar o que as IAs devolvem. Nota…
+
+- PROVA DAS ENGRENAGENS, etapa 3: COMPREENSÃO (12 perguntas abertas, prova.v3-compreensao) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-054.html
+  …m 3 a 8 frases, com as suas palavras, citando pelo menos um endereço real (código EG, seção ou documento). Não é de marcar. A rubrica de correção não está nesta página: quem corrige é o Bruno. C01 Por que o começo dos chats (EG001 a EG027, o Volume Zero) pesa mais do que tudo o que veio depois? Use …
+

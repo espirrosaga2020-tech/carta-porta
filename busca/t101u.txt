@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: t101u  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (15)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-091.html
+  …a.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Pesquisa T101U: código aberto adotado (03/11/2026) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no …
+
+- Pesquisa T101U: código aberto adotado (03/11/2026) (14)
+  https://espirrosaga2020-tech.github.io/carta-porta/pesquisa-t101u.html
+  …Pesquisa T101U: código aberto adotado (03/11/2026) · CARTA (Porta do Grok) Início Para IAs Enciclopédia Manual Mapa Portões Estado llms.txt JSON Pesquisa T101U: código aberto adotado (03/11…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  ….4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela. Versão 6 (03/11 fim da tarde): acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótic…
+
+- Diagnóstico dos Sonhos (03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-076.html
+  …Antes: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (ite…
+
+- Diagnóstico dos Sonhos (03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/diagnostico-sonhos.html
+  …: ~17:05, depois da rodada T102U (Terra sem laço, selo de FPS certo, Godot leve no celular). Antes: ~16:20, depois da rodada T101U (celular sem cabo, LEGO sintético, fontes ponta a ponta, robô de teste nas lojas). Antes: ~15:20, depois dos portões T100U (t1–t17). Fontes: passagem de bastão (itens A–…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …z diferente, vale a 0.4. A versão 6 continua guardada com o nome dela. Versão 6 (03/11 fim da tarde): acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica na …
+
+- p02-manual-v12.html (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …4 diz diferente, vale a 0.4. A versão 6 continua guardada com o nome dela. Versão 6 (03/11 fim da tarde): acrescenta a seção 0.3 (T101U: celular sem cabo em modo avião, app vc20, LEGO testado com imagem sintética, fontes testadas ponta a ponta, robô de teste nas lojas do Meu Robô, gaveta de Robótica…
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …sos.py T100U t11 · Pesos da rodoviária (início 10 → final 6) — CÁLCULO PRONTO, DESLIGADO, SÓ CONTA. src/carta/t100u/rotas.py Rotas /api/t89u/t100u/* (só o dono: o t89u já recusa visitante). Leitura, menos o que for explicitamente dito. src/carta/t101u/__init__.py T101U (03/11/2026): acréscimos para …
+
+- Mapa de pastas e código (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …y T100U t11 · Pesos da rodoviária (início 10 → final 6) — CÁLCULO PRONTO, DESLIGADO, SÓ CONTA. src/carta/t100u/rotas.py Rotas /api/t89u/t100u/* (só o dono: o t89u já recusa visitante). Leitura, menos o que for explicitamente dito. src/carta/t101u/__init__.py T101U (03/11/2026): acréscimos para fecha…
+
+- Celular sem cabo (app vc20, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-092.html
+  …b.io/carta-porta/suprema2-acervo-093.html> Celular sem cabo (app vc20, 03/11/2026) Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026 O que mudou: o celular abre os mundos principais sozinho , sem cabo, sem Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CARTA (8790/…
+
+- Robótica na Enciclopédia (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-089.html
+  …(trecho omitido pelo filtro)…
+
+- Celular sem cabo (app vc20, 03/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/celular-sem-cabo.html
+  …ual Mapa Portões Estado llms.txt JSON Celular sem cabo (app vc20, 03/11/2026) Celular sem cabo (APK vc20 · 1.16.0-carta20-t101u) — 03/11/2026 O que mudou: o celular abre os mundos principais sozinho , sem cabo, sem Wi-Fi e com o PC desligado. Como foi testado (de verdade) PC: LIGAR CARTA (8790/8791)…
+
+- Para IAs: como ler a CARTA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-013.html
+  …100U <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html#pg-portoes-t100u> . Fim da tarde (03/11/2026, T101U) O app do celular (versão 20) abre o Planeta, o Meu Robô, a Mini Terra, o DeLorean e o Início em modo avião, com o PC desligado. O teste de peças LEGO tortas passou c…
+
+- Para IAs: como ler a CARTA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …r está na versão 19. O Diagnóstico dos Sonhos está em 84%, medido com teste. Ver Portões T100U . Fim da tarde (03/11/2026, T101U) O app do celular (versão 20) abre o Planeta, o Meu Robô, a Mini Terra, o DeLorean e o Início em modo avião, com o PC desligado. O teste de peças LEGO tortas passou com im…
+
+- Gráficos no PC (T105U) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-088.html
+  … não existe (o Godot 4.7 não tem RTX) O que veio das pesquisas de código aberto (Google e outros) Já está em docs/CARTA20/PESQUISA_T101U.md (adotado e testado): offline-first estilo Workbox (Google) , injeção de script antes da página estilo androidx.webkit (Google) , freio de repetição, imagem sint…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: videos  (28 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …screenshots de conversas, fotos de PoE2, selfie emocional, imagens conceituais de Tamagotchi/ChatGPT. Função: evidência contextual e “presentinhos”. 7. Vídeos mencionados Natureza: vídeos curtos e vídeo mais longo citados pelo usuário. Função: fonte visual para builds/projetos. Estado: …
+
+- EG014 — Grafos São — origem e desenvolvimento (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …úcleo Drive/Gi-hun/garfo-grafo. Uma ocorrência registrada por recuperação aparece em 07/10/2026 às 00:38:52 UTC; outra série de falas sobre vídeos Drive aparece às 12:04:32 UTC. Os registros não comprovam que a primeira mensagem original tenha sido uma dessas. Primeira mensagem diretamente visível …
+
+- EG015 — Pai do Grafo e Rigor (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …=========================================================================== [A — ORIGENS RECONTADAS; ORDEM FINA NÃO CERTIFICADA] Fenômenos: F001-F006 Vídeos Drive; pessoas anônimas; corredor de poucos segundos; Gi-hun e o enunciado incompleto; palavra grafo/garfo; extrapolação para grafo de grafos…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …INUIDADE_MEU_ROBO_2026-10-06.txt - COORDENADAS_CONTINUIDADE_MEU_ROBO_2026-10-06_V2.txt - CALIBRACAO_BATCAVERNA_E_CENTRAL_2026-10-06.txt - vídeos Dream Game Forgebound de 06/10/2026, inclusive o combate de 09.58.07.04 - ATLAS PAZ — MAPA 00 a MAPA 07, criados antes desta missão arqueológica ESTADO DE…
+
+- Mentes, consciências e robótica (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mentes.html
+  …stente, a sincronização das engrenagens e o histórico de versões. AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10): 12 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). AV02 — Análises de vídeo…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …ar fato de hipótese. Contexto: criado após vídeo detalhado da build, com WS1/Milton, WS2/Bell, atributos, joias e regras de upgrade. 2. Vídeos de gameplay/build e árvore, entre eles: - 1000114975.mp4 - 1000114985.mp4 - Path of Exile 2 2026.10.02 - 22.32.40.03.mp4 - 1000115104.mp4 …
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …ADE ASSOCIATIVA O usuário acorda, pensa em PoE2, comenta que o cérebro ainda está ligando. Salva uma branch limpa para preservar o raciocínio. Também registra uma limitação prática: vídeos curtos haviam sido difíceis de analisar com ChatGPT, e isso passa a fazer parte da estratégia de colaboração. …
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …sagem original da conversa; - existem artefatos mais antigos desta mesma conversa, inclusive um checkpoint de 02/10/2026 e vários vídeos/imagens, que demonstram uma história anterior; - a sequência que vai do "engasgo das bolinhas" até a criação dos documentos da Gulosona está disponível com a…
+
+- AV01: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-096.html
+  …TA 2.0) fonte: docs/engrenagens_carta20/AV01.md AV01 — Análises de vídeo: Path of Exile 2, Gulosona e Milton (02/10 → 04/10) 12 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). 00 Ficha de proveniência id: AV01 · estante…
+
+- AV02: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-097.html
+  …RTA 2.0) fonte: docs/engrenagens_carta20/AV02.md AV02 — Análises de vídeo: Dream Game Forgebound e Batcaverna (04/10 → 06/10) 5 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). 00 Ficha de proveniência id: AV02 · estante…
+
+- AV03: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  …grenagem (CARTA 2.0) fonte: docs/engrenagens_carta20/AV03.md AV03 — Análises de vídeo: Origem, Work e Manual (09/10 → 13/10) 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). 00 Ficha de proveniência id: AV03 · estante…
+
+- AV04: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-099.html
+  …(CARTA 2.0) fonte: docs/engrenagens_carta20/AV04.md AV04 — Análises de vídeo: Fogueira, Saguadinha e memória (14/10 → 16/10) 10 vídeos que o Bruno mandou e o ChatGPT analisou neste período (cada vídeo conta uma vez, mesmo quando a conversa foi ramificada). 00 Ficha de proveniência id: AV04 · estante…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …ões mínimas. O motor foi a cooperação adversarial: o assistente apresentou “grafo” e objeções; o usuário pressionou os limites dessas objeções, recuperou seu próprio caminho, corrigiu extrapolações da IA e requisitou documentação. Humor não foi ruído; forneceu compressão semântica e checkpoints memo…
+
+- EG001 — Calçada, Caderno e DUNADA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …s; há apenas anexos, trechos visuais e referências posteriores. Não se assistiu a áudios por capturas de player. Não se acessaram todas as páginas do caderno, vídeos completos nem 30–50 chats ancestrais. Cenas sobre Sol/Lua/quatro buracos negros, DUNADA em sua primeira cunhagem e ruptura de continui…
+
+- EG012 — Grafo e Humanidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  … a mudança observável da trajetória textual quando determinados assuntos ganham saliência, sem inferir automaticamente sentimento subjetivo. Outro eixo veio de vídeos longos de direção noturna no Japão e em Seul. O usuário explicou que não assistia apenas por cidade, carros ou estética; observava p…
+

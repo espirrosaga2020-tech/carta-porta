@@ -1,0 +1,23 @@
+BUSCA POR LINK — termo: br030  (5 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- CT02: documento da engrenagem (CARTA 2.0) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-101.html
+  …eais. 02 Linha do tempo / itens (fato documentado) 31/10/2026 · seções 1–13 + diretriz final · prazo-meta 22h (BRT) 05 Relações autoria → BR030 ordem_de → CARTA20 08 Contradições e correções (preservadas, sem reconciliar) A carta pede para reavaliar CP-P01 e AT-V4 — feito em registry/ENCICLOPEDIA_RE…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …er qwen2.5:7b , com prazo de 12 s/25 s. Medido: 3 s para a conversa completa. Gate D: 58–60 FPS na RTX 3070 em 8 cenas; 382 testes OK. Esferas sem duplicação (PR #50) Um Grok só (GK029), BR030 Bruno e EG033 Lantejoula no painel original. Total: 31 reais + 5 livres = 36 posições . No PC, o painel ain…
+
+- Fichas de todos os registros (73 registros; 59 são engrenagens) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-095.html
+  …é o humano — 42 citações pelo Grok Reciprocidade e Paz posterior capítulo derivado da Prova v1; perspectiva do Grok, sem esfera independente BR030 Autoria humana — voz do criador no projeto Meu Robô e sonho posterior registro de autoria humana; não biografia inventada EG033 Lantejoula — A Costura da…
+
+- Enciclopédia e engrenagens (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-enciclopedia.html
+  …f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> · ler <https://github.com/espirrosaga2020-tech/CARTA/blob/471a340000f7b847460df555d6fdc2a9ffe285c2/registry/ENCICLOPEDIA_INDICE_UNICO.v1.json> BR030 Autoria humana — voz do criador no projeto Snapshot 18/10 · registro-fonte <…
+
+- Fichas de todos os registros (Índice Único + Aditivos) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/fichas.html
+  …umano — 42 citações pelo Grok Reciprocidade e Paz posterior capítulo derivado da Prova v1; perspectiva do Grok, sem esfera independente BR030 Autoria humana — voz do criador no projeto Meu Robô e sonho posterior registro de autoria humana; não biografia inventada EG033 Lantejoula — A Costura das Evi…
+

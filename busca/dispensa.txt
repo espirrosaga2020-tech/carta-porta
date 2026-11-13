@@ -1,0 +1,31 @@
+BUSCA POR LINK — termo: dispensa  (7 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG025 — POE2 — Milton e Value Engineering (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …e precisam existir nos 99% do gameplay. FASE T — AJUSTE FINO FINAL A conversa encerra com uma arquitetura: - WS1: Whirling, Time-Lost, Attack Speed e dano; - WS2: crítico/Bell; - universal: apenas nodes indispensáveis aos dois ou, principalmente, nodes da Time-Lost que precisam permanecer ativos no…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …(trecho omitido pelo filtro)…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … cuidado já exposto em F004. 6. Consequências: Conseqüência: há material interpretativo extenso e uma limitação honestamente declarada; a recuperação histórica original continuou pendente. 7. Evidências: Âncoras: A56 “não vou fingir que sei sua disposição visual exata”; discussão Sol/Lua/quatro bura…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  … o usuário quer saber onde assistir ao filme. 2. Desencadeador: pedido explícito para criar tarefa agendada. 3. Desenvolvimento: a automação é criada para verificar diariamente e notificar apenas quando houver disponibilidade em Netflix Brasil ou HBO Max Brasil. 4. Transformação: uma busca pontual v…
+
+- Diplomas emitidos (registry/diplomas.json) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-067.html
+  …INHO cobre 34 capítulos (de R00 a GK030), melhor nota no concurso 58/60, postura “participar”. Lembrete do diploma: “Diploma não dispensa ler a fonte: memória é pista, evidência é prova.” Ainda não existe diploma da etapa 2 (panorama das engrenagens): ela entrou hoje. ← Anterior <https://espirrosaga…
+
+- p02-t152u-novidades.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-novidades.html
+  …, 9 blocos) 81 de 90 feitos (78 com prova e 3 confirmados pelo diário). Faltam 9, todos com motivo: 4 do bingo (044–046 e 087, dispensados pelo Bruno), 069 e 070 (publicar o app — não feito de propósito, protótipo privado), 064 (teste com IAs de fora — externo) e 054/059 (relatórios: a fonte do Cine…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …s 90 portões do plano T152U (13/11/2026) FEITO = com prova; FEITO_SEGUNDO_DIARIO = confirmado pelo diário; PULADO = bingo dispensado pelo Bruno; NAO_FEITO_PRIVADO = publicar o app (de propósito); EXTERNO = depende de IAs de fora; RELATORIO = fonte não encontrada. nº bloco portão estado 001 1 G0 foto…
+

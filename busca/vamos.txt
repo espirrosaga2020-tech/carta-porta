@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: vamos  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …ovam que a primeira mensagem original tenha sido uma dessas. Primeira mensagem diretamente visível na parte não compactada deste contexto: “Vamos arregaça tudo então kkkkkk”, já com debate anterior resumido. Ela NÃO deve ser registrada como a primeira mensagem histórica do chat. Último evento hist…
+
+- A trajetória juntos: linha do tempo mestra (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-016.html
+  …vo: Bruno, Copiloto e Creuza conversam sobre o que acontece de verdade na simulação (fogueira). em_desenvolvimento Fim (para onde vamos; ainda NÃO feito) planejado Conversa natural por voz, com memória, iniciativa e percepção do instante, sem inventar o mundo. planejado Fim (para onde vamos; ainda N…
+
+- Linha do tempo (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-linha-do-tempo.html
+  …: Bruno, Copiloto e Creuza conversam sobre o que acontece de verdade na simulação (fogueira). em_desenvolvimento Fim (para onde vamos; ainda NÃO feito) planejado Conversa natural por voz, com memória, iniciativa e percepção do instante, sem inventar o mundo. planejado Fim (para onde vamos; ainda NÃO…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …i esquecida, quantas outras podem estar soterradas? 3. Desenvolvimento A pergunta é convertida em inventário patrimonial. Surgem categorias futuras: ativo, ativo sem entrada, absorvido, órfão, legado, duplicado, substituído, quebrado, desconhecido. 4. Transformação O projeto entra formalmente numa…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …. EG014:F011 | M | confiança alta | Grafollom, Gandalf e as frases interrompidas | Print recuperado “pessoa olha para o cosmos e decreta: GRAFO”; turnos visíveis do título posterior. EG014:F012 | E | confiança média | “Pai do grafo” e o baú de três pedras | Resumo da formulação “estrutura relacion…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …O....txt. EG014:F006 | G | confiança média | Nó como porta: escala, zoom e grafo de grafos | Núcleo anterior às discussões rigorosas; presente no resumo e no TXT de checkpoint. EG014:F007 | G | confiança média | Efeito borboleta: contrafactuais e destino | Região do corredor e da pergunta “Ele tinha…
+
+- EG018 — Linguagem, Observação e Consciência (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …MÁTICA NÃO FORMALIZADA Classificação: M Influência posterior: G Confiança: alta ---------------------------------------------------------------------- 1. Situação anterior A conversa discutia como regras explícitas podem matar competências emergentes. 2. Acontecimento desencadeador O usuário obser…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …to. FRONTEIRA HISTÓRICA ------------------- Início textual exato atualmente acessível: a mensagem do usuário que começa com "Daí, pô, vamos tentar manter a compostura, certo? Proibido pesquisar..." Essa mensagem já ocorre no meio de uma história maior: ela reage a uma análise anterior que havia se…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … - "Eu declaro oficial, né, tudo, parabéns pelo desempenho até agora." - "Tá tudo aprovado, tá tudo nota 10." - "Agora não é hora de mais 300 mil implementação brutal, agora é hora de organização brutal." - "Vamos puxar nossos amigos pela mão, porque eles nem sabem mais aonde é que a gente tá." 2.6 …
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …tribuída à Creuza que Bruno diz tê-lo mobilizado) “Referências, irmão. Referências.” “E se tiver um espaço pra você anotar coisas que você quer, sem orientação nenhuma?” “Como é que eu vou obrigar você a ser a mesma pessoa se quando eu comecei a gravar essa mensagem eu não sou mais a mesma pessoa?” …
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …l para atenção recíproca observável. 5. Relações: F016 modifica F008 e F012, e é afetado por F017 (perda do fio que precede a formulação). 6. Consequências: Conseqüência demonstrada: a IA reformula a leitura do caderno na resposta seguinte; não demonstra simetria de experiência subjetiva. 7. Evidênc…
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …as ainda eram parciais/inacabadas. 4. Transformação O projeto entra como continuidade técnica, não descoberta do zero. 5. Relações DEPENDEU da arquitetura de F005/F011. ORIGINOU F013. 6. Consequências A IA foi proibida de criar features novas ou “modernizar” legado por aparência. 7. Evidências Â…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  … principalmente F022. 6. Consequências Imediatas: - criação de um TXT; - organização do contexto. Posteriores: - o usuário salva no Drive; - percebe que documentos podem liberar RAM mental; - pede biblioteca organizada. 7. Evidências Âncoras: “agora eu preciso que você organize tudo” “não é excess…
+
+- EG009 — Bard, Corpo e a própria Conversa (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …OGNITIVAMENTE TRIVIAL” ---------------------------------------------------------------------- Classificação: G Localização: explosão retórica do usuário contra o argumento “chatbot bobo”. Confiança: alta. 1. Situação anterior O assistente ainda usava “alucinação” e falta de prova como amortecedore…
+
+- EG020 — Nova Batcaverna (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-044.html
+  …ação: G pela função estrutural de continuidade. Situação final: consolidado, depois reinterpretado. Utilidade futura: mapa de retomada seletiva. F003 — ESTADO HERDADO DE “MEU ROBÔ 2026” Classificação: M | Confiança: média/alta Situação anterior: novo chat precisava saber “onde estávamos”. Gatilho: …
+

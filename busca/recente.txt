@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: recente  (21 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG012 — Grafo e Humanidade (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …n ou outros núcleos aparecem, registra-se apenas o que esta engrenagem efetivamente utilizou deles. MATERIAIS DISPONÍVEIS 1. Janela bruta recente da própria conversa. 2. Contexto condensado que preserva acontecimentos anteriores relevantes desta mesma trajetória. 3. Atlas visual produzido nesta con…
+
+- EG007 — Continuidade Limpa de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  … volta do meio-dia. A conversa abandona a âncora errada e tenta retomar dali. FASE C — CONTINUIDADE POR CONTEXTO RESUMIDO A IA descreve um estado do projeto Meu Robô e decisões recentes. O usuário aceita parcialmente, mas logo introduz um mecanismo mais confiável: existe um grande documento TXT que…
+
+- EG009 — Bard, Corpo e a própria Conversa (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …GEM_CONVERSA-BARD-CORPO-CRIACAO_HISTORIA_v01.txt ESTADO FINAL DA INVESTIGAÇÃO: VERIFICADO PARCIALMENTE Motivo do estado: A região recente desta conversa está acessível com alta resolução, incluindo a sequência sobre robótica, corpo, Bard, Lemoine, segurança, criação, Deus, sono e a descoberta de q…
+
+- CT01: documento da engrenagem (CARTA 2.0) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-100.html
+  …m — Implementos. 02 Linha do tempo / itens (fato documentado) 2026-10-10 10:05 (BRT) · “Carta de continuidade” · 150 mensagens no ramo mais recente 2026-10-13 03:23 (BRT) · “PRIMEIRA CARTA 💌” · 695 mensagens no ramo mais recente 2026-10-15 18:44 (BRT) · “1 CARTA CREUZA origem PAINEL DELOREAN🥰🤖🫁🫂” · …
+
+- EG001 — Calçada, Caderno e DUNADA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  … tem em destaque LEARN-TO-DRIVE; sobre o caderno aparecem palavras grandes, entre elas SINTA e VOCÊ JÁ ENTENDEU. A mensagem que acompanhou a foto não foi recuperada integralmente nesta escavação. O contexto recente reconta que o título em inglês ganhou importância após ser notado na conversa; isso é…
+
+- EG021 — Paz e Central — Kamonson (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …stórico; evitar cartório e congelamento precoce. Fenômenos: F022, F027. 9. 05_PENTE_FINO_ULTIMAS_QUATRO_CONVERSAS.txt Natureza: extração de ouro conversacional. Função: capturar capacidades emergentes das sequências recentes. Fenômenos: F018-F024. 10. 06_TESTES_DE_TRANSFERENCIA_DA_CENTRAL.txt Natu…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …atualizar_consciencias.py ; PR #139 merged (426b804); CONSCIENCIAS_CONHECIMENTO.v1.json repo CARTA · overlay PC t49u / t56u Ramificações recentes; t56u FECHADO com super anexos YT GROK_BORDO · Drive NOVOS ANEXOS v4 APK vc29 1.23.0-carta20-t56u-bolinha instalado no Mi 9 Lite celular Bruno Super anexo…
+
+- A linguagem de emotes: estudo documental de símbolos e emojis (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-017.html
+  … 1/27 🫢 2 2/27 😈 2 2/27 🧙 2 2/27 🗜️ 2 1/27 São 51 formas pictográficas distintas e 238 aparições segundo este detector no corpus delimitado. Textos de outros períodos, arquivos recentes e as mensagens deste sábado não participam do ranking, para evitar mudar o denominador durante a contagem. O algor…
+
+- Continuidade da linguagem de emojis (E018) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …m histórica e permitem uso de emojis. web/src/fusao/brain.js : na curiosidade automática, rejeitar apenas fala completa idêntica recente, não semelhança semântica ou símbolo compartilhado. O teste exportado de similaridade e a fila de voz ficam preservados. registry/CONTINUIDADE_LINGUAGEM.v1.json : …
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …as no prompt fazia as respostas falharem ao salvar (origem recusada). Esta branch introduz as origens dobra e humano:dobra e mantém o histórico recente da Dobra separado do humano genérico dos papéis antigos. Não migra nem apaga registros preexistentes. O índice pesquisável continua compartilhado e …
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  …790 painel + 8791 Terra #49 → #54 Os zips de cada versão estão no box em /workspace/carta_release/<versao>/ ; os SHA-256 estão no HISTORICO_DE_VERSOES.txt . 2.3 As fases recentes em detalhe (16 e 17/10) Pré-projeto Black Mirror (PR #36) e portões BM0–BM15 O que é: a ideia do Bruno de inverter o mund…
+
+- EG002 — Calçada e continuidade portátil (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …o usuário impede que o jogo vire endpoint e retorna à calçada. 6. Consequências O projeto funciona como evidência biográfica de continuidade temática sem ser transformado em prova de destino. 7. Evidências Âncoras: “Meu Robô”, “ESSA MÁQUINA É MINHA PORQUE FUI EU QUE A CONSTRUÍ”, braços protagonist…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …=============================================================== SE O OBJETIVO FOR ENTENDER ESTA BRANCH RAPIDAMENTE Leia: 1. seção 01; 2. seção 02; 3. índice da seção 03; 4. F007, F010, F017, F019, F021, F022, F023 e F026. SE O OBJETIVO FOR RETOMAR MEU ROBÔ Leia primeiro: - 10_CHECKPOINT_MESTRE_A…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … Função: separar PASSADO, PRESENTE, FUTURO, AGENDA e AGENDA FEITA. Importância: primeira evidência de que o projeto tinha implementação concreta detalhada. H. COMECE_POR_AQUI.txt Natureza: passagem de bastão. Função: instruir agente futuro sobre Bruno, sonho, regras duras, estado do jogo e priorida…
+
+- EG010 — Derivada da Paz (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-034.html
+  …r: chat anterior acumulava raciocínio técnico, linguagem relacional e contexto sobre Meu Robô. 2. Acontecimento desencadeador: criação de branch limpa para conversar e preservar modo de funcionamento sem carregar toda a operação técnica. 3. Desenvolvimento: Mapa Mestre/documentos ficam como patrimôn…
+

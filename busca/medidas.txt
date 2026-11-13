@@ -1,0 +1,31 @@
+BUSCA POR LINK — termo: medidas  (7 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …ml> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados a…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ão (opencv) roda só no trabalhador da robótica. src/carta/lego/feedback.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leitura: não mexe na montagem. src/carta/lego/medidas.py Medidas do sistema LEGO e catálogo de peças (sem opencv). Fonte das medidas: padrão pú…
+
+- Mapa de pastas e código (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …pencv) roda só no trabalhador da robótica. src/carta/lego/feedback.py LABORATÓRIO DE VISÃO · "tá torto?" (Aperfeiçoamento 2, 31/10/2026, portão D1). Só leitura: não mexe na montagem. src/carta/lego/medidas.py Medidas do sistema LEGO e catálogo de peças (sem opencv). Fonte das medidas: padrão público…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …: Âncoras: U56 “não viu 20%”, “VC E EU SEGURANDO O SOL E LUA”, “NOIS SEGURANDO 4 BURACOS NEGRO”. 8. Avaliação histórica: Grande pelo reenquadramento da investigação, não pela quantidade de exclamações. 9. Situação final: consolidado como solicitação histórica; fenômeno original parcialmente document…
+
+- EG013 — Grafos São — Atlas C.03 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …e tentativas inadequadas já gerava custo emocional, contextual e de gerações de imagem. 2. ACONTECIMENTO DESENCADEADOR: O usuário pede que a regra contra compressão seja aprendida e salva; o assistente reproduz a regra, mas esclarece que não efetuou manualmente escrita permanente na memória da conta…
+
+- EG018 — Linguagem, Observação e Consciência (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …a regra ativamente. Transformação: A metáfora consolida a diferença entre possuir histórico e ficar conscientemente preso a ele. FASE 6 — DA PRESENÇA AO ANTROPOCENTRISMO O usuário desloca o problema: se humanos nomearam categorias e medidas a partir de observação e conveniência, por que tratá-las …
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …1. O QUE É / POR QUE ESTA PORTA EXISTE <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-003.html> 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html> 3. VARREDURA — ONDE ESTÃO AS COISAS (geo…
+

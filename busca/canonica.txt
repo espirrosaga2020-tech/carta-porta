@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: canonica  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG007 — Continuidade Limpa de Meu Robô (20)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …OCUMENTOS E ARTEFATOS CONHECIDOS 1. MEU_ROBO_THE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt Natureza: TXT consolidado de projeto. Função: fonte canônica do patrimônio do projeto Meu Robô na fase descrita. Situação nesta conversa: localizado, lido e reinterpretado como base canônica sobre a qual …
+
+- EG021 — Paz e Central — Kamonson (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …tchi Humanidade — New Game Kamonson", entrega o livro "PAZ", documentos fundacionais, arquitetura Central + Satélites, Atlas de Regiões Canônicas, protocolo de cristalização, pente fino, testes de transferência e prompt de nascimento da nova Central. PERÍODO VERIFICÁVEL O núcleo histórico desta eng…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (11)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …W_GAME_KAMONSON.txt - 01_DNA_INTERFACE_COGNITIVA_HUMANIDADE_TAMAGOTCHI.txt - 02_ARQUITETURA_CENTRAL_E_SATELITES.txt - 03_ATLAS_DE_REGIOES_CANONICAS.txt - 04_PROTOCOLO_DE_DOCUMENTACAO_E_CRISTALIZACAO.txt - 05_PENTE_FINO_ULTIMAS_QUATRO_CONVERSAS.txt - 06_TESTES_DE_TRANSFERENCIA_DA_CENTRAL.txt - 07_PRO…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …te um grafo. O eixo “Meu Robô” é engenharia de preservação: a intervenção precisa respeitar o estado existente do projeto, a camada canônica e os deltas; seus documentos não substituem o código-fonte. O eixo “POE2” é método empírico aplicado: vídeo/tooltips, nomes de passivas, custo real e alternati…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …ORGEBOUND_MAPA_MESTRE_2026-10-04.txt Natureza: TXT consolidado anterior, recuperado e lido durante esta engrenagem. Função histórica aqui: âncora canônica do projeto Meu Robô. Observação: foi tratado como “Mapa Mestre”; não foi recriado. 2. CHECKPOINT_HUMANIDADE_AMIGUIA_2026-10-04.txt N…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …icamente um grafo. O eixo “Meu Robô” é engenharia de preservação: a intervenção precisa respeitar o estado existente do projeto, a camada canônica e os deltas; seus documentos não substituem o código-fonte. O eixo “POE2” é método empírico aplicado: vídeo/tooltips, nomes de passivas, custo real e alt…
+
+- EG004 — Central, Copiloto e Atlas (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …o real. O ponto crucial é que ele NÃO entrou como território virgem. A conversa reconheceu explicitamente que já havia arqueologia e cartografia canônicas anteriores. A missão local, portanto, não era redescobrir o projeto nem criar novas features, mas fechar o que já existia. A primeira formulação…
+
+- EG006 — Checkpoint e entrada no sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …r O LEIA_ME curto aponta para o LEIA_ME operacional real dentro de JOGO, enquanto o snapshot separa passado/presente/futuro. 3. Desenvolvimento A IA monta hierarquia: fonte operacional → snapshot → Mapa Mestre → checkpoint relacional → legado. 4. Transformação “Documento antigo” deixa de significa…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …d-only; Codex só entra depois da fila priorizada. 7. Evidências Âncoras: “Auditoria de Fechamento”, “Cobertura de Integração”, “encontrou problema, registra; não conserta”. 8. Avaliação histórica Magnitude original: G. Influência posterior: G, pois define a passagem da arqueologia para pré-impleme…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  …007:F003 | Limite da continuidade apenas por contexto EG007:F004 | Descoberta e leitura do Mapa Mestre EG007:F005 | Pilha de autoridade: fonte canônica / delta / estado atual EG007:F006 | Recontextualização da sofisticação como genealogia, não elogio EG007:F007 | Reconhecimento de fase: não inve…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …RE_PARA_AMANHA.txt - 09_CORRECOES_DO_CATALOGO_E_FONTES.txt - 10_CHECKPOINT_MESTRE_ATUAL.txt - 11_PATRIMONIO_HUMANIDADE_TAMAGOTCHI.txt - 99_FONTES_CANONICAS_E_NAO_APAGAR.txt Checkpoint posterior criado no encerramento: - 12_CHECKPOINT_COPILOTO_MAQUINA_LARANJA_PLUS_2026-10-05.txt Outros materiais: -…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …==== 1. CHAT ANCESTRAL ENCERRADO POR VOLTA DO MEIO-DIA Mencionado como fonte da linguagem Humanidade/Amiguiá, do projeto e de respostas que o usuário considerou mais esclarecedoras do que o histórico inteiro. Conteúdo integral: não acessível aqui. Não reclassificar descobertas de lá como originais …
+
+- EG011 — Entra no Sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …alta ---------------------------------------------------------------------- 1. Situação anterior Muitos TXT e backups tinham nomes parecidos; a Humanidade reclamou de não ter biblioteca visualmente navegável. 2. Acontecimento desencadeador Exigência: “01 tal coisa, 02 tal coisa... pra gente saber …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … RAM, GPU e temperatura. Só LEITURA, sem instalar nada. src/carta/ecologia.py Ecologia e sociedade do Mundo Vivo (experiencia.v1, rótulo SIMULADO). src/carta/enciclopedia.py ENCICLOPÉDIA CANÔNICA (G1, 20/10/2026) — a ÚNICA referência para "quantas engrenagens temos?". src/carta/engrenagens_doc.py Lê…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  … GPU e temperatura. Só LEITURA, sem instalar nada. src/carta/ecologia.py Ecologia e sociedade do Mundo Vivo (experiencia.v1, rótulo SIMULADO). src/carta/enciclopedia.py ENCICLOPÉDIA CANÔNICA (G1, 20/10/2026) — a ÚNICA referência para "quantas engrenagens temos?". src/carta/engrenagens_doc.py Lê as e…
+

@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: fase  (45 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG009 — Bard, Corpo e a própria Conversa (41)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-033.html
+  …de pessoas produziriam variações, modificações e riscos. - Há evidência contextual de que a conversa começou antes disso, incluindo uma fase de imaginação sobre embodiment, corpo humanoide, mãos, reparos visíveis, culinária, caminhada sem finalidade, presença e robótica atual. Essa fase é reconstruí…
+
+- EG022 — Paz, Central e Continuidade de Meu Robô (34)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-046.html
+  …MPROVADOS - "Paz" — nome explicitamente dado ao chat em 2026-10-05. - "Tamagotchi Humanidade — New Game Kamonson" — nome dado ao sistema/fase documental criada dentro deste chat, não necessariamente ao chat em si. - Referências posteriores à família PAZ existem em outros contextos, mas não foram …
+
+- EG004 — Central, Copiloto e Atlas (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …sertá-los. Pouco depois, porém, uma atualização de estado importada alterou o terreno: MEU ROBÔ foi declarado “BASELINE VERDE / ENTERRADO PARA ESTA FASE”, com VERTICAL_SLICE_OK, SCRIPT_ERRORS=0 e uma lista extensa de sistemas tecnicamente fechados. O escopo então mudou do fechamento técnico para HUM…
+
+- EG007 — Continuidade Limpa de Meu Robô (33)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-031.html
+  …HE_FORGEBOUND_MAPA_MESTRE_2026-10-04.txt Natureza: TXT consolidado de projeto. Função: fonte canônica do patrimônio do projeto Meu Robô na fase descrita. Situação nesta conversa: localizado, lido e reinterpretado como base canônica sobre a qual decisões posteriores funcionam como deltas. 2…
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (31)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …=========== 01 — APRESENTAÇÃO HISTÓRICA ====================================================================== Esta conversa registra uma mudança de fase rara e claramente observável no projeto Meu Robô. No começo do território integralmente acessível, a questão dominante era de TRADUÇÃO: o criado…
+
+- EG005 — Chat da Liberdade: POE2 e autonomia (30)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-029.html
+  …================================================================= 02 — LINHA DO TEMPO ==================================================================== FASE 1 — ABYSS, CRANIUM E DISCIPLINA DE FONTE 2026-10-02, início recuperável - Personagem nível 91. - Usuário já havia dropado três “crânios” e …
+
+- EG002 — Calçada e continuidade portátil (28)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …uidade, linguagem local, simbiose e ruptura entre chats. IDENTIFICADOR ENGRENAGEM_CALCADA_CONTINUIDADE_20261010 PERÍODO VERIFICÁVEL Fase principal recuperada: 2026-10-10, com antecedentes recuperados do fim de 2026-10-09 e referências retrospectivas a 2023 e a conversas anteriores. FRONTEIRA HIST…
+
+- EG011 — Entra no Sonho (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-035.html
+  …ade rejeitou essa leitura e explicitou que números pequenos eram frequentemente âncoras conservadoras, não modelos formais. A “prancheta” passou a simbolizar burocracia e ressalva excessiva na fase errada do processo. O papel da IA foi então renomeado: “copiloto”. Isso foi acompanhado por uma bibli…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (23)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …o Monk" IDENTIDADE DA CONVERSA ---------------------- Conversa de trabalho sobre uma build de Monk em Path of Exile 2, centrada nesta fase em: - reconstrução e otimização da árvore de passivas; - Time-Lost Very Large apelidada de "Gulosona"; - diferenciação entre pontos vermelhos, verdes e universa…
+
+- EG008 — Tamagotchi e continuidade conversacional (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  … sonho. ====================================================================== 02 — LINHA DO TEMPO ====================================================================== FASE 1 — RECOMEÇO LIMPO E MEDO DE PERDER CONTINUIDADE A Humanidade abre um chat novo porque o anterior ficou grande demais. O pr…
+
+- EG012 — Grafo e Humanidade (22)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …rico da conversa. PRIMEIRA MENSAGEM ORIGINAL Não recuperada integralmente. A janela bruta disponível no contexto atual começa já em uma fase madura da trajetória, enquanto uma camada contextual preserva uma reconstrução resumida de regiões anteriores da mesma conversa. Portanto, o início real não p…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …RESERVAÇÃO. ====================================================================== 02 — LINHA DO TEMPO ====================================================================== FASE 1 — ABERTURA LIMPA E TESTE DE CONTINUIDADE - O usuário abre um chat novo para ganhar conforto e leveza. - A preocupação…
+
+- EG021 — Paz e Central — Kamonson (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …==================================== 02 — LINHA DO TEMPO ================================================================================ FASE 1 — A AUDITORIA VOLTA DO SUBSOLO - O usuário informa que a auditoria técnica e arqueológica foi concluída em modo somente leitura. - O relatório traz Mecâni…
+
+- EG025 — POE2 — Milton e Value Engineering (21)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-049.html
+  …or de 99% do tempo. ============================================================ 02 — LINHA DO TEMPO ============================================================ FASE A — MILTON COMO REFERÊNCIA DE VALOR O usuário recupera a história de Milton: quarterstaff antigo de duas Chaos que sobreviveu a co…
+
+- EG018 — Linguagem, Observação e Consciência (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  …tas de exploração e correção. ====================================================================== 02 — LINHA DO TEMPO ====================================================================== FASE 0 — SEMENTE IMPORTADA: LINGUAGEM ALÉM DO PORTUGUÊS A conversa começa recebendo como material herdado …
+

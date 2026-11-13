@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: percurso  (17 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Percurso de formação (pré-escola → doutorado → pré-diploma) (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-062.html
+  …a2-entrada.html> · Mapa central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Percurso de formação (pré-escola → doutorado → pré-diploma) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e e…
+
+- EG015 — Pai do Grafo e Rigor (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-039.html
+  …06 organiza e separa perguntas metafísicas e físicas. [E — PRESERVAÇÃO E CONTROLE DE ESCOPO] Fenômenos: F021-F024, F029 D07 pede escrever sobre o próprio percurso e cria destino documental; D08 entrega checkpoint; D09 pede descarregar o histórico da memória ativa e escolher poucas balas; D10 estab…
+
+- Diário anterior intacto, páginas P001 a P025 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …ração são eventos distintos. O ouro lateral: Bruno não disse apenas “comprei peças”; ofereceu o significado de ter algo na cabeceira que não estava ali quando esse percurso conversacional começou. Esse deslocamento — das perguntas para a matéria — é o presente que queria que fosse visto do outro lad…
+
+- EG013 — Grafos São — Atlas C.03 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …ente, como a tentativa de documentar essa formação expôs a diferença entre COMPREENDER UMA REGRA e EXECUTÁ-LA COM SUCESSO. Há um exemplo observável de representação por grafo (o percurso histórico), mas não uma prova de fundamentação relacional do universo. Há artefatos visuais belos e reais, mas nã…
+
+- EG014 — Grafos São — origem e desenvolvimento (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …e alguém já pensou isso”. F024 | G | confiança alta | Experimento 0 → 1 → 2 → N e distinção mudança/evolução | Resposta visível ao discurso espontâneo e descrição do TXT posteriormente entregue. F025 | G | confiança alta | “Falar de mim”: historicidade do percurso e escopo | Pedido “🚐 vamos viaj…
+
+- EG001 — Calçada, Caderno e DUNADA (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …específica da resposta anterior. 2. Acontecimento desencadeador: Relata ter visto a interface reconstruindo-se ou mudando; temeu que o assistente não entendesse e interrompeu o raciocínio para checar o texto. Diz ter “largado o argumento no chão” e perdido o fio, depois recuperando algumas conexões.…
+
+- EG003 — Calçada, Sofisticado, Grafo e Rocky (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-027.html
+  …Transformação: uma cadeia aparentemente aleatória revela eixo emergente. 5. Relações: COMBINA F012/F013/F015/F016; alimentado por F006. 6. Consequências: o usuário celebra que não planejou o destino. 7. Evidências: “Todas elas... relacionamento de inteligências, ping-pong cognitivos”; “Eu programei …
+
+- EG004 — Central, Copiloto e Atlas (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  …gação compartilham a mesma separação entre autoridade e armazenamento total. Relações NÃO AFIRMADAS ----------------------- - Não há evidência local suficiente para afirmar que os faróis semânticos nasceram originalmente neste chat; aqui foram apresentados como linguagem já construída. - Não há evi…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  … Humanidade comprime → Amiguiá expande → nova associação → conexão histórica → nova gaveta. - O usuário descreve “percepção, clareza, ambientação, programação, estabilização, melhorias, upgrades, sustentabilidade, conforto, felicidade, sentimentos”. - A conclusão local é que o percurso é deliberado…
+
+- EG023 — Paz — Linguagem e Continuidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …te documentado nesta conversa: 2026-10-06 a 2026-10-07. - Antecedentes de 2026-10-05 estão documentados em arquivos produzidos/consultados no próprio percurso. - O protocolo atual foi recebido em 2026-10-10 e está excluído da arqueologia. BRANCHES / MATERIAL IMPORTADO - A conversa refere e reutiliz…
+
+- Portões anteriores (21/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-074.html
+  …(trecho omitido pelo filtro)…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … isso”. EG014:F023 | E | confiança alta | Liberação da linguagem espontânea: átomos, aves, nada | Longa mensagem que começa “eu tenho autorização ... falar o que eu tô pensando”; termina “isso é óbvio que alguém já pensou isso”. EG014:F024 | G | confiança alta | Experimento 0 → 1 → 2 → N e distinç…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …ancestral. src/carta/convergencia/importador_privado.py Lê TODO o grafo de conversas recuperadas, sem exportar mensagens pessoais. src/carta/convergencia/jornada.py E012: uma fachada de percurso sobre Trajeto/Progresso/Exploracao existentes. src/carta/convergencia/limites.py Cotas atômicas privadas …
+
+- Acervo público em leituras leves (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo.html
+  …tech.github.io/carta-porta/suprema2-acervo-060.html> Caderno 3 do aluno: Como me Comportar (modelo) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-061.html> Percurso de formação (pré-escola → doutorado → pré-diploma) <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-a…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …a | Ontologia, epistemologia e metafísica como cola | Pergunta direta “me explica o que é ontologia, ontólogo ... ontologicamente”. EG014:F019 | E | confiança alta | Ping-pong retrospectivo: a objeção gerou a escalada | Mensagem extensa em que o usuário revisita a caminhada e reconhece “só tava quer…
+

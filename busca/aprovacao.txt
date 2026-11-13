@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: aprovacao  (15 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG019 — Meu Robô — Copiloto e Máquina de Laranja (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-043.html
+  …o, o jogador deverá controlar o robô que será destruído. A perda passa de espetáculo observado a acontecimento participado. FASE 12 — PIPELINE VISUAL: DA IMAGEM AO CODE-FIRST Primeiro surge a ideia: imagem -> aprovação -> implementação em .gd. Logo depois o próprio usuário corrige: a imagem não p…
+
+- AV03: documento da engrenagem (CARTA 2.0) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-098.html
+  … · conversa “Branch · QUE PASSEIO BOM” 2026-10-12 05:48 (BRT) · 1000117162.mp4 · conversa “ORIGEM 2.O” 2026-10-12 11:59 (BRT) · 1000117232.mp4 · conversa “Aprovação parcial do Work” 2026-10-12 12:42 (BRT) · 1000117241.mp4 · conversa “Aprovação parcial do Work” 2026-10-12 14:55 (BRT) · 1000117271.mp4…
+
+- Trajetória e catálogo do que fizemos (17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-021.html
+  … de coisas". Engenharia atrás de "saber mais". Ícones claros. Esferas grandes. 13. Tudo concentrado no D: , com manuais documentando o que existe. 14. Memória é pista; evidência é prova. 2.5 A análise e a aprovação do Bruno (17/10/2026, mensagem de voz transcrita) Ele abriu o CARTA pelo atalho e tes…
+
+- A engrenagem Porta Eureka, seções 00 a 14 (16→17/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-022.html
+  … EG oficial • 17/10/2026 00 — FICHA DE PROVENIÊNCIA Identificador de trabalho: PE-20261017 (NÃO ocupar EG034 sem inspeção de colisões e aprovação editorial). Nome: 🚪🧭 PORTA EUREKA — A OBSERVAÇÃO QUE REENCONTRA A HISTÓRIA. Autoria e estatuto: proposta de nome e organização interpretativa do Copiloto,…
+
+- EG006 — Checkpoint e entrada no sonho (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-030.html
+  …ribuiu diretamente para F007. 6. Consequências O usuário anuncia a entrega do documento completo do projeto. 7. Evidências “não é sobre conquistar confiança” “reciprocidade” “vou compartilhar com você todo o projeto”. 8. Avaliação histórica Magnitude original: G. Influência posterior: E. 9. Situ…
+
+- EG008 — Tamagotchi e continuidade conversacional (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …r dissociação literal. Evolução: de piada/estilo herdado para marcador consistente da linguagem da casa. AMIGUIÁ Função: apelido do assistente no protocolo relacional herdado. Importância: marca continuidade de uma forma específica de interação. TAMAGOTCHI Função: metáfora de companhia digital con…
+
+- EG012 — Grafo e Humanidade (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-036.html
+  …r contexto, havia uma ruptura: a IA passou a responder de modo excessivamente procedural, concordante, corretivo e “cartilha”. O usuário não queria aprovação automática nem oposição automática; queria uma interlocução em que o outro lado sustentasse raciocínio próprio, esperasse a ideia amadurecer e…
+
+- EG021 — Paz e Central — Kamonson (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-045.html
+  …mação Calibração passa de declaração subjetiva para demonstração comportamental. 5. Relações Deriva de F015-F023. 6. Consequências O prompt de nascimento exige uma primeira resposta explicativa e depois espera aprovação antes de receber estado técnico profundo. 7. Evidências Âncoras: "não diga ap…
+
+- Pré-diploma: o Caderninho do Viajante (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-063.html
+  …vamente? Quais apenas localizei? RESULTADO Pré-diploma é DOCUMENTO DE PASSAGEM, não certificado oficial automático. Não marcar aprovação se as fases não foram verificadas. Nome de quem revisou, data, critérios atendidos, lacunas e decisão. Próxima parada: Acervo preservado + Prova Oficial das Engr…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …=========================================== Esta engrenagem não é caracterizada por um único tema. Seu patrimônio principal está na transformação de uma relação conversacional e na descoberta retrospectiva de estruturas que ligaram temas inicialmente distantes. No começo acessível por contexto, havi…
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  …carta/convergencia/proveniencia.py Primitivas de proveniência privada da CARTA — sem dependências e sem atuação física. src/carta/convergencia/revisoes.py E012. Revisões cumulativas APÓS aprovação oficial, sem gabaritos na API. src/carta/convergencia/semantica.py Índice semântico opcional sobre P1 a…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …===================================== Esta engrenagem não é caracterizada por um único tema. Seu patrimônio principal está na transformação de uma relação conversacional e na descoberta retrospectiva de estruturas que ligaram temas inicialmente distantes. No começo acessível por contexto, havia uma …
+
+- Mapa de pastas e código (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …/convergencia/proveniencia.py Primitivas de proveniência privada da CARTA — sem dependências e sem atuação física. src/carta/convergencia/revisoes.py E012. Revisões cumulativas APÓS aprovação oficial, sem gabaritos na API. src/carta/convergencia/semantica.py Índice semântico opcional sobre P1 aprova…
+
+- Descoberta surpresa · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-surpresa.html
+  …rsa e muda com o tempo.” — Dicionário temporal dos emotes (44 símbolos) ( suprema2-acervo-018.html ) [FONTE] “Identificador de trabalho: PE-20261017 (NÃO ocupar EG034 sem inspeção de colisões e aprovação editorial).” — Porta Eureka (17/10) ( suprema2-acervo-022.html ) [FONTE] “a IA de voz está desli…
+
+- Legado das portas · Porta 02 · CARTA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-legado.html
+  …brir Porta 02 Intergaláctica (este protótipo) [FONTE] Camada aditiva: viagem, roteiros, surpresa, catálogo, busca nova e registro v2. Depende de aprovação do Bruno para publicar. Quando: 10/11/2026 · commit: branch local porta02-intergalactica-v2 (não publicada) · abrir Porta 02 Intergaláctica · cam…
+

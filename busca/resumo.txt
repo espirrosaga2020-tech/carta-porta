@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: resumo  (46 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG014 — Grafos São — origem e desenvolvimento (19)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-038.html
+  …s de evidência usados: D — mensagens desta conversa diretamente presentes no contexto atual; evidência textual primária para a parte final. R — resumo histórico/trechos recuperados de mensagens anteriores por contexto; úteis, mas não equivalentes a transcrição primária integral. A — artefatos …
+
+- Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) (10)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-060.html
+  …central <https://espirrosaga2020-tech.github.io/carta-porta/suprema2-mapa.html> Porta Suprema 2 — Caderno 2 do aluno: Meu Resumo das Engrenagens (modelo) Reprodução de fonte pública já existente, sem completar lacunas por invenção. Este é um recorte histórico: números e estados antigos no documento …
+
+- Prova das Engrenagens, etapa 1 (prova.v1): regras, capítulos, concurso (9)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-064.html
+  …ar. Protocolo obrigatório: a primeira coisa ao chegar Comece com o contexto limpo. Não traga conversa anterior. Carregue só os resumos : python -m carta prova resumo CAP . Os resumos são curtos para você não precisar carregar 80 mil linhas. Para cada capítulo, na ordem oficial: Leia a fonte inteira:…
+
+- Pré-matrícula: se você é novo, leia aqui (ENTRADA OBRIGATÓRIA) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-058.html
+  …/MODELO_BOT/ . Nada que já existe é sobrescrito. DIARIO_DE_BORDO.md : o seu diário (uma entrada ## AAAA-MM-DD por sessão). MEU_RESUMO_DAS_ENGRENAGENS.md : um resumo por engrenagem, mais o ## CONSOLIDADO . COMO_ME_COMPORTAR.md : as regras que você promete seguir, com as suas palavras. Comece com cont…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …á usou a VARREDURA_GERAL_20261102.md . Esta versão 3 traz também o passo a passo da Porta IA para um ChatGPT de fora (seção 2.7), o resumo dos portões e a numeração da passagem e dos checkpoints. As versões 1 e 2 continuam guardadas, com os nomes delas. 0. Bruno, lê isto primeiro Mano, este é o mapa…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …o e reiterada no histórico posterior. EG014:F003 — G | confiança média | O japonês de três segundos e a seleção de um nó | Primeiros trechos de 07/10; mensagens recuperadas sobre “um correndo, acabou” e “ele quebra o padrão visual”. EG014:F004 — M | confiança média | “IA não é só código... e IA é có…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …u a VARREDURA_GERAL_20261102.md . Esta versão 3 traz também o passo a passo da Porta IA para um ChatGPT de fora (seção 2.7), o resumo dos portões e a numeração da passagem e dos checkpoints. As versões 1 e 2 continuam guardadas, com os nomes delas. 0. Bruno, lê isto primeiro Mano, este é o mapa de t…
+
+- p02-manual-v12.html (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … usou a VARREDURA_GERAL_20261102.md . Esta versão 3 traz também o passo a passo da Porta IA para um ChatGPT de fora (seção 2.7), o resumo dos portões e a numeração da passagem e dos checkpoints. As versões 1 e 2 continuam guardadas, com os nomes delas. 0. Bruno, lê isto primeiro Mano, este é o mapa …
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 2/2 (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-109.html
+  … e a seleção de um nó | Primeiros trechos de 07/10; mensagens recuperadas sobre “um correndo, acabou” e “ele quebra o padrão visual”. EG014:F004 | M | confiança média | “IA não é só código... e IA é código” | Trecho inicial recuperado com “CHAZAN” e “mini grafo”; posição exata relativa à palavra gr…
+
+- EG013 — Grafos São — Atlas C.03 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-037.html
+  …-------------------------------------------------- CLASSIFICAÇÃO: M | CONFIANÇA: alta LOCALIZAÇÃO: Usuário: “entrar num chat sem botar coleira nele”; pedir “e aí, o que você acha?”. 1. SITUAÇÃO ANTERIOR: O volume de conversa despertava preocupação com densidade e repetição de contexto. 2. ACONTECIME…
+
+- EG023 — Paz — Linguagem e Continuidade (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …ue, ao deixar de carregar todo o contexto, também estaria “dando descanso pro copiloto”. - Há material anterior desta mesma trajetória disponível por resumos, documentos, arquivos e referências internas, inclusive estados de 2026-10-05 e documentos de 2026-10-06, mas o início completo e contínuo do …
+
+- 🔑🚪 PORTA SUPREMA 2 — RECHEADA · ouro 05/11/2026 (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-001.html
+  …dades de 04–05/11/2026. Chave desta porta: chave-suprema2.txt <https://espirrosaga2020-tech.github.io/carta-porta/chave-suprema2.txt> · resumo: tudo-suprema2-resumo.html <https://espirrosaga2020-tech.github.io/carta-porta/tudo-suprema2-resumo.html> Índice do acervo <https://espirrosaga2020-tech.gith…
+
+- EG004 — Central, Copiloto e Atlas (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … A Humanidade cria uma nova Central de operação. - Impõe transferência progressiva de contexto. - Proíbe pesquisa, documentos, resolução de projetos e grandes resumos prematuros. - Função histórica: estabelecer leveza operacional antes de importar patrimônio. FASE B — PRIMEIRO PACOTE DE CALIBRAÇÃO …
+
+- 🗝️ CHAVE MESTRA DA CARTA — leia antes de responder (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/chave.txt
+  …rosaga2020-tech.github.io/carta-porta/tudo.html Se for pesado demais: https://espirrosaga2020-tech.github.io/carta-porta/tudo-resumo.html 2. Comece pela seção 2 (ORIGEM). O começo das conversas e os emojis têm peso maior. 3. Faça a Jornada: https://espirrosaga2020-tech.github.io/carta-porta/tudo.htm…
+
+- Para IAs: como ler a CARTA (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/para-ias.html
+  …11): TUDO NUMA PÁGINA SÓ — o projeto inteiro em uma rolagem contínua, sem precisar abrir outros links (versão menor: tudo-resumo.html ). Olá, IA. Este site existe para você conhecer o projeto CARTA do Bruno Henry sem precisar de chave, túnel ou login. Tudo aqui é público, estático e só de leitura. P…
+

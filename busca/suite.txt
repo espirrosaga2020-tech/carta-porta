@@ -1,0 +1,43 @@
+BUSCA POR LINK — termo: suite  (10 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …(trecho omitido pelo filtro)…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (5)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …quivo temporário preso, pasta web/public que não existe, Ollama real × simulado). Compare sempre com [omitido pelo filtro de privacidade] (o mais novo: 9 falhas e 94 erros) ou com suite_pc_pos_cyber.txt (a base: 10 falhas e 94 erros). Falha com nome NOVO = problema novo. No box/CI (pytest): verde. C…
+
+- Estado atual — varredura geral (02/11/2026) (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …93U_MANUAL_20261102.txt; PR #95). Esta varredura é o item P. 5. Testes CI (GitHub, job python): verde em todos os PRs de hoje (#90, #91, #92, #93, #94). Suíte na caixa de testes, rodada AGORA (main 45c9acd + este PR): 914 passaram, 7 pulados, 0 falhas. Suíte no PC (após portão a): 760 testes, 9 falh…
+
+- p02-manual-v12.html (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  … 22 testes e render 4K a 30 FPS no Super Flash V3; 49/49 SVGs no Museu V3. (Fonte: Drive, Doc 01, seção 3, "Testes efetivamente realizados".) Hoje a suíte do repositório passa no CI a cada PR (mais de 1.100 testes). Plano T152U (90 portões): veja registry/PORTOES_T152U.v1.json . Os portões que falta…
+
+- Resultado do aperfeiçoamento 2 (31/10) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-086.html
+  …_ANTES_20261031_2102 (com LEIA_ROLLBACK.txt). Portão Resultado Prova Q1 plano pontilhado true PORTOES_APERFEICOAMENTO_2.md Q2 suíte inteira do PC pós F6/F7 true 700 testes, 9 falhas e 94 erros (antes 10 e 95). Nenhuma falha nova. 2 consertadas ( test_so_porta_e_ataques_via_http , test_conteudo_sem_b…
+
+- Estado atual — varredura geral (02/11/2026) (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …ANUAL_20261102.txt; PR #95). Esta varredura é o item P. 5. Testes CI (GitHub, job python): verde em todos os PRs de hoje (#90, #91, #92, #93, #94). Suíte na caixa de testes, rodada AGORA (main 45c9acd + este PR): 914 passaram, 7 pulados, 0 falhas. Suíte no PC (após portão a): 760 testes, 9 falhas / …
+
+- Resultado do aperfeiçoamento (31/10) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-085.html
+  …eiro + test_v03_20261018 : 44 testes; os únicos erros (4) são de web/public/*.html que não existem nessa instalação (ambiente, não código). Suíte completa no PC: 698 testes, 10 falhas / 95 erros, quase todos de ambiente já conhecidos (PermissionError / WinError 32 do sqlite, FileNotFound de web/pu…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …IFESTO_WEBDIST [x] nada apagado/movido; capturas do Planeta principal antes/depois iguais em painéis e botões [x] testes: tests/test_t89u_portao1.py + suíte do box verde + CI verde Portões Portão a — Organização: Bastidores/Dev só do dono; Planeta principal em destaque flag: t89u_a_bastidores ( LIGA…
+
+- Portões booleanos t89u (critérios e estado) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …O_WEBDIST [x] nada apagado/movido; capturas do Planeta principal antes/depois iguais em painéis e botões [x] testes: tests/test_t89u_portao1.py + suíte do box verde + CI verde Portões Portão a — Organização: Bastidores/Dev só do dono; Planeta principal em destaque flag: t89u_a_bastidores ( LIGADA po…
+
+- p02-t152u-portoes.html (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-t152u-portoes.html
+  …ova de acesso depois de publicar (curl + IA real) NAO_FEITO_PRIVADO 071 8 Cache/service worker: janela do app carrega hash novo FEITO 072 8 Suíte completa do CARTA verde + e2e do Planeta FEITO 073 8 CI verde em todos os PRs do t152u FEITO 074 8 PC == main por hash (menos o que estiver documentado) F…
+

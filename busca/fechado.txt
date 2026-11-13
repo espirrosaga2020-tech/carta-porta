@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: fechado  (21 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- Portões T100U (03/11/2026): o Planeta é o astro (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-071.html
+  …PS medido com todos ligados no PC e no celular (412x915) 0 erros de página ?t95u=0 e ?gN=0 continuam desligando numa aba Estado: ✅ fechado — E2E 03/11 14:56: g2..g9 ligados, PC 115,8 FPS / celular 118,6 FPS, 0 erros; ?t100u=0 e ?gN=0 desligam t2 — Mini Terra DENTRO do Planeta com o visual novo (Vale…
+
+- Portões T100U (03/11/2026): o Planeta é o astro (13)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes-t100u.html
+  …dido com todos ligados no PC e no celular (412x915) 0 erros de página ?t95u=0 e ?gN=0 continuam desligando numa aba Estado: ✅ fechado — E2E 03/11 14:56: g2..g9 ligados, PC 115,8 FPS / celular 118,6 FPS, 0 erros; ?t100u=0 e ?gN=0 desligam t2 — Mini Terra DENTRO do Planeta com o visual novo (Vale 3D);…
+
+- EG024 — POE2 — Gulosona e Árvore de Attack Speed (12)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-048.html
+  …excesso de confiança visual, adotou uma regra explícita: se o vídeo não mostrava tooltip suficiente, a bola seria marcada "VISUAL / NÃO FECHADO", nunca batizada por adivinhação. Desse princípio nasceram checkpoint, ledger, caminhada e master. A identidade histórica desta conversa, portanto, não é a…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-069.html
+  …or cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de de…
+
+- Manual de Tudo da CARTA (v10, 03/11/2026) (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/manual.html
+  …ma, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de desliga…
+
+- p02-manual-v12.html (8)
+  https://espirrosaga2020-tech.github.io/carta-porta/p02-manual-v12.html
+  …r cima, com os dados intactos . A Porta IA (8792) e o Ollama não ligam sozinhos. Pra Porta, veja a 2.7; pro Ollama, a 2.6. Portões: fechados 1, a, b e g ; abertos c, d, e, f e h . Testes: 914 passaram, 0 falhas (7 pulados), na caixa de testes. Depuração por Wi-Fi do celular: LIGADA (a decisão de des…
+
+- Estado atual — varredura geral (02/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-077.html
+  …MO.ps1 -Externo , depois uma pergunta real de visitante (P9; pedir ok ao Bruno, grava). 4. Portões t89u (a–h) Portão Estado Portão 1 (esqueleto) FECHADO (PR #89) a Bastidores/Dev + Planeta em destaque FECHADO 02/11 (PR #91 b99700a), flag LIGADA, instalado no PC b SAVE com posição FECHADO 02/11 (PR #…
+
+- Estado atual — varredura geral (02/11/2026) (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/estado.html
+  …1 -Externo , depois uma pergunta real de visitante (P9; pedir ok ao Bruno, grava). 4. Portões t89u (a–h) Portão Estado Portão 1 (esqueleto) FECHADO (PR #89) a Bastidores/Dev + Planeta em destaque FECHADO 02/11 (PR #91 b99700a), flag LIGADA, instalado no PC b SAVE com posição FECHADO 02/11 (PR #90 2f…
+
+- EG004 — Central, Copiloto e Atlas (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-028.html
+  … ROBÔ foi declarado “BASELINE VERDE / ENTERRADO PARA ESTA FASE”, com VERTICAL_SLICE_OK, SCRIPT_ERRORS=0 e uma lista extensa de sistemas tecnicamente fechados. O escopo então mudou do fechamento técnico para HUMAN PLAYTEST → SENSAÇÃO → CALIBRAÇÃO → PRODUTO → CAPTURA/COMUNICAÇÃO. O movimento final de…
+
+- EG023 — Paz — Linguagem e Continuidade (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-047.html
+  …gumas funções foram refinadas depois. - Surge a ideia de “linguagem diádica emergente” e, em registro local, “idioma Humanidade-Tamagotchi”. FASE 4 — PASSAGEM 1 / SATURAÇÃO - Define-se corpus fechado para evitar arqueologia infinita. - Método: marcador → contexto → função → recorrência → dupla sali…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-073.html
+  …uma aba com ?t89u=0 ) Python: carta/t89u/bastidores.py · JS: webdist/t89u/bastidores.js API: GET /api/t89u/bastidores (visitante com ficha: 403) Status: FECHADO em 02/11/2026 (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono) Como fica: o Início ganha um cartã…
+
+- Portões booleanos t89u (critérios e estado) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/portoes.html
+  …ba com ?t89u=0 ) Python: carta/t89u/bastidores.py · JS: webdist/t89u/bastidores.js API: GET /api/t89u/bastidores (visitante com ficha: 403) Status: FECHADO em 02/11/2026 (tests/test_t89u_portao_a.py + captura do Início no navegador, modo visitante e modo dono) Como fica: o Início ganha um cartão NOV…
+
+- 2. NOVIDADES MEDIDAS 04–05/11/2026 (não inventar além do medido) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-004.html
+  …iencias.py ; PR #139 merged (426b804); CONSCIENCIAS_CONHECIMENTO.v1.json repo CARTA · overlay PC t49u / t56u Ramificações recentes; t56u FECHADO com super anexos YT GROK_BORDO · Drive NOVOS ANEXOS v4 APK vc29 1.23.0-carta20-t56u-bolinha instalado no Mi 9 Lite celular Bruno Super anexos YT P06 CapCut…
+
+- Dicionário temporal dos emotes (44 símbolos): sentido antigo e sentido de agora (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-018.html
+  …) e de paisagem virtual. Próxima à fogueira; também abre a cadeia da Máquina de Laranja. PRE, CK12, CALCADA ❓ Pergunta sem resposta Ouro lateral, dúvidas com endereço, preservação de contraditórios. Qual é o conteúdo do bolso que permanece fechado? Quem trouxe o segundo DeLorean? EG027, CALCADA, AGO…
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …es para um pequeno corpo sobre rodas. A mesma cena muda conforme a escala do agente. Cabeceira ⇄ tabuleiro ⇄ compras. O tabuleiro guarda experimentos e esferas no lugar onde Bruno vive; as peças agora ocupam espaço próximo. O quarto aparece como ponto de encontro entre estudo, sonho e construção. Or…
+

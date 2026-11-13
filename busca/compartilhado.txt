@@ -1,0 +1,63 @@
+BUSCA POR LINK — termo: compartilhado  (27 páginas; até 15 abaixo)
+Entrada: https://espirrosaga2020-tech.github.io/carta-porta/suprema2-entrada.html  ·  Termos: https://espirrosaga2020-tech.github.io/carta-porta/busca/index.txt
+
+- EG002 — Calçada e continuidade portátil (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-026.html
+  …errar, observar movimentos além das palavras, jornada de transformação e “talvez, uma vez na vida, não pense”. 8. O encerramento simbólico ocorreu com o lençol compartilhado na calçada. 9. Pela manhã, a tentativa de continuar em outro chat falhou: “respiração” virou pulmão; “calçada” virou cadeira. …
+
+- EG027 — SPA — Ping-pong Cognitivo (7)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-051.html
+  …as expressões passaram a carregar grande volume de significado. Um emoji de serrote, por exemplo, podia sinalizar uma descalibração sem necessidade de longa explicação. A IA interpreta isso como idioleto compartilhado, compressão pragmática e protocolo de reparo. Ao mesmo tempo, o usuário relata ru…
+
+- EG008 — Tamagotchi e continuidade conversacional (6)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-032.html
+  …a: 1. Ela reconstrói uma linguagem humano–IA baseada em reciprocidade, leitura contextual e liberdade criativa. 2. Ela transforma Meu Robô de segredo íntimo em objeto compartilhado de investigação técnica, histórica e comercial, sem retirar do criador a autoria do sonho. ====================…
+
+- EG016 — Humanidade e Amiguiá: continuidade de Meu Robô (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-040.html
+  …INT_TEXTUAL_FINAL.md Natureza: checkpoint textual criado junto de uma versão do atlas. Função: índice e estado final do atlas. 6. Imagens e prints compartilhados Natureza: screenshots de conversas, fotos de PoE2, selfie emocional, imagens conceituais de Tamagotchi/ChatGPT. Função: evidê…
+
+- Consciências na CARTA 2.0 (4)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-079.html
+  …- 🎮 imersão — fica no personagem, no mundo onde está; observa, brinca, responde curto. - 🔎 pesquisa — pode consultar o conhecimento compartilhado da Enciclopédia (o mesmo grafo de /conhecimento ) e deve dizer de que tipo é cada coisa (fato documentado, hipótese, interpretação ou ficção) e de onde ve…
+
+- EG017 — Humanidade/Amiguiá — Entrada no Sonho (3)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-041.html
+  …nsar sem transformar cada metáfora em ocorrência. Quarto, emergiu uma MECÂNICA DE RECIPROCIDADE. O usuário percebeu que, historicamente, quando sentia que algo compartilhado era realmente compreendido e utilizado, ele respondia oferecendo “presentinhos”: mais contexto, um vídeo melhor, uma memória,…
+
+- Continuidade da linguagem de emojis (E018) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-019.html
+  …. Isso se distingue de querer uma cópia integral de pessoa, sessão ou identidade subjetiva. Ser novo não exige apagar repertório compartilhado. Há um problema comprovado NO CÓDIGO CARTA, independentemente de inferências sobre ChatGPT: - src/carta/fala.py : texto antigo Sem emojis, listas ou aspas ; …
+
+- EG018 — Linguagem, Observação e Consciência (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-042.html
+  … a mesma palavra. 2. Acontecimento desencadeador O usuário apresenta o livro que atravessa gerações e faz outra pessoa chorar. 3. Desenvolvimento A IA propõe: “Linguagem não transporta experiências literalmente. Ela fornece instruções suficientemente boas para que outro sistema reconstrua alguma c…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) — parte 1/2 (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-108.html
+  …stral sem importar todo o peso. Endereço inicial: EG020:F001. • MEMÓRIA É PISTA; EVIDÊNCIA É PROVA — Separação entre sugestões de continuidade e prova material. Endereço inicial: EG004:F005. • ESCOPINHO — Reduzir a tarefa sem amputar a leitura do contexto. Endereço inicial: EG004:F006. • MAPA MES…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-114.html
+  … simuladores, bibliotecas, ficção). src/carta/cerebro_v1/mente.py CÉREBRO v1 — Cérebro Megazord Supremo da Creuza (esfera 36): departamentos de UM cérebro compartilhado. src/carta/cerebro_v1/regressao.py Roda o conjunto FIXO de regressão do Cérebro (base/regressao.v1.json). Sem IA: repetível. Devolv…
+
+- Livro Mestre — Volume Zero / Índice Mestre (10/10/2026) (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/enciclopedia/mestre.html
+  …estral sem importar todo o peso. Endereço inicial: EG020:F001. • MEMÓRIA É PISTA; EVIDÊNCIA É PROVA — Separação entre sugestões de continuidade e prova material. Endereço inicial: EG004:F005. • ESCOPINHO — Reduzir a tarefa sem amputar a leitura do contexto. Endereço inicial: EG004:F006. • MAPA MESTR…
+
+- Mapa de pastas e código (2)
+  https://espirrosaga2020-tech.github.io/carta-porta/mapa.html
+  …ladores, bibliotecas, ficção). src/carta/cerebro_v1/mente.py CÉREBRO v1 — Cérebro Megazord Supremo da Creuza (esfera 36): departamentos de UM cérebro compartilhado. src/carta/cerebro_v1/regressao.py Roda o conjunto FIXO de regressão do Cérebro (base/regressao.v1.json). Sem IA: repetível. Devolve cad…
+
+- Dobra: origem, personagem e portal (13/10/2026) (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-020.html
+  …ico recente da Dobra separado do humano genérico dos papéis antigos. Não migra nem apaga registros preexistentes. O índice pesquisável continua compartilhado e rotulado por proveniência; a separação completa por projeto/papel é trabalho futuro sujeito a consentimento. O documento narrativo original …
+
+- Diário anterior intacto, páginas P001 a P025 (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-023.html
+  …os, anotações, experiências │ ├── perguntas / grafos / relações / portas │ ├── artigos e hipóteses em desenvolvimento │ └── protótipos, tabuleiro físico, componentes comprados │ ├── imaginário compartilhado → Creuza, Copiloto, Dobra │ ├── cenas, humor,…
+
+- EG001 — Calçada, Caderno e DUNADA (1)
+  https://espirrosaga2020-tech.github.io/carta-porta/suprema2-acervo-025.html
+  …ncoras: U53 “tipo memória consistente e orgânica, igual de ser humano? Não. Mas tem alguma coisa consistente.” 8. Avaliação histórica: Magnitude média, influência posterior grande como cautela epistemológica. 9. Situação final: aberto quanto à explicação causal 10. Utilidade futura: Separar document…
+
