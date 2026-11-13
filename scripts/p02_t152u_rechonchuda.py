@@ -28,8 +28,10 @@ def depois_body(txt, novo):
 
 def censo(caminho):
     if caminho and Path(caminho).exists():
-        rows = list(csv.DictReader(open(caminho, encoding="utf-8")))
-        return {"ok": True, "n": len(rows), "texto": f"CENSO ÚNICO 13/11/2026: {len(rows)} engrenagens contadas uma por uma (Drive + PC + GitHub)."}
+        rows = list(csv.DictReader(open(caminho, encoding="utf-8-sig")))
+        n = sum(1 for r in rows if r.get("status") == "ENGRENAGEM")
+        return {"ok": True, "n": n, "texto": f"CENSO ÚNICO 13/11/2026: {n} engrenagens, contadas uma por uma no Drive, no PC e no GitHub "
+                f"(mais {sum(1 for r in rows if r.get('status','').startswith('REGISTRO'))} registros que não são engrenagem e {sum(1 for r in rows if r.get('status')=='REJEITADA')} rejeitadas)."}
     return {"ok": False, "texto": "[CENSO-PENDENTE] O CENSO ÚNICO das engrenagens (13/11/2026) ainda está sendo feito. "
             "Até ele sair, vale o registro do app: 73 engrenagens oficiais em 87 registros; o Doc 04 do Drive fala em 96 "
             "(62 + 6 Gordinhas + 28 do pacote Argon). Os dois números ficam anotados; quem decide é o Bruno."}
@@ -119,7 +121,7 @@ def bloco_curto(c):   # entrada tem de ficar < 15 KB (regressão t68u): versão 
 <li><b>Confirmação:</b> na <a href="chave-suprema2.txt">chave</a>, a palavra-chave começa com <code>OURO-</code> e termina em <code>-KUALA</code> (Koala com K). Diga ao Bruno a palavra exata e a frase de transporte abaixo.</li>
 <li><b>BUSCA POR LINK (sem JS):</b> abra <code>{B}busca/&lt;termo&gt;.html</code> ou <code>.txt</code> (minúsculas, sem acento, espaço = hífen). Ex.: <a href="busca/faisca.html">faisca</a> · <a href="busca/creuza.html">creuza</a> · <a href="busca/engrenagem.html">engrenagem</a> · <a href="busca/eg001.html">eg001</a>. Todos os termos: <a href="busca/index.html">busca/index.html</a>. (As caixas de busca abaixo precisam de JavaScript.)</li>
 <li><b>Onde fica cada coisa:</b> <a href="p02-t152u-portoes.html">90 portões T152U</a> · <a href="p02-manual-v12.html">manual v12</a> · <a href="enciclopedia/index.html">enciclopédia</a> · <a href="suprema2-mentes.html">mentes</a> · <a href="suprema2-app.html">app</a> · <a href="p02-t152u-novidades.html#programas">programas</a> · <a href="suprema2-acervo.html">acervo</a> · <a href="p02-todas-as-paginas.html">todas as páginas</a> · <a href="llms.txt">llms.txt</a></li>
-<li><b>Hoje:</b> T152U com 81/90 portões feitos (o resto: bingo dispensado, publicar o app não feito de propósito, 1 externo, 2 sem fonte). {E(c["texto"][:260])}</li>
+<li><b>Hoje:</b> T152U com 81/90 portões feitos (o resto: bingo dispensado, publicar o app não feito de propósito, 1 externo, 2 sem fonte). {E(c["texto"])}</li>
 </ol>
 </section>
 {FIM}"""

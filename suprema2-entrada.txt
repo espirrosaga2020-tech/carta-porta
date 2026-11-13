@@ -12,6 +12,8 @@ PORTA 02 — ORIENTAÇÃO PARA IAs (13/11/2026) — leia primeiro. Tudo funciona
 
 
 
+
+
 PORTA SUPREMA 2 — ENTRADA PEQUENA (texto puro) · CARTA · t68u · 05/11/2026
 
 === P02-INICIO (bloco aditivo Porta 02 Intergaláctica, protótipo 10/11/2026) ===
